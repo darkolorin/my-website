@@ -57,7 +57,12 @@
     <script>
         function appendLinkifiedText(parent, text) {
             const s = String(text || "");
-            const urlRe = /(https?:\/\/[^\s<>"')\\]]+)/g;
+            // Linkify:
+            // - https://... / http://...
+            // - www....
+            // - common bare domains (t.me/..., github.com/..., x.com/..., twitter.com/...)
+            // while keeping punctuation/parentheses outside the link.
+            const urlRe = /\b((?:https?:\/\/|www\.)[^\s<>"']+|(?:t\.me|github\.com|x\.com|twitter\.com)\/[^\s<>"']+)/gi;
             let lastIndex = 0;
             let match;
 
@@ -66,15 +71,56 @@
                     parent.appendChild(document.createTextNode(s.slice(lastIndex, match.index)));
                 }
 
-                const url = match[0];
+                const raw = match[0];
+
+                // Split trailing punctuation/brackets so links work reliably.
+                let url = raw;
+                let suffix = "";
+
+                while (url.length && /[.,;:!?…]$/.test(url)) {
+                    suffix = url.slice(-1) + suffix;
+                    url = url.slice(0, -1);
+                }
+
+                // If we captured a trailing closer that isn't balanced, move it to suffix.
+                let openP = (url.match(/\(/g) || []).length;
+                let closeP = (url.match(/\)/g) || []).length;
+                while (url.endsWith(")") && closeP > openP) {
+                    suffix = ")" + suffix;
+                    url = url.slice(0, -1);
+                    closeP -= 1;
+                }
+
+                let openB = (url.match(/\[/g) || []).length;
+                let closeB = (url.match(/\]/g) || []).length;
+                while (url.endsWith("]") && closeB > openB) {
+                    suffix = "]" + suffix;
+                    url = url.slice(0, -1);
+                    closeB -= 1;
+                }
+
+                let openC = (url.match(/\{/g) || []).length;
+                let closeC = (url.match(/\}/g) || []).length;
+                while (url.endsWith("}") && closeC > openC) {
+                    suffix = "}" + suffix;
+                    url = url.slice(0, -1);
+                    closeC -= 1;
+                }
+
+                let href = url;
+                if (/^(?:www\.|t\.me\/|github\.com\/|x\.com\/|twitter\.com\/)/i.test(url)) {
+                    href = "https://" + url;
+                }
+
                 const a = document.createElement("a");
-                a.href = url;
+                a.href = href;
                 a.target = "_blank";
                 a.rel = "noopener noreferrer";
                 a.textContent = url;
                 parent.appendChild(a);
+                if (suffix) parent.appendChild(document.createTextNode(suffix));
 
-                lastIndex = match.index + url.length;
+                lastIndex = match.index + raw.length;
             }
 
             if (lastIndex < s.length) {
