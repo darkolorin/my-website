@@ -21,7 +21,7 @@ except Exception:
 
 
 CHANNEL_RE = re.compile(r"^[a-zA-Z0-9_]{5,}$")
-OPENAI_DEFAULT_MODEL = os.environ.get("OPENAI_MODEL") or "gpt-5"
+OPENAI_DEFAULT_MODEL = os.environ.get("OPENAI_MODEL") or "gpt-5.2"
 OPENAI_PROMPT_VERSION = "pro_editorial_translator_v1"
 
 OPENAI_SYSTEM_PROMPT = """You are a professional editorial translator.
@@ -342,10 +342,9 @@ def openai_responses_text(*, api_key: str, model: str, system: str, user: str, t
     }
     payload: Dict[str, Any] = {
         "model": model,
-        "input": [
-            {"role": "system", "content": [{"type": "input_text", "text": system}]},
-            {"role": "user", "content": [{"type": "input_text", "text": user}]},
-        ],
+        # Recommended shape for newest models: user input + separate instructions.
+        "instructions": system,
+        "input": user,
     }
     openai_timeout = max(180, timeout_s)
     # Retry a couple of times on read timeouts / transient network issues.
