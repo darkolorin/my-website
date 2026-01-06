@@ -4,6 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ChillHouse (English) - Essays</title>
+    <style>
+        body {
+            max-width: 860px;
+            margin: 24px auto;
+            padding: 0 16px;
+            line-height: 1.55;
+        }
+        img {
+            display: block;
+            margin: 12px 0;
+            max-width: 100%;
+            height: auto;
+        }
+        hr {
+            margin: 24px 0;
+        }
+        details {
+            margin-top: 12px;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -76,7 +96,7 @@
             const bullet = nonEmpty.filter(l => /^[-*•]\s+/.test(l));
 
             // If the whole block is a bullet list, render as <ul>
-            if (nonEmpty.length >= 2 && bullet.length === nonEmpty.length) {
+            if (nonEmpty.length >= 1 && bullet.length === nonEmpty.length) {
                 const ul = document.createElement("ul");
                 for (const line of nonEmpty) {
                     const li = document.createElement("li");
