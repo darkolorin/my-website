@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChillHouse (English) - Essays</title>
+</head>
+<body>
+    <header>
+        <h1>ChillHouse (English)</h1>
+        <p>Auto-translated posts from <a href="https://t.me/chillhousetech" target="_blank" rel="noopener noreferrer">my Telegram channel</a>.</p>
+        <hr>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="https://t.me/chillhousetech" target="_blank" rel="noopener noreferrer">Telegram (RU)</a>
+        <hr>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Latest</h2>
+            <p id="status">Loading…</p>
+            <div id="feed"></div>
+            <noscript>
+                <p>This page needs JavaScript to render the static feed.</p>
+            </noscript>
+            <hr>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 199X - 2025 Alexey Moiseenkov.</p>
+    </footer>
+
+    <script>
+        function renderTextWithBreaks(parent, text) {
+            const lines = String(text || "").split("\n");
+            for (let i = 0; i < lines.length; i++) {
+                parent.appendChild(document.createTextNode(lines[i]));
+                if (i !== lines.length - 1) parent.appendChild(document.createElement("br"));
+            }
+        }
+
+        function formatDate(isoUtc) {
+            if (!isoUtc) return "";
+            const d = new Date(isoUtc);
+            if (Number.isNaN(d.getTime())) return "";
+            return d.toISOString().slice(0, 10);
+        }
+
+        async function main() {
+            const statusEl = document.getElementById("status");
+            const feedEl = document.getElementById("feed");
+
+            try {
+                const res = await fetch("feed.json", { cache: "no-store" });
+                if (!res.ok) throw new Error("HTTP " + res.status);
+
+                const data = await res.json();
+                const posts = Array.isArray(data.posts) ? data.posts : [];
+
+                statusEl.textContent = posts.length ? "" : "No posts yet.";
+
+                for (const post of posts) {
+                    const article = document.createElement("article");
+
+                    const h3 = document.createElement("h3");
+                    const a = document.createElement("a");
+                    a.href = post.url || "#";
+                    a.target = "_blank";
+                    a.rel = "noopener noreferrer";
+                    a.textContent = formatDate(post.date_utc) || post.id || "Post";
+                    h3.appendChild(a);
+                    article.appendChild(h3);
+
+                    const paras = String(post.text_en || "")
+                        .split(/\n{2,}/)
+                        .map(s => s.trim())
+                        .filter(Boolean);
+
+                    for (const para of paras) {
+                        const p = document.createElement("p");
+                        renderTextWithBreaks(p, para);
+                        article.appendChild(p);
+                    }
+
+                    if (post.text_ru) {
+                        const details = document.createElement("details");
+                        const summary = document.createElement("summary");
+                        summary.textContent = "Original (RU)";
+                        details.appendChild(summary);
+
+                        const pRu = document.createElement("p");
+                        renderTextWithBreaks(pRu, post.text_ru);
+                        details.appendChild(pRu);
+
+                        article.appendChild(details);
+                    }
+
+                    feedEl.appendChild(article);
+                    feedEl.appendChild(document.createElement("hr"));
+                }
+            } catch (err) {
+                statusEl.textContent = "Failed to load feed.json. Generate it locally or wait for the GitHub Action.";
+            }
+        }
+
+        main();
+    </script>
+</body>
+</html>
+
+
