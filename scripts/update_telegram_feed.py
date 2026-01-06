@@ -5,6 +5,7 @@ import json
 import os
 import re
 import sys
+import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional, Tuple
@@ -325,7 +326,8 @@ def openai_chat_completion(
     }
     if response_format:
         payload["response_format"] = response_format
-    r = requests.post(url, headers=headers, json=payload, timeout=max(10, timeout_s))
+    openai_timeout = max(180, timeout_s)
+    r = requests.post(url, headers=headers, json=payload, timeout=openai_timeout)
     if not r.ok:
         raise RuntimeError(f"OpenAI chat.completions error {r.status_code}: {r.text}")
     data = r.json()
@@ -345,7 +347,23 @@ def openai_responses_text(*, api_key: str, model: str, system: str, user: str, t
             {"role": "user", "content": [{"type": "input_text", "text": user}]},
         ],
     }
-    r = requests.post(url, headers=headers, json=payload, timeout=max(10, timeout_s))
+    openai_timeout = max(180, timeout_s)
+    # Retry a couple of times on read timeouts / transient network issues.
+    last_err: Optional[Exception] = None
+    for attempt in range(3):
+        try:
+            r = requests.post(url, headers=headers, json=payload, timeout=openai_timeout)
+            break
+        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError) as e:
+            last_err = e
+            if attempt == 2:
+                raise
+            time.sleep(2**attempt)
+    else:
+        if last_err:
+            raise last_err
+        raise RuntimeError("OpenAI request failed (unknown error).")
+
     if not r.ok:
         raise RuntimeError(f"OpenAI responses error {r.status_code}: {r.text}")
     data = r.json()
