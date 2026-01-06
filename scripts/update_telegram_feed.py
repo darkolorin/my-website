@@ -20,6 +20,7 @@ except Exception:
 
 
 CHANNEL_RE = re.compile(r"^[a-zA-Z0-9_]{5,}$")
+OPENAI_DEFAULT_MODEL = os.environ.get("OPENAI_MODEL") or "gpt-4o-mini"
 
 
 @dataclass(frozen=True)
@@ -29,6 +30,7 @@ class TgPost:
     url: str
     date_utc: Optional[str]
     text_ru: str
+    images: List[str]
 
     @property
     def key(self) -> str:
@@ -40,6 +42,11 @@ class TgPost:
         h.update(self.text_ru.encode("utf-8"))
         h.update(b"\n")
         h.update((self.date_utc or "").encode("utf-8"))
+        if self.images:
+            h.update(b"\n")
+            for u in self.images:
+                h.update(str(u).encode("utf-8"))
+                h.update(b"\n")
         return h.hexdigest()
 
 
@@ -61,10 +68,11 @@ def parse_args(argv: List[str]) -> argparse.Namespace:
     p.add_argument("--user-agent", default="Mozilla/5.0 (compatible; feed-bot/1.0)", help="HTTP User-Agent header.")
     p.add_argument(
         "--translator",
-        choices=["argos", "none"],
-        default="argos",
-        help="Translation backend. 'argos' is free/offline. 'none' disables translation.",
+        choices=["auto", "openai", "argos", "none"],
+        default="auto",
+        help="Translation backend. 'auto' uses OpenAI if OPENAI_API_KEY is set, else Argos. 'argos' is free/offline. 'none' disables translation.",
     )
+    p.add_argument("--openai-model", default=OPENAI_DEFAULT_MODEL, help="OpenAI model (default: env OPENAI_MODEL or gpt-4o-mini).")
     return p.parse_args(argv)
 
 
@@ -112,6 +120,50 @@ def extract_text_ru(el) -> str:
     return (txt or "").strip()
 
 
+def _extract_bg_image_url(style: str) -> Optional[str]:
+    # style like: background-image:url('https://...'); or url("...") or url(...)
+    m = re.search(r"background-image\s*:\s*url\(([^)]+)\)", style or "")
+    if not m:
+        return None
+    raw = m.group(1).strip().strip("'").strip('"').strip()
+    if raw.startswith("http://") or raw.startswith("https://"):
+        return raw
+    return None
+
+
+def extract_image_urls(el) -> List[str]:
+    urls: List[str] = []
+
+    # Photos & video previews are often background-image on <a>
+    for a in el.select("a.tgme_widget_message_photo_wrap, a.tgme_widget_message_video_player"):
+        style = a.get("style") if hasattr(a, "get") else None
+        if isinstance(style, str):
+            u = _extract_bg_image_url(style)
+            if u:
+                urls.append(u)
+
+    # Fallback: any <img src="..."> inside the message
+    for img in el.select("img"):
+        # Avoid grabbing the channel avatar (repeated on every post)
+        if img.find_parent(class_="tgme_widget_message_user") is not None:
+            continue
+        if img.find_parent(class_="tgme_widget_message_user_photo") is not None:
+            continue
+        src = img.get("src") if hasattr(img, "get") else None
+        if isinstance(src, str) and (src.startswith("http://") or src.startswith("https://")):
+            urls.append(src)
+
+    # Dedupe while preserving order
+    out: List[str] = []
+    seen: set[str] = set()
+    for u in urls:
+        if u in seen:
+            continue
+        seen.add(u)
+        out.append(u)
+    return out
+
+
 def parse_preview_html(channel: str, html: str) -> List[TgPost]:
     soup = BeautifulSoup(html, "html.parser")
     posts: List[TgPost] = []
@@ -121,8 +173,9 @@ def parse_preview_html(channel: str, html: str) -> List[TgPost]:
             continue
         msg_id, url = id_and_url
         text_ru = extract_text_ru(msg)
+        images = extract_image_urls(msg)
         # Skip totally empty posts (e.g., sticker-only) to keep the feed readable
-        if not text_ru:
+        if not text_ru and not images:
             continue
         posts.append(
             TgPost(
@@ -131,6 +184,7 @@ def parse_preview_html(channel: str, html: str) -> List[TgPost]:
                 url=url,
                 date_utc=extract_date_utc(msg),
                 text_ru=text_ru,
+                images=images,
             )
         )
     return posts
@@ -213,12 +267,76 @@ def translate_ru_to_en_argos(text_ru: str) -> str:
     return "\n\n".join(out_parts).strip()
 
 
+def openai_chat_completion(*, api_key: str, model: str, messages: List[Dict[str, str]], timeout_s: int) -> str:
+    url = "https://api.openai.com/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    payload: Dict[str, Any] = {
+        "model": model,
+        "messages": messages,
+        "temperature": 0.2,
+    }
+    r = requests.post(url, headers=headers, json=payload, timeout=max(10, timeout_s))
+    r.raise_for_status()
+    data = r.json()
+    return str(data["choices"][0]["message"]["content"])
+
+
+def translate_and_format_ru_to_en_openai(*, text_ru: str, model: str, timeout_s: int) -> Tuple[str, str]:
+    """
+    Returns (title_en, text_en). Output is plain text with good paragraphing and '- ' bullet lines.
+    """
+    if not text_ru.strip():
+        return "", ""
+
+    api_key = os.environ.get("OPENAI_API_KEY", "").strip()
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY is not set.")
+
+    system = (
+        "You are a bilingual editor. Translate from Russian to English.\n"
+        "Rules:\n"
+        "- Preserve meaning, do NOT add new facts.\n"
+        "- Improve readability and structure: clear paragraphs, keep/normalize bullet lists.\n"
+        "- Keep URLs exactly as-is.\n"
+        "- Output MUST be valid JSON with keys: title_en, text_en.\n"
+        "- text_en should be plain text, using \\n\\n between paragraphs, and '- ' for bullet list items.\n"
+        "- No markdown fences, no extra keys."
+    )
+    user = f"Russian text:\n\n{text_ru}\n"
+    content = openai_chat_completion(
+        api_key=api_key,
+        model=model,
+        timeout_s=timeout_s,
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+    )
+
+    # Parse JSON as best as we can
+    try:
+        start = content.find("{")
+        end = content.rfind("}")
+        obj = json.loads(content[start : end + 1] if start != -1 and end != -1 else content)
+        title_en = str(obj.get("title_en") or "").strip()
+        text_en = str(obj.get("text_en") or "").strip()
+        return title_en, text_en
+    except Exception:
+        # Fallback: treat entire output as translation text.
+        return "", content.strip()
+
+
 def build_feed(
     *,
     channel: str,
     posts: List[TgPost],
     existing_feed: Dict[str, Any],
     translator: str,
+    openai_model: str,
+    timeout_s: int,
 ) -> Dict[str, Any]:
     existing_posts = existing_feed.get("posts") if isinstance(existing_feed.get("posts"), list) else []
     existing_by_id: Dict[str, Dict[str, Any]] = {}
@@ -231,25 +349,47 @@ def build_feed(
         elif isinstance(pid, str):
             existing_by_id[pid] = p
 
+    translator_effective = translator
+    if translator == "auto":
+        translator_effective = "openai" if os.environ.get("OPENAI_API_KEY", "").strip() else "argos"
+
     out_posts: List[Dict[str, Any]] = []
     for p in posts:
         existing = existing_by_id.get(str(p.message_id), {})
         existing_hash = existing.get("hash") if isinstance(existing, dict) else None
         existing_text_en = existing.get("text_en") if isinstance(existing, dict) else None
+        existing_title_en = existing.get("title_en") if isinstance(existing, dict) else None
         reuse_translation = (
             isinstance(existing_hash, str)
             and existing_hash == p.content_hash
             and isinstance(existing_text_en, str)
             and existing_text_en.strip() != ""
         )
+        reuse_title = (
+            isinstance(existing_hash, str)
+            and existing_hash == p.content_hash
+            and isinstance(existing_title_en, str)
+            and existing_title_en.strip() != ""
+        )
 
         text_en = ""
-        if translator == "none":
+        title_en = ""
+        if translator_effective == "none":
             text_en = ""
+            title_en = ""
         elif reuse_translation:
             text_en = existing_text_en
+            if reuse_title:
+                title_en = existing_title_en
         else:
-            text_en = translate_ru_to_en_argos(p.text_ru)
+            if translator_effective == "openai":
+                title_en, text_en = translate_and_format_ru_to_en_openai(
+                    text_ru=p.text_ru,
+                    model=openai_model,
+                    timeout_s=timeout_s,
+                )
+            else:
+                text_en = translate_ru_to_en_argos(p.text_ru)
 
         out_posts.append(
             {
@@ -258,6 +398,8 @@ def build_feed(
                 "date_utc": p.date_utc,
                 "hash": p.content_hash,
                 "text_ru": p.text_ru,
+                "images": p.images,
+                "title_en": title_en,
                 "text_en": text_en,
             }
         )
@@ -287,7 +429,15 @@ def main(argv: List[str]) -> int:
         print(f"Invalid channel: {channel!r}", file=sys.stderr)
         return 2
 
-    if args.translator == "argos" and "argostranslate" not in sys.modules:
+    translator_effective = args.translator
+    if args.translator == "auto":
+        translator_effective = "openai" if os.environ.get("OPENAI_API_KEY", "").strip() else "argos"
+
+    if translator_effective == "openai" and not os.environ.get("OPENAI_API_KEY", "").strip():
+        print("OPENAI_API_KEY is not set (required for --translator openai).", file=sys.stderr)
+        return 2
+
+    if translator_effective == "argos" and "argostranslate" not in sys.modules:
         print("Argos Translate is not available. Did you install scripts/requirements.txt?", file=sys.stderr)
         return 2
 
@@ -301,7 +451,14 @@ def main(argv: List[str]) -> int:
         user_agent=args.user_agent,
     )
 
-    feed = build_feed(channel=channel, posts=posts, existing_feed=existing, translator=args.translator)
+    feed = build_feed(
+        channel=channel,
+        posts=posts,
+        existing_feed=existing,
+        translator=str(args.translator),
+        openai_model=str(args.openai_model),
+        timeout_s=max(5, args.timeout),
+    )
     write_json(args.out, feed)
     print(f"Wrote {len(posts)} posts to {args.out}")
     return 0

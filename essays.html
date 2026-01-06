@@ -35,12 +35,61 @@
     </footer>
 
     <script>
+        function appendLinkifiedText(parent, text) {
+            const s = String(text || "");
+            const urlRe = /(https?:\/\/[^\s<>"')\\]]+)/g;
+            let lastIndex = 0;
+            let match;
+
+            while ((match = urlRe.exec(s)) !== null) {
+                if (match.index > lastIndex) {
+                    parent.appendChild(document.createTextNode(s.slice(lastIndex, match.index)));
+                }
+
+                const url = match[0];
+                const a = document.createElement("a");
+                a.href = url;
+                a.target = "_blank";
+                a.rel = "noopener noreferrer";
+                a.textContent = url;
+                parent.appendChild(a);
+
+                lastIndex = match.index + url.length;
+            }
+
+            if (lastIndex < s.length) {
+                parent.appendChild(document.createTextNode(s.slice(lastIndex)));
+            }
+        }
+
         function renderTextWithBreaks(parent, text) {
             const lines = String(text || "").split("\n");
             for (let i = 0; i < lines.length; i++) {
-                parent.appendChild(document.createTextNode(lines[i]));
+                appendLinkifiedText(parent, lines[i]);
                 if (i !== lines.length - 1) parent.appendChild(document.createElement("br"));
             }
+        }
+
+        function renderBlock(parent, blockText) {
+            const rawLines = String(blockText || "").split("\n");
+            const nonEmpty = rawLines.map(l => l.trim()).filter(Boolean);
+            const bullet = nonEmpty.filter(l => /^[-*•]\s+/.test(l));
+
+            // If the whole block is a bullet list, render as <ul>
+            if (nonEmpty.length >= 2 && bullet.length === nonEmpty.length) {
+                const ul = document.createElement("ul");
+                for (const line of nonEmpty) {
+                    const li = document.createElement("li");
+                    renderTextWithBreaks(li, line.replace(/^[-*•]\s+/, ""));
+                    ul.appendChild(li);
+                }
+                parent.appendChild(ul);
+                return;
+            }
+
+            const p = document.createElement("p");
+            renderTextWithBreaks(p, String(blockText || ""));
+            parent.appendChild(p);
         }
 
         function formatDate(isoUtc) {
@@ -71,9 +120,32 @@
                     a.href = post.url || "#";
                     a.target = "_blank";
                     a.rel = "noopener noreferrer";
-                    a.textContent = formatDate(post.date_utc) || post.id || "Post";
+                    const dateStr = formatDate(post.date_utc);
+                    const title = (typeof post.title_en === "string" && post.title_en.trim()) ? post.title_en.trim() : "";
+                    a.textContent = title || dateStr || post.id || "Post";
                     h3.appendChild(a);
                     article.appendChild(h3);
+
+                    if (dateStr && title) {
+                        const meta = document.createElement("p");
+                        const small = document.createElement("small");
+                        small.textContent = dateStr;
+                        meta.appendChild(small);
+                        article.appendChild(meta);
+                    }
+
+                    const images = Array.isArray(post.images) ? post.images : [];
+                    for (const imgUrl of images) {
+                        if (typeof imgUrl !== "string" || !(imgUrl.startsWith("http://") || imgUrl.startsWith("https://"))) continue;
+                        const img = document.createElement("img");
+                        img.src = imgUrl;
+                        img.alt = "";
+                        img.loading = "lazy";
+                        img.style.maxWidth = "100%";
+                        img.style.height = "auto";
+                        article.appendChild(img);
+                        article.appendChild(document.createElement("br"));
+                    }
 
                     const paras = String(post.text_en || "")
                         .split(/\n{2,}/)
@@ -81,9 +153,7 @@
                         .filter(Boolean);
 
                     for (const para of paras) {
-                        const p = document.createElement("p");
-                        renderTextWithBreaks(p, para);
-                        article.appendChild(p);
+                        renderBlock(article, para);
                     }
 
                     if (post.text_ru) {

@@ -27,7 +27,11 @@ jobs:
         run: python -m pip install -r scripts/requirements.txt
 
       - name: Generate feed.json
-        run: python scripts/update_telegram_feed.py --channel chillhousetech --limit 25 --out feed.json
+        env:
+          # Optional: add OPENAI_API_KEY (and optionally OPENAI_MODEL) as repo secrets
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+        run: python scripts/update_telegram_feed.py --channel chillhousetech --limit 25 --out feed.json --translator auto
 
       - name: Commit and push (if changed)
         run: |
