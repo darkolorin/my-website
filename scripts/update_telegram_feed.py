@@ -36,7 +36,7 @@ Your task is to translate posts from Russian to English while STRICTLY preservin
 This is NOT a localization task.
 This is NOT a rewrite or polishing task."""
 
-OPENAI_USER_PROMPT_TEMPLATE = """Translate the following post from Russian to English.
+OPENAI_USER_PROMPT_TEMPLATE = '''Translate the following post from Russian to English.
 Preserve the author’s style, tone, and jargon exactly as described.
 
 Post:
@@ -58,7 +58,7 @@ If sentences are fragmented or abrupt — preserve it.
 
 Translate meaning-for-meaning, not word-for-word, but always favor STYLE over linguistic correctness.
 
-Output ONLY the translated text."""
+Output ONLY the translated text.'''
 
 
 @dataclass(frozen=True)
