@@ -20,7 +20,7 @@ except Exception:
 
 
 CHANNEL_RE = re.compile(r"^[a-zA-Z0-9_]{5,}$")
-OPENAI_DEFAULT_MODEL = os.environ.get("OPENAI_MODEL") or "gpt-4o-mini"
+OPENAI_DEFAULT_MODEL = os.environ.get("OPENAI_MODEL") or "gpt-4o"
 
 
 @dataclass(frozen=True)
@@ -267,7 +267,14 @@ def translate_ru_to_en_argos(text_ru: str) -> str:
     return "\n\n".join(out_parts).strip()
 
 
-def openai_chat_completion(*, api_key: str, model: str, messages: List[Dict[str, str]], timeout_s: int) -> str:
+def openai_chat_completion(
+    *,
+    api_key: str,
+    model: str,
+    messages: List[Dict[str, str]],
+    timeout_s: int,
+    response_format: Optional[Dict[str, str]] = None,
+) -> str:
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -276,8 +283,10 @@ def openai_chat_completion(*, api_key: str, model: str, messages: List[Dict[str,
     payload: Dict[str, Any] = {
         "model": model,
         "messages": messages,
-        "temperature": 0.2,
+        "temperature": 0.1,
     }
+    if response_format:
+        payload["response_format"] = response_format
     r = requests.post(url, headers=headers, json=payload, timeout=max(10, timeout_s))
     r.raise_for_status()
     data = r.json()
@@ -296,20 +305,37 @@ def translate_and_format_ru_to_en_openai(*, text_ru: str, model: str, timeout_s:
         raise RuntimeError("OPENAI_API_KEY is not set.")
 
     system = (
-        "You are a bilingual editor. Translate from Russian to English.\n"
-        "Rules:\n"
-        "- Preserve meaning, do NOT add new facts.\n"
-        "- Improve readability and structure: clear paragraphs, keep/normalize bullet lists.\n"
-        "- Keep URLs exactly as-is.\n"
-        "- Output MUST be valid JSON with keys: title_en, text_en.\n"
-        "- text_en should be plain text, using \\n\\n between paragraphs, and '- ' for bullet list items.\n"
-        "- No markdown fences, no extra keys."
+        "You are an expert RU→EN translator and editor for a tech founder's personal channel.\n"
+        "Goal: translate into natural English while preserving the author's voice and jargon.\n"
+        "\n"
+        "Voice / style rules:\n"
+        "- Keep it direct, conversational, slightly informal.\n"
+        "- Preserve the author's structure (short paragraphs, occasional parentheticals).\n"
+        "- Do NOT make it corporate or academic.\n"
+        "\n"
+        "Jargon rules:\n"
+        "- Prefer standard English tech terms (frontend, production, inference, run-rate, seed/Series A, etc.).\n"
+        "- If the Russian text uses English words in Cyrillic, convert them back to correct English.\n"
+        "- Keep product names, repo names, commands, file paths, and acronyms exactly.\n"
+        "- If a slang term has no clean equivalent, use a natural translation and optionally keep the original term in parentheses once.\n"
+        "\n"
+        "Formatting rules:\n"
+        "- Improve readability: clear paragraphs separated by \\n\\n.\n"
+        "- Keep lists as bullet lines starting with '- ' (one idea per bullet).\n"
+        "- Keep URLs exactly as-is (do not wrap or rename).\n"
+        "\n"
+        "Output rules (STRICT):\n"
+        "- Output MUST be a single JSON object with keys: title_en, text_en.\n"
+        "- title_en: a short specific title (3–10 words), NOT generic.\n"
+        "- text_en: plain text only (no markdown fences), using \\n\\n between paragraphs.\n"
+        "- No extra keys."
     )
     user = f"Russian text:\n\n{text_ru}\n"
     content = openai_chat_completion(
         api_key=api_key,
         model=model,
         timeout_s=timeout_s,
+        response_format={"type": "json_object"},
         messages=[
             {"role": "system", "content": system},
             {"role": "user", "content": user},
@@ -318,9 +344,7 @@ def translate_and_format_ru_to_en_openai(*, text_ru: str, model: str, timeout_s:
 
     # Parse JSON as best as we can
     try:
-        start = content.find("{")
-        end = content.rfind("}")
-        obj = json.loads(content[start : end + 1] if start != -1 and end != -1 else content)
+        obj = json.loads(content)
         title_en = str(obj.get("title_en") or "").strip()
         text_en = str(obj.get("text_en") or "").strip()
         return title_en, text_en
