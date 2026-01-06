@@ -326,9 +326,66 @@ def openai_chat_completion(
     if response_format:
         payload["response_format"] = response_format
     r = requests.post(url, headers=headers, json=payload, timeout=max(10, timeout_s))
-    r.raise_for_status()
+    if not r.ok:
+        raise RuntimeError(f"OpenAI chat.completions error {r.status_code}: {r.text}")
     data = r.json()
     return str(data["choices"][0]["message"]["content"])
+
+
+def openai_responses_text(*, api_key: str, model: str, system: str, user: str, timeout_s: int) -> str:
+    url = "https://api.openai.com/v1/responses"
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    payload: Dict[str, Any] = {
+        "model": model,
+        "input": [
+            {"role": "system", "content": [{"type": "input_text", "text": system}]},
+            {"role": "user", "content": [{"type": "input_text", "text": user}]},
+        ],
+        "temperature": 0.1,
+    }
+    r = requests.post(url, headers=headers, json=payload, timeout=max(10, timeout_s))
+    if not r.ok:
+        raise RuntimeError(f"OpenAI responses error {r.status_code}: {r.text}")
+    data = r.json()
+
+    # Some responses include a convenience field.
+    out_text = data.get("output_text")
+    if isinstance(out_text, str) and out_text.strip():
+        return out_text.strip()
+
+    # Otherwise, stitch together all output_text parts.
+    parts: List[str] = []
+    for item in data.get("output", []) or []:
+        if not isinstance(item, dict):
+            continue
+        for c in item.get("content", []) or []:
+            if not isinstance(c, dict):
+                continue
+            if c.get("type") in ("output_text", "text"):
+                t = c.get("text")
+                if isinstance(t, str) and t.strip():
+                    parts.append(t)
+    return "\n".join(parts).strip()
+
+
+def openai_text(*, api_key: str, model: str, system: str, user: str, timeout_s: int) -> str:
+    """
+    Uses Responses API for gpt-5* models (and falls back to chat.completions for older models).
+    """
+    if model.startswith("gpt-5"):
+        return openai_responses_text(api_key=api_key, model=model, system=system, user=user, timeout_s=timeout_s)
+    return openai_chat_completion(
+        api_key=api_key,
+        model=model,
+        timeout_s=timeout_s,
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+    )
 
 
 def translate_and_format_ru_to_en_openai(*, text_ru: str, model: str, timeout_s: int) -> Tuple[str, str]:
@@ -342,15 +399,7 @@ def translate_and_format_ru_to_en_openai(*, text_ru: str, model: str, timeout_s:
 
     system = OPENAI_SYSTEM_PROMPT
     user = OPENAI_USER_PROMPT_TEMPLATE.replace("{POST_TEXT}", text_ru)
-    content = openai_chat_completion(
-        api_key=api_key,
-        model=model,
-        timeout_s=timeout_s,
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user", "content": user},
-        ],
-    )
+    content = openai_text(api_key=api_key, model=model, system=system, user=user, timeout_s=timeout_s)
 
     # Output is expected to be ONLY the translated text.
     return "", content.strip()
