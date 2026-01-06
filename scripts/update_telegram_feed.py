@@ -344,7 +344,6 @@ def openai_responses_text(*, api_key: str, model: str, system: str, user: str, t
             {"role": "system", "content": [{"type": "input_text", "text": system}]},
             {"role": "user", "content": [{"type": "input_text", "text": user}]},
         ],
-        "temperature": 0.1,
     }
     r = requests.post(url, headers=headers, json=payload, timeout=max(10, timeout_s))
     if not r.ok:
