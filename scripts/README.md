@@ -42,7 +42,7 @@ Run locally:
 
 ```bash
 export OPENAI_API_KEY="..."
-export OPENAI_MODEL="gpt-4o"   # optional (default)
+export OPENAI_MODEL="gpt-5"   # optional (default)
 python3 scripts/update_telegram_feed.py --translator openai
 ```
 

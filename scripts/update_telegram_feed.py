@@ -20,7 +20,45 @@ except Exception:
 
 
 CHANNEL_RE = re.compile(r"^[a-zA-Z0-9_]{5,}$")
-OPENAI_DEFAULT_MODEL = os.environ.get("OPENAI_MODEL") or "gpt-4o"
+OPENAI_DEFAULT_MODEL = os.environ.get("OPENAI_MODEL") or "gpt-5"
+OPENAI_PROMPT_VERSION = "pro_editorial_translator_v1"
+
+OPENAI_SYSTEM_PROMPT = """You are a professional editorial translator.
+
+Your task is to translate posts from Russian to English while STRICTLY preserving:
+- the author’s original tone of voice
+- informal or semi-informal style
+- slang, jargon, irony, sarcasm, and cynicism
+- short or abrupt sentence structure
+- rhetorical questions
+- intentional roughness or blunt phrasing
+
+This is NOT a localization task.
+This is NOT a rewrite or polishing task."""
+
+OPENAI_USER_PROMPT_TEMPLATE = """Translate the following post from Russian to English.
+Preserve the author’s style, tone, and jargon exactly as described.
+
+Post:
+"""
+{POST_TEXT}
+"""
+
+Rules:
+- Do NOT explain anything.
+- Do NOT add context.
+- Do NOT simplify ideas.
+- Do NOT make the text more polite, neutral, or corporate.
+- Do NOT remove ambiguity or emotional sharpness.
+- Do NOT normalize profanity or edgy phrasing unless it is impossible to translate directly.
+
+If the author sounds opinionated, skeptical, ironic, tired, sarcastic, or provocative — preserve it.
+If the text jumps between technical language and casual speech — preserve it.
+If sentences are fragmented or abrupt — preserve it.
+
+Translate meaning-for-meaning, not word-for-word, but always favor STYLE over linguistic correctness.
+
+Output ONLY the translated text."""
 
 
 @dataclass(frozen=True)
@@ -294,9 +332,7 @@ def openai_chat_completion(
 
 
 def translate_and_format_ru_to_en_openai(*, text_ru: str, model: str, timeout_s: int) -> Tuple[str, str]:
-    """
-    Returns (title_en, text_en). Output is plain text with good paragraphing and '- ' bullet lines.
-    """
+    """Returns (title_en, text_en). title_en is intentionally left blank for this prompt."""
     if not text_ru.strip():
         return "", ""
 
@@ -304,53 +340,20 @@ def translate_and_format_ru_to_en_openai(*, text_ru: str, model: str, timeout_s:
     if not api_key:
         raise RuntimeError("OPENAI_API_KEY is not set.")
 
-    system = (
-        "You are an expert RU→EN translator and editor for a tech founder's personal channel.\n"
-        "Goal: translate into natural English while preserving the author's voice and jargon.\n"
-        "\n"
-        "Voice / style rules:\n"
-        "- Keep it direct, conversational, slightly informal.\n"
-        "- Preserve the author's structure (short paragraphs, occasional parentheticals).\n"
-        "- Do NOT make it corporate or academic.\n"
-        "\n"
-        "Jargon rules:\n"
-        "- Prefer standard English tech terms (frontend, production, inference, run-rate, seed/Series A, etc.).\n"
-        "- If the Russian text uses English words in Cyrillic, convert them back to correct English.\n"
-        "- Keep product names, repo names, commands, file paths, and acronyms exactly.\n"
-        "- If a slang term has no clean equivalent, use a natural translation and optionally keep the original term in parentheses once.\n"
-        "\n"
-        "Formatting rules:\n"
-        "- Improve readability: clear paragraphs separated by \\n\\n.\n"
-        "- Keep lists as bullet lines starting with '- ' (one idea per bullet).\n"
-        "- Keep URLs exactly as-is (do not wrap or rename).\n"
-        "\n"
-        "Output rules (STRICT):\n"
-        "- Output MUST be a single JSON object with keys: title_en, text_en.\n"
-        "- title_en: a short specific title (3–10 words), NOT generic.\n"
-        "- text_en: plain text only (no markdown fences), using \\n\\n between paragraphs.\n"
-        "- No extra keys."
-    )
-    user = f"Russian text:\n\n{text_ru}\n"
+    system = OPENAI_SYSTEM_PROMPT
+    user = OPENAI_USER_PROMPT_TEMPLATE.replace("{POST_TEXT}", text_ru)
     content = openai_chat_completion(
         api_key=api_key,
         model=model,
         timeout_s=timeout_s,
-        response_format={"type": "json_object"},
         messages=[
             {"role": "system", "content": system},
             {"role": "user", "content": user},
         ],
     )
 
-    # Parse JSON as best as we can
-    try:
-        obj = json.loads(content)
-        title_en = str(obj.get("title_en") or "").strip()
-        text_en = str(obj.get("text_en") or "").strip()
-        return title_en, text_en
-    except Exception:
-        # Fallback: treat entire output as translation text.
-        return "", content.strip()
+    # Output is expected to be ONLY the translated text.
+    return "", content.strip()
 
 
 def build_feed(
@@ -377,17 +380,24 @@ def build_feed(
     if translator == "auto":
         translator_effective = "openai" if os.environ.get("OPENAI_API_KEY", "").strip() else "argos"
 
+    translation_key = translator_effective
+    if translator_effective == "openai":
+        translation_key = f"openai:{openai_model}:{OPENAI_PROMPT_VERSION}"
+
     out_posts: List[Dict[str, Any]] = []
     for p in posts:
         existing = existing_by_id.get(str(p.message_id), {})
         existing_hash = existing.get("hash") if isinstance(existing, dict) else None
         existing_text_en = existing.get("text_en") if isinstance(existing, dict) else None
         existing_title_en = existing.get("title_en") if isinstance(existing, dict) else None
+        existing_translation_key = existing.get("translation_key") if isinstance(existing, dict) else None
         reuse_translation = (
             isinstance(existing_hash, str)
             and existing_hash == p.content_hash
             and isinstance(existing_text_en, str)
             and existing_text_en.strip() != ""
+            and isinstance(existing_translation_key, str)
+            and existing_translation_key == translation_key
         )
         reuse_title = (
             isinstance(existing_hash, str)
@@ -421,6 +431,7 @@ def build_feed(
                 "url": p.url,
                 "date_utc": p.date_utc,
                 "hash": p.content_hash,
+                "translation_key": translation_key,
                 "text_ru": p.text_ru,
                 "images": p.images,
                 "title_en": title_en,
