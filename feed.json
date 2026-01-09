@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-01-08T18:49:20Z",
+  "generated_at_utc": "2026-01-09T02:30:07Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1202,
+      "url": "https://t.me/chillhousetech/1202",
+      "date_utc": "2026-01-08T20:22:11+00:00",
+      "hash": "a757df580f5bf4b20d4d18aa4303b52ec7ed1f0872a79045c11c8072c5c35b9e",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Есть у меня один такой красный флаг, как любят говорить, когда смотрю на какой-то стартап. Ну или средней руки компанию размером человек 50. Но лучше стартап на человек 15-20. \nЭто процессы. Ноушены, таблицы, трекеры, OKR, забитые календари, миллионы метрик и отчетов. И это все, когда нет PMF, все убыточно, люди то уходят то приходят, пивоты каждые пол года. \nКороче когда процессы и отчеты затмевают результаты это гг. Бегите. \nЗаметить это проще простого, спросите на собесе «а че там используете для задач?», если ответ дольше 2-3 минут - это компания где важнее процесс, а не результат.",
+      "images": [],
+      "title_en": "",
+      "text_en": "I’ve got one of those red flags, as people like to say, when I look at some startup. Or a mid-sized company of like 50 people. But better a startup of 15–20.\n\nIt’s processes. Notions, spreadsheets, trackers, OKRs, stuffed calendars, millions of metrics and reports. And all of that when there’s no PMF, everything’s unprofitable, people keep leaving and coming back, pivots every six months.\n\nBasically when processes and reports overshadow results — that’s gg. Run.\n\nSpotting it is dead simple: ask in the interview, “so what do you use for tasks?”, if the answer takes longer than 2–3 minutes — that’s a company where process matters more than result."
+    },
     {
       "id": 1200,
       "url": "https://t.me/chillhousetech/1200",
@@ -267,25 +278,14 @@
       "id": 1175,
       "url": "https://t.me/chillhousetech/1175",
       "date_utc": "2025-11-20T19:29:20+00:00",
-      "hash": "036f755cab897a594bdf7ec066d220c40fd8e233e91d21a913154d38d3111fbc",
+      "hash": "3d264957e48808ddcfcd455b4f785e0909b191eb8c40db31588bd53173f311cc",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну эт A\nG\nI 2027. Как и ожидалось собственно. Я думаю еще через год отодвинут «around 2035». А там уже посмотрим. Примерно как с self driving.\nНапомню речь об \nэтом",
       "images": [
-        "https://cdn4.telesco.pe/file/hfi2cnwh1FUKNSycrrk1hYsAj0PbcgzXnaDf_EycjhuVPwIDYX2JTxVaOhoOiA2vHmd9SS-zlyKmLRe5jObCG3JBiPfwVYpQwbmtaBQxccOr7aCXJq4SEtyekU5JLes1Fam3jkaDdu1FgwldTIF3fNZW85XTO1BVA6UoHdXxQzeIIHtSIJp_dJcvtQ8nAYSftS-_Gwy5IRmrPmvcUtddCLh4czzOdC-99HAJbp3NggFOcJu-gXagDBbvT0AbcwKz7ain-6LUdOTEhWZgjqba0VaAYgEBSWJEvTKWEiHvlbtjx6r7BdvbbXxtFAwyLQowgVMBvmXNORJ4WI0PQqVyQQ.jpg"
+        "https://cdn4.telesco.pe/file/X8t2aeuqZOcyWrRJgLIO4pQYPDF996SGTrVKdsYLvM_z6lvD73prhI2iCQegyfw5i8cdJLR3qoADPRRijZSjHIi7QxTmCDgm2SRrr28WWA57Pzzb0fzozhQcXrVru4uXnn4TG-OOMKD-2V3Dpla5l1d3Nocvi5yFJpEOeaFneX4WdMW0wOn10xlUC0pk_Cg0EQI9Pbkfghb-1-7r83Xm8ZT3tkMUz9ufKrxZRAfQIv7KxC5Lz0u262FFzvZUAEB3al4BWig0hPp_KIExMGbfOto_S-538MdPpypf48v7eDaz8g6Oxwvr5Q0iCS7FGD6LvCPdybBFRTz6ksPSxzPtzg.jpg"
       ],
       "title_en": "",
-      "text_en": "Well it’s A\nG\nI 2027. Just like expected, basically. I think in another year they’ll shove “around 2035” back. And then we’ll see. Kinda like with self driving.\nReminder: I’m talking about\nthis"
-    },
-    {
-      "id": 1174,
-      "url": "https://t.me/chillhousetech/1174",
-      "date_utc": "2025-11-18T16:16:06+00:00",
-      "hash": "628f947e3513ec495adb61c1292ba58306dc1390ff106173106c2ad21c136896",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "О, Google катит Gemini 3 и бесплатный Cursor. Ну что ж. Сильно. Инвесторов то окучивать не надо. \nhttps://antigravity.google/",
-      "images": [],
-      "title_en": "",
-      "text_en": "Oh, Google is rolling out Gemini 3 and a free Cursor. Well then. Strong. No need to hustle investors.  \nhttps://antigravity.google/"
+      "text_en": "Well that’s A\nG\nI 2027. As expected, basically. I think in another year they’ll push it back to “around 2035” too. And then we’ll see. Kinda like with self driving.\nReminder: I’m talking about \nthis"
     }
   ]
 }
