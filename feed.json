@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-01-10T18:47:15Z",
+  "generated_at_utc": "2026-01-11T02:41:11Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1203,
+      "url": "https://t.me/chillhousetech/1203",
+      "date_utc": "2026-01-10T18:55:14+00:00",
+      "hash": "626aea561fab9fefa94578ee6b112d785c84429115fa572e9726481f119ffa61",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
+      "images": [
+        "https://cdn4.telesco.pe/file/J16OVn_WPLW5GRykAUel1j-PNMvtQuen-aE54k3wS_tFr5fLs7Ji-IWAbGBGEqmqVUbZoJKgJ_E3pJN27IS17Snw_wXu3POL7omlHiqcJKwbhlvIH9BxgYta9LzAQnMhlA9O8zdyjUePikhVg9Ugcz9uxr_Ow6q6mOCiQ4hhclMZO2wT7ETdB_AFYHfE97gjh4IFbtfQJqQsBbCvsDD2hQ9fJhiqzDpPevTsVwSzlIPpwlItsEJIdGJ7lEpsL8t_MkWvbqJwtO0LKVduq0u15ame1Q-nDmJd4Nbz2kvCRUqsX_Cgs0pW-i8R7Qwsx38Op52RSwOamuWOFXDjZMlUfQ.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single interface will still come along and replace the verticals, or not?"
+    },
     {
       "id": 1202,
       "url": "https://t.me/chillhousetech/1202",
@@ -273,19 +286,6 @@
       "images": [],
       "title_en": "",
       "text_en": "By the way I think that one of the biggest factors in the overvaluation of AI is ChatGPT’s success. And the problem it solves isn’t really connected to AI as such. AI is a tool. The actual problem is “loneliness.” The same reason why online games, social networks, and a bunch of other stuff exist. I think ChatGPT is exactly the product that solved that problem. Back in the day my thesis for the Capture project was built on this. Like, we’ll find someone to chat with on any topic. Well, turns out we did :) any time, you always have a conversation partner and it’s very similar to a real person. I think that’s one of the reasons why dating apps are dropping too (everyone’s got a slump there), because now you can just chat somewhere else, not there.  \nIf anyone’s interested I can post my deck that I was pitching to investors in 18–19.  \nDeck in the comments"
-    },
-    {
-      "id": 1175,
-      "url": "https://t.me/chillhousetech/1175",
-      "date_utc": "2025-11-20T19:29:20+00:00",
-      "hash": "5becf69a06a447fd45d647d3c005135d4730eb585d8e34eb9b5b64dc8a789a60",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну эт A\nG\nI 2027. Как и ожидалось собственно. Я думаю еще через год отодвинут «around 2035». А там уже посмотрим. Примерно как с self driving.\nНапомню речь об \nэтом",
-      "images": [
-        "https://cdn4.telesco.pe/file/ZHInXo4eb28yVpv8Ic45sF1T9bRbBoSe0L_U-DkZoo7LIos5kfjKie0FoM71g1fXacDvGBypeIR7WZglyU6062BklgqKlFSNkqsodrn5taYKumJDbWKTZv8XDvymlAG0lNsczr1un1g4AFyhlQ7Zw1yh7ZQaTxbvVHP9IDy23vMg1NBx6TWfgwBUzlGwoSwzDz4abkUERlvSL9n8byavfpj85c9lXl9N-SF10aezZVh5VXzv2M_aV6jLol2um1_7ogDRwo-jjdx6nrxvMl5l47RTjNJQTOu69LrepVwEWuVy0mEEhxXPzH3rbyAvkoRKKY9en0b6qJnry2tho4S1ZA.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Well that’s A\nG\nI 2027. Just like expected, basically. I think a year later they’ll push it back to “around 2035.” And then we’ll see. Pretty much like with self-driving.\n\nReminder, I’m talking about \nthis"
     }
   ]
 }
