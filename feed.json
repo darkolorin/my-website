@@ -1,20 +1,31 @@
 {
-  "generated_at_utc": "2026-01-12T13:11:24Z",
+  "generated_at_utc": "2026-01-12T18:52:07Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
     {
+      "id": 1204,
+      "url": "https://t.me/chillhousetech/1204",
+      "date_utc": "2026-01-12T14:29:57+00:00",
+      "hash": "b33601792918de112837218611f02958743e8fb4df9aaafa950731e271745c47",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Небольшой опрос, оставляйте ваши must read книги в комментах. Вот прям, что вы считаете надо обзяательно прочесть \n🙂\nУ меня есть несколько принципов по которым я отсеиваю литературу или статьи:\n1/ любые популярные бизнес книги/статьи идут нафиг, они написаны с учетом того, что должны попасть в широкую аудиторию, а значит будут эксплотировать идеи \"близкие максимально широкому кругу людей\", а именно: \n• как же тяжело что-то делать и надо много работать (мантра корпораций, количество часов ничего не гарантирует вообще, так как является множителем ваших талантов и понимания)\n• рецепты счастья (их нет, если бы были, мы бы заметили точно) \n• уроки из ошибок (очень сложно вывести, никто не знает всей истории, обычно только часть)\n2/ любые книги аля сериалы, условный Гарри Поттер и так далее, для меня легче посмотреть фильм\n3/ книги про успешный успех\nМой небольшой личный список для чтения:\n1/ История: В тени меча (арабская история), Хобсбаум (просто обо всем), История Западной Философии, Записки О Гальской Войне, Когда Король Губит Францию (Дрюон)\n2/ Философия: Сенека (чтобы полегче жилось так сказать, стоики полезны), Шопенгауэр, ранний Ницше, Хайдегер (чтобы современное понять)\n3/ Наука: Эволюция Физики (Эйнштейн), Вы Конечно Шутите Мистер Фейнман (ну это сокрее развлечение), Новый Ум Короля (Пенроуз): я тут физику только умею, остальное не могу и не знаю\n4/ Экономику: Адам Смит, Пикетти, Дамодаран\n5/ Так по фону: Законы Лидерства (Рузвельт), Мировой Порядок (Киссинджер), Декарта Рассуждение о Методе, Коран тоже советую почитать (ну адаптацию или перевод какой простой)",
+      "images": [],
+      "title_en": "",
+      "text_en": "A small poll — drop your must-read books in the comments. Like, what you think absolutely has to be read 🙂\nI’ve got a few principles by which I filter out literature or articles:\n1/ any popular business books/articles can go to hell — they’re written with the idea they have to land on a wide audience, which means they’ll be exploiting ideas “as close as possible to the broadest circle of people,” namely:\n• how damn hard it is to do anything and how you need to work a lot (the corporate mantra; number of hours guarantees literally nothing, since it’s just a multiplier of your talents and understanding)\n• recipes for happiness (there aren’t any; if there were, we’d have noticed for sure)\n• lessons from mistakes (it’s very hard to derive; nobody knows the whole story, usually it’s only a part)\n2/ any books that are basically TV shows — conditional Harry Potter and so on — for me it’s easier to just watch the movie\n3/ books about successful success\n\nMy small personal reading list:\n1/ History: In the Shadow of the Sword (Arab history), Hobsbawm (just about everything), History of Western Philosophy, Commentaries on the Gallic War, When the King Loses France (Druon)\n2/ Philosophy: Seneca (so life’s easier, so to speak; Stoics are useful), Schopenhauer, early Nietzsche, Heidegger (to understand the modern)\n3/ Science: The Evolution of Physics (Einstein), Surely You’re Joking, Mr. Feynman (well this is more like entertainment), The Emperor’s New Mind (Penrose): here I only know physics, I can’t do the rest and I don’t know it\n4/ Economics: Adam Smith, Piketty, Damodaran\n5/ Just in the background: The Laws of Leadership (Roosevelt), World Order (Kissinger), Descartes’ Discourse on Method, I also recommend reading the Quran (well, an adaptation or some simple translation)"
+    },
+    {
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "9c1b2add55c2765605bf18c6ebeaa57df82e1590b99ab36751926aa966a9d99d",
+      "hash": "241f242803578941c372a15ef451470c813d60566be1df6c7f77f0fcf9ec246f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/Yq_vxIPLE_Axw0IlwRJE7_H77J97l4omPmQItHeQAIJXKtzK8QL27bnKjcpkPV_GN42GmT-97HlOsP5-nC0k09N0MqgO6wGm-4MfbSsWTRyj0_bfgNpgdcGIlnJon90NAM4noAl-MmcKuHCbrQgWDKsJwNKlCtOy6EMs6I17XczR49F1TqU__VrQt968v8JLuOhsQJegnJNkPeuH4g0KYOk8DXJZQh0FoQeb8P-GJfg4f_IlR4-4mAylldoJBEKgmafTHQ56C-NpWRSwzA868pmgf95uUtFhyBS8MajH9xWUvZJcreVAFeFk8t9gJmBS3QQjyck6UxNfxZy1TUWquQ.jpg"
+        "https://cdn4.telesco.pe/file/hXwof4tszMlHkPEUiT-kO59U12nioR9tgYDod_utdyLSuwxFYEEjqpXs3LvuryB7yKFeKcM8JMQLJ4TYu5emSyMnQYZJMTimTrYMrnT0HdUNqEm_RRW8DGbM3DvDF5ZFTH9obuQJeBjLu95Nya2AEM93kryTf8MeW620xWcFr9vGFCyXLoPJ0SQ6hUxfnTFy4LKVQ1XJDLtTctS-Nb82je6Ta-sngnL0Ib_ixLfrF5Tj-SgIWpTVgYT6R9iCk-FDTTQ62IStX6VwsCdVSVm8AEB2Jd4o5u6m7VtmAY19lDX0g283ORqFULvWrQh0GDyYEvEra4QWRYBiA0F6I-1ItQ.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s main page. Curious whether a single unified interface is still gonna come along and replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single unified interface is still gonna come and replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -75,14 +86,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "e74b0f7810c7015b7938ef5a07821e105a8f8c27024237328ab6ce0c970811b8",
+      "hash": "a1386957a7791e5020aed4719ce4038677c8d5cceee9dd7acea5c8bf3be70eb5",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/vuDdjVwCu8I4KLvw-QVxMJS-XfbFFcd68-p3x2664-aeMoYC_Vtgii2YIzQ_8yjEBG7IbYyd8gKA61L-kRLOZMTd3dTsknsP_8SmplDpeIJnzwUnjEmaxaOHJ-f8GsJdOGSoTXheBztvLqDTNlgWQLsRaogburoO23JU3Q7j-bO8z4Q7rF5jP4H9Ss8XEQhCnGRYKpKVdSFfPwLkqoh2uPDcE7cPf6r4Ptuc_8Cj8dNs2yxGSKtfAL82vIHBko1IpX6Y-t0eQ05fu_6EA_N2z_VEpaUFiGHMAF-CcAAbuh25Iep_BzpEgQQdNe9XIterEPNNL4m1M4-41pfBkb_e-A.jpg"
+        "https://cdn4.telesco.pe/file/FVfP0loz_EFOjFaimc3VVHvhddkPev6RFxQ5eKPTEIO6Ff83t1tc-iBy9mqo-j6DnchEk0hPsDMj2hlxQkWT3AxjJLBkOeECeaEe3WfLyt-pK15izfJc3iy8A95hgnGpsTDu-GoybeX8iFrdDXJHi-pmI2TRER_2myn57JB9sbT8M2IvNXvjYD_5q76bfgdxgz89GKEzg5VVz3jM6T46ElPJgeMeDuhqO0lOJHGHZWp6bCQIfiKRPwvDPuIPXoH8guS-hTKog6ZuahTh4CBNP8Tih2rWqHwCjwbQ4FOfXqSDhux-ZikYwUI-DZxNxncNCRlW7YXxfwpdsFiJutWfUg.jpg"
       ],
       "title_en": "",
-      "text_en": "Cool yearly infographic for the channel, I’d obviously make it with links and all that copyable stuff and whatever. But it came out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Cool year-end infographic for the channel, I’d obviously add links and stuff you can copy and all that. But it came out funny. You can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
@@ -99,14 +110,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "5b351d00ce2a8322cde615c1263bf30f9de92d07aee11ee5af89076605e28001",
+      "hash": "b043f7937ac5d7e30b55e7587ad982ae9530cf83bb0093c8a0820c1f1f9de4f7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/kMNJePb9a3y_MvtoOcoMCUe4Pp8AFaf5IzjxM77R-P13SC1pZ3UFpuKcW-67wFHm0PSQNUmcoSqqb9SJoc9FF_-pLIK22dYmTYYCAmuczpr-8sboTp05iejtt-KyRhqfxg8r2J6hz4ctqJHaNeYI2CiU5fY-ihOy8IqXCFaFvihCODqFCCj1dK90zK66CV6LRh_QRua3EAz3QZpqqcQaLwAjC_pbRjcDhUTiraYdFGrFIv4zklKXUH-58_RWo7v1y_ECMpvxTGdgD5s2isAGBR8GPYo6yAAFo3RJizZcVXBcD_mmFcEljY7HgvyNeL3Zq_UKs9MTrJQOFi7nyCMnWQ.jpg"
+        "https://cdn4.telesco.pe/file/HGFA5_VAXd5PvBRySAoB4vN_bDYYPI4UzWSTog1yUkcD949s3k3rzjS2hpxguQqAmjA-QUGA5b09e36g7ar5AfO2ND1cKWDZUKksqu3KM8Df3kq3gth9-9MFdpRzh7epcwBvlubHd5nhhbQy7wziEZe9r6OAs-ccD3mTVaKeAJgL24oS4jx6U6dcZRt4qI4ujxlDeFJDomIb4YS6_1jWeNf_cwIr3QYt2VxOu7c7SgwHRI4rouB44ZlOTLqgwPjD8mjSmY8ONHJhpUqL_PTuTQ8ocslHecAMMg6w8NyiXENqYNPkfb56MuVt9veA9IzPEQyWoU1DI7nFi9hoadjbzg.jpg"
       ],
       "title_en": "",
-      "text_en": "Imagine it  \nwhere  \nyou ended up, wow wow (nope)  \nYou can check out the landing page here  \ntrymirai.com"
+      "text_en": "Imagine it.  \nWhere  \nwe ended up, wow wow (nah)  \nYou can check out the landing here  \ntrymirai.com"
     },
     {
       "id": 1193,
@@ -178,15 +189,15 @@
       "id": 1186,
       "url": "https://t.me/chillhousetech/1186",
       "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "0518fb8507c1752e18b9281e360a03aeb0874ee42ec02caf825f1fbb4f99063b",
+      "hash": "549fa5ca32ee1e3a870507b990c08166b693661d75c239377258534540235be4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
       "images": [
-        "https://cdn4.telesco.pe/file/s0B00OvDj6Xu6-K0m65WFJwlJOPRm89o7MQFGkfeMKBZVihfFXtsVsQRejBc68LuUGDW1SrZccLRzOEcAadeZgmoMykQeVebLeC0zblacXxXqSF2HW7xDgldT2Aciu-wBNYbemUlmuC3Y442f114hUYCAskg7ewTYHiORTZn0MjNfl12MbJtbXOfHp4aYC__5vbAaRd5Y9gKxWeg2d5UlSYbpcPkkb6aS-t16cIxzxw0raKJHegmYfxSn-A-474H7cd-jua5h0kLASFlYyaWbair9pPjZ85_GwVPw8XpYLLicwqUGvsq_6ynciRSrbPp_aD_3jP4vR0BG1y2wTw0hw.jpg",
-        "https://cdn4.telesco.pe/file/UzwB9jIpkofVnL-u_KkzuRP3VbY3kLs24ttx4UaWz_G0s5JrjmJp456Z_ixfmY08ZnJfx5eggZAuw2yYFCaGAhO4Phye7jZmRuEhTN0PnEDccHwSsQ7BXg9kJPZrR85wKq_uUQNPKdsCbUuVP7kSTggE4eEYLBKHykT3MZCwWpbCMupezpXdm8iUAZ4ViEgZOxSl1M6rjwi1AUlyk1_sp3IWXHd0K4367AdMVMiI3LLO2-OL4lX0xp_2c151q0br9yeatgHcBzGiSpz3B6AoiJpK6nfEbMHme3TBfykRfGZRzknKeISCD8rqXlOeip0hipHqMOd80hVWFB_VivFEyA.jpg"
+        "https://cdn4.telesco.pe/file/Z-jDLkosk8Qn_gd1kCfBAgGOUJhx-X8U-sq0mzVVl2I7wnT_Z3EzeAc8t1hKrZurXu-ZF-E6UCzBN3xNs7QmW7TIYcTFHknbHJNCCWqLWPLYH_QMxoUyffeNbN-0v5JyLebSNxbK7c4I-fQF46ZhgKkDYR3w-xlBp1coNWApYK62NahcZNBCUB0a0xwvDEPhj5eeerQKL6Ye4moZvlfMcxE9eraGaKiezOzKnN1Wzhd-lVUd_edeS6WCX2MwLGuSk6zMfcChY0U4rcXB7wkbnOckpWFttFenynTdEC8Y_hw-ACWV-T0GGyuEWYIj6s2Z8P4BzwTaNWENo-j5CdcRQg.jpg",
+        "https://cdn4.telesco.pe/file/e1aUyVgM30OOn1DnlIDa1N5EcxXDeh-UGk_DjJMwBzeJuNulxhD14pzG4bC2w6JpSK7VGzPFj92IxzxqL709hODtNbe-DffVhHRmzEX6AuOfPMQ6wr8JxUEemIAFNnwJmg82HjpxaOJg_E2Pw0pD0duQPAoBeygzeaxTsbg0z0RgrROKppAc5ik5RuSdv8M_X5mi1i30Or5GsGU8Yia1AmlYawBm9qOhJ3rO5P6mzhLIr06ppHqDDmeU4149Oztctq8UJIbgCGqFNAds2IAT1Qop1q7Gp9NqSirybcZqw6vxA3ppcvorq50ycQJC55UYqZjwUPbjlQUNSyDm5S_EhA.jpg"
       ],
       "title_en": "",
-      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go start their own companies when hiring is struggling\n2/ more and more late-stage companies get by with fewer people than they used to"
+      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people are going off to build their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than they used to before"
     },
     {
       "id": 1185,
@@ -275,17 +286,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Once every six months there’s this\nwonderful report\non the tech market by Ben Evans, obviously about AI. I highly recommend checking it out at least for the pretty quotes:\n“AI is whatever machines can’t do yet”\nLarry Tesler, 1970"
-    },
-    {
-      "id": 1176,
-      "url": "https://t.me/chillhousetech/1176",
-      "date_utc": "2025-11-23T17:54:01+00:00",
-      "hash": "16bf5278c3641f2b6154dfed98078bbd9ec1d5f533b7e0d530bf35611e1e9c49",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Кстати считаю, что один из самых больших факторов в переоценке AI вносит успех ChatGPT. А проблему которую он решает не связана как таковая с AI. AI это инструмент. Проблема собственно это «одиночество». То самое почему существуют игры онлайн, соц сети и многое другое. Считаю что ChatGPT именно продукт который решил эту проблему. Когда-то мой тезис проекта Capture строился на этом. Мол найдем с кем пообщаться по любому топику. Вот оказывается и нашли :) в любое время всегда у тебя есть собеседник и он очень похож на реального человека. Думаю что это одна из причин почему дейтинги тоже падают (там у всех просадка), просто поболтать теперь можно не там. \nЕсли кому интересно могу выложить мой дек, который я толкал инвесторам в 18-19 году.\nДек в комментах",
-      "images": [],
-      "title_en": "",
-      "text_en": "By the way I think that one of the biggest factors in the overvaluation of AI is ChatGPT’s success. And the problem it solves isn’t really connected to AI as such. AI is a tool. The actual problem is “loneliness.” The same reason why online games, social networks, and a bunch of other stuff exist. I think ChatGPT is exactly the product that solved that problem. Back in the day my thesis for the Capture project was built on this. Like, we’ll find someone to chat with on any topic. Well, turns out we did :) any time, you always have a conversation partner and it’s very similar to a real person. I think that’s one of the reasons why dating apps are dropping too (everyone’s got a slump there), because now you can just chat somewhere else, not there.  \nIf anyone’s interested I can post my deck that I was pitching to investors in 18–19.  \nDeck in the comments"
     }
   ]
 }
