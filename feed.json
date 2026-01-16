@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-01-15T18:56:45Z",
+  "generated_at_utc": "2026-01-16T02:30:59Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1205,
+      "url": "https://t.me/chillhousetech/1205",
+      "date_utc": "2026-01-15T21:16:11+00:00",
+      "hash": "5a28f65158ee7afa41c3dcfbe4f7ac70b7033bcc4eef4076ee706d3d830d7a88",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Нашел еще неплохой репорт по AI от ребят из Stanford. Много тем, много трендов. Рекомендую, чтобы понять динамику за три года.\nWebsite\n (где есть саммари)\nPDF прикрепил",
+      "images": [],
+      "title_en": "",
+      "text_en": "Found another pretty solid AI report from the Stanford guys. Lots of topics, lots of trends. Recommend it if you want to get a feel for the dynamics over three years.\nWebsite\n (where there’s a summary)\nAttached the PDF"
+    },
     {
       "id": 1204,
       "url": "https://t.me/chillhousetech/1204",
@@ -275,17 +286,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Let’s go watch! Review later  \nhttps://youtu.be/aR20FWCCjAs?si=UfsdvKYRbRi7qCWW"
-    },
-    {
-      "id": 1177,
-      "url": "https://t.me/chillhousetech/1177",
-      "date_utc": "2025-11-24T02:38:30+00:00",
-      "hash": "768d9b497a80f52610cfe6189f7f4fa4ca3996be944846ebefab3adcf2f27c2f",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Раз в пол года выходит \nзамечательный отчет\n про рыночек tech от Ben Evans, конечно же про AI. Крайне рекомендую ознакомиться хотя бы ради красивых цитат: \n“AI is whatever machines can’t do yet”\nLarry Tesler, 1970",
-      "images": [],
-      "title_en": "",
-      "text_en": "Once every six months there’s this\nwonderful report\non the tech market by Ben Evans, obviously about AI. I highly recommend checking it out at least for the pretty quotes:\n“AI is whatever machines can’t do yet”\nLarry Tesler, 1970"
     }
   ]
 }
