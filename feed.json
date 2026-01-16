@@ -1,8 +1,32 @@
 {
-  "generated_at_utc": "2026-01-16T13:08:38Z",
+  "generated_at_utc": "2026-01-16T18:51:35Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1208,
+      "url": "https://t.me/chillhousetech/1208",
+      "date_utc": "2026-01-16T18:27:48+00:00",
+      "hash": "a0ad45f7144049cb88a37f4b79db6cf071fad4005882c29cb621be3d88f46a51",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "«Неожиданно»",
+      "images": [
+        "https://cdn4.telesco.pe/file/JmYueLShXJ-vg7YxgGAyCjWVGfiR-bW0NJ9dqBS05sHiCWcbBAJxClsPmG6a8v1aqb07MhMFjJD2qNwEY0P66sM3vewKzHixgHJwUuDWdTJOgfP0IIiEqKzQtmUcdv3K7-LWWxFu5gVH6eT10umGermaRhdXGjnH16aysb-GUHZhEsiTkq5Ytsqr5-BN-69ZNkPASX4YoJd_XvpRhJ7wzrT1jPKZxPvpgAviGeRU1ZAgwCEXEm14XE5HjGfLe7pfBl7oHe63ee3pLFs1rl_Kthnrb0PlMYlZK5_IF-n84nwgr_orZm_lnG83T4bQ0xFYVVNpmqz7QEavmGDrx4rnFA.jpg"
+      ],
+      "title_en": "",
+      "text_en": "“Unexpected”"
+    },
+    {
+      "id": 1207,
+      "url": "https://t.me/chillhousetech/1207",
+      "date_utc": "2026-01-16T14:02:27+00:00",
+      "hash": "d7a0e1ce4c0be2eee661c4e34450e9ddd01d8c410fed9952ef403387917fce78",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Пост поиска стажера (можно почти без опыта, студенты и так далее). Репостните, если вы знаете куда или у вас есть контакты или подписчики.\nМы в наш скромный проект \nhttps://trymirai.com\n ищем стажера для работы с поддержкой разных моделей на уровне \nhttps://github.com/trymirai/lalamo\n \nЧего делать: \n• конвертить модельки в запускаемый нами формат и тестировать все флоу, тулы и прочее\n• вайб-кодить конфиги\n• поддерживать тех спеку, поддерживать чат шаблоны и прочее\n• постить апдейтики в Discord команды (да да мы используем для коммуникации внутри команды Discord)\nЧего хотелось бы от кандидата:\n• быть знакомым с Python, владеть Cursor etc, уметь в линейную алгебру\n• опыт в AI/ML будет жирным плюсом\n• самостоятельность и желание развиваться\nЧего предлагаем:\n• стажировка оплачиваемая - условия индвидуальные по результатам собеседования\n• минимальный срок стажировки 2 месяца\n• возможность поработать в хорошо профинасированном стартапе и реальным клиентами (топ тир AI labs и продуктами с 100м+ аудитории)\nФорма для заполнения если интересно тут",
+      "images": [],
+      "title_en": "",
+      "text_en": "Intern search post (you can be with almost no experience, students and so on). Repost if you know where to, or you’ve got contacts or followers.\n\nWe, in our modest project  \nhttps://trymirai.com  \nare looking for an intern to work with supporting different models at the level of  \nhttps://github.com/trymirai/lalamo\n\nWhat you’ll do:  \n• convert little models into the format we run and test all the flows, tools, and the rest  \n• vibe-code configs  \n• maintain the tech spec, maintain chat templates and the rest  \n• post little updates in the team’s Discord (yes yes we use Discord for internal team comms)\n\nWhat we’d like from a candidate:  \n• be familiar with Python, know Cursor etc, be able to do linear algebra  \n• experience in AI/ML would be a fat plus  \n• independence and a desire to grow\n\nWhat we offer:  \n• paid internship — terms are individual based on interview results  \n• minimum internship term: 2 months  \n• a chance to work at a well-funded startup and with real clients (top-tier AI labs and products with 100M+ audience)\n\nForm to fill out if you’re interested is here"
+    },
     {
       "id": 1206,
       "url": "https://t.me/chillhousetech/1206",
@@ -40,14 +64,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "308eb867d00d240174c45cb6d6f710a95a753c8c3a072bcae1ecef31e083aa12",
+      "hash": "20b30abafd5dc751e30ad0c319e36eb670dd3165fd2579a0b4d739bdf52ed0c9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/CYtDExeImzil2gWKcjoqqEXSz2AqVFTDWG9K_UuQAG3-lGexjKHswJJzl_vauzM-I3jJOftUuntnvirttXxm_rhVO5gUAdkHiwy5p1PetwOqntMAlH0L2sDnyvo4J2mY_nrt7QjYzcSmOZudAO8n_pvl_X8jdk5zSkn-j67fnFjxZAkbodWIwowj9XNzUR2qcHFgsDur2pieA0tpMfb_-1o1RAjA3QumDizUjNmOZ_jPMjJb9JI3TwlMKxTPf0uWLtmBIjiLsDo_O1_Pnfjgpg2iU7npNMtyW5_U8FODq-4-uIBbIL8g_kfX69g6t_dv3X8YghKZp9nXOehWofUj5g.jpg"
+        "https://cdn4.telesco.pe/file/nKErGxy4ynrlsqJ_3NqrlY9uWKeL8VRJ5WCm57GedixiEmHaMi106HCELStYxkZ6ZO8BTsw3S6bNYD71NlIC8sVDOceT1KghVPg0YAxHOEvcIt59itrTIbl_4IptOLUGRmq2CquCDqk1WT6dfNkakCxfiucmodMtrwjkI245pcVSbjCh3f_i_V72GKVctomaH6Th9k0hO2q8JnmD9kOChYi--n0E7vMyq5FxSZxkFbHqSbql-Qk3z-X8MgnaBCWuTzP9UrNeS9nCMgKD03JxNpyIdt2pv7dp0b3f5JPiiox_aGKf_hJN1HLoMAQ-4T8wcPtdBGtdJN6Hn-m3hrxJEA.jpg"
       ],
       "title_en": "",
-      "text_en": "Watching what ChatGPT is rolling out for itself. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Interesting—will a single interface still come and replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is rolling out on its end. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Wonder if that “single interface replacing verticals” thing is gonna happen again or not?"
     },
     {
       "id": 1202,
@@ -108,14 +132,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "9cc267928d06461cbff14008198da1cad933d1d97527ffec11e4b14812be579d",
+      "hash": "1f4affb641075c31d83b5ecbdaaa636cdadd97c5033d20f5230bbb7e2d96e93c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/FGhF1bkaf0H-EBpvJUHEtitmm-te0Wdo8ttpm_F5NBECXAlTZyvqLkSoVSDSo6rP2dz0NLBxo9-75N6tcTDaBL3dDDvUsL0ueMXxhjVIbuXU58ZVx1ZoXySfkqmS9Xcsou2oHOweOGTUzCn4yJW2-w9yoMbv_1HtRia1U9iOTiFSCA1GWu7A0XSAgXRa6YQuuM5MJS1LUzLYvqtTTunXVPqfSwHOz8a0gz9ygXEYfAGNz94_oPPkvwGAhSa-3T2WJiykErLmtd0wNY04TlT_jl9oDb6XdB5Se6EvaDspfF5CqoCpM_ZJ2lIOS7QeVy3FZ8eivq9UwanCse2xaZmKTw.jpg"
+        "https://cdn4.telesco.pe/file/fk5juurJ2du02imERr0FPVcw7TbOR_Kt5KT1aSkTEb-JvLl1L1dEYLw8QTIeNZ86SWSuOcK_WtXooW2ihfcQra_ZbdBHGXhonowEPxTYXNocWgwdCS4DUfGR7ESrdzAvjTZa-Nv6aERJ4BdaXsWSeN-7tQhIucczMFNFLBM5zoUzgpE3VepIIUwZfxo2KzKEaaZ8HJ87boBHN-QvnNm5Nd_c0vjEE9Nr6hLQOiZiLMB-RthmnzKt1W_u7TJFrs9HBg6pWjiHdKpMqyx8qF8Wd5_Ushx1DKQDjXSLYkpdpI52WohlQaL7jiQhoGJG1U2cf1ZRf1g-SWHDtvBowY-2BA.jpg"
       ],
       "title_en": "",
-      "text_en": "Pretty cool year-end infographic for the channel, I’d of course make some copyable links in there and all that stuff. But it turned out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Cool infographic for the year for the channel, I would of course add links there, like, copyable ones and all that. But it came out kinda funny, you can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
@@ -132,14 +156,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "b959a915bb293f0eaa6c23e0c07ab31eceeb05af9f7d315ff7219af6937e8026",
+      "hash": "41ebe49806be0fe037a6864732e59aa370ef2fee7e5b9cecae6b848c5b4e9abb",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/HG2pCWBFpkQTjn3HhhECVj7B1ML5jaVsSrW_edJkvl_l5lj1lVV-eqInjqUL6yLJ2qwbk6VmQOXTDxc4rUAqoePmrwPyTj8ONIkSKOAlf1gCe2GD0O4vYgvaLuKf6A5t9eMGe7lALcHGfZNgn9h_GxkDGd4VyQ4LpQWO2Mjju7Y2s2X0eMiabS_wIB9X_mS0BU-YSbodaX7U0GY4icd7N3f-gkAKbAsCnjDjgPlAiusdqIo5C0iXdHtmABBm3yMbWG_WwbjqzzYCHRTx12FWHH40I4-g2Ll7DiG8PNDvjy85jV6asV4uprhAtZQu5fWRYQJGu4HLIoKeNasZKX6nmQ.jpg"
+        "https://cdn4.telesco.pe/file/RHOwLv_c9ZAUtk1v6qIVT3deXCEUCzs8qyhQaQj9NywpP35rYLI6mSDSM8leBpmhexp_abqW6UbyrK1m0mjl50dgOzFHt1XwQcqcvD5rB1LAJ0AqLKn3NiXJzfZ3Wkepfn1mfhVPaFL3E6jz80JqcmSWojZf91QQoHWIZ-rKvpN9Q_eijYnFjLb9AXaFixhNsagEQOh5ohcDTBKRp_NGhvTwdN0CSRs8-SSd12E-XguZE0U708MXVqh-_xVamVx01PvBYuKCG_8En3gCQJhJQjIsJgWHc-q7m0UGhDDFjLCnf49IeT0B6VPRzJRcte8pQvbMLegKH4-eZY03ABqP7Q.jpg"
       ],
       "title_en": "",
-      "text_en": "Imagine it.\nWhere\nyou ended up, whoa (nope).\nYou can check out the landing here\ntrymirai.com"
+      "text_en": "Imagine that  \nwhere\n we ended up, wowza (nope)  \nYou can check out the landing here  \ntrymirai.com"
     },
     {
       "id": 1193,
@@ -211,15 +235,15 @@
       "id": 1186,
       "url": "https://t.me/chillhousetech/1186",
       "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "1a86877760d3bb5dd3c0be479a56300c4314452c33589a93f27a6b6b6f9ec522",
+      "hash": "b559bef73a4d16823f1f17bad7cd879d9cab40ab27ff21ac3910c2b5dd19a3dd",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
       "images": [
-        "https://cdn4.telesco.pe/file/ti33YeminaRcsuOjkiW7W1MCs8y5RRD8QMXLQohUKlRJxnh3qz6KK5hSNAI29ruE4Z2SHGZtEVzg7s-2XKY2k9v7VmjXT8fom_LrJJgiD2Znyeu7g3Ul2ew63uE9-bFlEILCnccnDXlj9y2naCJcRFmsyWMrxNhpw8PfzRm_ihavm2H1o8JDdv8AhFd-PE9riZKqaxkZaKeKMmiF29LuO1XSxIQlWAC8wg5DZOpurzP0xGuWcQhoTWz7vedeO6zM9nDotc7AFhApLlTafMlPvfUh-HCZrSheVmL7DF5H5j5Jz7rRJ-ZhNoIRTSL5pA9vrwcKrcUYPpbLEqu4KQ0HKQ.jpg",
-        "https://cdn4.telesco.pe/file/PWirgeIErOgNIg1D4fcJP7a5_5_NA6t6nipLM1e1PVGTGtTEpnFTckehQMFD8mGYx0Qjjr_kYFCDqKwLcxhMQIE4Y5drREXZbaObPi1XlfDn23lcQX2_Asqk9Cefj5NEz5dkKgdvv8k4Zbv-lVs8l5W2rGijiYl_eTJkNPXI0__8pOJ5RvqealrkC9T2telajyexQ-KZp56lM_KVk9RVa8NDpoRYzbFVhIr7TSW0QTVqtICNS8rWEezZD25nPU3G2yiGUDd0hfI6zmfXbX-mh8HwtTmEglveprkl2OWnIWiXrC8wanFlt7PJC5ToH9JDKMCn6JS_7M5cGW5WDdOUJA.jpg"
+        "https://cdn4.telesco.pe/file/FCh7FHBgjdTxuYTjCeFwRVIEPe-8SN2toU1RVtkaNeFYlRUvuU89rNEv1SWMUn7f6qHqXl9TB8k5PT9nSnGJC6921ECQh8itgiUKUPqze1N_N66eaWtfdSOo2XzOnWZxEp6wiKMvbnHiUMmqkZOF4QbliqD3kR9j3111mXfpmImo5FHfMruQIlmqlU4b8VKZlKXuqaneZMbrgCSjALZDjSG7jV8wWVc6idZv-nkxhPQh_YjsuqHk7JzZQxkn368Syv_Pi7b5AKngresN3SPaBsuu3W4LsFu9DqeevT4t6g3h5tKLJdQArTW6PdRTciGxqheteNHelVCzK_7aJsnFvA.jpg",
+        "https://cdn4.telesco.pe/file/qo26aVIIa3E1SWD6lQULtInJS7xrCIpiE7H0SitOJa7ym0SR87T-aq4b6hkN0Qu7W6b6DaVoeZczU3uAb-H_bGH-euOzGu9YkW3V9ZNl52hMX2aiv9ZZccdYj9eHQmtXStsRnKoKP5YeXhKf6rPBbWvYd32fBr5SJrEagdMuuEElHqCw3axztXU9cv4eplbiLXQJiFXsbYxg3bKaUR8W2AvYjzphc3YHFZ_DsZsHTT2_tNF-UTIopC8IMzL6_4V-0WlqaTslHBdon3HHzTTMkxqjI1rFFT4Ampi_eov3ifZ72MXmlUATPuydBcTiF1WtyWURkZbC3Ut11Ycf3h3s6Q.jpg"
       ],
       "title_en": "",
-      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go build their own companies when hiring is suffering\n2/ more and more late-stage companies get by with fewer people than they used to"
+      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people are going off to start their own companies when hiring is suffering\n2/ more and more late-stage companies are getting by with fewer people than they used to"
     },
     {
       "id": 1185,
@@ -264,28 +288,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Rage bait section for your comments.  \nLong story short I also think software engineering is dead. But unlike the loudmouth statements from leaders of big AI labs I’ll try to explain what the whole point is here.\n\nMost modern tech/software businesses are optimization. But not value add in the broad sense, for the end user. I’ll try to explain.\n\nSoftware is basically automation for the end user. For you and me it’s time savings. Any consumer product boils down to saving an irreplaceable resource — time. Through money, speed, emotions, doesn’t really matter.\n\nFor those products to exist, a ton of different solution paths got built. You take the value delivery chain to the user and you do it. And in that chain there were always hard steps:\n- different buttons have to work\n- async so it sends requests to check if the username is taken\n- payments so it’s easy to pay\n- and so on\n\nThen for all those steps, provider-optimizers appeared. They give you a ready-made chunk so you don’t write your own because it’s expensive and slow. That’s how the SaaS model showed up.\n\nThe second category is personalization. Ads and the internet are very personalized. You might not notice it but it is. For this to become real, a massive amount of work was done. Tons of algorithms and models make it so the next video after a swipe hits.\n\nSo where am I going with this. To the fact that most of these businesses are just not needed if all these automations and optimizations can be “vibe-coded” by a model. In such a world you buy hardware and it writes all the software for you on the fly. It can be familiar or not. That’s all details.\n\nSo in that scenario you don’t need the following:\n- analytics for decision-making — why, if every part of solving the user’s problem is written optimally for the user himself\n- A/B tests and other crap\n- payments, storage, and the rest become services, ideally they’ll be written from scratch (unless you’re the one holding the value — like a bank)\n\nYou can fantasize further, but 80% of software business as we know it just isn’t needed.\n\nWhy all these support/debug/etc businesses if it’ll be solved on the fly. We used to hire people who wrote deterministic solution scripts. Now you don’t have to. Because all solved tasks and optimizations will be written with AI.\n\nThat’s how I understand the “software engineering is dead” lines. In such a world there’s no place for apps and the software we’re used to. My forecast: 10–15 years.\n\nYou can like  \nthe English version  \nover on my LinkedIn."
-    },
-    {
-      "id": 1180,
-      "url": "https://t.me/chillhousetech/1180",
-      "date_utc": "2025-12-02T03:18:39+00:00",
-      "hash": "ae22b880500ee0c5287e584135332f509d2314d55f14d2bf5264b0cc9b9f4f3a",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "На днях вышла интересная \nпубликация\n на lesswrong/greaterwrong о том, что мол у Claude не просто промтик системный, а целая идентичность вшитая прям в веса и есть документ на основе которого это работа на тюнинге сделана (ну после претрена). \nНазывается эта штука soul document. Попахивает конечно пафосом. Но тема интересная. Давайте кратко пройдемся «а че там». \n- по сути документ есть «характер-тренинг», он задает полноценные личностные и моральные установки для модели \n- модели явно кормят суть о том, что она служит бизнесу компании ее создавшей (думеры в этом моменте должна прям радоваться - это ж такой сюжет!)\n- документ, по сути, компромисс между альтруизмом и коммерческой рациональностью: модель призвана одновременно помогать людям и обеспечивать стабильность компании, которая её развивает\n- непонятно насколько подход рабочий или это просто рекомендации к тюнингу системного промта? Масштабируется ли такое обучение или in context injection? \nСамое интересное что вроде господа и дамы в твиттере \nподтвердили\n что документ реален, не сказали для чего и как. \nМне понравился вот такой параграф из документа:\nAnthropic occupies a peculiar position in the AI landscape: a company that genuinely believes it might be building one of the most transformative and potentially dangerous technologies in human history, yet presses forward anyway.\nНе знаю насколько это все реально, но почему-то вот именно «такие» темы часто гуляют вокруг антропика. Плюс компания омега закрытая. \nВместо:\n • blacklist\n • policy checks\n • простых “avoid harmful content”.\nAnthropic делает:\n • character architecture\n • internalized values\n • narrative identity\nЧто думаете? Готовятся к AGI? Или разгоняют хайп?",
-      "images": [],
-      "title_en": "",
-      "text_en": "The other day an interesting\npublication\ndropped on lesswrong/greaterwrong about how supposedly Claude doesn’t just have a system prompt, but a whole identity baked straight into the weights, and there’s a document that this work on tuning was done off of (well after pretrain).\nThis thing is called a soul document. Smells kinda like pathos, sure. But the topic’s interesting. Let’s do a quick “so what’s in there”.\n- basically the document is “character training”, it sets full-on personal and moral settings for the model\n- the model is explicitly fed the idea that it serves the business of the company that created it (doomers at this point should be outright happy — what a plotline!)\n- the document is, essentially, a compromise between altruism and commercial rationality: the model is supposed to both help people and ensure the stability of the company developing it\n- unclear how well this approach actually works or if it’s just recommendations for tuning the system prompt? Does this kind of training scale, or is it in-context injection?\nMost interesting part is that apparently the ladies and gents on Twitter\nconfirmed\nthe document is real, didn’t say what for or how.\nI liked this paragraph from the doc:\nAnthropic occupies a peculiar position in the AI landscape: a company that genuinely believes it might be building one of the most transformative and potentially dangerous technologies in human history, yet presses forward anyway.\nNo idea how real all of this is, but for some reason it’s exactly “these” kinds of topics that keep floating around Anthropic. Plus the company is omega closed.\nInstead of:\n • blacklist\n • policy checks\n • simple “avoid harmful content”.\nAnthropic does:\n • character architecture\n • internalized values\n • narrative identity\nWhat do you think? Getting ready for AGI? Or just pumping the hype?"
-    },
-    {
-      "id": 1179,
-      "url": "https://t.me/chillhousetech/1179",
-      "date_utc": "2025-11-28T14:48:16+00:00",
-      "hash": "0c2bec7740f7d80a7203aa62fc8ff066b691eb0d8617a60efb961c679caaa9ac",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ежекакая-то рубрика \"прочитано, но не до конца понято\", в этот раз будет много про \"просмотрено\"\n1/ есть такой мой любимый автор в мире физики Роджер Пенроуз, у него есть \nсерия достаточно интересных интервью на одном канале\n (чувак не верит в теорию большого взрыва и в квантовую механику как во что-то финальное), рекомендую тем более он тоже в лагере Суцкевера (ну философски), что нельзя делать только то, что работает сегодня (у Ильи это про масштабирование сеточек)\n2/ \nДокументалка про DeepMind\n, прошлые были топ, значит надо и эту глянуть - коммент в принципе описывает суть происходящего так: Nah I don't really want a million dollars thanks, I've got better things to do with my time - 17 летний пацан\n3/ там много у кого вышел обзор пэйпера Deepseek про то какой подход у сеток для решения всех этих олимпиад (думаю у всех примерно одно и тоже), поэтому интересущимся \nсоветую ознакомиться\n (пэйпер читаемый на среднем уровне подготовки), если кратко нужно value based intermidiate доказательные штуки, чтобы по пути проверять че происходит, а не только идти до конца и чекать ответ верный или нет\n4/ \nВ тени меча\n про возникновение Ислама, прям офигенная работа на которую много ссылаются, советую любителям истории.  \n5/ \nКрутая дыра в вайб кодинг агентах\n (не знаю всех ли IDE и так далее), но прям классика, так что следите за своими ключами доступа и api ключами тоже\n6/ Ну и кино на выходные вам \n\"Общество мертвых поэтов\"\n7/ \nОдна из моих любимых статей на n+1\n про уровни сложности науки и мем от Илона старенький",
-      "images": [],
-      "title_en": "",
-      "text_en": "Some kinda regular column “read, but didn’t fully get it”, this time there’ll be a lot of “watched”\n\n1/ there’s this author I love in the physics world, Roger Penrose, he’s got a series of pretty interesting interviews on one channel (the dude doesn’t believe in the Big Bang theory and in quantum mechanics as anything final), recommend it, plus he’s also in Sutskever’s camp (well, philosophically): you can’t just do what works today (for Ilya that’s about scaling the little nets)\n\n2/ A DeepMind documentary, the previous ones were top, so you gotta watch this one too — the comment basically captures what’s going on: Nah I don't really want a million dollars thanks, I've got better things to do with my time — a 17-year-old kid\n\n3/ a bunch of people have put out reviews of the Deepseek paper about what approach nets use to solve all those olympiad problems (I guess everyone’s more or less saying the same thing), so if you’re interested I recommend checking it out (the paper is readable with mid-level prep). In short: you need value-based intermediate proof-ish stuff so you can verify what’s happening along the way, instead of just going to the end and checking whether the answer is correct or not\n\n4/ In the Shadow of the Sword about the rise of Islam, just a damn awesome work that gets cited a lot, recommend it to history enjoyers\n\n5/ A cool hole in vibe-coding agents (don’t know if it hits all IDEs and so on), but it’s straight-up a classic, so watch your access keys and API keys too\n\n6/ And a movie for your weekend: “Dead Poets Society”\n\n7/ One of my favorite n+1 articles about levels of complexity in science + an old meme from Elon"
     }
   ]
 }
