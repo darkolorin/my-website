@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-01-16T06:52:54Z",
+  "generated_at_utc": "2026-01-16T13:08:38Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1206,
+      "url": "https://t.me/chillhousetech/1206",
+      "date_utc": "2026-01-16T10:41:09+00:00",
+      "hash": "6c5a7b9ee870b23ed4a7c0e38a02e1a39655c77e63e157ce54cabbbab870a5e3",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Короче говоря, давно хотел вам написать гайд по вашему проекту. Если вы вдруг собрались строить стартап то:\n- либо вы ищите способ почти бесплатно выстроить дистрибуцию \n- либо вы нашли способ рубить сотни процентов маржи\nВсе остальное имхо это странная затея. Сейчас очень модно на волне AI делать новые инструменты (подставить задачу и решить ее с помощью AI). И понеслись все делать примитивные идеи, но раз их можно автоматизировать это уже достойный проект. Вспомните dot-com bubble (все начали делать сайты). Сейчас примерно тоже самое. Помимо очевидного «это не нужно автоматизировать», большая часть не скейлится и не приносит денег даже при полном выполнении всех условий. \nИменно поэтому я очень скептичен к показателю runrate (его любят называть ARR сейчас, хотя это ошибка). То что вы умеете делать большую выручку при огромных затратах лишь показывает готовность рынка смотреть на AI поделки, но ничего не говорит о том что это кому-то нужно в долгую.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Long story short, I’ve been meaning to write you a guide for your project for a while. If you suddenly decided to build a startup, then:\n- either you’re looking for a way to build distribution almost for free\n- or you’ve found a way to chop hundreds of percent in margin\nEverything else imo is a weird idea. Right now it’s super fashionable to ride the AI wave and build new tools (plug in a task and solve it with AI). And off everyone goes making primitive ideas, but since you can automate them that’s already a “worthy project.” Remember the dot-com bubble (everyone started making websites). Now it’s about the same. Besides the obvious “this doesn’t need to be automated,” most of it doesn’t scale and doesn’t make money even if you fully meet all the conditions.\nThat’s exactly why I’m very skeptical about the run rate metric (they love calling it ARR now, even though that’s a mistake). The fact you can generate big revenue at huge costs only shows the market is willing to look at AI craft projects, but it says nothing about whether anyone will need this long-term."
+    },
     {
       "id": 1205,
       "url": "https://t.me/chillhousetech/1205",
@@ -275,17 +286,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Some kinda regular column “read, but didn’t fully get it”, this time there’ll be a lot of “watched”\n\n1/ there’s this author I love in the physics world, Roger Penrose, he’s got a series of pretty interesting interviews on one channel (the dude doesn’t believe in the Big Bang theory and in quantum mechanics as anything final), recommend it, plus he’s also in Sutskever’s camp (well, philosophically): you can’t just do what works today (for Ilya that’s about scaling the little nets)\n\n2/ A DeepMind documentary, the previous ones were top, so you gotta watch this one too — the comment basically captures what’s going on: Nah I don't really want a million dollars thanks, I've got better things to do with my time — a 17-year-old kid\n\n3/ a bunch of people have put out reviews of the Deepseek paper about what approach nets use to solve all those olympiad problems (I guess everyone’s more or less saying the same thing), so if you’re interested I recommend checking it out (the paper is readable with mid-level prep). In short: you need value-based intermediate proof-ish stuff so you can verify what’s happening along the way, instead of just going to the end and checking whether the answer is correct or not\n\n4/ In the Shadow of the Sword about the rise of Islam, just a damn awesome work that gets cited a lot, recommend it to history enjoyers\n\n5/ A cool hole in vibe-coding agents (don’t know if it hits all IDEs and so on), but it’s straight-up a classic, so watch your access keys and API keys too\n\n6/ And a movie for your weekend: “Dead Poets Society”\n\n7/ One of my favorite n+1 articles about levels of complexity in science + an old meme from Elon"
-    },
-    {
-      "id": 1178,
-      "url": "https://t.me/chillhousetech/1178",
-      "date_utc": "2025-11-25T18:50:39+00:00",
-      "hash": "b3e0b893e6d84a7cb97138d8295987deb51e639b0c04ebdbc2565d8fd0e65d6f",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Бежим смотреть! Обзор попозже \nhttps://youtu.be/aR20FWCCjAs?si=UfsdvKYRbRi7qCWW",
-      "images": [],
-      "title_en": "",
-      "text_en": "Let’s go watch! Review later  \nhttps://youtu.be/aR20FWCCjAs?si=UfsdvKYRbRi7qCWW"
     }
   ]
 }
