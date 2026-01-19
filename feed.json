@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-19T13:14:06Z",
+  "generated_at_utc": "2026-01-19T18:51:27Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -20,11 +20,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "80226e050affb5b19384541523a1ff28763d2a45351a27c444c6c0b8d75a8ff8",
+      "hash": "32d22ec8f50d43b35860efb142d8a5f3665c83a2e8c4d6f343c7ce275a867569",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/CS9TEvAg5U2T6OALOA3EeTHjO621lwIKlaeYuPlIlJ21kmgm4TkQmFUOtaj8fLtl-p4wMjh_24dgfvWO6CKS-BhxPCxvMyUKnxxRIMiBEW9KTjuzngBBt-G4kiVu7FcG6a4FI7BqOHPoHPyC1B2hks4ARqi7OYZaFdIapoTt1ExvmPCN7fDernwIIrzVcflFwebBFdMZJcpLCOsTK43GowJWXiyGCRH9bo2RU_F53ihG2wE74kGmP5hVYNSnLlyH07smxsCpJJ8rJKhAQlTpwnsXi4FmdPb0LE7viL2BuKsE1RHzQQdbzC2IjvdwlhuyHpYLYcKkxWE5BXZtEqLSkg.jpg"
+        "https://cdn4.telesco.pe/file/GVFT9s7mEoPfeMiA7hm0blJ7DieSlqZAomqVWxk7eDNyngpdqRDtOMoNBEWIT1j8yO9a7dJRjDzAK2p6FLSOQSLYJAaJ90AWt26fdxhmyyWYaX_b16iKqEfq2Dvvpsqs4k6vDixzvZy6j9IBwM7V8dd1rnT9_XX_nJtKPyXhf3VlXqkU9j7yIpcTjt6dA6JUGL9JVnXQZtMNHAigxL265NQ95P2mF3-vSY2tf86UboGv9bVpoKYezHOe2QB2-oQSQ9JnIHJq737xSqKLOknAYUr-Cd9SDqkoto9iir6JY6TtiszHo1746iP-97_fzdqsewdc-KMrb2KcWmUAo16xng.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -77,14 +77,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "d2753cb03b4931f969dc347ce509c7c332ef6df7cdaddc76b9ea7d9a54445c77",
+      "hash": "00cbcd6f3f88b709674683347febee1a95100f339c08b1a41ec17753b830c8a9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/fFd2q0AxLYf51z-cbmcwxWXWgnMwB88Y1-MWq5XN76WrfwbzipDgeWQTiHU4Ok6VxPHoezFoYs-FK4uuSDBnkhw2F0iF9Fs4RhiOIv5GebdS9_RuoHI8SAxVsfhzbt5NgnnHyJA2bcbzYpdZeY7OOUQ7lqM2xZ9Arcc5Pux5uwQEirLor17T2P49B0Tqr5dl9hFeD1mgd7gJtzwrOeNHZWm44J9u06JM0k6VWI_LLyHauhFbj7VgOixaaZ2ZW7K0XN4Lg2DCj0PXSa6uOHyy6IJQk9LpPwMVjB2_AYg8lYe19ZqxGon8L9T9CymawHEn-fllQHGPnFaJwUTTHBv9WA.jpg"
+        "https://cdn4.telesco.pe/file/iWnnuYRBF3i1e9o-o7lqzy0TnDRhuOZu1DUjDMAlGBywnHQaf8v1yHnTRRoT6N8f5KXwFvKV67dg2gedIaJ-1hB-ISRzKoOZesQGdM-OD8wn9iz67pqbL1v7TjHNA4fQGWvz9bEJ8YVPLfWuT4OuDXAu8HHlvyLzjMyGshuf6yWOVQyQgmkV3iFMSuJhlZG1EnCcl0P3_WHq_-DuIN5ErQjPVX70aU9FilSYxAGDVcJq74Q256Lvydic2irJgXkkVdjsW7q-CK2Z9KX5jTW7u1MuM_UtvlcU5HgBJiOIis7IpR8KXFWtUIrNduDzRTQQurPuN_0BpRjdvZVhL3lMGw.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kind of reminds me of those Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether the same old thing will happen again — a single interface coming to replace the verticals — or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of those Web 2.0 portals like Yahoo, Rambler, the Yandex homepage at times. Wonder if the single unified interface is still gonna come and replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -145,14 +145,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "cc488a352e2ec09ae1fb67339f8ccbe0958c38fad7ee45e6709288da56fed2b2",
+      "hash": "113e6d2beba7fcf9ca654ebe46501ab0fcc7e758145d03945609292bb75bb912",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/Oc9YinPN3shQuwCU6Thputkav5-Bb1o_bewd-TwudDSw2tS-Buj6_JeFm_-jksbqexquWLbLfDVKXhhP-jubACK6amKZQ5uPL0LlDYkfpzP59ch_pcCXBqOKhBCCqOFs1zdwYAw-Prr6zNWxE8KQhQstIi7htytdH8luvOH02W9tXhsNMYo_M6xQFcsgHbl4ou5ez7ok-o_B7SQlupui2IA_wdldut-qQblx7pTCtTZEtqH6LwZY63RlFD3OYsQK5BPC2Vo7jSBcBMEs7Ex4XL9FlDhMqq9-10iQ67fI-bXqpBE5ACN8s1LBvKKWzhEQuQXojSdw93UcL-Kow19lQg.jpg"
+        "https://cdn4.telesco.pe/file/DgJ57puP0UwxUinRB1bCIl08-q6VtS5TS6Ymv3Um5EPqUbhaVmeDfwGb0o_K8qRymyDgyPnDChABI-MjRsAQWhAHjCAIxnzRRBd4pOUTyeOZtu63tlQvgWjKFc6MRc4e2VXYdo9t1HgOj0nDls7P8ds7M4RZO5ldim9kD1GDQkh8tdUWH-RdoHMlGqLevr5uM28bqPHwTmpskJOEfXJ2GX52O6mQoHx0FSKmTKs3Jc2lI0Koj6Pq-20_WIR5kwvFjVBABTwzYukle3f7h4A63m_CN6S533VC5EplglgDivBfaFUCOfBteH_xnb_69u46VUiBKXkWbqvRpuC7rSFcpg.jpg"
       ],
       "title_en": "",
-      "text_en": "Cool infographic for the year for the channel, I’d obviously make clickable copyable links and all that. But it came out kinda funny. You can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Cool year-end infographic for the channel, I’d obviously add links and other copyable stuff and all that. But it turned out kinda funny, you can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
@@ -169,14 +169,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "7acbac7f85484179fc1f64523a9e5a7fe2036a68c8900c9e3f51a325cce4b6fd",
+      "hash": "e0dc6c7e63778fd4b2713fd65882137ab8fca370f92c1cdc0c37752ebd7d1ebe",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/r-CiNe4arnt_P51paSdUbBiCZIxd5jFHxt2h4x0b4k4HELJZ8CrfxSZfX4cwo13uEr2HDTKD7JS1hWkZzYzilHekjtX5_l1pY5s5TH3-Uy5EZ7DPfFASsQeuZBkigAru5avbYz1Lc0AhEE7uh820Bb46rBNPZbZr9AVU2nIMlIXSXnzSIZccwIFmTOZFmwrxM9j3sNtDmqjdBYqA7EddMxF6cHCNZ8oloadZTSex_mSofeBz6ZCm32ublcTdDCH49QU-iFiE7mdbR7w5ILY78vNzxBVKSbojRcN4BbRXyak9Jmx_USMNdPl5M-r1om77e6Iub3gyF6WHc4viEl1zmQ.jpg"
+        "https://cdn4.telesco.pe/file/d2LNzZXfEgFtkGcph2suj5-S7OX06uY5GCSWQkiTUU6CHCcin6Gm1_uaNyfDkgP70A4BrZ0E7XW8vbQcTcNGVyIDvJu8OhCoBOTp9-9cgFkEpb6UjGdefy95Yh3E56_6bP-WiGwaaDGmym3rFm4uU122IM5FlRXZ3025hV7aN8tEeGXG1xpuytYjPqa4oIZQsWTLk0HtgDTdUCS9zus4TI6NCUgeAGGxuIyJU8fSnIZ1tdgvhrBURlkjovQWewGDPutd7L2kLOp1eSV_RQvR9BVYdgIY39JMoQPwyLN3lwj_EcsPXHARKGwCXwaJVn0E0kEp3GCYRCh4ViazStyppA.jpg"
       ],
       "title_en": "",
-      "text_en": "Imagine it  \nwhere  \nyou ended up, wowza (nope)  \nYou can check out the landing page here  \ntrymirai.com"
+      "text_en": "Picture this  \nwhere\n we ended up, wow-wow (nope)\nYou can check out the landing page here  \ntrymirai.com"
     },
     {
       "id": 1193,
@@ -248,15 +248,15 @@
       "id": 1186,
       "url": "https://t.me/chillhousetech/1186",
       "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "1a4cbd97b53730f6a80fea92348bcfbf5b65bbfb45bbf95dcbe90b2066e00f4f",
+      "hash": "b453b66752d6993549529824c487bf0cd1ab6697593bfa8ae35b731de687dba6",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
       "images": [
-        "https://cdn4.telesco.pe/file/NH2WQW3JQRFIJdiEn3Segm22NfRfOo74xTLg2klNhDNwEzuISd88UGEB3cuDZuh2q9nQ_Iez2RYd08sCR_eIIjJqM_XWxVF-7Zkckt-7CtHmdPr4119OFa3dEZU0ANAOKnFBgxvnYozsFHkIxo_97rMpXUeo5-rxgaLheB17A2Mt1Jlb0OJ3-6WSZMj4LzKtZHizO3cbcMKQCDm1IjU-KSFHompHt9Fo20VFePrv24fXMKcJ4XKszMsaaFZ_S6zw-mWB-_nlwjOyVtxhU8JH6vzZDf-FRnZBqaidzhRewe6XXa4qxnTgHyDSZiXVPaDM7NIZNGThIM7fNq-nzzSZ0A.jpg",
-        "https://cdn4.telesco.pe/file/flp45ADi8B3C_Z3l2q2gNWdpWRqnCo3iSsUlUdfg0ASwDT7AR6paS7lXcTtSt7ZfpRhLrcDye7WDIMXLSzFa7MfNMZtBH_792EmeQFrEyrhiA0oO16URY8fbcfw5g5e3lAf0UEe3s0u8vxqFnapU6cc8n4SdxWVAt-e2kpGn5gBR_g9pkA93Ix_dHqbjtVPYlZoIQ7Fkc-ODnth5KpRS6tuuf6x1wewpvfjzC_4k6MT2v478n2M7ZHy4AQA1y815ZT1MBIMhTk3NGwX5wurF_NWSpzcUcU0dZTCiABrRemZGSxREhmc3un1G8lRx8H35BsRsPODUDSFrtPh751FK0Q.jpg"
+        "https://cdn4.telesco.pe/file/lBYQLZ56teJpMhQLuY8Mo5trr9q0F2Zph8cKW9Q27Kd-mIcBSjmk9pYH73ME4UOJFo4DACoFJklxFcT-IB1EL6wS4HUfiynUQUf--BAgOUt3SFnT9OQ-LeCV17DO2HbI-CIlAXu2KutEa9uANr9V7svn7jYD_pdLsHruTVqoPTHLpNnAjh5gStj3EEAB5VgPdzfc8Y5qsSgsQc3VicgReO5UzRJMOJyOvkrXfRTuEILzKXQADibvTY1evk-RpOTGQZADMagTt30j5hywQ2YhaNxgpWAhqsn0H_4e4OeC0liucBCO4ogtcFFl_6r51ui2FVTBzZkPJbmKuGq5hFci7A.jpg",
+        "https://cdn4.telesco.pe/file/UBP9h5LeCroBBWkd8TFZeD7B20W2JmbBKKKw-Ci_44_AqzUvHwVs9GASksmzLacD4ooQq-shAASmjQ5WpV0GU9nvgWMBE3iJhmpkTg0EyXVx0g5KSkkE7PNGPGiwNNFArYSzucClTT64f2IPQB29nK911z-hzril-hJEhJ5Le2JkBhooJp9vNegjAHhhb2aP3zin9JpJZXoTTto1T-ixb8VUjWvUeKh9uuvYOLh13S2hw5T5_sevCj9CCCm1o5QZVmmH0TiVlImNRDfq1Pme_8e9wpkKhIGIPzItHWfjvt77-uQAXyQiNsxA9zcLFeYKOJVmWDlpXG7sW1uY8bV5eg.jpg"
       ],
       "title_en": "",
-      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go start their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than used to be the case"
+      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people are going off to build their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than they used to"
     },
     {
       "id": 1185,
