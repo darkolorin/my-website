@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-01-19T06:59:29Z",
+  "generated_at_utc": "2026-01-19T13:14:06Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1209,
+      "url": "https://t.me/chillhousetech/1209",
+      "date_utc": "2026-01-19T10:40:11+00:00",
+      "hash": "5649fdfdb5baf6ad30b523ddd0173c521c2a54fc6aa9e6925b73dc84af805977",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
+      "images": [
+        "https://cdn4.telesco.pe/file/HGahsNI1eJOXQxXeV4OiU8eLD09HMe6CHZJPiyxe6PghJl8HQrkvtfGngjtnT38Z5qFxtIVDkXgdUziPkZ9ANf3FmxMZGRYQrz8FaZjUnZbPN6RiQ42emmDZ2a7TKPdHossPk6gtdl6evvrOrkG3mdBEqIjR89sVnwztTU_tjuvFGRk6BjzfsTXoiAy0PYbp5h35ni_mMROIVluGMn6H-D9oFMich3Itt1ZAF7eYegFxlxTiUQX6kRpeJ9IrU3x0ZlZl4aDCZCxmV9XdRpGUi5VfzdVFjEvHP_twPEFDFm8fN4rL1C1OUu5SWycrafS9uXA_X8VThhQYyt0tA9KVSA.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Right, your opinion is important to us. Drop some appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
+    },
     {
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
@@ -235,15 +248,15 @@
       "id": 1186,
       "url": "https://t.me/chillhousetech/1186",
       "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "df3bff3f748ecf3a61c422f5644e01bb2149f9f83a91f09d1ff5b5c516404035",
+      "hash": "1a4cbd97b53730f6a80fea92348bcfbf5b65bbfb45bbf95dcbe90b2066e00f4f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
       "images": [
-        "https://cdn4.telesco.pe/file/TXmdi_GwlVHhfv1ROw3WLKbWufqSdgknzzLcdOpmbqfaLEF4iy1yYos-bpAs-N76Vhiie84Ih79zliCGwKoZTaV3k1OJpzjdmzOdK-ZRgO-CVBzvOpIJ0hYV9gf-WcaWGMpMmIvuDw6_GilTACTIp7sic-CduTy4ef4jCo9XbyvitplmCVyZgfdfRnT1be9lYRwbqU6AJPxMjSl5M8dH-UA44DrLSQ5L5xgnPcT7Gg66JDroSkIicmAbPINsXSEXclSM9a1YsYwXHKcST_VvpPNQ2sVErGo58Us833piL9Ph48qsn08alZw9CZClb8eefG8Bl9h-0cQ1xwceA4NChA.jpg",
-        "https://cdn4.telesco.pe/file/n15bQhF7NOv1qHFL3I42hiVzjVY4WToSoPiMOZhXYHs0nUX-n1OBj_sSooVnefndkLiRiON4n3kZjbylpkxG43TIsU1ZU9tf_moXPDX4ZkHu9vP2FVODKx8fVgWHKE9iCBMB6413mcDCgHOj-grB9LyWU8BOBZTgOD7Wy-Fm7_3ufmkeyzcp4BF8Ls6I2QghyWqkNegvCabTbkCAp7nHdwW6k1AydvLDlkgBgqeGh2csGbD75IDE7QLeSOndq6MEEyNTArpZOYpQIX-VwqhkdUT4BteEuNYuaIVBLdSZvS1mlUE6LDrS-Bs3_ojOpBOZeQuLAl_NOdzQYhkqe-_pMQ.jpg"
+        "https://cdn4.telesco.pe/file/NH2WQW3JQRFIJdiEn3Segm22NfRfOo74xTLg2klNhDNwEzuISd88UGEB3cuDZuh2q9nQ_Iez2RYd08sCR_eIIjJqM_XWxVF-7Zkckt-7CtHmdPr4119OFa3dEZU0ANAOKnFBgxvnYozsFHkIxo_97rMpXUeo5-rxgaLheB17A2Mt1Jlb0OJ3-6WSZMj4LzKtZHizO3cbcMKQCDm1IjU-KSFHompHt9Fo20VFePrv24fXMKcJ4XKszMsaaFZ_S6zw-mWB-_nlwjOyVtxhU8JH6vzZDf-FRnZBqaidzhRewe6XXa4qxnTgHyDSZiXVPaDM7NIZNGThIM7fNq-nzzSZ0A.jpg",
+        "https://cdn4.telesco.pe/file/flp45ADi8B3C_Z3l2q2gNWdpWRqnCo3iSsUlUdfg0ASwDT7AR6paS7lXcTtSt7ZfpRhLrcDye7WDIMXLSzFa7MfNMZtBH_792EmeQFrEyrhiA0oO16URY8fbcfw5g5e3lAf0UEe3s0u8vxqFnapU6cc8n4SdxWVAt-e2kpGn5gBR_g9pkA93Ix_dHqbjtVPYlZoIQ7Fkc-ODnth5KpRS6tuuf6x1wewpvfjzC_4k6MT2v478n2M7ZHy4AQA1y815ZT1MBIMhTk3NGwX5wurF_NWSpzcUcU0dZTCiABrRemZGSxREhmc3un1G8lRx8H35BsRsPODUDSFrtPh751FK0Q.jpg"
       ],
       "title_en": "",
-      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people are going off to build their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than they used to"
+      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go start their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than used to be the case"
     },
     {
       "id": 1185,
@@ -277,17 +290,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Modern venture funds aka  \nhttps://www.a67z.com  \nP.S. every joke has a bit of joke in it"
-    },
-    {
-      "id": 1181,
-      "url": "https://t.me/chillhousetech/1181",
-      "date_utc": "2025-12-02T22:35:15+00:00",
-      "hash": "52c28a60283b7c43d26ba841ea65b920b19a64399758fc1646327c8062d69ed8",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Рубрика rage bait на ваши комменты. \nКороче говоря я тоже считаю что software engineering мертв. Но в отличие от громогласных заявлений лидеров больших аи лаб попытаюсь пояснить в чем тут соль. \nБольшая часть современных tech/software бизнесов это оптимизация. Но не value add в широком смысле, для конечного пользователя. Попробую пояснить. \nСофт это своего рода автоматизация для конечного пользователя. Для нас с вами это экономия времени. Любой consumer продукт сводится к тому, что экономит невосполнимый ресурсы - время. Через деньги, скорость, эмоции не столь важно. \nДля того, чтобы такие продукты появлялись сделали очень много разных путей решения. Берем цепочку доставки ценности до пользователя и делаем. В этой самой цепочке всегда были сложные шаги:\n- кнопки разные надо чтобы работали \n- асинхронно чтобы запросы посылало чтобы проверить не занято ли имя пользователя \n- оплаты чтобы было легко делать\n- и так далее \nПотом для всех этих шагов появились провайдеры оптимизаторы. Которые тебе давали готовый кусок для того чтобы ты сам свое не писал ибо дорого и долго. Так появилась модель SaaS. \nВторая категория это персонализация. Реклама и интернет очень персонализированы. Вы можете этого не замечать но это так. Для того чтобы это стало реальностью проделана огромная работа. Тонны алгоритмов и моделей делают так чтобы следующей ролик после свайпа зашел. \nТак к чему я веду. А к тому что большая часть этих бизнесов просто не нужна если все эти автоматизации и оптимизации можно «навайбкодить» моделью. В таком мире ты покупаешь железо и оно само под тебя пишет весь софт на ходу. Он может быть привычным или нет. Это уже все детали. Так вот в таком сценарии не нужны следующие вещи:\n- аналитика для принятия решений, а зачем если все части решения проблемы для пользователя пишутся оптимально для него самого\n- а/б тесты и прочая муть\n- оплаты, хранилища, и прочее становятся сервисами, они будут в идеале написаны с нуля (если ты конечно не держишь на себе value - например банк)\nДальше можно пофантазировать, но 80% software business в привычном нам смысле не нужна \nЗачем все эти бизнесы по поддержке, отладке и прочему если это будет решаться на лету. Мы раньше нанимали людей которые писали детерминированные сценарии решения. Теперь можно этого не делать. Ведь все решенные задачи и оптимизации будут написаны с помощью AI. Вот так я понимаю фразы про software engineering is dead. В таком мире нет места приложениям и привычному нам софту. Мой прогноз 10-15 лет. \nПолайкать \nанглоязычную версию\n можно у меня в линкедине",
-      "images": [],
-      "title_en": "",
-      "text_en": "Rage bait section for your comments.  \nLong story short I also think software engineering is dead. But unlike the loudmouth statements from leaders of big AI labs I’ll try to explain what the whole point is here.\n\nMost modern tech/software businesses are optimization. But not value add in the broad sense, for the end user. I’ll try to explain.\n\nSoftware is basically automation for the end user. For you and me it’s time savings. Any consumer product boils down to saving an irreplaceable resource — time. Through money, speed, emotions, doesn’t really matter.\n\nFor those products to exist, a ton of different solution paths got built. You take the value delivery chain to the user and you do it. And in that chain there were always hard steps:\n- different buttons have to work\n- async so it sends requests to check if the username is taken\n- payments so it’s easy to pay\n- and so on\n\nThen for all those steps, provider-optimizers appeared. They give you a ready-made chunk so you don’t write your own because it’s expensive and slow. That’s how the SaaS model showed up.\n\nThe second category is personalization. Ads and the internet are very personalized. You might not notice it but it is. For this to become real, a massive amount of work was done. Tons of algorithms and models make it so the next video after a swipe hits.\n\nSo where am I going with this. To the fact that most of these businesses are just not needed if all these automations and optimizations can be “vibe-coded” by a model. In such a world you buy hardware and it writes all the software for you on the fly. It can be familiar or not. That’s all details.\n\nSo in that scenario you don’t need the following:\n- analytics for decision-making — why, if every part of solving the user’s problem is written optimally for the user himself\n- A/B tests and other crap\n- payments, storage, and the rest become services, ideally they’ll be written from scratch (unless you’re the one holding the value — like a bank)\n\nYou can fantasize further, but 80% of software business as we know it just isn’t needed.\n\nWhy all these support/debug/etc businesses if it’ll be solved on the fly. We used to hire people who wrote deterministic solution scripts. Now you don’t have to. Because all solved tasks and optimizations will be written with AI.\n\nThat’s how I understand the “software engineering is dead” lines. In such a world there’s no place for apps and the software we’re used to. My forecast: 10–15 years.\n\nYou can like  \nthe English version  \nover on my LinkedIn."
     }
   ]
 }
