@@ -1,20 +1,31 @@
 {
-  "generated_at_utc": "2026-01-21T06:58:20Z",
+  "generated_at_utc": "2026-01-21T13:14:33Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
     {
+      "id": 1210,
+      "url": "https://t.me/chillhousetech/1210",
+      "date_utc": "2026-01-21T11:46:06+00:00",
+      "hash": "93ae38074482429036f3a65b0755ba14c2b70dc0b7f128662ec97bc724c58630",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Из наблюдений. По-моему ощущению автоматизация кодинга приведет к интересному эффекту:\n1/ профессия инеженера станет ближе к профессии ученого, то есть где идеи и понимание дороже прикладных навыков (так было кстати когда-то давно в 70-80х)\n2/ количество мусорного софта будет огромным, но он будет никому не нужен. Это то, что каждый продакт или посредственный инженер кинулся делать продукты. Да их станет больше. Но будет эффект тиктока, раз такой большой выбор, то выбирать будут лучшее. А лучшее требует более высокого уровня подход. \n3/ в целом ничего не поменяется думается мне, да фидбек цикл станет быстрее, да итерации станут дешевле, но это все поверх «а че вообще делать то»\nНамного интереснее наблюдать сдвинется ли прогресс в теоретических изысканиях (автоматизация рисерча). Потому что пока что там не так круто. Но подвижки есть. \nCursor пишет свой браузер с нуля агентами \nDario из Anthropic как обычно предсказывает смерть обычным инженерам \nНапиши код лучше Claude - Challenge от команды Anthropic",
+      "images": [],
+      "title_en": "",
+      "text_en": "Some observations. In my feel, automating coding will lead to an interesting effect:\n1/ the engineer profession will get closer to the scientist profession — meaning where ideas and understanding are pricier than applied skills (that’s actually how it was way back in the 70s–80s)\n2/ the amount of trash software will be huge, but nobody will need it. This is that thing where every product person or mediocre engineer rushes to build “products.” Yeah, there’ll be more of them. But there’ll be a TikTok effect: when the choice is that huge, people will pick the best. And the best requires a higher level of approach.\n3/ overall nothing will change, I think. Yeah the feedback loop will get faster, yeah iterations will get cheaper, but that’s all on top of “so what the hell are we even supposed to do”\n\nWay more interesting is to watch whether progress shifts in theoretical digging (research automation). Because so far it’s not that cool there. But there are movements.\n\nCursor is building its own browser from scratch with agents\nDario from Anthropic, as usual, predicts the death of regular engineers\nWrite code better than Claude — a Challenge from the Anthropic team"
+    },
+    {
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "0f95da1ced11c4df99c4f3c97f4b3e995c367ea66c0e2150ae49a395df746ab2",
+      "hash": "f1f840d68167bd5eb5f1435fb77289ae552969b8df9a71522bc628a7968dfd88",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/IirCEjMvem3gWrTgTLlmMOaOaoYcrC8AsrCB3Foa6MOs-mDTJE5nXYcUk4KNOHLzT_BZoF9OGopP43uOtC7ks2YAAkgAd0Mou8uYgdS15ZPrDBlf41L5g424LvFnP76WVVrZs9SJToXgrOL99i_Vge3euuoUCXYfe1s8alzno0Pv70clYxVbYhd60CkBsjgbh0ssXSxYBsU5IxB0jnF-mVW9y7Y7eR8VDWbXhd6CmUjeoXI1XH62YAjRdckzASRZ0WazKH1PAaD0eD7cHfkLrmrJeqDt8iXIP8UQUKouXueQNRUHVYNwD4yTWnD_WDJhTssEzBDImZCT990HBtI-Zw.jpg"
+        "https://cdn4.telesco.pe/file/GQoHUNefCu-YWx-7nXftp_GBMmngxfhrMi7xeq-IiRDr0Luty_vKFMjjXVQb0bpceUqvUHw5B35veVQZgORttFkBvNGO7ByrobMrvCg4QLoTArW5eid-ygBwKE9yV8c4rET2aF9qGxSRqiPAi16jxq8ZrolZjHEh1UyAuXEYikEDbwSaNmyYvR-n5aM-dB8EKr2IZZg_lZUcF0AyPH2iEox1hb5FEO5mL_hckrFrrXo5sm_MVgTcfoJv8nH6HXLF_aAW9e9_tJSr0X_ibFPfoehD47GSeiiQB_QrkI2DY0zL3F8mYEFYPEtOGvsXy5KTyxFqZKuGyVX-A_N1F2H0JQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Alrighty, your opinion is important to us. Drop the appropriate reactions plz.  \nAnd if anyone actually knows their way around branding, maybe you’ve got some ideas."
+      "text_en": "Aight, your opinion is important to us. Drop some appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
     },
     {
       "id": 1208,
@@ -145,14 +156,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "3c84cec9ed46f508a8cf3f8565d0c5aeb9b3494ae5fbcd0e1b3f769287b04454",
+      "hash": "b3d5b585687dba9b2af45dabbb06ebfe128041461e91239d2c4165309864359b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/N8miGP7HCslliyruqPke_R5GpgsZ4vyIYHifnM5Yo7LASiGtViviSiKh4gUXzesw4AnvNshGl3t3Hmy2a2uGNWMBxidCCzQo7zZo5hKaqn-bAf9u-BUyjsuxMMgn-LEujgOdqCJ9y-vry50GYL9-srxwloAOmAFJSWxKIXlFswh-qpJXSqSsiPTIxZmbd6-xWkbdTqkpUzSvSwRKZUqkqcvDc6B-KA2LxlAhAghWFnm3n_kzcRHYIZRLoQxoBEJv0EGOpSDjVbK194SiP432AQabVM8hdT4j1KmoBLFjFFfJxq94Y8wklvvWiu-z7S75mKpL6QYtF4S1UM311Gclag.jpg"
+        "https://cdn4.telesco.pe/file/VtHZgf1GDu1_9uHVyrcu_9_JO9_nRAmm4DLzF9eCJ2i1K0xr3ioyDoOPjWNuBdjjMdEad_T0NMY4bJQC88ItgaxAUekWwsKnlPF2pSGm2ItyzDPoXDWLEHJ8Se42435enphNmV9kAYxR58JVX8ThYX-o4ho25FH6aN9o_s83Sa6jH5dIcsJYBOTQ7zXlOmIKRhHPrb7fuAKbcisAh67IBXlUBCgEDr9gqQfnfIWOlPlP6W2RGjcMH0UuMMSB2c-QutRgobS3Hq5E2978Dpv53yzdLatWG13LCi6i1hqacnCpCgNr3koN6be5vcnJSxG_6fXCva63QkZ5ggZegaGWog.jpg"
       ],
       "title_en": "",
-      "text_en": "Cool year-end infographic for the channel, I’d obviously add links there, like, copyable and all that. But it came out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Cool year-end infographic for the channel, I’d obviously make links there and stuff actually copyable and all that. But it turned out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
@@ -169,14 +180,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "1a7176b4fc41f7ed1d52c31dd11b8e7c007033eeff9c1466238a7b94d4c45ff7",
+      "hash": "73f88fd2616f449ddab392a3f9028c21d772294228c848d459b95495b9900332",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/FTOk65V176xZ5O3jGTM3Lfs923rXsDfvO4CxkvJYf-uhWvCyuvr9vTNGe7FjrRI7JlVrz1cMgHO6JXicnRCfdkdEhVVEWRvMAQ76-j2E69tq8rrDWezw-jumwuJTOFAjVBGqJwmdjt7p-gUNT4UjTCbd_96ceeNOQBsp3H58jT1WF6jU6i-_QwmDxc-iahZxqilFtrl-k7rzXAavlRYcCqS2ZOW-Xp4Up8vNNtqNCaWXf3ytgk5uEQUR888Cq-aM_xOGnfWKmsuVpBUEFY4ymHXtLnqfVkd7bjTwv2Y_snibAUY_dELFR46-tNQw94LWw6Co7XSU7IJk56tO24pmpQ.jpg"
+        "https://cdn4.telesco.pe/file/sMZBF1d42jPo9wShBH7_-JRxRra75WJAwQLDn6Hg1kkhuM6d3GFHhjmzNi4ayVCAkVAV41zQHtsGQDWDN29wUfuBledlfTNQeDqlXuJalJ3PHOadUFnGTMh4DGPrfIaNczw1o0tTv0_9u5F0pHHRWHLL9Qy-jK8oCugVPnjbzpZLeIkUpmHpYop75oV6yKcm_CBiafMfMz5L8jK36PflPZroK0yoLEvC8bmUoO2jDrZQyj68o5HL5pHntsZCRLowlg6RvVL6ZIBHq35Y7ApIuqHVfshDf6vzbu4LJI7vUZW3_42mEAKDqeFZVTC-n1wz7_Q448ZzFatTq8Iiw127eQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Imagine  \nwhere\n we ended up, wowza (nope)\nYou can check out the landing page here  \ntrymirai.com"
+      "text_en": "Imagine  \nwhere  \nyou’ve landed, wowza (nope)  \nYou can check out the landing here  \ntrymirai.com"
     },
     {
       "id": 1193,
@@ -248,15 +259,15 @@
       "id": 1186,
       "url": "https://t.me/chillhousetech/1186",
       "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "70f8296206509a6d65256cce5ba8885579c6613464014cc305612c24a299283c",
+      "hash": "71f28b5b06a8142184da17d988b20c76863c6437887672e2c6f39267b5fd2b43",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
       "images": [
-        "https://cdn4.telesco.pe/file/Qxkq6AchWsDpPQrMNn4uKDqVjE3MSYGdVvtAOGEglc4RJOpxtw6aWVMThqrPrPGQIJ3lWRP_5HrNkSYB1xCOJC3rH-MLK81tEvvEO8dKQRHhYcRZ1HcFk3GKVz8BV4q6nfCO_RXK4k1ow8QeW3eBUnAM-7yInrg4razXM4_-oMLX9Oa79kVRGD5yc9pfNa0QAKGSxw1Vx80hPJYCL5Ez_YhOd41AdKkhViGT9zRM98azHIQtaPj0Gvl5DbJBpa_3-GVarFQiIV3bc2x7Xx1cMZR5SiJytTvhthbtgeuvkRMhThzU_H9JNxxi4nCGW3XTKfYXUaaSHkMo0pjrDAKJOQ.jpg",
-        "https://cdn4.telesco.pe/file/hc4MaBGX0Mz2F8DWuBN4qihGWfqhebfl59fyP_xeqNDDOtpcMJq0IfOKH70hPPr_Y_6jR1tmWRWoHgZCvas9Otk-vBiQLKnrZCQP_a3_s8ph1BLqxwUlQxE9cevGt0y2ZWguFH7fIkWPlOJb9tExTwDkPq0qLUrg0jAoFQ_ToMj8Xl9qW4fcV1ux32bb6OfMeD5FGWCIeNCK0d0OtY4XyRqDFtGCVN_W1flfMQ8JUcTT1uc3ubVRad2bVFl5hKHKn18d1zP2sJ2eG-oWPCvJK-BYwWd1WUWFzc_oZUxXwjsUJ3E2X05xQGg4budkvhN6DtdAy-0BXER8Bkj0av3vCQ.jpg"
+        "https://cdn4.telesco.pe/file/WQ8pf8KuR8kKWu9_zve7vtkKVO5kd6vqiLg-_i0yLbFBWrlQZB5Xoe0CXdSe2e_CK2SFfYUQSebEANm_-9f7L_CKUNhutTnSmd_UgaspneL_KWz3WGLzV-wZsv6LYv0ErcTzsrwwKaYKRMELS4fTuQZgwyRSsX59yv9ZPp5HeBmLyv0VJDjvuPaISViigT-YLv0V0mTXvu9nwxVW_jCKW-IE-z4nmi0JdppY-Yre9f2dn5jCox5lywI0KMiKjf4t-WZEKZCPjd-yhj86-APrB9XLV3QWa_WuOFf9IgjnJXOpVRyiocYf4ZQ5FNskVb5h07j0v7PtmUE8awME7eN2fw.jpg",
+        "https://cdn4.telesco.pe/file/LYchgVt9YNcIkwiPRfteFMBx0gwIaREHFK9oJQrT9wb3znsd32Ytl-ZlE3539vg59csjuRFKgmLNnyP00UENBzlDbS3h_onADjaf--lxkrERqVfhJ4J-ai1ITFTPgf1l8MBDhOtl4WZbhq-5cOV7bwgTlKDFZMD0Hf1NlahrY-UPMhQkNBoq5FMS63UGKreTER6ihR26aZHx_fwt59bde-vaetNocb57FSShtM1UonGRt43kCmE4mJNxe1vOjGtPXd5OXH4bkZNQcnN2dWf6lxVjrCLIfEgTMhmC81TycmiYcFZ6tboBGmCbEX1rVQK33lj-g6F53MPeIU-Hd2t5Aw.jpg"
       ],
       "title_en": "",
-      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go start their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than they used to"
+      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go start their own companies when hiring is hurting\n2/ more and more late-stage companies get by with fewer people than they used to"
     },
     {
       "id": 1185,
@@ -279,17 +290,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Lately people keep coming asking, or asking me to help find someone for their startup or wherever. And the description often looks like this:\nA great and mighty founder with a super track record is looking for a founding engineer for a new awesome project.\n\nI mean, I get it, sure, but there’s no link to the founder, no track record (like, all his projects are badass and he’s got a ton of exits, but no links), there isn’t even a proper description of the new project (if God willing there’s a link — it’s basically just a name and lines like “we’ll change the world”).\n\nEither I don’t get something, or how did these people ever hire anyone before. How do you sell your idea without even saying who you are and what you are. Oh yeah, and the best part. The founder should be looking themselves, even if they’re super cool. Because we know those projects: “it’s interesting for half a year, and then meh, got bored, no traction or whatever.”"
-    },
-    {
-      "id": 1182,
-      "url": "https://t.me/chillhousetech/1182",
-      "date_utc": "2025-12-03T16:12:45+00:00",
-      "hash": "a158ed1c2a441f97fec3e0bbcd35fb7ccfdff29466d90ab1960295634d07385e",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Соврменные венчурные фонды aka \nhttps://www.a67z.com\nP.S. в каждой шутке есть доля шутки",
-      "images": [],
-      "title_en": "",
-      "text_en": "Modern venture funds aka  \nhttps://www.a67z.com  \nP.S. every joke has a bit of joke in it"
     }
   ]
 }
