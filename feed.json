@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-01-24T02:26:57Z",
+  "generated_at_utc": "2026-01-24T06:50:07Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1211,
+      "url": "https://t.me/chillhousetech/1211",
+      "date_utc": "2026-01-24T03:20:00+00:00",
+      "hash": "6b917c9899475df9adbb3c64c4f4471d20867e6050966b795da31643ee1b5b3c",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Кстати \nнеплохая вакансия,\n достаточно свежая. Помню и годик назад такие были там. \nА их (DeepMind) кофаундер достаточно уверенно говорит следующее (пишет что аж с 2009 года):\n- в 2028 нас ждет minimal AGI, это который способен выполнять все задачи в том числе когнитивные за исключением требующихся экстра способностей (типа задачи для гениев и так далее, сложно сказать что тут имеется ввиду, ну вот так определил)\n- а потом за ~5 лет (он написал мол если за год будет удивлен, если за 10 тоже будет удивлен) будет полный AGI, типа любую задачу которую решает человек можно будет решить \nЛинк на твит\nЛинк на его phd работу\n (прочитал наискосок, не понял в чем прикол, ну чел написал там тучу всего, в чем его гений? Расскажите кто шарит. А то чемто на мои работы в универе смахивает)",
+      "images": [],
+      "title_en": "",
+      "text_en": "By the way  \nnot a bad vacancy,  \npretty fresh. I remember even a year ago there were ones like that there.  \nAnd their (DeepMind’s) cofounder says the following pretty confidently (claims it’s been his view since 2009, like):\n- in 2028 we’re in for minimal AGI, the kind that can do all tasks including cognitive ones, except the ones requiring extra abilities (like tasks for geniuses and so on, hard to say what he even means here, but that’s how he defined it)\n- and then in ~5 years (he wrote like he’d be surprised if it takes a year, and if it takes 10 he’d also be surprised) there’ll be full AGI, like any task a human solves can be solved  \nLink to the tweet  \nLink to his PhD thesis  \n (skimmed it, didn’t get what the big deal is, dude wrote a ton of stuff in there, where’s his genius? Tell me if you’re in the know. Because it kinda looks like my uni papers)"
+    },
     {
       "id": 1210,
       "url": "https://t.me/chillhousetech/1210",
@@ -259,15 +270,15 @@
       "id": 1186,
       "url": "https://t.me/chillhousetech/1186",
       "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "49a4dbeddbb503032f42df28376d23b7d05ee1af6b15de3b579929c48e3cb831",
+      "hash": "9ee1afdfc243fb2f417b1ad23621b1498445ff6c9803d89afc2d10888942bc39",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
       "images": [
-        "https://cdn4.telesco.pe/file/eUOQn2glB_059pJStL7BRZoqUSBluRjsfRQlcIS98jKcStWRh-oiooT32j-7yvQ929kQQr5VYti33p66kXp4fOdUNzRAh79GbtzOKr06k4XEGxkV4UVzaH8AZgjZL1pBjdTP3FiEdsI0iIienvjZTMil8NHAmy_QxvJSIv9TbHu-lfjKuoXsIkinMP1_tZRXZt-4tNNo7KSIshnn7fhrSnkZklgbD3854FHhJ_Al7nnd3n9EMkfzpmJpOCicsU-4f5QCiMbqIgxEqyiP4KfyatkwrAft3OmgyE61wEleqz25YaqayESGO320SAg0XDFoxn3p110NMBOSzOalOhZzCw.jpg",
-        "https://cdn4.telesco.pe/file/mFx9UTn_BmU-x330TdJ9AU_LCWfxDKqZP2FWIcBcLPQZj0TwrMgnY9lF-Aoz-gTQIy1OJkiG5ENg1ztoq4RBvAGiVPTp_RRq87o5fVRbspt_HgzH4xGXsGkoNUVbBelEaRZiOxl2Kgc2QWDJSDnRX2jSedhazug1jJPmsXmXp75aoVGPzy8t0ujQTHOrkIZbvqtpYMpHlpPjd6Pk4xkDOQVgN1DFJCZ3-WqwAUNQ2BMHrvZOivZ3oX70L8V4lFiRXar0p9DmgNawGWDEK3gN5JPwKcVGw3SyvMKJI_2mbtiHbuWaiMfElloezpHRnaDtT3pMp4YFnfbicTYdMFGwHA.jpg"
+        "https://cdn4.telesco.pe/file/a-MyMAZ8UD4fonga2tWt032s8S4nGm5HSC0K96d3CQLA9vE2JMFgXVo9X8UCoLbCWmnxHWvAlsw4ZGQqsmhjR3kIBj8fm0Wfp_wBqEOWfpMHl9qtPSTXK-3iIEBRcXp0q29HdKHNiJxaBhitBPOZ4WTGdSyig1-cqD1d7Da3FmnxyLSgDsz-PbKdDdKjFZM3oXzxHKgkEMeybCY0QZiNeoLKovxIQMcfyOZbeQ_eb3-EkhtieN8QByGDrD2Ld1xVgG2IphKnLFYe4Rhds-zKxhmTgS18ACquJ1LfWPt3gZJESBR6be3xmgmNO7ri1QpQDvdAp6fR_mVidI2HhrLPpA.jpg",
+        "https://cdn4.telesco.pe/file/MFgDvm_71jgV29KfozF8WRdWJq1pHkOMp8D70EO2leexG9vyVUpfZAKf-NF9w1Kdg4pren7gAIJeDWmiRHJ3wxnaPDz5ff6wRQAyWIMpm-MaWbJWiK7ljrfX107G9I7P5GqUA1SGGHeEd3nEZ3Oh53VSTj0xqLPF6GR5FTOn9WD91u9bNQ9aYFljfFaAgBRAS-fh2s0lkNYXOiGl4Hln0oXnzRlUNfJVTvTGUpBLDBvY350KIzO_inAXT55oEe6w6Q2JCXS0rcLJlG8KBQA5es6RiuHVj0DxLjbRFVCPx207nv_QVDKpKKaoVnhTqnJzjC1PfsXCecSJD7drHd91Bg.jpg"
       ],
       "title_en": "",
-      "text_en": "Some interesting facts from my beloved a16z:\n1/ more and more people are going off to start their own companies when hiring is in the dumps\n2/ more and more late-stage companies are getting by with fewer people than they used to"
+      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go build their own companies when hiring is hurting\n2/ more and more late-stage companies get by with fewer people than they used to"
     },
     {
       "id": 1185,
@@ -279,17 +290,6 @@
       "images": [],
       "title_en": "",
       "text_en": "So, like, something to read and poke around in the history of one of the most important companies — Google.  \nIt’s a compilation of letters from Larry, Sergey, and later Sundar, up to 2018. Every year they’d write up the key points for the company, the focus, the strategy, shaped the culture. The very beginning is insanely interesting, and how everything changes — and fast. That’s where the 70-20-10 rule comes from about investing in the current, new, and risky business, the famous Don’t be evil etc. The evolution of ads and so on. I recommend reading it in “together with ChatGPT” mode. The document’s huge."
-    },
-    {
-      "id": 1184,
-      "url": "https://t.me/chillhousetech/1184",
-      "date_utc": "2025-12-04T15:16:32+00:00",
-      "hash": "78aafd97dc6386e4a67ca5f260c06af57d45902b478494be130347c64edb0b4f",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Последнее время часто приходят спросить или помочь найти кого-то в их стартап или еще куда-то. И часто описание выглядит так:\nВеликий и могучий с супер трек рекордом фаундер ищет в новый офигенный проект фаундинг инженера. \nЯ конечно все понимаю, но ни ссылки на фаундера, ни его трек рекорда (то есть все проекты у него крутые и куча экзитов, но ссылок нет), даже описания нового проекта толком нет (если дай бог есть ссылка - то там типа название и фразы аля «мы изменим мир»). \nЯ либо чего-то не понимаю либо, как такие люди вообще ранее кого-то нанимали. Как можно продать свою идею даже не рассказав кто ты и что ты. Ах да и самая деталь. Фаундер должен искать сам, даже если он супер крутой. А то знаем мы такие проекты «пока интересно пол года, а потом надоело что-то трекшена нет».",
-      "images": [],
-      "title_en": "",
-      "text_en": "Lately people keep coming asking, or asking me to help find someone for their startup or wherever. And the description often looks like this:\nA great and mighty founder with a super track record is looking for a founding engineer for a new awesome project.\n\nI mean, I get it, sure, but there’s no link to the founder, no track record (like, all his projects are badass and he’s got a ton of exits, but no links), there isn’t even a proper description of the new project (if God willing there’s a link — it’s basically just a name and lines like “we’ll change the world”).\n\nEither I don’t get something, or how did these people ever hire anyone before. How do you sell your idea without even saying who you are and what you are. Oh yeah, and the best part. The founder should be looking themselves, even if they’re super cool. Because we know those projects: “it’s interesting for half a year, and then meh, got bored, no traction or whatever.”"
     }
   ]
 }
