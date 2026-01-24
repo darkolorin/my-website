@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-24T13:03:25Z",
+  "generated_at_utc": "2026-01-24T18:48:12Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -42,11 +42,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "500a9051e5fd6090ab14414af1ed07e75161cde4317ff831337a81e8ee04a489",
+      "hash": "ffd1cbee552382fce20dfd495dee15822a42fc7971be7da599069a5bdda19918",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/Yiey7yJBgPbWJIWzbf0unELb8xFbenUAqVQin0KN-sX3_mPdhHWHcrD7CugII34q753wU9c-z2I5ryc6tnGRrTthb_WpQS4OJAXaaUcBx3jnBjgK-JQ8Uw6ljq575I-YdYFyctM5ROZQ0di5pQGCFRc-RwVFEjCrqxo-LxjRgANHPTLE_xbClSnYaldzCzXdHWUds_OKRo8r3Uh3YMO1NoeQEaNoJcwgqsJzbsTTQHNiTTahenNIZLGVjiSneSQ8rJA5-nqA_oSu2Q9fkEBHf43TKXuM3lBckn4oZXWJnfDam8wmauKDIrncpo_SLAZURLSQloMn2qcLxZzUqzGHYg.jpg"
+        "https://cdn4.telesco.pe/file/KPlP-azKmTO6v6Ueb2sC8pfwoXG-D3EbfX8LKHjpweaY3RhFJUP4oZM8PKo4_MN32Rh7g4JRUQ8a1yw_s_Z2WRFUDPHPBtI7VAl1xvMtAikDjG4wj4zf_lVWXHcy_TJ7wYOF5Goh58DjhZaHRAJ9veoACSPx21r6u85EtzzjNCV4dEpbTkjdwV-tRUw22e_mSraOnN-3RfN_UTu4s2iThfVCGbES4LqUvOdHxLnefN-iW4hJ6BFUiU7JgaMVaut1CRaNF_0idR-_vU-JHJt90noIxdGemjsZBmOct344wvqIVUk22_-s2TdkghIo8IZgts9D0k-2pKd9Y-4T5bd9Ww.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -99,14 +99,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "8fa7091631890439ebf361f7a70057715cad34272df317c2aab5a3174c129fc8",
+      "hash": "7ce5080701e712fe47d77143cdfa22e50051b8e2fd9a9e851c8a44be9a5353f2",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/IK4lwPeLuK_bDmMqYJX_YTrOQMiyx5jT9Ejld30KUIwIPBjzDN6xNeQ0bjz-ln6LIz8f-z-sIQeUyvp2XobGLMxWxxYydp07_e4WpCbF1uAvaKpJthDTCG3ejF-6Hs0XWe0FzuuCq-9K3wnOoZTxTOoUfpYm0GdG35liGZoY7zjCvV6_aA2s37xPUsGL3j9N95ALJCzCO4o4OjsZAnN2o0yTOFvls8UzHhKl6g9hkiyX3GIkfw-jqu0RCqepFKWNJMh2OOJ8nIcN_ju4BMZ_CjjaziItFHVTrVi7lItRlj1CrPPkg4g0feccDql2wGRy3Ford1N6FdWEErSfR-qh5w.jpg"
+        "https://cdn4.telesco.pe/file/lnaroSmqW3Xvn0SRBh0WlaJiEDvqw0bLZUQQphLI4rgWbC81jovRmRvcDt1hzMK27hf6QwafnJa7t67hIGGhbuk8GTc4tNe1idDNBPu9nRKAb7v_eO-_mq3pzMsMmcT4iR2Z6HvB8OwyUPJiZXoVUKxLHvsPIgHSQ6qGkoUDmXX02tkPaT0KLELQZOnlSlWKpoIBBH3pW5lcBnw1ueOX-AJvoBiBm4RAdMJrUK3dSFuww-FCZfxztZUxN3qG8TgK6iuFODW5bNt0YSeGjclseq1VeOWlUFzcY_IbuX1rzJ_vLK6b3aIFFHaU5HbdGbNwq8cqPezzeNRFDZsmMxR-kQ.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m watching what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda напоминает web 2.0 portals like Yahoo, Rambler, and at times the Yandex homepage. Curious whether the same “single interface replaces the verticals” thing will happen again, or not?"
+      "text_en": "I’m looking at what ChatGPT is rolling out on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single unified interface is still gonna come and replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -270,15 +270,15 @@
       "id": 1186,
       "url": "https://t.me/chillhousetech/1186",
       "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "089daea14513cdf660292ea5c05580c0016d18f21f8079f2ab097e7216d68fbb",
+      "hash": "d550d6d611686985be1ed146ef6d7e469cf687ad419a72ebf78522611a3fa2d4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
       "images": [
-        "https://cdn4.telesco.pe/file/fLLahcDVXRtHaW2Gu4FSngX3g17drmPE8qPP2v_4w5rBsYFmvXGnArrF2hjCq0ZkZoE8V5LsQ8gJ3R-snf9HLGuUXJdscpZW7Wri1X_g7Vp7hz56jqDH0vlE-jHwSwgEWdh_hxuXxpO0jWajdsJgFLD1REJelldyw9fYjpOhbCc8g9srrHnyP4ZDFDlgiaGdntrTYxlSXMFlppTfP0aE82RTwxN6Z0nuvNE7GOj60_OzQUa3FXMBObFfzEqdfjk6mK59AqvYm7TDB4LqXwbBvI1aK3bVdj-4TOEymoatMkGLxU0FQFphmIk61N8DTOUbRyCHKICVrMr46o7AdGLCQQ.jpg",
-        "https://cdn4.telesco.pe/file/BTwi2OmYCQA_Uw-GrP940oRdueRZ4JjJBaMxmyAGOHxbY_AlPNwrQqL8BHQ8Fabkdr85xNmr1JI-P6WN9sOQ6F-sjuxyeP4nd01sr14z9PoaQyWPTNEjgWPi2D66qKBLQCRdhcsQXE-X6cF1YSuoYRPPNVVWUyuqepgT66sUMC84WZsXtvn92K48bY-iQAfn_ef5S1yrns_0x1Z2bMtXlpg8ZIzB__uS8QPzpfyYHOWQgbxw6Q-QY3qFmq2TN4xfGWBSqhsJM0TmTvStH2yVSwCVeipq9ZfI1mNe3MtczyVCIE95_jeH1ZkUHeaW0JycWSYvzTHi0MEPyckERqA3MA.jpg"
+        "https://cdn4.telesco.pe/file/OBxZjoBVWiyKUEjCAq0lnQU3CzB0sTumMFR0BuiyjRI1HZGSH70Y43SQKOBbRKTZCndg39LPNkbCejO9zxR8KM95QsF-_UKFKdTUv6DIaLVPTwvPDd01fG_c41voumcAqj6v1t5f6ZqDYzbuGEcA6xb1HJSE1sCxaU3WRuOGpyZfBUMqAXvo1r0ytp8WldgzN34GwPOWGd-8nXbHXbBsTvhzUub2tD7-OLyhd5cjHSzu8EJvWcy2SgBiD4pGKQZbHiSB5e7BgMK6LpO2tmVArl25kNPgfZDzoC5jSOp6gGEKxvzeCIbO9WHjmg1v31A8SmfaSyKbgRvPt4CpExqkBA.jpg",
+        "https://cdn4.telesco.pe/file/ujGi_gvmZn9rvNnT9HeELvrUOIwVumYpXfi7w5OhDplFzhBFlLxvWJRPfvz6gEnLmEvw6oRTwuMbmttQATqyui24Db8V44cW5BiaK-PcJtQMNbQ-UtA-shSXV4z8jGTw-HhDbM6SH50YF5X_DvPdhUfz4X6UnmImNVJBztK0FKkSiWVDQvYtCwovWvO6rQmQR7jwECa3Yg98_WemhBnX9U62mt9BSH6d5rI3Xl7VFL0R0d1nJcYUOgoAWeyqqwmW8X2m65jwl-4JAH2otpKjmYoAbQQQVYN_fDSbRcCIHv1hTDq7mPvJH44mhF2Rga4o7ewU5aIRVmzr8eeKOhapKg.jpg"
       ],
       "title_en": "",
-      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people are going off to build their own companies when hiring is suffering\n2/ more and more late-stage companies are getting by with fewer people than they used to"
+      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go start their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than they used to"
     },
     {
       "id": 1185,
