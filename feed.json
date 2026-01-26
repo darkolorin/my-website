@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-01-26T13:13:53Z",
+  "generated_at_utc": "2026-01-26T18:56:21Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1212,
+      "url": "https://t.me/chillhousetech/1212",
+      "date_utc": "2026-01-26T15:15:18+00:00",
+      "hash": "75b59a49df484f66442a480ac2bb94bda2e4913e831c315eedeb80b1bd0709f4",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Есть такое расхожее мнение, что AI сделает все звенья цепочки в tech индустрии просто быстрее и эффективнее. Мол сейчас продактам раздадут Claude code, мы их обучим и настанет эра быстрых итераций. Но я считаю немного по-другому. Моя логика примерно такая (критика велкам):\n- узкое место в любом экономическом процессе производства (софт) всегда время, условно как долго что-то полезное делать\n- откуда в software бралось это время, я считаю банально из-за того что набирать символы на клавиатуре было долго, поэтому требовалось больше инженеров которые могут набирать и думать над одним проектом\n- чем больше элементов системы, тем выше потребность в синхронизации и верификации усилий (ну все печатают с разной скоростью - такая утрированная формулировка)\n- вводим элемент синхронизации - менеджер/лид\n- количество элементов синхронизации сильно растет - получаем процессы/ответственность(функция сведения/свертки)\n- ну вот и вся наша индустрия сегодня \nОдно из новшеств, которой дает AI это сокращение времени на самый первый пункт - кодинг. И если он по мнению многих никогда не был действительно узким местом, то тем не менее количество людей в индустрии держал он. А теперь представим что это не вопрос. Тогда количество людей сильно сократится. И тем самым все уровни выше (они конечно еще больше пострадают, так как у них не было часто понимания че ваще там в коде происходит). Проджекты, продакты и прочее. Потому что ставить эксперименты смогут те кто просто будет держать ответственность, таких всегда было мало (мало кто любит риск). \nПримеров подобных сжатий очень много:\n- конвейер начала 20 века\n- индустриализация (люди уходят с полей)\n- итд\nИ есть второй фундаментальный сдвиг, который дает AI - это возможность работать с недетерминированным вводом от пользователя. Это очень сильно изменит UI и следом UX. Об этом потом.",
+      "images": [],
+      "title_en": "",
+      "text_en": "There’s this common take that AI will just make every link in the tech industry chain faster and more efficient. Like, now we’ll hand products Claude code, we’ll train them, and boom — era of fast iterations. But I think a bit differently. My logic is roughly this (critique welcome):\n\n- the bottleneck in any economic production process (software) is always time — basically, how long it takes to do something useful  \n- where that time in software came from, IMO, is simply that typing characters on a keyboard was slow, so you needed more engineers who can type and think on one project  \n- the more elements in a system, the higher the need for synchronization and verification of efforts (well, everyone types at different speeds — an exaggerated way to put it)  \n- introduce a sync element — manager/lead  \n- the number of sync elements grows like crazy — you get processes/responsibility (a “reduction/folding” function)  \n- and that’s basically our whole industry today  \n\nOne of the “innovations” AI brings is cutting time on the very first point — coding. And even if, according to many, it was never really the bottleneck, it still held up the headcount in the industry. Now imagine it’s not a question anymore. Then the number of people will shrink hard. And with it all the layers above (they’ll get hit even more, because they often didn’t have a clue what the hell is even going on in the code). PMs, product folks, and the rest. Because the people who’ll be able to run experiments will be the ones who simply hold responsibility — and there were always few of those (few people like risk).\n\nThere are tons of examples of this kind of compression:\n- the early-20th-century assembly line  \n- industrialization (people leaving the fields)  \n- etc  \n\nAnd there’s a second fundamental shift AI brings: the ability to work with non-deterministic user input. This will seriously change UI and then UX. More on that later."
+    },
     {
       "id": 1211,
       "url": "https://t.me/chillhousetech/1211",
@@ -42,11 +53,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "473a823323f01aa9708792cc6d2ccebb30703d800b2bc8e1386ed4a0cad53337",
+      "hash": "c9766dc47419cf8daed942fb1941041ebf4b92fda434620ece36f2532440c0c8",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/Iy86IPOHus4QoCdaaA3sXVWcL0UHtCYBKMfW4n357xfHxqduSZ4OXSy4lubdrkjYCaFxR1cVUFaMnSQAXD7ODevGiRcLKxI2x7n0LjkUWjTg1ML8duPkJY3lzeTwNtzfi3ZFDGcfnqRJ77XzcQs0a1oLQv-OeSHoeooIqLJ2-hI5RAEgpuFEN854vxHeSA-3troNgD8WPBCVzlPSwG55r5_9AbImflEevFkWPKMOAn3F57HtBYVix69dVZuWpChRQjF4sotvIctGtWG46drQvr8lrb77AJCC0T6E-P0ksbTb6dwFwh9FSnC3bjrste9k_mUuVKa8gJxa1mRyRYkUyA.jpg"
+        "https://cdn4.telesco.pe/file/oiVmaG04DNUQOrj0VoEsYLLMlMBCJ2MSmCfcVsLdVkMxmoi4jIpLvRXd_c-bqKnHiRsi7rYBGyygiBTTEU_3Z9Vik9-18J3kkaAdZ2C16tbwo81LQw2KE-B5bO9GTUpyahTf2lOeKteMKM6UgmfRlKSs8wapgOrPMJHFZw-Z8UtfVqpUxV_kcnItK0mPf49439d0knpepNc5Ktwsn3iZ5_26cYD0v3MGUFcJojWz_WIhVAK7XtIcfH2nYgIX9MCm6Ea0XEol8AtrszYmhDocUhoP1ESX4fIz0eeuip4Od_USLFEFQ2ceGHrn7qTDCqvzOYAa4hOl10Kc3P13CpYUDQ.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -99,14 +110,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "6fd5a2be9551aec4e8eae183e08903a4aeb2902d096c56de0704eb7a460c62b7",
+      "hash": "a4d6e6156ae0a85ff014aa7e314698000af1c6205b066325d0f187b178e3e2bc",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/fgAAY8NxxebLe0mlRtAeFVd7qOsnNGD9It_nKHfj5AEyTd0VNdof5Et6EigcUAGybmx9kk6haGLXq0XfMgPHJOT842FuJpOSwNY7vIzUVDb-TCNa8r3o6cvpl38vgr51wGkRElUJUSPIj9aJFt-IWH8UkDsv7PBkfzbujx5ARkniFympuCVHg9TEsKOOr_St-aA5ASwT_Z_GaqqFWabjsTeCH578CDkyxkDOweWz5PNjd4rlGl3a5ARonVGrx2Znl_kunjMWpNCkecFPX_AWTn8_-1EZNwkYxBd0zX8ogKtK3HZAaIewyMaQcyQELkWy8eKSXQBDkemCpSK2wnHKpg.jpg"
+        "https://cdn4.telesco.pe/file/iFh8_-9bnxAI1tGEKbA_4fjnWyOYxrr0UquaH7PSwVmBf3iC5bXS9RK1vElCt3-P0nJmgHp9GCimc8VJUNPvQGgGJ6TH5_KSVxCBf1MrelmFTdtGzgf6Vd3CJqo_UqIo3hXm7PQpEqNc1niUsjSt5UqHt3LK5fqwp9uvs8rC_bfe-zSINz9EdZyX0GfdedgQIiAJm1OBTXWCMHWV1EXIDWuQKwtBEMALQ5ke5ehh6ijBTs0ithoVud88fe84QpLdD5THhWoH3XVEK65NxuEZfO-AhQiy60TBMm8cajlo9AID09jc_rYLdlPw7O7MEz9ObBLcnp4Zk8LsDhAHtc3HXQ.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times the Yandex homepage. Curious whether a single interface is still gonna come along to replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its end. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of those Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single unified interface is still gonna come and replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -270,26 +281,15 @@
       "id": 1186,
       "url": "https://t.me/chillhousetech/1186",
       "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "904625e6779fee0df1667b0f88a5da3682607528f511bd4b90355bcb484df979",
+      "hash": "698fe148dbf7c1964a6308971e697cbbb9b6f48d3a7cec722cd1c670a065952d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
       "images": [
-        "https://cdn4.telesco.pe/file/Aj1QzdP2B-1_CXod87gPaOivR0M_ny4IqZJ6fUkREkT2E2ItGvYDn6YNEAzJAgluBGAvXwKf3lOiZE4yJ8taO2yhb1CVntcCn5j5AJjKS0ypbvZRa6Xzm-QeK3wubQ8jPKiYB6i3ONnWviSPL6RmnWpANE9AYTU2jwTuSFXT-uth366qj23kjZN0m1-Ue0TUg_9b_0Srx5yoORSv_Knci3VSSFoZzFrmD68jAmEMta_sfBP1XvbsJfmqyA8FHSpVaKFh2p_WMDVKRF6w4LJtE-5rDEWfaMjNm3kKW6hTrl0Zj2fcxw5guyGOPhXUXrRui7cnLfYS18X4eu2aAc0xNg.jpg",
-        "https://cdn4.telesco.pe/file/pjzCuFvACW_LSUrWj06XMUoF8mmCds6JUy4O8EFgNlXIyCFEuN4BIrD7b0vmBN9ByPE9nRLH49OFal9Rf2W3l5kte_2r507hkxrvFqHU2WS2-lX6jTOG3-r2Hb2TTHdxbqh16MR7igVFHoQSWpQLdlKK-Ne30mP6EvIFzwgNwcA-iP5Uil_kTDEIsV62EIW2zl-2MmmrVNIP5EEIUHhqlMFvS1PnmJ1p6LTlcpwghJVRo3E9t8gQKWZHkyqlJsGY6PHGPvuJULVz9thJhSIKWzQnObHihDSVrJhDN79U-_EpMoraPaCoEqc1lbNbmr8pQhFkMQauIwU1dTKgrXN4uQ.jpg"
+        "https://cdn4.telesco.pe/file/K0ElH4O8Yi6_XlVyZSaeuvlQfsjJWLyz1sbBCkS9dQ5D6Ougwe8IIdww2TcJudDNy1xAnOodPUNd3UPji_iKEmHl7jdDAWCbrAReI7ZhMtaFs-S4M9l-BT2-yrroMUav78vFU2emYqzgXcMWXXbdxYxROvHi7rWhkRkSViJhNeeTII3_szgNKbvg4Ell6fDBaYNVsIMxczbVpT8PwNE4WzVDFUFTX23ELYtQTNYrISMGszr0aT4P44FXBBYSevuxxwq_RJssFP1udGOaGIlQp-DmdZy1NaAIm_jTul0Qu8Al9--JHAS2OUAJ-GjNoeXKmtiILWE0_2D_Ws-iiKrouA.jpg",
+        "https://cdn4.telesco.pe/file/eYmYcAFupvM89ghOc_XhD71GaVsrVkzLI8nH1A6kyu7z6oHrZtViwjb4bmEAJjhZ68kt1UEKKIxYnnGs7VRLjSVIAlvRyfUcpwUB3Y-03_bgR3gbL82Y9JX2pGh4TudbpUmqC4xH2KnnSbMtkPEa5QYYaz0U7RefWleUq9o5sGSiTbdhjMk76_THmX7LGHoX7hkqW2RPwl517xB1aXkCFQyUMw4cEzg3MKIUZgCaqjiiELntpOmnq1fQM9Ckeb3YT475Xez-9L7uCo8ACKzR_88eEEVCSNnP8oWOIrOsPcvNNmD-Bc4_j80G_98pz5HosI4PLZxRLAwIQZHmq1PARg.jpg"
       ],
       "title_en": "",
-      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people go start their own companies when hiring is suffering\n2/ more and more late-stage companies get by with fewer people than used to be the case"
-    },
-    {
-      "id": 1185,
-      "url": "https://t.me/chillhousetech/1185",
-      "date_utc": "2025-12-06T21:46:42+00:00",
-      "hash": "109ea829531b460061fbfa47f657c8be287b2f4d0ba2c3de1ce0e895fe0cd1a6",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Так сказать на почитать и поизучать историю одной из самых важных компаний - Google. \nЭто сборник писем Ларри, Сергея и позже Сундара до 2018 года. Каждый год они писали основные моменты для компании, фокус, стратегию, формировали культуру. Крайне интересно самое начало и как меняется и быстро все. Оттуда правило 70-20-10 про инвестиции компании в текущий, новый и рискованный бизнес, знаментитое Don't be evil etc. Эволюция рекламы и прочее. Рекомендую читать в режиме вместе с ChatGPT. Документ большой.",
-      "images": [],
-      "title_en": "",
-      "text_en": "So, like, something to read and poke around in the history of one of the most important companies — Google.  \nIt’s a compilation of letters from Larry, Sergey, and later Sundar, up to 2018. Every year they’d write up the key points for the company, the focus, the strategy, shaped the culture. The very beginning is insanely interesting, and how everything changes — and fast. That’s where the 70-20-10 rule comes from about investing in the current, new, and risky business, the famous Don’t be evil etc. The evolution of ads and so on. I recommend reading it in “together with ChatGPT” mode. The document’s huge."
+      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people are going off to build their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than that used to be the case"
     }
   ]
 }
