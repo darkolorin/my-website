@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-01-27T13:15:51Z",
+  "generated_at_utc": "2026-01-27T18:59:32Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1214,
+      "url": "https://t.me/chillhousetech/1214",
+      "date_utc": null,
+      "hash": "2d03366f07aef8cabc40653066ce020a1df2ffffa14b86a0b1f0bb75deaa7594",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Xiaomi. 1 телефон в секунду. 24/7 может работать, нет персонала, работает в темноте :)",
+      "images": [],
+      "title_en": "",
+      "text_en": "Xiaomi. 1 phone a second. Can run 24/7, no staff, works in the dark :)"
+    },
     {
       "id": 1213,
       "url": "https://t.me/chillhousetech/1213",
@@ -64,11 +75,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "c9766dc47419cf8daed942fb1941041ebf4b92fda434620ece36f2532440c0c8",
+      "hash": "2022009a572488deb7ac9b4cf0a35d0a89d49372afd2be60b76217a6dbf87338",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/oiVmaG04DNUQOrj0VoEsYLLMlMBCJ2MSmCfcVsLdVkMxmoi4jIpLvRXd_c-bqKnHiRsi7rYBGyygiBTTEU_3Z9Vik9-18J3kkaAdZ2C16tbwo81LQw2KE-B5bO9GTUpyahTf2lOeKteMKM6UgmfRlKSs8wapgOrPMJHFZw-Z8UtfVqpUxV_kcnItK0mPf49439d0knpepNc5Ktwsn3iZ5_26cYD0v3MGUFcJojWz_WIhVAK7XtIcfH2nYgIX9MCm6Ea0XEol8AtrszYmhDocUhoP1ESX4fIz0eeuip4Od_USLFEFQ2ceGHrn7qTDCqvzOYAa4hOl10Kc3P13CpYUDQ.jpg"
+        "https://cdn4.telesco.pe/file/EbuDxX42SsoGX52HSyhD4baBIjDb1ZY7vvNt44ZGhHEKIZcvSya6m6nLrEVJMe_8Mfw6AkkLtnpPbwhZZIp-oviml11LVtBi07llmnsJq_10UwjEIbnjNLQl1_DxmnsGwsC-027dwNt9DQJb35yRYjcZc3Lg8ZnS0nTrVKXgW02vF9YmDFZZRxR2uBfLTrjQZxJeduSlt0zJaiBU9Tyc5V52FTsYNwI9LBYmp_Xc3Am9EHykL-SNYUFDqLhksqw7ERPhrdTb-vkPKWuHz-GFULVBsR0LQjow8vq12UQ09lXK4bm9_V6QwBAwmv_cRFZ550JarsN5CKbQBmTymKg9_A.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -121,14 +132,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "a4d6e6156ae0a85ff014aa7e314698000af1c6205b066325d0f187b178e3e2bc",
+      "hash": "4be9244e48ea9a62836fc8ce68bba3fa78101509eb7bd805ce2ab67d1ed11dd7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/iFh8_-9bnxAI1tGEKbA_4fjnWyOYxrr0UquaH7PSwVmBf3iC5bXS9RK1vElCt3-P0nJmgHp9GCimc8VJUNPvQGgGJ6TH5_KSVxCBf1MrelmFTdtGzgf6Vd3CJqo_UqIo3hXm7PQpEqNc1niUsjSt5UqHt3LK5fqwp9uvs8rC_bfe-zSINz9EdZyX0GfdedgQIiAJm1OBTXWCMHWV1EXIDWuQKwtBEMALQ5ke5ehh6ijBTs0ithoVud88fe84QpLdD5THhWoH3XVEK65NxuEZfO-AhQiy60TBMm8cajlo9AID09jc_rYLdlPw7O7MEz9ObBLcnp4Zk8LsDhAHtc3HXQ.jpg"
+        "https://cdn4.telesco.pe/file/gMV0NEBqZooWTC0z4baiagk6UHZgj5trlYR4tu_xUGjAJfgrRj5zCeuu0RH08RnZVdfbzzyDZ3lhKHYB3FqOUaHx8KaXevuLrENValH4FIim9rqIWPfep4gxxVSSDlcrrXBehcY5O3-lSkJ_FaxcEaZ3dXGwrVPy7lLPB7RHvKLjo6HXtklDfR5roCr67D9s2UdCTx6WNjg_POgq2WPgQEdGwwBYzgSDxhMJV-HUbZW_xe-ATDCIEQ6eFgus1ygVE7Aj9mS0wPGKw965vRHHvwQiNnykJnAY9hwClizTbpbnKdWbef6pgMuEOvD8Nl2t7NVQdw0g2FOfvjpTKvd9sw.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its end. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of those Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single unified interface is still gonna come and replace the verticals, or not?"
+      "text_en": "I’m watching what ChatGPT is shipping on its end. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of those Web 2.0 portals like Yahoo, Rambler, the Yandex homepage at times. Curious whether a single unified interface will come along again to replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Recommendation time, this time about venture and co, and all of venture right now is about AI, so it ends up being about that too.\n\nWhen you’ve raised rounds yourself, it’s always interesting to look at the market through the eyes of the people making decisions on the other side of the table: how they read demand, what they look at in the metrics, why one team looks convincing and another doesn’t.\n\nI recommend Sasha Zhuravlev’s channel from Mento VC. The fund invests in B2B-AI in the Valley alongside Sequoia, a16z, Index, GV (not lead and co-lead, but deals where those funds are in).\n\nSasha shows what funds actually see: where real demand is hiding, which signals decide the outcome of a deal, why some AI teams make it through screening and others don’t, and what’s behind today’s valuations. He also shares the fund’s internal stuff: from deal sourcing to understanding why some teams grow faster than others.\n\nFor anyone who’s ever thought about their own investments or just wants to understand venture from the POV of people inside the deals — subscribe. comment.\n@exitsexist"
-    },
-    {
-      "id": 1188,
-      "url": "https://t.me/chillhousetech/1188",
-      "date_utc": "2025-12-08T15:40:24+00:00",
-      "hash": "0dfd2b4cb3e32b2dce8c8063425e84a950d24bf41e6e4c729b04b48339d56e44",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Напоминаю золотое правило поиска работы и с кем работать. Ваш руководитель должен быть прям неприятный, который постоянно челленджит, который с вами говорит, но не успокаивает, берите на него референсы (это нормально). Всегда, запомните всегда, задавайте на собесе ему вопросы в лоб. Любые, начиная от зп до отношения к выходным и прочему.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Reminder of the golden rule of job hunting and who to work with. Your manager should be downright unpleasant, the kind who constantly challenges you, who talks to you but doesn’t soothe you—get references on them (that’s normal). Always, remember always, ask them questions point-blank at the interview. Any kind, from salary to their attitude to weekends and all that."
     }
   ]
 }
