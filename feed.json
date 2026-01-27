@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-01-26T18:56:21Z",
+  "generated_at_utc": "2026-01-27T02:38:22Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1213,
+      "url": "https://t.me/chillhousetech/1213",
+      "date_utc": "2026-01-26T19:07:14+00:00",
+      "hash": "5d2d1ded5f96856de70c2ae020a895b84001280933a9182e3d2a4e8e7c8a3c11",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Там Дарио запустил эссе, и в этот раз он стопицот раз уже повторил что мол может ошибаться, что мол это всего лишь прдеположение и все такое (а че на интервью так не говорит?). Но этот его скепсис постепенно в течение эссе заканчивается и дальше в принципе советую прочесть. Но самый важный прыжок в его рассуждениях стоит в этом абзаце:\nWe are now at the point where AI models are beginning to make progress in solving unsolved mathematical problems, and are good enough at coding that some of the strongest engineers I’ve ever met are now handing over almost all their coding to AI. Three years ago, AI \nstruggled with elementary school arithmetic problems\n and was barely capable of writing a single line of code. Similar rates of improvement are occurring across \nbiological science\n, finance, physics, and a variety of agentic tasks. If the exponential continues—which is not certain, but now has a decade-long track record supporting it—then it cannot possibly be more than a few years before AI is better than humans at essentially everything.\nГде так по простому, мол раньше было сложно написать строчку кода, а теперь мол вон лучше топ инженеров (хм, это вывод из интересно какого факта? что у него в компании утверждают что 90% кода пишет AI?). И дальше он говорит, что так будет везде. Смело. И что есть 10 лет экспоненты и она продолжится (тоже занятная экстраполяция).  Напоминает прогресс в комьютерной графике, мол три года назад было ой как плохо, а сейчас мол смотрите машинки похожие на те, что на улице. Сами знаете, что потом как-то скорость подупала, а и всем плюс минус пофигу стало.\nДальше все 5 пунктов советую прочесть. Но если грубо то он идет от риска страны гениев, потом что мол надо хорошие ограничения делать, потом мол политики стран будут своих жителей через аи унижать и вот фиг победишь (видимо надо будет потом за демократию бороться старыми методами). Потом экономика и наука, что с экономикой в принципе можно понять, но с наукой мне кажется пока новых идей научных от AI мы долго видеть не будем.\nПочитать эссе самому",
+      "images": [],
+      "title_en": "",
+      "text_en": "So Dario dropped an essay, and this time he repeated like a hundred-fucking-times that he might be wrong, that it’s “just a hypothesis” and all that (why doesn’t he say that in interviews though?). But this skepticism of his gradually runs out over the course of the essay, and after that I generally recommend reading on. But the most important leap in his reasoning sits in this paragraph:\n\nWe are now at the point where AI models are beginning to make progress in solving unsolved mathematical problems, and are good enough at coding that some of the strongest engineers I’ve ever met are now handing over almost all their coding to AI. Three years ago, AI \nstruggled with elementary school arithmetic problems\n and was barely capable of writing a single line of code. Similar rates of improvement are occurring across \nbiological science\n, finance, physics, and a variety of agentic tasks. If the exponential continues—which is not certain, but now has a decade-long track record supporting it—then it cannot possibly be more than a few years before AI is better than humans at essentially everything.\n\nWhere it’s all so simple, like, before it was hard to write a line of code, and now look, it’s better than top engineers (hmm, that conclusion is based on what interesting fact exactly? that at his company they claim 90% of the code is written by AI?). And then he says it’ll be like that everywhere. Bold. And that there are 10 years of exponential and it’ll keep going (also a curious extrapolation). Reminds me of progress in computer graphics: like three years ago it was “oh wow so bad,” and now “look, cars that look like the ones on the street.” You know yourselves what happened next: the pace kind of slowed down, and everyone more or less stopped giving a shit.\n\nFurther on, I recommend reading all 5 points. But roughly speaking he goes from the risk of a country of geniuses, then that we need to make good restrictions, then that politicians of countries will humiliate their residents via AI and you won’t beat that for shit (apparently then we’ll have to fight for democracy using the old methods). Then economics and science: with economics you can kinda get it, but with science it seems to me we won’t be seeing new scientific ideas from AI for a long time yet.\n\nRead the essay yourself"
+    },
     {
       "id": 1212,
       "url": "https://t.me/chillhousetech/1212",
@@ -276,20 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Reminder of the golden rule of job hunting and who to work with. Your manager should be downright unpleasant, the kind who constantly challenges you, who talks to you but doesn’t soothe you—get references on them (that’s normal). Always, remember always, ask them questions point-blank at the interview. Any kind, from salary to their attitude to weekends and all that."
-    },
-    {
-      "id": 1186,
-      "url": "https://t.me/chillhousetech/1186",
-      "date_utc": "2025-12-07T22:49:48+00:00",
-      "hash": "698fe148dbf7c1964a6308971e697cbbb9b6f48d3a7cec722cd1c670a065952d",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Интересные факты от любимых мною a16z:\n1/ все больше людей идет делать свои компании, когда найм страдает\n2/ все больше компаний на поздних стадиях обходятся меньшим количеством людей чем это было ранее",
-      "images": [
-        "https://cdn4.telesco.pe/file/K0ElH4O8Yi6_XlVyZSaeuvlQfsjJWLyz1sbBCkS9dQ5D6Ougwe8IIdww2TcJudDNy1xAnOodPUNd3UPji_iKEmHl7jdDAWCbrAReI7ZhMtaFs-S4M9l-BT2-yrroMUav78vFU2emYqzgXcMWXXbdxYxROvHi7rWhkRkSViJhNeeTII3_szgNKbvg4Ell6fDBaYNVsIMxczbVpT8PwNE4WzVDFUFTX23ELYtQTNYrISMGszr0aT4P44FXBBYSevuxxwq_RJssFP1udGOaGIlQp-DmdZy1NaAIm_jTul0Qu8Al9--JHAS2OUAJ-GjNoeXKmtiILWE0_2D_Ws-iiKrouA.jpg",
-        "https://cdn4.telesco.pe/file/eYmYcAFupvM89ghOc_XhD71GaVsrVkzLI8nH1A6kyu7z6oHrZtViwjb4bmEAJjhZ68kt1UEKKIxYnnGs7VRLjSVIAlvRyfUcpwUB3Y-03_bgR3gbL82Y9JX2pGh4TudbpUmqC4xH2KnnSbMtkPEa5QYYaz0U7RefWleUq9o5sGSiTbdhjMk76_THmX7LGHoX7hkqW2RPwl517xB1aXkCFQyUMw4cEzg3MKIUZgCaqjiiELntpOmnq1fQM9Ckeb3YT475Xez-9L7uCo8ACKzR_88eEEVCSNnP8oWOIrOsPcvNNmD-Bc4_j80G_98pz5HosI4PLZxRLAwIQZHmq1PARg.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Interesting facts from my beloved a16z:\n1/ more and more people are going off to build their own companies when hiring is hurting\n2/ more and more late-stage companies are getting by with fewer people than that used to be the case"
     }
   ]
 }
