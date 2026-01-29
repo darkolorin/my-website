@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-01-29T13:34:16Z",
+  "generated_at_utc": "2026-01-29T19:06:43Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1215,
+      "url": "https://t.me/chillhousetech/1215",
+      "date_utc": "2026-01-29T16:12:16+00:00",
+      "hash": "cb4f48551c1d009ef497f63467607713fa45c87cc67e9204e215ac2e495cfa8b",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Как делают бенчи в OpenAI",
+      "images": [
+        "https://cdn4.telesco.pe/file/D_RGCjAt7f2PXuN2snOye8qalEsI5YlEx8013PC7woRM4PmI4v0BknTJHIpPwVNze1kQnyLKLXAPVcLty2vKdauCuejD6J5QzIjdoY9hNw400oAx1fFGC3C8RQI9u8w7alY4uCI2zKicWtJ9XTqT8SqLW1tEynSam9l6p3IjdtsfMUEZLgpowEnkUYVGbPYd9P-eblE0NYT29eaqcLVsVSaEsnSrFowRw62pJA4C7x_HhFE1wRl3s5xq4AoAi1EBNeHdiyQ329f3SryxZEjDrPa48NbcMPZjvvGu44ULOvbb09NwtxsFx2yV3mzwpWwrtGjh0uCIhhUCkufNuKvWXQ.jpg"
+      ],
+      "title_en": "",
+      "text_en": "How OpenAI makes benchmarks"
+    },
     {
       "id": 1214,
       "url": "https://t.me/chillhousetech/1214",
@@ -75,11 +88,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "878372c9ddf39628e2dcc8f1d5fbc615063cd40964f963897ff44b57038c15fa",
+      "hash": "e20ecc6cf8828822eb2f9942cd825f1e81586df4a6968cc2328d61e78b254622",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/bIzEJsBOPWBtkm7Dj8wxOP8IKBKTiEyToMSEkCJgQEi5_kAk9UelvVFwbG81XdKXKwPtq6xc0pgOorkkXMTMFhzDe6OBNl6ZuZ4twFyS4Dy19rOtSv5L5DzZYHTSd_8tZxrnGUe4zfASO6NusJ3JgSaPvTQKkZWNnvfiEL3QrrZms2dXK1XlPzs5yYWUJHPdSeunqebts7if2Wrs18l_zvemtDlEUsWy1FQrugbFqy6S2cQhDvSdurjfX0NiHHOAKumlfb7m5If0kdThoz2ozY6hJwuthUj5IRVknwAXI4apX2cyZcPwQvHSxqnU33n8wqtxz8z3SQK1MPtJ7p1Oyg.jpg"
+        "https://cdn4.telesco.pe/file/Dj3kFFEekB0m5zzTQTvQPlsIZYEz5ntNLWslyi4skqCaABkPubFa3dJePobHX7X2reNdwTNGuq2I1zwIdRqoTnxGNhOKqSiHvNoD4Wn0Ny7FtLZB8GA54gqZ8ZFGPGOdUeftPlisHVz6tEtZelEXuWxnELGJW5H-n9xvD2Yl_fhG2_kMvHwhazJCgS077_mvQY_m-AqabPSAmmGxSSDAIDIX7vQtnRowRrw_NNdZlrXmX71eidV8wwSv-VnPgWN2Bm_MIyHjcpMv7LU2s-aMnm7MM3__aY_4glk_W6Ac4HIg8SzjL_Lo-EbLh1_yUqriAGaf5ibZhZkCMTIjptaCYw.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -132,14 +145,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "0138a3a2019bfe23502bcc0ad7682baa74121b7154b7dd73b27b0c257928c8e6",
+      "hash": "34f5659bacf35214b7424c87aed995187ee8b4b6aec154981255f31633422317",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/YpMud371hFMOPuoUO-QIxmbGCpAsKzRhdR94pYv9TjB0PB-AqMzB_WheTV68VK-I0d9ifXFAaC6rPDAcYix0n2CSwMfm67ml3h7y63Y2zKjp5SpakSLfh46Q09JtyB-1PNVKwupeSOfWjAjdNQ2NFEwG4gtUbkyKZz5d_-Oy_vL2eb9VOAwRSFDcwqZIXsGDmgXxq5vcy3XufC2z9KLWGgnZxkx9-Pf7glVj2s3sVPRcVM-LuFEbGYsIhBAkKBTa1cUrzKkpiubqCD7gYxxPX5upDnThfrMP2DvVayNUS6uamIXYwT5KNITn3YUFcVzfBKRa2oeAqUoo7HsPRDoGgA.jpg"
+        "https://cdn4.telesco.pe/file/c_v50giwQ0znAz7e2d_E06bA0hjKPwlQyt7rbmRMdlfUIzL9PeCQketl7B5U-fs3wDrc0B__Au7T6dWZtx7XpiquGQvRRbSGj4s_tBpRHSIj9GpVbbVQzmsEaclVRWKPGKto0a_9afl_DPSSQNfgtyspU7Lg_gAJIHihVbBk7hMbWtweGELLZy7u5qPrMWgJW9-VKPDZ5m8ULTVcT6kUr3kzYzEV7oyvhLO9mQjqHAvghyEkIAviZ2OY292YVA58fpMnXX6RJLt_h4E9u-o-8u7_kjNdfBV7nNF4qYWr8iB2uLnq9B3vPsm94izdITql4yGQtoOIGtYyAlYxyyol1A.jpg"
       ],
       "title_en": "",
-      "text_en": "Watching what ChatGPT is shipping over there. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether the same old thing will happen again — a single interface replacing the verticals — or not?"
+      "text_en": "I’m looking at what ChatGPT is rolling out on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether that one unified interface is still going to come and replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -224,14 +237,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "34d62bc53dba846c6e5c38ad6d4603d66e7ff124a9b3687aed6b589e72ce61d1",
+      "hash": "ac4aa5f82e5bb3f105dcc9f0caceca94eec0b408d4e16071172c9e94e67569cc",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/sSfQnFK4ZbKd1gMoN1KDwxFflFb2Sd_eb3dmp-6HfxnS-AXOqhqBzkCYmSDHxQO4IbRpVn9ISPTvtFYCEVrVVcVVLdPU1LpOwUuoLe0Cd6mzK5QLaIdtXojiEhntkwyWeHKOxOpGfMlloV_AsdkVF7L_Vy8aQ80VMDARM9_c09CUDmpulE4QJKtrpBtpKDd3ws_Y4-BCcJwCPm2k_2j2yAjuyq-qx-kspUFAE9_dH1imUgFCqHmIIaNxq7gmFO1IXCxpkmu-DnbZoZOdtmVo9J99BGRWRczVVzRZdwXmjYRIaj87PgxVw9Cc9WMb-mVq2AgbEcg2E3xv2gYm_z0LSw.jpg"
+        "https://cdn4.telesco.pe/file/WD2UXiEtAQuIGQG5hYQxOb_B9z34BqkEMxGxUUvkMhpzJbW22BielrNwts_f1pejbEY_oHyTFIRwVqCCcgPEGVFzo-ma5-CM-Y063pFcizdz2KhrSMqPJ6CGUDKcAvmSnWK_KHQZQ20-5JdbB4grTl2XSxRo4EHz5HP7FLbMnYhb17uBEnlcrQ9rbPg1fgA7vS8LiTYeoyxHY7U9jOa_XnOWYkAqlyBG2myoT3i8T3-qAoBQ7XzpbIH4qtmuBrcBPLdBezWFE2cNgXwcHXPFIvmsEVdC1LSPT-6OAUjlWlueagxPbNDLxBMMey4Fwm3nUNaub94tbPMoZQWZ4YLPsw.jpg"
       ],
       "title_en": "",
-      "text_en": "Just imagine  \nwhere  \nyou ended up, wowza (nope)  \nYou can check out the landing page here  \ntrymirai.com"
+      "text_en": "Imagine\nwhere\n you’ve ended up, oh wow (nope)\nYou can check out the landing page here\ntrymirai.com"
     },
     {
       "id": 1193,
@@ -276,17 +289,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Busy though, OpenAI is running everywhere.  \nhttps://openai.com/index/disney-sora-agreement/  \nAnd all for this  \nprobably"
-    },
-    {
-      "id": 1189,
-      "url": "https://t.me/chillhousetech/1189",
-      "date_utc": "2025-12-10T13:02:15+00:00",
-      "hash": "0481de525ca76ecd0bd47bea673b6baf1bd7d142b612450feb11b7f90e9a590b",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Время рекомендаций, в этот раз про венчур и ко, а весь венчур сейчас про AI так что и про него получается тоже.\nКогда ты сам поднимал раунды, всегда интересно посмотреть на рынок глазами тех, кто принимает решения на другой стороне стола, как они читают спрос, на что смотрят в метриках, почему одна команда выглядит убедительно, а другая нет. \nРекомендую канал Саши Журавлева из Mento VC. Фонд инвестирует в B2B-AI в Долине вместе с Sequoia, a16z, Index, GV (не лид и ко-лид, а сделки где есть эти фонды). \nСаша показывает, что на самом деле видят фонды: где скрыт реальный спрос, какие сигналы решают исход сделки, почему одни AI-команды проходят отбор, а другие нет, и что стоит за сегодняшними оценками. Еще делится внутрянкой фонда: от поиска сделок до понимания, почему одни команды растут быстрее других.\nДля тех, кто когда-либо думал о собственных инвестициях или просто хочет понимать венчур с точки зрения людей внутри сделок подписывайтесь. комментируйте \n@exitsexist",
-      "images": [],
-      "title_en": "",
-      "text_en": "Recommendation time, this time about venture and co, and all of venture right now is about AI, so it ends up being about that too.\n\nWhen you’ve raised rounds yourself, it’s always interesting to look at the market through the eyes of the people making decisions on the other side of the table: how they read demand, what they look at in the metrics, why one team looks convincing and another doesn’t.\n\nI recommend Sasha Zhuravlev’s channel from Mento VC. The fund invests in B2B-AI in the Valley alongside Sequoia, a16z, Index, GV (not lead and co-lead, but deals where those funds are in).\n\nSasha shows what funds actually see: where real demand is hiding, which signals decide the outcome of a deal, why some AI teams make it through screening and others don’t, and what’s behind today’s valuations. He also shares the fund’s internal stuff: from deal sourcing to understanding why some teams grow faster than others.\n\nFor anyone who’s ever thought about their own investments or just wants to understand venture from the POV of people inside the deals — subscribe. comment.\n@exitsexist"
     }
   ]
 }
