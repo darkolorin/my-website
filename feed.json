@@ -1,8 +1,30 @@
 {
-  "generated_at_utc": "2026-01-29T19:06:43Z",
+  "generated_at_utc": "2026-01-30T03:08:23Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1217,
+      "url": "https://t.me/chillhousetech/1217",
+      "date_utc": "2026-01-30T02:21:06+00:00",
+      "hash": "75b174e887f46e7233f9d29001954887f3f6338824c17f7cefd855db031c4119",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "У нас открылась еще одна позиция, фул тайм - Inference Engineer. Если вы любите извлекать из железа все соки и знакомы с AI/ML чуть дольше чем оно все на хайпе, то оставляйте заявки.\nОписание можно найти тут \nhttps://trymirai.com/inference-engineer\n \nКомпенсация в рынке\nRemote (prefer London or US)\nМед Страховка\nОпционы\nЗа удачный рефер платим\nЕсли вы знаете кому отправить - буду благодарен!",
+      "images": [],
+      "title_en": "",
+      "text_en": "We’ve opened up another role, full-time — Inference Engineer. If you like squeezing every last drop out of hardware and you’ve been around AI/ML a bit longer than just while it’s been hyped, then drop an application.\n\nDescription is here  \nhttps://trymirai.com/inference-engineer\n\nComp is market-rate  \nRemote (prefer London or US)  \nHealth insurance  \nOptions  \nWe pay for a successful referral  \nIf you know who to send it to — I’d appreciate it!"
+    },
+    {
+      "id": 1216,
+      "url": "https://t.me/chillhousetech/1216",
+      "date_utc": "2026-01-29T22:22:32+00:00",
+      "hash": "d6259efe51e84bf5615a55a5e79505c2dfcadaabfbb8cde42c282ab674199fa3",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Сколько там OpenAI обещал к 2030 году делать в год? А тут вроде вон за \nквартал.\n \nApple today announced financial results for its fiscal 2026 first quarter ended December 27, 2025. The Company posted quarterly revenue of $143.8 billion, up 16 percent year over year.",
+      "images": [],
+      "title_en": "",
+      "text_en": "How much was it that OpenAI promised to be making per year by 2030? And here it’s like, bam, in a quarter.\n\nApple today announced financial results for its fiscal 2026 first quarter ended December 27, 2025. The Company posted quarterly revenue of $143.8 billion, up 16 percent year over year."
+    },
     {
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
@@ -237,14 +259,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "ac4aa5f82e5bb3f105dcc9f0caceca94eec0b408d4e16071172c9e94e67569cc",
+      "hash": "9067a56150e174d6d4cc2b8ce1d31a7da2dce3cfcd9bdf9388526be7711a049b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/WD2UXiEtAQuIGQG5hYQxOb_B9z34BqkEMxGxUUvkMhpzJbW22BielrNwts_f1pejbEY_oHyTFIRwVqCCcgPEGVFzo-ma5-CM-Y063pFcizdz2KhrSMqPJ6CGUDKcAvmSnWK_KHQZQ20-5JdbB4grTl2XSxRo4EHz5HP7FLbMnYhb17uBEnlcrQ9rbPg1fgA7vS8LiTYeoyxHY7U9jOa_XnOWYkAqlyBG2myoT3i8T3-qAoBQ7XzpbIH4qtmuBrcBPLdBezWFE2cNgXwcHXPFIvmsEVdC1LSPT-6OAUjlWlueagxPbNDLxBMMey4Fwm3nUNaub94tbPMoZQWZ4YLPsw.jpg"
+        "https://cdn4.telesco.pe/file/I88O0xcoqEOKbKZOWeIsj3sI734ZnRZ8AZTII6pXiTUqiVRpYMdJfbbqxLl-DFRjO5eud59-l0y-4NLdYo3D4maAr-Nazm6JxmGqHN0kw0kv19dOsGf-tVmBTIScLOPj7dDA6Vlx5zd05St-sHSdmcenr-2xpSaNvK0acxZ41qiQv5SXa1MFnRJBuMjjPz8wVMFWndfW1Ro8nCTiItlkZ86xxltkOczH005-FgsQ_iWLf0cub0PXMeLuXFs5zxTS_gyHHV61yVkgQZTDoaqD_wNtYl330gde6zhxSTLLaITzKYIqkNv61xcEXZfT93461kj2aDZy8PaA7VOpSCc9dQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Imagine\nwhere\n you’ve ended up, oh wow (nope)\nYou can check out the landing page here\ntrymirai.com"
+      "text_en": "Imagine that  \nwhere  \nyou’ve ended up, wowza (nope)  \nYou can check out the landing here  \ntrymirai.com"
     },
     {
       "id": 1193,
@@ -267,28 +289,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Let me tell you a story. Back when I was a student, at uni we put together a team and made all sorts of “startup crafts.” Like our own Foursquare, which in the US they went and “invented” a couple months later, and a bunch of totally pointless but fun stuff, like “a desktop widget where you could set an emoticon for your mood for the day.” Sometimes those projects even brought in decent money, and I even wrote some articles on Habr.\n\nSo one day we went with one of those ideas (pretty sure it was the Foursquare thing with photos on a map) to a startup contest where one of the judges was Arkady Moreynis. And I remember his “line of attack” really well:\n- okay okay okay, why not Facebook events or photos\n- what’s the business model? How do you make money?\n- yeah, you guys are clear\n\nAnd he said it all rough, with this vibe like “he’s seen all these student ideas in a coffin.” So yeah, that’s the very person who pretty much finished off the desire to do anything in me. And not because the questions were supposedly hard or I answered wrong. But because his attitude, his phrases, and other “hints” completely killed any desire in all the guys around to do anything except “buy-sell.”\n\nAfter that I spent a long time thinking what makes this guy so great, worked for a long time first in outsourcing, then at Yandex, then at Mail, and it still didn’t click. Yeah, he sold something back at the dawn of the internet and wrote a ton of articles. And then he went to the Valley, made a pretty successful product, and I realized — nothing. Took away a lesson for myself: to hand out criticism in a certain industry you need to have experience in it, and preferably not from 20 years ago."
-    },
-    {
-      "id": 1191,
-      "url": "https://t.me/chillhousetech/1191",
-      "date_utc": "2025-12-19T16:55:21+00:00",
-      "hash": "58e5644e9b62017cd0a03ada2b4bd090b394e5097e1bb09428354c4361abccba",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Чуть приболел тут. Но наткнулся на вот такую прекрасную работу. Мол, чтобы делать новые открытия в науке LLM нужны идеи, свежие новые идеи. Само не тянет. Но вот как помощник брейнштормить самое то. \nКрасивый пэйпер",
-      "images": [],
-      "title_en": "",
-      "text_en": "Got a bit sick here. But stumbled on this lovely piece of work. Like, to make new discoveries in science, LLMs need ideas, fresh new ideas. On its own it doesn’t pull. But as an assistant for brainstorming — just the thing.\n\nPretty paper."
-    },
-    {
-      "id": 1190,
-      "url": "https://t.me/chillhousetech/1190",
-      "date_utc": "2025-12-11T15:22:35+00:00",
-      "hash": "aeb43a07853c0af6212eb2bde8bd3ff7df0d7710c6394aa216a3ed88d907a1ff",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Занято однако, OpenAI бежит везде. \nhttps://openai.com/index/disney-sora-agreement/\nА все ради этого \nнаверное",
-      "images": [],
-      "title_en": "",
-      "text_en": "Busy though, OpenAI is running everywhere.  \nhttps://openai.com/index/disney-sora-agreement/  \nAnd all for this  \nprobably"
     }
   ]
 }
