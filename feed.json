@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-31T13:12:32Z",
+  "generated_at_utc": "2026-01-31T18:52:19Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -29,14 +29,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "c439b44b2050998129cdad72363c6ab22ec76787507307df0b79f2d5693ef5e7",
+      "hash": "30e0d06b97b90bdd5368191593a21ab9aba2a10ae7c14457c65179d6e6a188e9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/gvgSfjJKUR_S5Au08GCz9atSmaQUabOE75Hd_vs69NzwOiWD2k7fLLp-Royfl72-sFZEOywJXowrsmk5YreN3z17JPzAlty5fcxjiDzJaORXX8o_kg2CKvdCCMa8ix-b9YHX9RTI9qKa3l0KfoAyzW5UJJeNpAd7G7I9yn_3r7cJJLhoMLNx1dfUoPByDIgg6aRHRn8cs8yD3A_Ff5FLLVVO1-78p3FPUR_G85HFnBK_zOKIj73FxAv6ue-fH042p9Nc-2XgMIm3iSb0UHEOmgDahm-blYNNk6I-dRSpE2gVLMFLe8MYhWisFY3ztTauoFgk_V4TlLFvPW3Hr27Dag.jpg"
+        "https://cdn4.telesco.pe/file/umDLf39D9fViPVIS-9AzY0ocQFWmCF13Q11z-my4nlZtGVSFDsjyMde6r8pHdtNM3EjBy0tiu-geSo8kEJG3EFnL8IhwdOGbZ-QeS1sW-JLJQxJMFDvMX1GfSdwnFdTFFo62SfX23ipB1ZraKv3quCDIUW-yc5JTIVQ5dtdE9WiEbg1AMUilTXhiG7WKNc0xJldimHK-VQSTtEGTeqMnphOzvEDR0gK5KVKbyO5GMQeUxV0v9V0AiQLWCKkaKTzkzularl19RbG_r-oEtgc6HPz2_BZ0fxmsvciMowKrbtX_PsJEeS4HjMsdNKkt2t7I-Er4u_j2knKFsYf74xhHLA.jpg"
       ],
       "title_en": "",
-      "text_en": "How OpenAI makes benchmarks"
+      "text_en": "How they make benchmarks at OpenAI"
     },
     {
       "id": 1214,
@@ -110,11 +110,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "f3f80a0037273f3c207ddab2d699c300182b0f46fd470d1e3761fc773f7b18b9",
+      "hash": "877a84719c989e07ef3d5c583e7ae2aa7863a66045f72b0ed4f3ba92edb99f83",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/P4DtyxUfknwT7bJ0XwZVYmCmfXpL6ceOouqswC7BRuCwJyZxryzKPq_UMRKxOr-ElUZsISppDucmNCPvIX07BxZyPmeIZbP_xjBlq8cwnq1wVuDd8qVOrppfKezpLEXLZKjlK0HK3t0DcHq112F549qPyu5jVyTneu2JNQMsYHEOPLJMzixFiP9QTTEDoZotZyI_Sf242lalPMa3Qxa4pPPmsnz92K6vsY6yQb8TWtCkAp1KE2A2djOjN42srFEYlp8HlHVbiIIoshmFW--6klct-naQu08rsEMhfre_19pzxSbbuBNIbs5Eb22n6mMkDAM0MtkoEyq3BBUZieBrrw.jpg"
+        "https://cdn4.telesco.pe/file/JdrmB3a5sjRgqR9DxbxkEdrvr0CLwdcA0iDo9dnmw7kQhZ1qdQmH6vEqyXvQDSmpBQRbxT6MaXFVRc8tbUplSDDMV5tJAp8tq3lufQX549Drs7hgxxPyOQNobTnAv9HCy8qmI7ERq3MYJJaIr2WiMAN_8o-aAtTFboc4wuKUVzY6O5M6HSqflUGjaV1gDoXjeAfPpxcCgELuVHFjBZhJ2Q1abByZAI8GA8BJItBQu4a79o8659JT2gZ6t0FaauuotMxJcFUNVof8zZ1oI4Q4mT_DOQELtLVE3EKC1vnfMqdGKtI-gfZOJznJw0ZaY4MuctqG1IAiYrwBZ0D0IODQFA.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -167,14 +167,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "7c178750e260b4c5920a117fda4092d584b52e71185a61e44944574310d38ed5",
+      "hash": "d8295ddc6d614c3f0caa33b392bfa4841d0685959768d5ab5998a4bb72cf7d81",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/DXRlu0C0dzmU7nKmuY5Jmvtq0p25UCjBD1pAp6n5k_8YRmP6WufXXvoe7eO8P4vndzc7OTPFqqeyYFhDBW-A8kKlQackasztyMXyu72fk_h5MEEdUIAlorJCztjay-CELsxknebU53oKG5xp3cwaVYCQp5pCUsSzx4rpzjKtsg_4RnWWH88UXwm2uWpo5PF9b_v6UkzjmOOISCaWUCYBTOqVIpAPyCHOza74EJJ3LIqSVyk7lGmVlnlvFJwSaIvx4pAo47lpYrhA8gaxU-dQIdcROoG13XUZ7XzODJkmoJsDCnLL0u6IniWVAOZK9JYl5GCsI47_3lkipNphrpNp5w.jpg"
+        "https://cdn4.telesco.pe/file/qXZKfwZ1_hK8uNNkeaVWCmbpfYCwPuuF3wPqAWUtciXSroD0z9QwIMOQRiyrH9xFosjpMVP67DnmtXiGnnqBCdnwtGh9iNvR9U_xw8aBrbJhXRIzpY27CE76JU693Hl-U8fzhxXxz3vrVx5s_CXC1DFsHnpVOtLLz35IOtvEnZVsKIVApj7e90h_EVzlFdaKRONzbcpVQs1wmpR7aNt2cs6Bs2upYjyaVjTg8CJLE96tB7JlZ4oPomVgL-1pbA5PhZaFXREe7QJeYGO7nEwmrD0lzTPUFa66Q0MoHcaJIQbnhtfwk7o90lCUIzaJN4IGo3lSuMqy-26MZb3xn1K7DQ.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, the Yandex homepage at times. Curious whether the same single interface will still come and replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its end. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of those Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single interface will still come to replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -235,14 +235,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "b747ed5a0c347c63f213bba43c71f24ab5a37d69616676197987ba28a31cb628",
+      "hash": "dfc466aff9856e3264389f7900675e299532146527cd25cdd59ee11e4b1afafc",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/MM4kOofRKrizmwIE0tbXUp8akOiJHN--wEEYejdtdCmkkWdKuaNIZ3U56cKjY9aYlX9Sskvi0YQ_gC4y15qks4hNLzpCcV_yXHOw6xY8DGJoZD2DTXplSUrHEZrZDp3ZJ2x4hSYlVdacaGuQpudct7zB9XNxIJxegv9RlpMmBb7LRwDtw4h1pXx0lDR72d2qnxhG6YAvGaGXxiDagbODZKwtHSaMHHK1hbfHekyy7eR_0Cbu6dL9uKH4pXR6OzMzGVpitHrZL2aqhnhaeyy0JZE7AfqDicU60r24MibvlvHiNEA_GX1YYKUQ9iv1jxlXl-PZHIV8dXoBGK-Yhlr-pQ.jpg"
+        "https://cdn4.telesco.pe/file/ic5oJAJcs8jmXNhPmYE-VnFNzNJpFTKKwHIiSiKiRTXsfXdhimyWTptDkB4lYAgPAPdheF30Nyeo8nKI2KJLJnMGP2LHrbImxmSe9k0KwokHLCDcks96s2bwdO2z7eBEynEyrDhWqLXKZTocWE3eqJZ2BZnBENDElmhNBfwtB-icweEhl8oVOJRuRhSeoEC-_5WeRFjHnz5xy6mK6ZqWyzJizXRo-dCtMrtMBww3KzvA4H9bL4TSA6BLie_ATfpqnORw5WGholZQ8zq_gdmG67DlNI2S1t9bzL-Pt6BuMqTXY6NCNMOUzNZlGxxY5Sj5wYQNpBwx9kjSs0dk9zdPoA.jpg"
       ],
       "title_en": "",
-      "text_en": "Cool year infographic for the channel, I’d obviously add links and all that copyable stuff. But it came out kinda funny. You can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Cool infographic for the year for the channel, I’d obviously add links and stuff that you can copy and all that. But it came out kinda funny. You can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
@@ -259,14 +259,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "bf6ec7fce81f0c16f865a22b384deae5645e64e651f2ff8a74af1a4398c8fc25",
+      "hash": "cd7c6b160c5157e1f4678d62e31912158a42c86d93fb80015b28e5a49892fa82",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/JMX70B8_zOVa-ZhnPGBl7Al2qJIAlquHAUlHIXfrpEMHjQrBRrIh2KFzIWz24kiE36_dCAju4gPnRnJyN1E1SjHiAeLWD-BF89SgnhwS5aDR5FOvU7RTqQabZeS8PaaoYfPhzAjZdvkAVi_F2jTlWA6HNfGQ7UD-exBoiHi7ILvkAlB98Y19jzV4Wa_0mNQ8e_ROUsXl17qXvHTZDOnR8-lT-1WLqfoDhhXySya1CFo4I8vI8-eAM6RZ-KG4U7ram3N2I_F1sjAHQmy5H9kTeNJQeUVeSZH7S66O8fikBHfHFJ_hMYvzZU6QmulLkNYgnd2cs4aEjWVi-B9ivPzDPg.jpg"
+        "https://cdn4.telesco.pe/file/I4Qvad3mugYy2lZUzw30uPE3L2hweaKWCLtqH0BMV2m1qyHZnIssFmv1NLGMLMZSOOo9pmUU1oSxARHo4xkmHYge-MqYcjU0P5BpF82w03DcBQgSjdf38b8E2ZYrzJZwCzS8lrW2u6epjz9Phzl34rzA8ufOrAYrmvJbMsw16N8Qni5C4FjC5Of5wcGCQAzk9b7jlmF1YLGqjg-F0PdVToMpo2MGYLhzdi5WJ7rO5SsOMMaEI55HXbQb7ZsToFxnNqJGyRzvLXKxVzt5mPpJk7wq3pK8VgXLsFbSkvlwKqQL_XsGEDxVroe40gkPMeUFdHzHDTnTo1jCNWBew32XYg.jpg"
       ],
       "title_en": "",
-      "text_en": "Imagine\nwhere\n you’ve ended up, whoa (nope)\nYou can check out the landing page here\ntrymirai.com"
+      "text_en": "Imagine  \nwhere\n you ended up, wowza (nope)\nYou can check out the landing page here  \ntrymirai.com"
     },
     {
       "id": 1193,
