@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-01T13:14:53Z",
+  "generated_at_utc": "2026-02-01T18:55:46Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1219,
+      "url": "https://t.me/chillhousetech/1219",
+      "date_utc": "2026-02-01T17:33:36+00:00",
+      "hash": "4e264719c448eb1157ec80f4e6e23abf416298e695f4194bb38ae784a96f7819",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Есть еще такое наблюдение за долгое время, даже за собой порой тоже наблюдаю схожее. Как ни спрошу фаундера стартапа или своего проекта - у всех все супер офигенно. Что не релиз, то успех. Всегда вот вот будет 1-2-3-5-10-100 ARR, вот вот завтра, в следующем месяце будет раунд, два, три.\nМне интересно какой эффект это создает на масштабе? Ведь у 90% нет и не будет раундов, и не будет прогресса почти никогда. Почему никто не хочет поделиться реальными вопросами. Мне кажется одна из основных причин это эго фаундера направленное на публичное русло. А вы как думаете?",
+      "images": [],
+      "title_en": "",
+      "text_en": "There’s another thing I’ve noticed over a long time, and sometimes I catch myself doing the same too. No matter how I ask a startup founder or someone running their own project — everyone’s doing fucking amazing. Every release is a success. It’s always like, 1-2-3-5-10-100 ARR is just around the corner, like, tomorrow, and next month there’ll be a round, two, three.\n\nI’m curious what kind of effect this creates at scale? Because 90% won’t have rounds and won’t, and will basically never have progress. Why does nobody want to share the real questions? Seems to me one of the main reasons is founder ego being pushed into the public stream. What do you think?"
+    },
     {
       "id": 1217,
       "url": "https://t.me/chillhousetech/1217",
@@ -29,11 +40,11 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "30e0d06b97b90bdd5368191593a21ab9aba2a10ae7c14457c65179d6e6a188e9",
+      "hash": "9abb1bec52ae493889757ce7e63373d69bd8f2daa80d2cf0f83e0304275b05d0",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/umDLf39D9fViPVIS-9AzY0ocQFWmCF13Q11z-my4nlZtGVSFDsjyMde6r8pHdtNM3EjBy0tiu-geSo8kEJG3EFnL8IhwdOGbZ-QeS1sW-JLJQxJMFDvMX1GfSdwnFdTFFo62SfX23ipB1ZraKv3quCDIUW-yc5JTIVQ5dtdE9WiEbg1AMUilTXhiG7WKNc0xJldimHK-VQSTtEGTeqMnphOzvEDR0gK5KVKbyO5GMQeUxV0v9V0AiQLWCKkaKTzkzularl19RbG_r-oEtgc6HPz2_BZ0fxmsvciMowKrbtX_PsJEeS4HjMsdNKkt2t7I-Er4u_j2knKFsYf74xhHLA.jpg"
+        "https://cdn4.telesco.pe/file/dKqi6-ctSRN7p2YXFzWBXL7Rjn2hahrR2lzEZYnlff08ad6PsbRhpvJdQekoKrVjSVRsYAp314uEx2wQ96WOiBmKqjCyS0yZb57qcaRO_hMR7-fgx3EpNgbRZLqeMBbNISdwOurCPOTKbkkx-k0O3_xohXEJRIxHN-BVehScqYApUv7fxp9w8bC3JDinyVV_NIV_PCsp0Pmuku1L5gAtM38Ofvqg5JpjFU8wHTKvG_YnynUQnCAlTG_c2mhVdDNAwSZV5D4XioLpzRxPs_u7waefybDtvOsfGGLu0Y9lPxNVbqDNt626MFc6oYnCkOTyoYbd2VwXHkGaZQ-zZqHexQ.jpg"
       ],
       "title_en": "",
       "text_en": "How they make benchmarks at OpenAI"
@@ -110,11 +121,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "877a84719c989e07ef3d5c583e7ae2aa7863a66045f72b0ed4f3ba92edb99f83",
+      "hash": "7e85352ebd6a85753aba908f2d8b86f6037e30e4f43c5110a862e4916b7bdbd4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/JdrmB3a5sjRgqR9DxbxkEdrvr0CLwdcA0iDo9dnmw7kQhZ1qdQmH6vEqyXvQDSmpBQRbxT6MaXFVRc8tbUplSDDMV5tJAp8tq3lufQX549Drs7hgxxPyOQNobTnAv9HCy8qmI7ERq3MYJJaIr2WiMAN_8o-aAtTFboc4wuKUVzY6O5M6HSqflUGjaV1gDoXjeAfPpxcCgELuVHFjBZhJ2Q1abByZAI8GA8BJItBQu4a79o8659JT2gZ6t0FaauuotMxJcFUNVof8zZ1oI4Q4mT_DOQELtLVE3EKC1vnfMqdGKtI-gfZOJznJw0ZaY4MuctqG1IAiYrwBZ0D0IODQFA.jpg"
+        "https://cdn4.telesco.pe/file/RKTfGrI8iLkZLxHeilg0vPZW0Bgyfy8X6Q5wuR05v7dExQzDdIPz7af0QrILmN_J8ZxPdr6FpHNrOgVcfnOBU9ryKVoe68TcTaNyiZGYBrsosphXbtLvwUBLKKL2EWmY1S8MyCZ8FOotyRAqx-2GA9QlMQgaohb-kZgGY6ZMBLKYGBijj6VbLyy3XMVu6PlA-bIzk6cSrnU8HwTPSAZdaKcc0B1PHlabLkP6sX5uX0VsJHs_ZfnGZgBQuf5T3JiOMp8FAkbrBFIGEDOl2zTcf5tRsgnagnhDEU06s-0ZZIG-H7pgxXUBUXCYHsLc-B799blisQdkVph7msamfqqMxA.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -167,14 +178,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "d8295ddc6d614c3f0caa33b392bfa4841d0685959768d5ab5998a4bb72cf7d81",
+      "hash": "df89505df1cfd536e5f39b59c1240e7feb638ab45d956ee0d7b79a98f24dbb8f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/qXZKfwZ1_hK8uNNkeaVWCmbpfYCwPuuF3wPqAWUtciXSroD0z9QwIMOQRiyrH9xFosjpMVP67DnmtXiGnnqBCdnwtGh9iNvR9U_xw8aBrbJhXRIzpY27CE76JU693Hl-U8fzhxXxz3vrVx5s_CXC1DFsHnpVOtLLz35IOtvEnZVsKIVApj7e90h_EVzlFdaKRONzbcpVQs1wmpR7aNt2cs6Bs2upYjyaVjTg8CJLE96tB7JlZ4oPomVgL-1pbA5PhZaFXREe7QJeYGO7nEwmrD0lzTPUFa66Q0MoHcaJIQbnhtfwk7o90lCUIzaJN4IGo3lSuMqy-26MZb3xn1K7DQ.jpg"
+        "https://cdn4.telesco.pe/file/aO1nJIDI_OZULGfCWWlDkV4mD0tf6ceVFpQzyfSYYQqbClM7dRP70yVSQ-Dti2Z7cvcAVyoSw_eDsmj_lT5h3hOS5Kv3xcJAOUv4nuvPoZWKChqOGSRvgUfnG8jN6JBkDektAJ0cKI_KMO63lnWet1uHOUTe7HxijnbBYB65z14oJwLcRHAsgPZ1Fr2a9czHiEXpYGxVsr8ZdZKlUVxb0DLnjMAlolzGLy9VAbNTiCExbuLtheiKnT6hIt-fQuSvJ97aqUW1Qh0thWKv_B_01jqUNwadp25RYPs76I4_sV9NNwAboBjheRz_Lna0rmbAwq4JSq1pbzLvdKAjeGTy9A.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its end. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of those Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single interface will still come to replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Interesting—will a single interface come again to replace verticals, or not?"
     },
     {
       "id": 1202,
@@ -235,14 +246,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "2c935d445f604454f3c44a869e35e07ce020a9e2ef369710b0d92d7a642e70d4",
+      "hash": "c802e7d05ed0f15d4184531c2d60b9cc3aa72e7fa20f94b97714beb7f56b9a23",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/DH3GB8zHX3a5Vx3LhrDA7mmTTzg-H7Wzj-rC-NmZ3AB9kCtV7w1gA1S2yXmZRG3alS2ozgI12ilaxaD4mWPkr8Jlpw_V-kE_X07vADu2C7eKQlffCi-G-sg1N9b7nYa7YePEJhchW0BgZAwSSn1OAln72i6qHsjJwibhLOVAsZiR0BDTO6PWEos3HbWGCDafrBxcOsLvrjNfeVrScvhgWvzjtBclcdJE1qSlLrfQNZhYp-7aeDtGZC3K5n_JJvLrTJRaAf3X9juY5o9MuZuWexpTegatQFoDr5_7noY9c3CWaL2TcpevZfJGw4f1W9PtoljgDvaUf38qI4Ew6sFnqg.jpg"
+        "https://cdn4.telesco.pe/file/YiYeVGmpTXGwRcgUN6m1XEcLNkrl3VkBJZL3_Oc9YYuYsDbWZsS5zEXThguz3A-SijILNguM4aRn9dm9YihPvSvXnmcyclMy58PbyeQSs5E1SgKZlKFyr3Q4iTlfMq-O-6yih3XQrvwMPlnPA5pwxEJEc01DwE_Z7EXD9tr-XFpvoikbk4etS1QGMgqrYB4CtR3eYeDvEUGUD_7UlfiJ5tYHfdPg_NF99hRO_Xrbg9qxjlGD5tTI7c9EjPBvMzB9NsMGZv2gxnmdV5MCdpCW1oS_iaaS9qd-wG5BRTHyIt1ny3xspgctGiRNg2Fggv_egLF4fiTSgZ-U-Ibp_S7axw.jpg"
       ],
       "title_en": "",
-      "text_en": "Cool infographic for the year for the channel, I’d obviously make it with links and all that copyable stuff and whatnot. But it came out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Pretty cool infographic for the year for the channel, I’d obviously add links and all that copyable stuff. But it came out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
@@ -259,14 +270,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "178ca952067a3d71eb1866bc5fa79d85828ff869dfac74945fe311b5bc9a6b6a",
+      "hash": "d3509d78017b3e4926f2a2f80fb85fa7f8cc5d118ec8dad70d1a0a31bef128cc",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/nZ2vX-FHgXke1M1w0y3lmfKgqMSVg1feZ6FCdW_VdlYkbzHtFgFTx0WCDLWmQ-EcXf7ms5oOv7BNfC3FbOdVa06mt7Y29wIyfS-6J5w3kj0p-Kydmxy76bJLbDXYNks5rIuNgdjXq7gbsBAlUW8EdUbuqIsXb8-XCMYvt_WkJzp9rKhw9Hf5eCTy_XFrG5q1dcHlad2jdhlW2HpiHE52pU21w9w0EotAhm9Jtwb1Cy3LWZarjwbV2KhbXsahjQQgP4LmSOYHWpqmE2f1NV70zzuHFdc8up8FNNovk961jf3_j4IqAFKPaAFCmbxoU6nlhAIlC6GfZH4YQAQHxJx-_w.jpg"
+        "https://cdn4.telesco.pe/file/EE6gGQgcKLhk6DYLBRSi8LRCZjAsA-2j4HoudygPgPacDCF6hd3WVIXOI5PBQjH7k-__XXOjToYcGNhp8vnf82rP3Tez9ql-ah0V6A2iEomiCYepfdTyP3cUFTIwprneCeFpcNrIpThY23TUanVIE1vuND8SrSkdeJEIZjek5_AAjg5nTbqGYoyNXStoShb7ZKAcWE428jBGmsKZZBOx3gU38su0K3pS8HNHXI_SsDtPayLuebW--eDt0f705FvapKzg5vMBT7Ic4kQqVun-DHZt5pRN2sdl-HXp2pXfK84MRNoNseWfSXLNweeecAO0GThY3Toiy0r6AstM2g4pHQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Imagine that  \nwhere  \nyou’ve ended up, wowwow (nope)  \nYou can check out the landing page here  \ntrymirai.com"
+      "text_en": "Imagine that  \nwhere\n you ended up, wow wow (nope)\nYou can check out the landing page here  \ntrymirai.com"
     },
     {
       "id": 1193,
@@ -278,17 +289,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Carpathes, as usual, put out a solid, technically readable (meaning you don’t have to remember linear algebra) summary of this year in AI, or more precisely LLM.  \nRecommend it."
-    },
-    {
-      "id": 1192,
-      "url": "https://t.me/chillhousetech/1192",
-      "date_utc": "2025-12-20T18:28:18+00:00",
-      "hash": "6e3b0e0599b32825d4313258387b1c3ab63aea514893d0c2d263aba780e0d11d",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Расскажу вам одну историю. Когда был студентом мы в универе собрали команду и делали всякие «\nстартапы\n поделки». То свой Foursquare, который тут же через пару месяцев придумали в сша и всякие абсолютно ненужные и фановые вещи а-ля «виджет на рабочий стол куда можно было поставить смайлик своего настроения на день». Иногда такие проекты приносили даже приличные деньги и я даже писал \nкакие-то статьи на Хабр.\n \nТак вот однажды мы пошли с какой-то из идей (кажется как раз про Foursquare и фотки на карте) на стартап конкурс, где одним из судей был Аркадий Морейнис. И я очень хорошо запомнил «линию его нападения»:\n- так так так, почему не Facebook events или фотки\n- какая бизнес модель? Как делать деньги?\n- ну, с вами все понятно\nПри этом всем говорил грубо, и отношение было будто «в гробу он видал все эти идеи студентов». Так вот этот тот самый человек, который убил окончательно «почти» во мне желание что-то делать. И не потому что вопросы мол сложные или я ответил неверно. А тем, что его отношение, фразы, и прочие «намеки» напрочь отбивали у всех ребят вокруг что-то делать кроме как «купи-продай». \nПосле я долгое время думал чем же так велик этот человек, долгое время работал сначала в аутсорсе, потом в Яндексе, потом в Mail, и все не доходило. Ну продал он там что-то на заре интернета и очень много писал статей. А потом съездил в долину, сделал свой достаточно успешный продукт и понял - ничем. Для себя вынес урок, чтобы давать критику в определенной индустрии надо обладать в ней опытом, и желательно не 20летней давности.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Let me tell you a story. Back when I was a student, at uni we put together a team and made all sorts of “startup crafts.” Like our own Foursquare, which in the US they went and “invented” a couple months later, and a bunch of totally pointless but fun stuff, like “a desktop widget where you could set an emoticon for your mood for the day.” Sometimes those projects even brought in decent money, and I even wrote some articles on Habr.\n\nSo one day we went with one of those ideas (pretty sure it was the Foursquare thing with photos on a map) to a startup contest where one of the judges was Arkady Moreynis. And I remember his “line of attack” really well:\n- okay okay okay, why not Facebook events or photos\n- what’s the business model? How do you make money?\n- yeah, you guys are clear\n\nAnd he said it all rough, with this vibe like “he’s seen all these student ideas in a coffin.” So yeah, that’s the very person who pretty much finished off the desire to do anything in me. And not because the questions were supposedly hard or I answered wrong. But because his attitude, his phrases, and other “hints” completely killed any desire in all the guys around to do anything except “buy-sell.”\n\nAfter that I spent a long time thinking what makes this guy so great, worked for a long time first in outsourcing, then at Yandex, then at Mail, and it still didn’t click. Yeah, he sold something back at the dawn of the internet and wrote a ton of articles. And then he went to the Valley, made a pretty successful product, and I realized — nothing. Took away a lesson for myself: to hand out criticism in a certain industry you need to have experience in it, and preferably not from 20 years ago."
     }
   ]
 }
