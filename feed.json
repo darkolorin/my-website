@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-02T07:19:42Z",
+  "generated_at_utc": "2026-02-02T13:37:21Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1220,
+      "url": "https://t.me/chillhousetech/1220",
+      "date_utc": "2026-02-02T08:43:18+00:00",
+      "hash": "d3d0907e1d11c63bf17b738f2dd2015dd9e6485490e9e8000f713a2fee66126b",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Есть много бизнес челов, которые видимо упустили суть consumer продуктов где-то лет 10 назад и упоролись в трафло. Так вот несколько важных деталей:\n• AI сделает массовым поделки, которые в основном по идее создателей кому-то нужны, что сделает ценность продуктовой идеи еще выше. Грубо говоря, создать что-то кому-то нужное станет сложнее. Это как бы база.\n• Дальше, толпа орет мол реклама будет рулить и главное уметь в маркетинг. Ну так вот, маркетинг ваш в виде UA это конечно же важно. Но это как множитель к базе. Не важно насколько вы хороши если умножаете ноль. Другими словами продукт оказывается должен удерживать и выполнять свои задачи.\n• AI как и говорил замена многим вещам, где раньше требовались достаточно посредственные скилы. Пока на хороший продукт его не хватает самого по себе.\n• Все гении трафла с ростом скорости проверки треш гипотез пойдут массово заливать траффик. Помните hypercasual игры, быстро сделал и типа налил. Вот сейчас так будет с более сложными по сути продуктами. Конкуренция возрастет, цена на траффик взлетит, как и модель гиперкэжуал тема подохнет.\nСоветую \nЭндрю Чен про маркетинг\nПервые шаги в продукте от Скотта Бельски\n (одна статья бесплатно вроде)",
+      "images": [],
+      "title_en": "",
+      "text_en": "There are a lot of business dudes who apparently missed the whole point of consumer products like 10 years ago and got hooked on trafflo. So here are a few important details:\n\n• AI will mass-produce the kind of hacky “products” that, in the creators’ heads, are supposedly needed by someone, which will make the value of an actual product idea even higher. Roughly speaking, making something that someone actually needs will get harder. That’s basically the base.\n\n• Next, the crowd is yelling like ads will run the show and the main thing is to know marketing. Well yeah, your marketing in the form of UA is obviously important. But it’s a multiplier on the base. Doesn’t matter how good you are if you’re multiplying zero. In other words, the product still has to retain and do its job.\n\n• AI, like I said, replaces a lot of stuff where you used to need pretty mediocre skills. For a good product, by itself, it’s not enough yet.\n\n• All the trafflo geniuses, with faster validation of trash hypotheses, will go en masse to pour traffic. Remember hypercasual games: made it fast and kinda poured. Now it’ll be like that with products that are more complex by nature. Competition will go up, traffic prices will skyrocket, and like with the hypercasual model, the whole thing will die.\n\nI recommend:\nAndrew Chen on marketing\nFirst Steps in Product by Scott Belsky\n(one article is free, I think)"
+    },
     {
       "id": 1219,
       "url": "https://t.me/chillhousetech/1219",
@@ -108,14 +119,14 @@
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "18dd615653232d73ca2eaf1e835e131a72b578c489aff0bbab03fd687171e643",
+      "hash": "f44170550ab984aff8d807cd617e3845dced41740e6534938abbff13f9cb5f75",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/WxDkBO96i64gd8K92OXEp1Msv-uBigBzL_Cf55qj3izcBCpqEB7qfPlwaNExLnHeNHPK_HIsZDhYUOUgkIFrITZXVuy1VWpa7ZnXwK6csgMVMZ0IfFHsxbOQjbqqV7CjQfJ4VSIUeZ5Sc9MGGXS10K0BbkQueJaXl6eV4tdWNCyOewLI9nlba8I23cm9XdEBCImbqYO4OKyUEr2O07sWh8bGMXA5kU5YzVdkUKV3KtE3T2XnX-rUpCczpKmF1g5teeuwXWLoZZQkYVBMSbHnK3PBZ1qqn7uvWSvVVtPLBQpDy1r0gZlkO-ZlAwHf6FlcjOjLNn1NBEHr2nAKEkoaYw.jpg"
+        "https://cdn4.telesco.pe/file/CqlSg-iZnqQtMtpy68KHdwq32i2xxU_EX6Q9qAs79p53adUz45bDSK8H2KkY8Bo8WMaTfeW0vd-5XSmBSoqPgH24Sd3Q4mCWCTbu-zgfOrSsfAvmoISzCGx85kgowP6vud2-iEzInIXTh9m7_5z1ChNw00al-2WGDDJNvWpy75imA91bnYmffjUA7P_vaqMc-sButErArYVngHuD96v442brjm8TQJ6MPzJk6vSYqkAj_thx4itrzYCXOoc9ef5-QDXvpiOoVML_CQn5ovETXgG3BOx0IoaUkK3WrsVPC15QU-9XCEs6s-4RDTJi0A2K1Te6fuknHU_XFBhOwYi8wA.jpg"
       ],
       "title_en": "",
-      "text_en": "Alrighty, your opinion matters to us. Drop some matching reactions plz.  \nAnd if anyone actually knows branding, maybe you’ve got ideas."
+      "text_en": "Alrighty, your opinion is important to us. Drop the appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
     },
     {
       "id": 1208,
@@ -246,14 +257,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "99b2a39ff01f7622a09fa106625ba3ac565b4fd32c03849b3f5d44549a5333a2",
+      "hash": "7b7716c324504b8a97cfeec7c3e955d837ab6e3da024325986eb132fb55f87fd",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/Wn-f7KrNec1Wk0LhvP78ux23Binj2FXK2nPfLJKl2JTlNQLYEgm0TLyVihW9qEEeLEWk9EG0ORDmjYh90Vs9O4iqZB2BKzZaDyxg4rDNMAAcGC20vnYzr2lPNPtmD7G1UnTYsxeWmBFuv3QT2P5ZEED7bk6hagvlbCtwONlsMwWi_CHAv7Otl7mCYe2x13sB4J-BmZYCBPx4EHqwOPN5vjVtXYu1ldookETP83WMeYK_wTQgxwcTZS0OHyUT94-VWZQWtT4abFOssnILI1cl-BYqivlrCel2k5qKuvF8BbFzpu933GsKCClk6dhx0UTgwRERxaaOa5sDP-rZzGEihQ.jpg"
+        "https://cdn4.telesco.pe/file/czKzxyJKExIy1KCSNm7PXa2qZAlkvoH2fCP7O8tv9-VJR3DMTK5aIvX1733zS23jaWTy_e89vQMvmFG2ww3gSY5BTvFpvaifI6umm4rMFpgR6841HrVIwSwYC1_ldAujvjeeBYNrjuqCwr8PIS2RJYf6GIAtJjG3bbFVr4M_zQVmzuBsP9tzBDwNXAJ61cb5M2iYhXqvnLXhzSSThBCmEPuNqd3Sdyv5V23JUdFSs_NiKcYUlcRgMy4pvOQ6AkPlnCxoJx0JkObg5YGunQvh4AOGk9DqaBTVxrFYfRjxz7rJFmXXcDrnFo18mw2izywt81PK_YP6XiIQydMnLGAHXg.jpg"
       ],
       "title_en": "",
-      "text_en": "A cool yearly infographic for the channel, I’d obviously make copyable links and all that stuff. But it turned out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Pretty cool year-end infographic for the channel, I would’ve of course made links there, like, copyable and all that. But it turned out funny. You can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
@@ -270,25 +281,14 @@
       "id": 1194,
       "url": "https://t.me/chillhousetech/1194",
       "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "e3ea37cb2905dfe1a0855d4ec33688266d1b2ea5088e6eb566e270a3dd1e415d",
+      "hash": "a2ba89be9e175cdeef66bd3743755a6cd3edc1c3a840257a5a24f63b21a75bea",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
       "images": [
-        "https://cdn4.telesco.pe/file/LDG8Qw3_pKmJrfXwUbbXxNON4fobD_9H3P92Z9Np21i6HKfViwzwjse6raTM3o8huC-TP11iMuUvalv3517YkXD3kXXd29L36I5ZG_CbyfsYIRXtVvi0YzYiJjvyOWZxWfWP8OdEHNPSOe9SvNmBcxuJMyxoe-0q6WT0rcUu-W6vytuZi-swn09lJCMwVgJ_z4YaeImdVar05pvOGBlq833utB7zO4T2A8IcOacmqTzv-r4Bb1cLZSGOc6FjqxjEXGz9V8Ic0QsO92QrOofdpZ_hjSqjx7D5yXVvGdOrwBwMRn8l8gRaSi0o8BZWurRZh7sXKS-1C4suLNMRp59gNA.jpg"
+        "https://cdn4.telesco.pe/file/tTp_BTLybmgiiwaSA0mdwWoW7d1SMzXlRkBBcfSpp0BElq-Wpp5a0aDSxxeoaDi6laxuhrAGhnzOrl7zGNxdJ_E2fVkhR3XGYh6rjvFG9FGjcZc5gk4OPAhb-PkVv-1TtWyDuL8pMDPjzUK6dp21pLxwDuzYc82CGyeE-yTfPn0Zjb_M0RqLoEyMIq8WiBpkhll9ddaP7yveYKmvHqCllrLDNHoOrOOIk-6mzJe7O_YAdG8_4d7mPOZOx71VXU_4Gb4g_H5Cvt4ofmMc54wXXY7z4SGJeWU_yIkBeWtPzigWoTIq0Wj-k8Upmp7bhskGzcR9ZmtCzJy6uUu6hRxSpg.jpg"
       ],
       "title_en": "",
-      "text_en": "Imagine it  \nwhere\n you ended up, whoa (not)\nYou can check out the landing page here  \ntrymirai.com"
-    },
-    {
-      "id": 1193,
-      "url": "https://t.me/chillhousetech/1193",
-      "date_utc": "2025-12-21T14:23:47+00:00",
-      "hash": "4dd286583bd7ca1ac700469b840d1e247cd9209301819877f1b69b5c635f1fb6",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Карпаты как обычно выдал хорошее, технически читаемое (это значит вам не надо линейную алгебру помнить) \nсаммари этого года в AI,\n а точнее LLM. \nРекомендую.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Carpathes, as usual, put out a solid, technically readable (meaning you don’t have to remember linear algebra) summary of this year in AI, or more precisely LLM.  \nRecommend it."
+      "text_en": "Imagine it\nwhere\n you ended up, wowza (nope)\nYou can check out the landing here\ntrymirai.com"
     }
   ]
 }
