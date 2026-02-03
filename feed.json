@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-03T13:37:14Z",
+  "generated_at_utc": "2026-02-03T19:15:44Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -62,14 +62,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "e4e7718ebd609e91ae79e9731c21327f1d2b4f02f879a8e6051bbba7b8d6e81f",
+      "hash": "39baa575bb32b2d9a6e36f2de4e1e4f5aae882f3995d798acd41de838aaa8bf0",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/EJIsN072DqyJOnIRi7IAoTlsXJJTacySVphlRqytextGzkMnGN-RsTzQHRd7TKXnKPMY7QE5tYC2iwzfVkybSV3LQhTFVml3r2u1NrEaeN-gt0Dqo8vkxiZySTf5KBEXveq-xG9ut7NCjG-2EKLIsLHbIUjZC4k9wVKiiBnqynr4VmB3SdqavhLC2Ss3U4r71O-no1QxovpFMntSRIHbsuvk-pqxsnSjZoJ9jjuQjZiNHDCowzJ-SVXgf1emy97c82io1RRmwMgzkgnnJfHeKG-enuX6ELHtlagbWB6xl1bDtjkPorpmebORhg88ONp27TznLanC1AzTCS-ZqNFiYg.jpg"
+        "https://cdn4.telesco.pe/file/aNg_obwm24PbXowetS_3TF4g0MZEckvn-yazsr_Z4wNFhplwX7Wv7JFSfHdkbns2I9TwZUm2tM-zy0Jl6AtJEfbUWhhspAHGwR5Zw8GL8i-kKulagn_eft1wQtiCnU3Jven1cfMXEIEvk5A_JsEVUjc_JtEWhKK4D1Xbmwk9TRSf4DPLa4SC3fNEEWONYP8DNo-bVaZcthtkeB08_aZSCSryPb0cFOrkbhFNELF34SN3MhQkURLaG0K3UdkQcg2vi3PwBdBqvKWgEallQOhsKcHUxT9zsRjjRHh6P7a4O3cIVtUSuTJpp1g-ZYBBoRDRqa6suQJEBQ7Pf8c-u8m88Q.jpg"
       ],
       "title_en": "",
-      "text_en": "How benchmarks are made at OpenAI"
+      "text_en": "How they make benchmarks at OpenAI"
     },
     {
       "id": 1214,
@@ -143,11 +143,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "1d9eda2bd75fed543c35fe3555548805c94d70eb909f61b01879dccb49cd4eb8",
+      "hash": "07eaee2059dadf637a2d66ca53efef8323d6aa95df0419877442c48a2086667d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/q-kZSh6ZwovMegllqoXtxmknHpe5JHTC1nWmBrAb2DmgC5-eF5pB8eFagWScICY1Ev_dX_Y1kZaGSBOhkPrpzygRJKcWbkNK-O3g5NSFeVIssC_ru6QAAq6G11y7uMpv2MQ_JMZ_bBMsxXoQGoiLt5nqZlNBB3BIVZ31xctIlws7mUDDLOVIBNk7gE53MPlvm9-d2qicNv0yccvj97kap2TkmCDDwLhwXGGLfaQXiEpYtcCxQi591v38VcNAqEIHSwusoObzL2whUUI356_9nc6p9yUUYrdXgEMZAFrDSFCGtEnAe2EDOjDPhfS2LQp4JYBzXcrxFTNyPMpj2ujL6g.jpg"
+        "https://cdn4.telesco.pe/file/Itcu7vbFMD1QxWcg8e-HbywVCqyIKYgjbped3xFzcpGHtN2_ICg3b5Ye7OI8Begf_Rf4gGxWPNFc2imnFbfou_ZDicWqMt4PJETSO82bijsBJePgV6N_EYhoZv6JXsHUbcHtaje2QhK1hpqwpQTgHyMF13LDEx06Ji2lwbcuUEFctxYgQ9WLtMe8LwuVkgdV04tgZRthoOp-5SY4Q3ioAWem-Hrqjgb2djx7JITRp3lMdZXFQVPNEuQxD0ZF2CojDD17pkWftL8ay741qVfUR1H8RzgqxOShFSaJwrHPqa6T8By10TMaS0TpnQIooK_isBKsYFT0HaMYZzmuqf6vLg.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -200,14 +200,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "2e5296d5adc82077d412278ed3c6be3967165a0f822f518aada2019142d4c203",
+      "hash": "293b1fa237c923ec4b05a34754400fb18138feb9c570bd34fef3fde555a51510",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/BjGKUTO67aPL0D2iExZjEifhPfZGStoD7d73fUyChSuPkXv1cZdX4tEX_z2SbMZYNWg6H3ou68iX8nNsEvDHFIAIu1QUAY3a7NauiaOmsaIMDOn0r8BywmleLlFscuQORxI5tsjQQ_g-PXz6RnhoYevsYVQQEF4AxtadGu4Atw8g8He-fTPUMF0PlRqUuLz6ffHpdKfRZ4XSk-Ze9vOXIB5kp7I7Wn5LuKKzZGOaC4r7ARVCN65qEAp-G0g7U4OT4OKlcZ2YgM72uJ4zteWxvuGfM783GxmrgTUHAfKtVjxpnw-akYUuasuFAsu6sG4W2nMpx7AfC68t0_mxZNb5Eg.jpg"
+        "https://cdn4.telesco.pe/file/NC6Gyxd7IrHOk4_mYFrSE2TPG8zEInzqcmTWAVvJOS6sBUPafCr6RFwU2lLlJMx8ESDZhgKHtKbxyTg8R2v_3lQT7wJmwqj3kbhqvtSawOot1MX9frN8fLMdXUgdgnxfYHVS7N5_oBcPe8HX_owS1tLOo-V8-JX28R4KDID01lwy82i2-XGOGvL6hJU4UxkoudTpVUmjrvgAYt5wom3ywa0vBBaCgNlC22FFwQ_qTEXURaX6G8_VHSRSXKPQzRUwmN2QL8aD5zwWb5bBj6y5IA6DjkV9pwK2dEN7xVT42XHicPWbGE8HERrWqFqPB4oK19hPPlPK8qDPWd3DxM49lA.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, the Yandex homepage at times. Interesting whether a single unified interface will still come and replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its end. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of those Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single unified interface is still gonna come and replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -268,14 +268,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "aee38e6a7cc68b2b5b99eb69fc8d729530bf7abe5f469ccf4344b537efea18ee",
+      "hash": "d805634d6a82a2007918cc089883478919cd7e763ea43334b3609841905900f6",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/onXwE_5kIzOZ63oW9phJqP6h4rSgBN3P_XFIe9Qb-jdh8DxxgAALNEPOzZiIsh0fNlUkjTgJZcbfhLZaCiPpZ8xH1AcuWoMw4curqC_DajgFMashSMMXJLHDCO66BYJWiFQHhzVJw0GMDaEBCynFLfbRlz1kf6QueKLT5qyhwVzUxAgJrKW6VQi-55xpeK1Mj3TAX5Xyv-omX7PIGfwMNeb0JuSCDUu_gwB-PVk-Yc513HUNdd0xqexv8tolRJtR_-vCh0dD_HIWVndXcYlAoonSdnmcNerjlLIQOVoEkQzLQ6y8S2Kxb_9HPkWV8Ry3REzK03OvC8M-7UtBczXoVg.jpg"
+        "https://cdn4.telesco.pe/file/gtqgJeBedqstHF9T5VsxzO_JN8kWxPClFFWPkfG8hl6PboLWmNe_8MgtBIpH77rcBf3-Qmb4MXl6C8iJheJSVqDOLsH31V-udvqID9i-Ln91MFRik1D7VaIrAEjq8Nw1Q6_zTPlg04kzrzfhzloX2uT4jCJGvJO_d53IjeIdyjIzSK-waP5dWBPVaAYTsvcKym8g2tEjqkqZEbNjgsaGxhnbipycv_CRO5FoxAUWZyrV9zO6HblWi1NgciXm7Ao8_JBUasoPe0rZgQdP919GeGjJ0HpcR-nzjdChn6WJL5ax3OSysxstHeHi5vG7ihxq90PW9-bLFO6U0GpqblUYgA.jpg"
       ],
       "title_en": "",
-      "text_en": "Pretty cool year-end infographic for the channel, I’d obviously make copyable links there and all that stuff. But it came out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Cool infographic for the year for the channel, I’d obviously add some copyable links and all that stuff. But it came out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
