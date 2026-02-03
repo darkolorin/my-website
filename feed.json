@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-03T03:15:04Z",
+  "generated_at_utc": "2026-02-03T07:12:56Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1221,
+      "url": "https://t.me/chillhousetech/1221",
+      "date_utc": "2026-02-03T07:06:17+00:00",
+      "hash": "e75428a355961bf7709f8a22c266c3694983ff5b9fccd2c3dca6aec66899dd88",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Всем интересующимся, что ищут в YC в новом сезоне Spring 2026.",
+      "images": [],
+      "title_en": "",
+      "text_en": "For anyone interested in what they’re looking for at YC in the new Spring 2026 batch."
+    },
     {
       "id": 1220,
       "url": "https://t.me/chillhousetech/1220",
@@ -257,14 +268,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "2c0204b79a6bcc7e0945d219e9248bf619192dfd04384aa21d252cf3d89ccc05",
+      "hash": "edd1bd780e354e46c31f3c181e3fa8369bb07267fbe87fc46c0c65ebe0955f06",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/UUBmq-gmv1OkXBPidapuk8LLuX1dY7BzqdCwB_p_DM4MNES6lnCdajRTp5NoOlbn28R1aaGZHgGG8_LUfhYEpHNpKPzVy1UQ2cNrAEZcBmnkYBi21W_ep_mi1WXTUYofkHV0cmShxCQCE-eQnR3XSt3Ez7L-ztFID3OjvwDCtq2S9eqGBbdgMZggz5Rzc04-yi7uv7i0HC_95Dkik7ow2Vm14gLaDKaDRZHy5IivE9IO6RoN4dfuuzzxlpYNxWynbEnKmom2a0NWuoSDS8YX-OP77TJZDcmfc6UYBpeCyZKntiemqreWspyxOWVnFI09ddpP1bxC74vt58gVB0Xp8A.jpg"
+        "https://cdn4.telesco.pe/file/qGROvmkqKbl922ShcCWU5aeywrmnMEg2yIdei1iYnK45Sf6sjhvEm68JVWyWr1cPRWv_OulsnneeA9bnMfZ8gpHYUnFhYLsLBsdeLGf8ZvPZrLuxAQXty_esk-vzR5kkcoot5T8XW0J0iPvKaAWlmp8rw17j2Ooj6ajUAy3B7QeKZ1EidQt3cUFzxQerVoztehZD8fkcg0p63JvO3wZbFlERXXEZqjkar27WrHx1YAy_SE-1cTLL_NytNS68bUPhIU88wntO1hJpb-x6J65vTIP5LzP9IYDGpOiNKtvI3mr5wOJDdP4Ig0YFASScXqZZk7BTmtsy7M-AGGtogMWWsA.jpg"
       ],
       "title_en": "",
-      "text_en": "Cool infographic for the year for the channel, I would’ve of course made links in there, like, copyable and all that. But it turned out funny. You can test it on your channel here  \nhttps://tgwrapped.com"
+      "text_en": "Pretty cool year-end infographic for the channel, I would’ve of course made links and stuff copyable and all that. But it turned out funny, you can test it on your channel here  \nhttps://tgwrapped.com"
     },
     {
       "id": 1195,
@@ -276,19 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "You know all those images with stats on who raises how much and at what stage. Like, on average it’s this much, and here are three founders, and here are the dilution percentages. Treat that info very carefully.  \n\nIf you’re building your own company or product, you need to have your own stance on all of this:\n- how much money you need and for what\n- for what period you need that money\n- what you’re going to get for that cash\n- equity, salaries, and the rest is your decision; sure, there will always be recommendations—read them, understand where they came from and why they are the way they are\n\nWithout experience, all these questions seem very hard. But in reality you just need to rough it out (nobody’s going to punish you for mistakes—your project’s chances of dying just go up). Answer honestly how much you need, and then you always start from a number 2–3x higher (the more spending freedom, the better).  \n\nKeep these factors in mind:\n- venture assumes you’ll keep raising later; dilution roughly drops by half with each new round\n- venture is about growth, so the faster you show growth, the better (don’t confuse that with run rate or “spent a million, got a million” as a result); you have to define what growth is for your product yourself\n\nMy advice is usually this. Talk to people, everyone you can reach. But don’t take their experience on pure faith. Talk to 5–10 people. Usually anyone has 10–15 minutes to answer your questions. Ideally, prep the most important questions for yourself in advance."
-    },
-    {
-      "id": 1194,
-      "url": "https://t.me/chillhousetech/1194",
-      "date_utc": "2025-12-22T15:46:45+00:00",
-      "hash": "7de105d1ae8ef9d88ad043079dffe6efaa4799cd00d040fbd51bc61244d2b639",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Прикиньте \nкуда\n попали, огого (нет)\nОзнакомиться с лендингом можно тут \ntrymirai.com",
-      "images": [
-        "https://cdn4.telesco.pe/file/Y-Ofq96HY_0LtCaAgTgp1OMfMMp4gdnixJ1HBAYv88FhE7xrv3sGQHwiax_cxsseE3QGmlPmPLLxHnuPfAyk2Swm2yMoYjBOWQYK_DivsAlsazFArCzcsp9NPYjp6-iJa01v4VdNgCcnt7UpInFJlLdt7TNjS-X8B-Hx9G2bYVY1OFk2wqyovgB_cQ1_Le74f7jBMh4tdlO2H6omF181rD0e-92zOxorSAfF2Uh3IkUwFT2wWUUE9Jg7-agBwobYWs7-xrYEV_3HiiXTRdLRPB3MEmFD6dJ8IQVKWlmP1nS_-MOqLseXsuAIuvXfmjPrR-t8WjsIDSXGfad4BWYcfg.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Imagine  \nwhere  \nyou’ve ended up, wowza (nope)  \nYou can check out the landing page here  \ntrymirai.com"
     }
   ]
 }
