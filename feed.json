@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-02-05T13:41:06Z",
+  "generated_at_utc": "2026-02-05T19:08:58Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1224,
+      "url": "https://t.me/chillhousetech/1224",
+      "date_utc": "2026-02-05T17:52:15+00:00",
+      "hash": "9fc038a5327f28c1d8fe036194be863806f5e3b3976ce5947d713193ba46320f",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
+      "images": [
+        "https://cdn4.telesco.pe/file/DkXYHyKPQff_3r4UWQVQprbUz4alKb8JDlpXm8I-McVT-JDm6U9nA_UEuVIp0VoK5QH0dNKkyzUD7855ptcY-OKxNJfsBKDLwRAYh7Ll6ztbGWA3KUZj54EVFeh2-JUhPRCqS0nOXTyJ7GgIjz5z9b0qAUlXAFQZncFmZHh5r5qJ8uYjmEvS6otgYYymhPBCGrzT-4atoHPzqO1B-PVRrTSqxC8BoOpyUwcqOt0oZ-yt0Aavvj2OTWa0ZEkEHrz38suWsFahLfMjispPXNy70mQvtLRYfZLWCB4ctwUnG-4gRe4o9mW7plmM5em036FMWbCf7tx2bbCQb-f8VAWXmg.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Even better, turns out you’ll be able to vibe-code. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— the competition is going hard"
+    },
     {
       "id": 1223,
       "url": "https://t.me/chillhousetech/1223",
@@ -84,14 +97,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "f385eb6a98a1b64ea90a4e5604c104ea77f01bdaecaa0bc188dfde791a3da80d",
+      "hash": "09cc3758249f16e71d0f9d2e383d4319bd4744d57ad33ecf5aa89a564be6c4a6",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/ptF8GKhiKvbTbFZKf5MA2srkdr8c55dqywcJHrhzMTmyFBic2k0mgeGNiuOY_leRH2uM5SLWkX4GpyoHhWqJEDcawfee0jy4mBeOo_WOmZjuS-OJQ6By5bvJfMh2C4zZZrRFEleI57E6ePqkz-aGbjP3Y0oEqpa2hrTBMf0txFzBRoP11BO124vCznaDpZVgMkAak_SwoKyM5eT4Hl4XIThTx0jA3RuQwAFz0SNG5NHIzK3WBDt3CLLfMnVwtCYjV33doDWS9OWz58Wa5KQkvtcy6xoLkAZvxb-GHNmdsy2LUK-5nb9xz4auNGnBj1T62K4I_NS8Itj7ixSsylsWNQ.jpg"
+        "https://cdn4.telesco.pe/file/tzH0fTppHrxCKax-MKqniJxkar12VHK2IfeMmYuZhTJPqsw5Ykcvekz9erhDybAx7NiHd6EX4HYGVgVDvLHyfvBpe0LEss_QuG6qFS722T1odmARHrXUMp1eXvJZR2Zgq_TjtlldEQ7WSo_HirR_tMuBAp3DUAT0EQFeoCHaR-9DCSPe-KZT8jG1SosH0unGJ7TrDqt1jceq5tFFaMOs2x2HRXj9Qvf1sW8CbfDYwbBdBrVQzcHHZrmfgfCRN__C0Pm_DrxYF8siYVoplDe3hin_KF5YYW-SF-ToHKLFWXkB0zFdkylKEBfu2l6Z0czHIzDk3DUXIKRe6xDdWZ0Dnw.jpg"
       ],
       "title_en": "",
-      "text_en": "How they make benchmarks at OpenAI"
+      "text_en": "How they do benchmarks at OpenAI"
     },
     {
       "id": 1214,
@@ -165,11 +178,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "6820c1efbb30b4e59bc35c98f1fd6f93792565c3d280ee6f04ab131ce9a50076",
+      "hash": "94bcbba933413244acf8bf3ad8714bc77a21848680db6e262ef5a61e0a4d88a4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/oruszhYvJQj64i1bBejW1IwNL9nNUhK2JvxkFwt4rOUjt6blFpTt7PgodHlMYXjHlaFgy-fxXUw_FGe_SEFrdZ4zxmNRx2ey3UUU_cGiuPZ6_1FW7SamKQCl5dQSgwfc7L__i8rX2KYKZyoFOb31Z6URlK8mgO03iX6ArPGm6MD_huzjmlf2kDT1Z3x4doFZgOboE-bZ_EV92pGhCgLcweg1JR-ryjdMM3FGPEG86t0ipfHhwxSyTMFyCYcJiXLxBvTOHUEttNYGtzWbZphIubUr7uHYn42FuZ7hTDUn7xhZGIZ4vZv1sVqmBpHijd51ysBkZo3UJ4AWmSFPKwnx2g.jpg"
+        "https://cdn4.telesco.pe/file/STCPGY0a9BC72QTJ59oVslMZaivO0wzEJopDHEk_pXtdPvDTAB4zTBowZ2ra6gQq5kfBpfhklht4slD1oLSu6nhtgq3uzXgCsQLMYp2R9mo-TaCRiiiJnrLwdIVnova8Sn0sO5cgTkrxw7_KVltA7HEebrGqS1dOSLhpBtoyvYYgT5c22wSjgiy0Vf4iGKGv2LQTYb6InNRWAQPLqH9Sv7O4bso8ObfFndvYf9QJFdHde7taXduSLg0BtTO-WtrOcLukI3iQVKtw6Pk3bK1d3O7mqzG-QckvrH6Hw0saA-roIcqZdp2D5aFIzBRby1umAlxIetieQ0EIfQOQt0GmBQ.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -222,14 +235,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "643b3d80bee9a60f6cd706404385199196b4a58e719efec28a841655f919bcdf",
+      "hash": "654600002ed59381567125ede7429234e1f0fd9e9d3b089039453bb63e792bba",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/oHo_t7ETkCziz6xdRj7SNMX7UC65J4B4Vn0XGfNn1TbmSivZECtHuzxZL_HJC8Fp08vR7PuLCoUV50Ve-cNPFgPV5di38eqs1Z3VFfPZ78ioHQFfJ6xIjIcG8Bw8xfNFUN-C74tkZZn-3tj7piXc-PE9TlBcD3JtjBNHW3CFyEY96-H47NC1JFQYN5SLxtEfdR3GWdHSXGHNi5nxwN92BAfXzFpRqxyKTGUrUK45jTw2oA91ororeAfQxu-O1qnPFSy_JAfu5kwBNCPSiA5ook6kkP_1XEj5T1YvxcGQAkLhnCrY-KSGCHOYRhHhxSY1YOHJc1xMdYxlEGzluFvptQ.jpg"
+        "https://cdn4.telesco.pe/file/kr79EMzfqlv6ecAWjiYrAntYPvn6nEpF5Ewwf5MhJ9QQPg8jdRfhTCawLeXf7kFdOPt9CYN1ukKgIzUq9niUQaZxUVI-9s0Uvq-JG7yo67SlYBMWmDLDcU6zETT6mWFFfh-o3uG0s5JIv3qFROhDwwemMQGg_7RlZSAkpocuak9vFHkvxL8VS4Qxcex-LaXUYXRvEAVEw72f5V3oyG4mA6pXddLsLIOM48KiQvybSQr4rvX7zalBRngPNQqMqSgw-ck6eH-eeCrSudkb17l4m9ygOBs7K_RTVdnugFZruRCZ4BYW0EbKut2qrgXhmyiA-pV3FtS-9AQHFB8EO7w3Xg.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is rolling out on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, the Yandex homepage at times. Interesting—will a single interface still come along to replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of those Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Wonder if the same old thing will happen again—one single interface replacing verticals—or not?"
     },
     {
       "id": 1202,
@@ -274,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "What’s up with startups in 2025 — here, catch the full PDF from Carta"
-    },
-    {
-      "id": 1197,
-      "url": "https://t.me/chillhousetech/1197",
-      "date_utc": "2025-12-31T17:19:00+00:00",
-      "hash": "21d44fede5209cdd6e1e87a3583d4c374f275c47b1fe9bcf1ab30ea08f5eb21c",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Дорогие друзья, читатели и читательницы, всех с наступающим Новым Годом! Всех благ! И чтобы ваши цели осуществлялись! \nВ новом году нас ждет как всегда больше интересных мнений, результатов и побед!",
-      "images": [],
-      "title_en": "",
-      "text_en": "Dear friends, readers (both male and female), happy upcoming New Year to everyone! All the best! And may your goals come true!  \nIn the new year, as always, more interesting opinions, results, and victories await us!"
     }
   ]
 }
