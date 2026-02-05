@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-05T07:18:36Z",
+  "generated_at_utc": "2026-02-05T13:41:06Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1223,
+      "url": "https://t.me/chillhousetech/1223",
+      "date_utc": "2026-02-05T07:30:15+00:00",
+      "hash": "9d98f7e4661305ae96a81466a5bd6f296f86b2e770002adfda52ab8265477537",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Тем временем, прикольный бенчмарк запустил Google. Используют площадку kaggle. \nБенч сделан, чтобы сравнить как разные сетки играют в игры. Достаточно интересно посмотреть результаты. Так сказать, кто во что горазд. \nБыло бы круто конечно добавить туда настоящие онлайн игры и посмотреть как сетки играют в доту или еще что-то такое. \nhttps://www.kaggle.com/game-arena",
+      "images": [],
+      "title_en": "",
+      "text_en": "Meanwhile, Google launched a pretty fun benchmark. They’re using the Kaggle platform.  \nThe bench is made to compare how different nets play games. Kinda interesting to look at the results. Like, who’s good at what.  \nWould be cool, of course, to add real online games there and see how the nets play Dota or something like that.  \nhttps://www.kaggle.com/game-arena"
+    },
     {
       "id": 1222,
       "url": "https://t.me/chillhousetech/1222",
@@ -141,14 +152,14 @@
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "d7c4496fe4cfe7ed2d87e3abfaf42b23164330fa055758c8bba301b8998ae57d",
+      "hash": "ba482168c3e34cfff8e0879e9cccd75b4d91b826f9403c22e8ea575a1583b47b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/E4UVuYYDg-uz1HOLURcz7VJNxvlQE1RNJOrIN2ZovQLIF7keGODts7lamkl3bAy9Vh0GDPlkuZJ6kEuxMTz9Jck5YhD90Xm9vPTEGu9SRBjP7rNF39wgZvG1CxAWzguDbcBGW971rYvLy45bIXd_NH0WlNxCBe4MigImoJ6xZ1dot1scf2oo6RNAs6gFdJYCUJjuvyi7PFVmaQITtpfUV6tAE5lQ0Gb4ddTTwjG00ws_jzHexRlFOjy3k4Sw5nzvUEIhuYQLcHT7xVQFp3U3zftytBWNlq_OiBcwYDtuFC6H2nQBwMF1GvAf_nzhvTgbuxPultrHCm3q76kJbctZ7A.jpg"
+        "https://cdn4.telesco.pe/file/tNcK6OqRq1rNyRh7QTk5uwL6_9JzmNrpvR2cU7Ck8xw0J3FiEw72KQiaY2ilDnzinUS_nWYVLr6QQ_9n0TBpNHBIfaMRVenhUQviBREVUMyq57cr7QbYRFdvvfB6AK2Z5I3R3gD5ziN2AvC6Vxu_3FA1trkgzP1kepUf4UKMK-330NwKOmrK_scpB0K5t-0B0Hiy-x8HruhRPFo7MwUu39HuXWdeM66Cj5xEo9xnN4BCZScEZfoCUntuOwA3q_HkkDgBl6quIMlTzpiTlvXnD5AIgyl1WC-cdh4rJ36zzg9FOZFWCU3fiTGDqvLbtM8GgYD49NqskoX_L5K4k8QPSA.jpg"
       ],
       "title_en": "",
-      "text_en": "Alrighty, your opinion is important to us. Toss in the appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
+      "text_en": "Alright, your opinion is important to us. Drop some relevant reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
     },
     {
       "id": 1208,
@@ -274,19 +285,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Dear friends, readers (both male and female), happy upcoming New Year to everyone! All the best! And may your goals come true!  \nIn the new year, as always, more interesting opinions, results, and victories await us!"
-    },
-    {
-      "id": 1196,
-      "url": "https://t.me/chillhousetech/1196",
-      "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "b52f973714d220005465c0cc6b67233c513d047e454c2d60486fed21f9be918b",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
-      "images": [
-        "https://cdn4.telesco.pe/file/Rl2fJcONBMXkjWgPeSRcDC7Sikw7vF-k0DFF2ckJPW5r1ftvuMzUMNo8Q0yKrVhDXddUctrUe4wzJuIUw87HkqetfS8yZHY1aZb7igKgSNFTVJFKF6_7feqiteGW3noywRbydWC3OQqr0FxqAJUnLAO50xONv1BkKprOFrfr6nxNFvO2XXv_iGMgw_6MjsCzlwDVQBlZsYSdHMGnpbLl95EId0qKCGMLojakbXdr1oZ_tWcsBDAdBV30QDOpGqQAVtpFU_xlxyeftC70CcMep_Vc6lSbgKw-AdKDBlNDKgGDu3zjM1ks_kG1gzGaoQ6tZCHODGd5to1nXyXhC5EEDg.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Cool year-end infographic for the channel, I’d obviously make clickable/copyable links and all that. But it came out kinda funny. You can test it on your channel here  \nhttps://tgwrapped.com"
     }
   ]
 }
