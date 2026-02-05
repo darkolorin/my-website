@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-05T03:12:54Z",
+  "generated_at_utc": "2026-02-05T07:18:36Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1222,
+      "url": "https://t.me/chillhousetech/1222",
+      "date_utc": null,
+      "hash": "7312ed58a100299d739b35471048b84a5010e454de6a2c1ec38374d5be1ca9c4",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Anthropic запустил нереально крутые 4 рекламы на Superbowl. Памятник агентству пожалуйста, которое сделало это.\nСэмчик обиделся и ответил в тви.\nРекламы тут\n (еще три штуки на их канале - рекомендую все)",
+      "images": [],
+      "title_en": "",
+      "text_en": "Anthropic dropped 4 insanely cool ads on the Superbowl. Monument to the agency please, that made this.\nSammy got butthurt and fired back on Twitter.\nAds are here\n (three more on their channel — recommend all of them)"
+    },
     {
       "id": 1221,
       "url": "https://t.me/chillhousetech/1221",
@@ -268,25 +279,14 @@
       "id": 1196,
       "url": "https://t.me/chillhousetech/1196",
       "date_utc": "2025-12-28T00:59:21+00:00",
-      "hash": "01189dc11af2ebfab272b35a8651958121dcfb57bc6f3a9577f2bc1583bfea2e",
+      "hash": "b52f973714d220005465c0cc6b67233c513d047e454c2d60486fed21f9be918b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Прикольная инфографика за год по каналу, я бы конечно сделал ссылки там всякие копируемые и все такое. Но забавно вышло, потестить на вашем канале можно тут \nhttps://tgwrapped.com",
       "images": [
-        "https://cdn4.telesco.pe/file/mf695JTJjaLlyA7NKUQ0SPul547JY8D7pRr7Wp_efU81D9StIfHyMs7JFyLnnW59kvYVxFF_b6FIGsvKFZSiRW1jRfdwvURslJN8DUFDTXpze72ed8y29BCjjK_FDHcVmhZqliIlAyH86YRK_Zk4_OPgxI-Qy8vnugvwtuvCwMvh9T-ghCTqYJC_lZLwr1ani9_AOv8M1EeeToorH6lSZMXwpnZfrgSJua4_Wz_Ema9GnoxsqbLLzTamjaKy66dWn9czBVozd4ac-ayv03UHQv2zTdV1rmZckx16Bp1l-9W8HvGzPt3D8auBwZKykFlFoDvq06CKrOArG59fwan66w.jpg"
+        "https://cdn4.telesco.pe/file/Rl2fJcONBMXkjWgPeSRcDC7Sikw7vF-k0DFF2ckJPW5r1ftvuMzUMNo8Q0yKrVhDXddUctrUe4wzJuIUw87HkqetfS8yZHY1aZb7igKgSNFTVJFKF6_7feqiteGW3noywRbydWC3OQqr0FxqAJUnLAO50xONv1BkKprOFrfr6nxNFvO2XXv_iGMgw_6MjsCzlwDVQBlZsYSdHMGnpbLl95EId0qKCGMLojakbXdr1oZ_tWcsBDAdBV30QDOpGqQAVtpFU_xlxyeftC70CcMep_Vc6lSbgKw-AdKDBlNDKgGDu3zjM1ks_kG1gzGaoQ6tZCHODGd5to1nXyXhC5EEDg.jpg"
       ],
       "title_en": "",
-      "text_en": "Cool yearly infographic for the channel, I’d obviously add links and all that copyable stuff in there. But it turned out funny. You can test it on your channel here  \nhttps://tgwrapped.com"
-    },
-    {
-      "id": 1195,
-      "url": "https://t.me/chillhousetech/1195",
-      "date_utc": "2025-12-24T13:11:40+00:00",
-      "hash": "75149a794fba5fb3c89a001a5d22f51c08783c4093c86a700fc06233d39fecc0",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Знаете все эти картинки со статистикой сколько кто рейзит и на какой стадии. Мол вот в среднем столько-то и вот три фаундера, и вот такие проценты размытия. Относитесь к этой информации очень аккуратно. \nЕсли вы делаете свою компанию или продукт, вам необходимо иметь свою позицию по всем этим вопросам:\n- сколько вам денег нужно и на что\n- на какой период времени вам эти деньги \n- что вы собираетесь получить за эти бабки\n- доли, зарплаты и прочее это ваше решение, конечно всегда будут рекомендации, читайте их, поймите откуда они взялись и почему они такие какие есть\nВсе эти вопросы без опыта кажутся очень сложными. Но в реальности надо лишь прикинуть грубо (за ошибки карать вас не будут - просто шансы что ваш проект умрет повышаются). Ответьте честно сколько нужно и дальше начинаете всегда с цифры в 2-3 раза выше (чем больше свободы трат тем лучше). \nУчитывайте следующие факторы:\n- венчур предполагает что и дальше вы будете поднимать, размытие грубо уменьшается в два раза с каждым новым раундом \n- венчур про рост, поэтому чем быстрее вы покажете рост тем лучше (ну путать runrate или потратил лям получил лям как результат), определить рост для вашего продукта вы должны сами\nМой совет обычно такой. Говорите с людьми, со всеми до кого можете дотянуться. Но не принимайте на чистую веру их опыт. Поговорите с 5-10 людьми. Обычно 10-15 минут есть у любого чтобы ответить на ваши вопросы. Желательно подготовьте самые важные для себя вопросы заранее.",
-      "images": [],
-      "title_en": "",
-      "text_en": "You know all those images with stats on who raises how much and at what stage. Like, on average it’s this much, and here are three founders, and here are the dilution percentages. Treat that info very carefully.  \n\nIf you’re building your own company or product, you need to have your own stance on all of this:\n- how much money you need and for what\n- for what period you need that money\n- what you’re going to get for that cash\n- equity, salaries, and the rest is your decision; sure, there will always be recommendations—read them, understand where they came from and why they are the way they are\n\nWithout experience, all these questions seem very hard. But in reality you just need to rough it out (nobody’s going to punish you for mistakes—your project’s chances of dying just go up). Answer honestly how much you need, and then you always start from a number 2–3x higher (the more spending freedom, the better).  \n\nKeep these factors in mind:\n- venture assumes you’ll keep raising later; dilution roughly drops by half with each new round\n- venture is about growth, so the faster you show growth, the better (don’t confuse that with run rate or “spent a million, got a million” as a result); you have to define what growth is for your product yourself\n\nMy advice is usually this. Talk to people, everyone you can reach. But don’t take their experience on pure faith. Talk to 5–10 people. Usually anyone has 10–15 minutes to answer your questions. Ideally, prep the most important questions for yourself in advance."
+      "text_en": "Cool year-end infographic for the channel, I’d obviously make clickable/copyable links and all that. But it came out kinda funny. You can test it on your channel here  \nhttps://tgwrapped.com"
     }
   ]
 }
