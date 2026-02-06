@@ -1,20 +1,31 @@
 {
-  "generated_at_utc": "2026-02-06T13:36:32Z",
+  "generated_at_utc": "2026-02-06T19:10:00Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
     {
+      "id": 1226,
+      "url": "https://t.me/chillhousetech/1226",
+      "date_utc": "2026-02-06T15:19:38+00:00",
+      "hash": "2bdde78f5f03bc97004b5e3a0c78544a50ac6f74eebbabc8dbee9dd5362b8e39",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Короче, когда разместили вакансию начали прилетать разные резюме. Так как она была и в линкедине и много где в целом, то заметил один \"нюанс\".\nУ нас в описании очень узкие и редкие требования есть, ну типа оптимизация кернелов на GPU и еще лучше на каком-нибудь условном Metal. Что встречается ну очень редко, да и в целом мало где нужно. И чудесным образом у некоторых резюме, опыт выглядит примерно так:\n• писал бэкенд для больницы или чистил датасет\n• и тут же в январе 2026 личный проект \"Developed custom \nGPU kernels in Metal\n for accelerated matrix operations, specifically targeting Apple Silicon (M1/M2/M3) for on-device LLM inference.\"\nДа ну конечно \n🙂\n неужели кто-то думает, что такое скажется в хорошем смысле на процессе. Ужас конечно это все оптмизации резюме под вакансию.",
+      "images": [],
+      "title_en": "",
+      "text_en": "In short, once we posted the vacancy, all kinds of resumes started flying in. Since it was on LinkedIn and a bunch of other places too, I noticed one “nuance”.\n\nWe’ve got some very narrow and rare requirements in the description, like GPU kernel optimization and even better on some hypothetical Metal. You almost never see that, and in general it’s barely needed anywhere. And magically, in some resumes the experience looks roughly like:\n\n• wrote backend for a hospital or cleaned a dataset  \n• and then right there in January 2026 a personal project: “Developed custom  \nGPU kernels in Metal  \nfor accelerated matrix operations, specifically targeting Apple Silicon (M1/M2/M3) for on-device LLM inference.”\n\nYeah sure.\n\n🙂\n\nDoes someone seriously think that’s gonna affect the process in a good way. It’s a horror show, this whole “optimize your resume for the vacancy” thing."
+    },
+    {
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "9fc038a5327f28c1d8fe036194be863806f5e3b3976ce5947d713193ba46320f",
+      "hash": "7b560df03575f4f14657ea1dacd7909d0a18e0dcf7931982f953ad8480d85ad7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/DkXYHyKPQff_3r4UWQVQprbUz4alKb8JDlpXm8I-McVT-JDm6U9nA_UEuVIp0VoK5QH0dNKkyzUD7855ptcY-OKxNJfsBKDLwRAYh7Ll6ztbGWA3KUZj54EVFeh2-JUhPRCqS0nOXTyJ7GgIjz5z9b0qAUlXAFQZncFmZHh5r5qJ8uYjmEvS6otgYYymhPBCGrzT-4atoHPzqO1B-PVRrTSqxC8BoOpyUwcqOt0oZ-yt0Aavvj2OTWa0ZEkEHrz38suWsFahLfMjispPXNy70mQvtLRYfZLWCB4ctwUnG-4gRe4o9mW7plmM5em036FMWbCf7tx2bbCQb-f8VAWXmg.jpg"
+        "https://cdn4.telesco.pe/file/BGFXHaLYyGD2Q0p-kXC1ei_B5arrEN2OipBM91m0DGQRC-Klrzw1aMQ1ylU2EDgJozENrAOUuKDo6slXUP4Ubw9PbHMP3E7fvIlGF5m4DLnylfdDwdC_C_zxpYjfYUZsPteZky1ZytZ7YfbvJmjdKHbSKDn8ULO6NM3eov-KdX2dCsHqYPXlhJDcOhQ-vFv7mfb3hiqiivj3kdmW_95sXjvNsPa1VzhpbCzv-OmfxUi8vMv1Ai9jDc46f7wMDAW_yNxWaXuKTFfPgXDRd7LIyD2MmYJv4v0rK_v8MYpw4h2jnmNN8PiGV_YAC7ccGqDAASYiq1SAcry0kax5etfwzQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Even better, turns out you’ll be able to vibe-code. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— the competition is going hard"
+      "text_en": "Even better, turns out we’ll be able to vibe-code. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
     },
     {
       "id": 1223,
@@ -97,14 +108,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "09cc3758249f16e71d0f9d2e383d4319bd4744d57ad33ecf5aa89a564be6c4a6",
+      "hash": "af6db9e9d96be7d642a09f716ad4a1005ffeda1394c13bba31d826304b7014b3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/tzH0fTppHrxCKax-MKqniJxkar12VHK2IfeMmYuZhTJPqsw5Ykcvekz9erhDybAx7NiHd6EX4HYGVgVDvLHyfvBpe0LEss_QuG6qFS722T1odmARHrXUMp1eXvJZR2Zgq_TjtlldEQ7WSo_HirR_tMuBAp3DUAT0EQFeoCHaR-9DCSPe-KZT8jG1SosH0unGJ7TrDqt1jceq5tFFaMOs2x2HRXj9Qvf1sW8CbfDYwbBdBrVQzcHHZrmfgfCRN__C0Pm_DrxYF8siYVoplDe3hin_KF5YYW-SF-ToHKLFWXkB0zFdkylKEBfu2l6Z0czHIzDk3DUXIKRe6xDdWZ0Dnw.jpg"
+        "https://cdn4.telesco.pe/file/GxEYTAT3JFMj0omV9fby0W0ojtR5XY_PGm2nbc580ZkGsVLNoI-rzfW2UFpLtEDTAaDVg5f2iA_q9Q4WNrJPiL9tNSyOFRVm6iCiS2Dntb2oUlw_ZVEzWCVyX0bgXzYIcB_tBWBnVKNi-BwyNhIyvtaMmLxw1G8rkW2OjJX6ZV500O2BFTCOdY37yGxCDOSeHh-X9vJ8hkB8rl8nkDelXP_i0fDyi8Jfw_2tzjkl1CqZWD_tvuQCN9T2WVjGZQCiJ7z-qge9mowMAEBTZP1_pzkbIitL3GSVoao8jUosRCKgrPsPm2fzigaonna6EQSr7etI9axkDn4dphGw2S5pgg.jpg"
       ],
       "title_en": "",
-      "text_en": "How they do benchmarks at OpenAI"
+      "text_en": "How they make benchmarks at OpenAI"
     },
     {
       "id": 1214,
@@ -178,11 +189,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "94bcbba933413244acf8bf3ad8714bc77a21848680db6e262ef5a61e0a4d88a4",
+      "hash": "221c612e21f5b8765ed0b296fa016a8e03f9c96aee6e0a58a2a9a5b2154bce3c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/STCPGY0a9BC72QTJ59oVslMZaivO0wzEJopDHEk_pXtdPvDTAB4zTBowZ2ra6gQq5kfBpfhklht4slD1oLSu6nhtgq3uzXgCsQLMYp2R9mo-TaCRiiiJnrLwdIVnova8Sn0sO5cgTkrxw7_KVltA7HEebrGqS1dOSLhpBtoyvYYgT5c22wSjgiy0Vf4iGKGv2LQTYb6InNRWAQPLqH9Sv7O4bso8ObfFndvYf9QJFdHde7taXduSLg0BtTO-WtrOcLukI3iQVKtw6Pk3bK1d3O7mqzG-QckvrH6Hw0saA-roIcqZdp2D5aFIzBRby1umAlxIetieQ0EIfQOQt0GmBQ.jpg"
+        "https://cdn4.telesco.pe/file/Ev9stc99FRaNS6j-ibCd7POaZZwah4FVbN2loEWvU5KTzbqCxPXswodu96tZxrN0WJjuTKZDqJUgCuRVHzYCvNLMSdrYcRaCU14rWQf5SXd8IAt-l03dhZNgkBFOjNJAbz6BNfMgT6vCgX6c3TJPd4V_QzWt_LyZbagBecZuw-Ik75-ctL6G_Z80m1VSFGlfLYi5EapaAUTxhWiM3d5Np3y8ZdUoqP6Ddf207Ox1ZFeAwFsOaVx0okVjjpOVTapV7us1wM4ZkPtBG0vxtqwcYss4F7_vRxwYQ9rJpnM1qoqL7gaKRpL5ogB642bGU7x7_bCRv4DZCqyx-FR5u6Ckmw.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -235,14 +246,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "e02d9214a5bfb33af04ff0650655de9083a097e276275fd7d0c3493c02c1e3d6",
+      "hash": "3513bd81093cc4b62969d6e8eeb9f6591140402c1cd973a140e47e0e0e38deef",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/JzpK_lSGdG8w1Xpk07muogcDTj_C6pfSTo8zFMZqQWZrLjFDpWsDz9DSPaYXtVgGsJm3EiFMxq16tb7Ia6H5WJCjJUXv-LnSm1ZXeL7EpR6FVA9vM2no-svrO2szdNksddUi753Z0fnO6YpK-SX5ME4G4PuydXjouGfhC-6Oqi2g_ORlMAhWfWwb3EumCwMfm0_RmDX_ga50vdMQTzmm-X0n-eDC9sRPvkZNg88NyV0StRPA22fk-DC8ls1yn01ayWljbt3HEMpTrEUkjAXnsiHghbmjiDtmekxsBNjOmcwq47Lceis_b-PTr2B5LvWBk-MH-G4kdjpxLFQpAHv6zA.jpg"
+        "https://cdn4.telesco.pe/file/FUnoy9n5VxlDbP-pOAsvbKA7BovkuixQ1IwN3nzhA19_B7m5GigESLhs0SL7N7iasqH5GvX4FQziLXGxQmN07uBHtUDzgDa6P5FOuwUYSXB7nuH_eJQP7pvq_WFJQ9j32EMEChQ-6nk9S3y_DlkGLyh2IQiRCSIY67OU5_B8-u-OWNpUUz8NTC11U1YI7LIb5Yv5xSylEAa6NH_I30ooZlRxXXPIQn6uKaFAgTyzup6-98G2MLP4to6a8CDr_IrvVh5bso-x-LhQJM7BrVGGVEcPVXFyAHfuMdzjDHtRKe4nxsUZeEIgoPfGUDJXOFCDg2KfzvsXP6-M42Ycha6Rcg.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is rolling out on its end. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single unified interface is gonna come again to replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, the Yandex homepage in places. Curious, will the same single interface come to replace the verticals again or not?"
     },
     {
       "id": 1202,
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "I want to talk a bit about cofounders and choosing who to work with on a project.  \nThere’s this popular trait you’ll see in a lot of people whose interviews, posts, stories, etc. you come across — “the desire to be an ideological leader.”  \nThis type of personality has signs:\n- they come up with ideas fast  \n- they sell these ideas well  \n- but for some reason the ideas rarely make it to the execution that was intended  \n- it’s really hard for them to work with their hands and “in the trenches”  \n\nYou can easily find founders like this on the internet. They usually give a lot of interviews, and pretty much all their advice is based on general principles (motivation, the future, and so on). You’ll rarely see professional advice from them, analysis of their market segment, etc.  \n\nThe most common setup for founders like this is roughly:\n- they look for a less experienced workhorse, preferably with a team (2–5 people)  \n- the workhorse is less experienced in the venture industry and raising money, so it’ll be very hard to find a common language with the person who “provides the company with funds”  \n- that kind of founder will juggle ideas very fast, and raise money fast too  \n- but they can’t make it past Series A, meaning it’s this forever-alive company, a builder of ideas that never gets to scaling or selling  \n- their share is usually 80%, everyone else splits the remaining 20% (you get the idea)  \n- teams like that are usually very uneven in hard skills, and in the market you’ll feel how you’re falling behind  \n\nWhat am I getting at. For many, this is the fastest way to get relevant experience, but it’s not a way to get a “working product,” an experiment the market needs, and so on. So my advice: work with people like that, but get out of the cycle in time and start your own thing. Look for a cofounder who’s your equal, but has a different skill set. Build your network while you’re working with people like that."
-    },
-    {
-      "id": 1198,
-      "url": "https://t.me/chillhousetech/1198",
-      "date_utc": "2026-01-02T16:54:29+00:00",
-      "hash": "ced1c95bf427f589a3ecc46baeab0de69627372fb923bc1f867236da128fa7e6",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Что там по стартапам в 2025, ловите полный PDF от Carta",
-      "images": [],
-      "title_en": "",
-      "text_en": "What’s up with startups in 2025 — here, catch the full PDF from Carta"
     }
   ]
 }
