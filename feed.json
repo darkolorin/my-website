@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-07T13:14:02Z",
+  "generated_at_utc": "2026-02-07T18:56:31Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1227,
+      "url": "https://t.me/chillhousetech/1227",
+      "date_utc": "2026-02-07T13:25:57+00:00",
+      "hash": "e8ad63509fabd84772b40d4c9eea6367f4d07ab593b5ab8c0afb10657babf839",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "На выходные:\n1/ Waymo \nпоказала\n как они используют world models. Это прям круть. Симулируют дорожные ситуации. \n2/ мне кажется что предприниматель, который системно продает свое время совершает ошибку не вкладывая это время в свой бизнес (значит ли что его проекты херня?). Ведь свое время масштабировать через продажу часов невозможно. А вот бизнес можно.",
+      "images": [],
+      "title_en": "",
+      "text_en": "For the weekend:\n1/ Waymo\nshowed\nhow they use world models. This is just sick. They simulate road situations.\n2/ it seems to me that an entrepreneur who systematically sells their time is making a mistake by not investing that time into their business (does that mean their projects are bullshit?). Because you can’t scale your own time by selling hours. But you can scale a business."
+    },
     {
       "id": 1226,
       "url": "https://t.me/chillhousetech/1226",
@@ -18,14 +29,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "7b560df03575f4f14657ea1dacd7909d0a18e0dcf7931982f953ad8480d85ad7",
+      "hash": "29c43ea1f8a2461959ac81da94a1e0a73fe11e7026db08b7ee475fdfdf11869c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/BGFXHaLYyGD2Q0p-kXC1ei_B5arrEN2OipBM91m0DGQRC-Klrzw1aMQ1ylU2EDgJozENrAOUuKDo6slXUP4Ubw9PbHMP3E7fvIlGF5m4DLnylfdDwdC_C_zxpYjfYUZsPteZky1ZytZ7YfbvJmjdKHbSKDn8ULO6NM3eov-KdX2dCsHqYPXlhJDcOhQ-vFv7mfb3hiqiivj3kdmW_95sXjvNsPa1VzhpbCzv-OmfxUi8vMv1Ai9jDc46f7wMDAW_yNxWaXuKTFfPgXDRd7LIyD2MmYJv4v0rK_v8MYpw4h2jnmNN8PiGV_YAC7ccGqDAASYiq1SAcry0kax5etfwzQ.jpg"
+        "https://cdn4.telesco.pe/file/Y3LrbXv8Mdcf7FnqhB061aDLw0U_nK0YwDycbLkPZ333NrIKTCS357t0dl0-I6Gzv-OscVj_6vAluSFdjlYulWBqDov38Vll2DP641oPPEFNAwcsyerRgQsIhu_s2vRYIFUUSSUKNqtN2ER7wTq4uFPI6NsDXybI58CE1f6spiDu0241_rNI7nfpCTQbKCDEIxoF5EEC9Mb91LUR_Aaz4MlIDWS3587qJ1tV2HdcWPhjd-Y83lQFZLLO_yRpIEgiE5zoHIStJ1DvwQLGkvBXc8wb-mgKKcYmAaPuUgZ_yziIcftiBTO5FF__zWWP_c0dpo24cQJdliXg8J6Rg8owFg.jpg"
       ],
       "title_en": "",
-      "text_en": "Even better, turns out we’ll be able to vibe-code. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
+      "text_en": "Gonna be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nNew Codex  \n— the competition is going hard"
     },
     {
       "id": 1223,
@@ -108,14 +119,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "af6db9e9d96be7d642a09f716ad4a1005ffeda1394c13bba31d826304b7014b3",
+      "hash": "f1a249b3bae221f9c4ba1dd71a1f5018d311dc9955e76604f28ea1b4437e946d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/GxEYTAT3JFMj0omV9fby0W0ojtR5XY_PGm2nbc580ZkGsVLNoI-rzfW2UFpLtEDTAaDVg5f2iA_q9Q4WNrJPiL9tNSyOFRVm6iCiS2Dntb2oUlw_ZVEzWCVyX0bgXzYIcB_tBWBnVKNi-BwyNhIyvtaMmLxw1G8rkW2OjJX6ZV500O2BFTCOdY37yGxCDOSeHh-X9vJ8hkB8rl8nkDelXP_i0fDyi8Jfw_2tzjkl1CqZWD_tvuQCN9T2WVjGZQCiJ7z-qge9mowMAEBTZP1_pzkbIitL3GSVoao8jUosRCKgrPsPm2fzigaonna6EQSr7etI9axkDn4dphGw2S5pgg.jpg"
+        "https://cdn4.telesco.pe/file/ujUZuhN_8npG7Dy3d8O91pWku9ODh8ZK21dAkQwT1mOHJjzhOrHO7TDeJNN6j8vhDAZbeGl6HEEhxDtKFf64ORZvwbl28xXXu3oXGq3QnyjMYXxkbKz7l73GcVkTOx-u1izT6b5KS-YUoEAPPmhIqnm8sMAbdy8mcwbnvXkYYDAj0TtPKOS5-iWNootfa1UTXpeZvkCX61uKMOU9i0nn5YBTbx3ods3TB81BBo6b0ObZGj1wizsH0WONHpnWz6CMk15nx3KPsMKzl6P9HWLGHZF9_4G5d7XWuDNfsFCi5hVC1_05Yo4fnMYm1Sghi_LQWkGlHfGIjTPyPMSy2epO2w.jpg"
       ],
       "title_en": "",
-      "text_en": "How they make benchmarks at OpenAI"
+      "text_en": "How OpenAI makes benchmarks"
     },
     {
       "id": 1214,
@@ -189,11 +200,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "221c612e21f5b8765ed0b296fa016a8e03f9c96aee6e0a58a2a9a5b2154bce3c",
+      "hash": "cf569e72d5340487b99674e67c4637407dadcba89b2687b296a2d8c3832d089e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/Ev9stc99FRaNS6j-ibCd7POaZZwah4FVbN2loEWvU5KTzbqCxPXswodu96tZxrN0WJjuTKZDqJUgCuRVHzYCvNLMSdrYcRaCU14rWQf5SXd8IAt-l03dhZNgkBFOjNJAbz6BNfMgT6vCgX6c3TJPd4V_QzWt_LyZbagBecZuw-Ik75-ctL6G_Z80m1VSFGlfLYi5EapaAUTxhWiM3d5Np3y8ZdUoqP6Ddf207Ox1ZFeAwFsOaVx0okVjjpOVTapV7us1wM4ZkPtBG0vxtqwcYss4F7_vRxwYQ9rJpnM1qoqL7gaKRpL5ogB642bGU7x7_bCRv4DZCqyx-FR5u6Ckmw.jpg"
+        "https://cdn4.telesco.pe/file/mhaULjfRIT0mVBJ92ygAcvXMgG-8jYVuvvVR16suK3spWEq2hFdG7DVbYBBDxxtcTmvcnsOpixwtUPy6HJ5oUz1IzGFDxFxIn-9it1gGYL16Fa9IeXkJmQbZDHV3qWE7x1rPy_ekhzdl6hFkCQKtY3Rzuv1AlyEMkcZI2ls6mlaK5voCKyQNzlgI_WySMuintN5SA2rTISbfnjo5mQAoBKF0rv8oLFbnbW7Zaq9YdBeniVfQ-9Wy1BGiBhhDn_yWkYNW1y_wK5oUUe0GJubcathpanaGFqoQpyhxEZkcthOZwWcHgnSjmm6bss3rE8qSuk27PFn8gNfSVB7DeXGacg.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -246,14 +257,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "29211889c97871d77b5991e0f5c9e6d57883131b39c2cf1355fc87266064020c",
+      "hash": "513a99031965f27cf4012784174a0e4a6cb5b17349577947d42783be4084b2cf",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/tB84F_NFoeUVFF95QOMR1QlMidMQaVBhQnDmcmYzSYkQLjCQpR5ITkx-eHY38i8e8yo4DtoX9ICJUQ7-WzcLAp2S_dAA57hqCbMd16vHw9fytPLB3g2swoclX1K0PBckDm0zcdy8_kpsflk1z1uXNUeY9TU54_VOmJaAWEPQX1OCmqMco2hU_TzqvfDt76oCeayorgXo2-kPQ9CAgDAD-e7xovnCcxdXxj87uV1guQXiJVBfvn8BTwmQ8HQ2yv9AjACAQLBhp0MtFg3uv7982m5lzDU9MKhvqvPoDd_YU-EbM1nxRpBi4Nhk5le9gyZbY9sXYKABq3NGRRAlTySJlg.jpg"
+        "https://cdn4.telesco.pe/file/WG4aAdezvI5H66ld9QBBZzusr9-KXMEx8wI2SvzCCO40b2BWG9TT7pkGtmWKGOoPPvaxP47fgviQN2anpn8aA5bl8PkpydJLLFk6fptuBnWLBpWvBIX-4m-Hqf5-MetBIbQ7gUNTcxeAxbNALAPS9LlokluW4bkzD6S6IBarzLmOLstH_BYwG4S4YxT7ifK-UIRzP5zOWA1PRPGVZEWH8wDF3QOEtbLWyhLgT2tsXgv1sSRgz6hsXIV6nFaBC-fWZNyFE8oHS8iRBA4ycwROvUUODjIw_TtqoiJUIzT3pIS1QZnPjt0eKNwnwlbcgBUSvJEHrUP2TGXhleqthzCiIQ.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kind of reminds me of those Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Wonder if a single interface is still going to come replace the verticals, or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda напоминает Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether a single interface is gonna come again to replace the verticals, or not?"
     },
     {
       "id": 1202,
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "While the holidays were on I vibe-coded anything I could get my hands on.  \nFirst, a couple of inputs:\n- I last properly programmed something into production a long time ago, like 10 years ago probably — last time I wrote something by hand from scratch and all the way to the end as a ready-to-use project, seriously\n- I know the syntax of a lot of languages, I understand all the basic programming principles (all that OOP, functions, even remember how monads work)\n- but I don’t write code, though I can read any algorithmic trick, but I can’t do architecture stuff (it eats too much time)\n\nWhat I tried:\n- a frontend for a reader a-la  \nhttps://alphaxiv.org/\n- make the exact same thing as a Mac app\n- did various connections to our framework, like a plugin for Zed to use models that run through our uzu inference engine\n- modifications of different repos to support local inference, for example here  \nhttps://github.com/alexzhang13/rlm\n- solving various tasks in math analysis and olympiad programming from Kvant magazine (well, whoever remembers will get it)\n\nIn the end:\n- frontend is a disaster for me, I straight up don’t know web programming at all, so I just can’t get what I want, the interface keeps sliding around, I fought for hours just to align stuff to a grid or get PDF previews so nothing shifts\n- the Mac app turns out ok if you remove the interface; with UI it’s the same as web, but stuff like menu bar plugins that search articles by my queries — it does great\n- any modifications and connnections, plugins somewhere, and simple API support, whether it’s our engine or something else, it does reliably almost from the first try, especially if you ask in advance to write an  \nAGENTS.MD  \nfile in every repo so it’s easier to glue them together\n- it solves problems head-on pretty well, but if I try to write a bot for some game or trading in a game, basic math is a mess. Mean is median, median is mean, and so on. Primitive mistakes, and fixing them only works by hand. If your chain has a bunch of computations, it just can’t carry it through to the end. It only works if you force it to write tests for every step. But imo for these tasks that’s overkill.\n\nBottom line. The progress is very noticeable. Codex, in my opinion, is smarter for one-shot stuff, but Claude code is for projects that are wrapped in tests and md instructions at every step. For now it feels like the stage of writing integrations, connections, basic things and review is close to automation. But architecture and math in code are hard. UI I’m not even gonna talk about — either I’m doing something wrong, or it’s completely busted and it can’t improve anything beyond what came out in the one shot.\n\nI use every day:\n- Claude code with plugins, type the command /plugin and there’ll be a sea of useful stuff\n- cursor\n- codex via the web client"
-    },
-    {
-      "id": 1199,
-      "url": "https://t.me/chillhousetech/1199",
-      "date_utc": "2026-01-03T12:40:49+00:00",
-      "hash": "d0871e33519b140785bdb825db242f5f4f8253535f78776390d7a5836a81901e",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Хочу немного рассказать про кофаундеров и выбор с кем работать над проектом. \nЕсть такая популярная черта у многих с кем вы видите интервью, посты, сторис и прочее как «желание быть идейным лидером». \nУ такого типа личности есть признаки:\n- он быстро придумывает идеи\n- он хорошо продает эти идеи\n- но идеи почему-то редко доходят до той реализации, которая была задумана \n- им очень тяжело работать руками и в «полях»\nВы легко можете найти таких фаундеров в интернете. Они обычно дают много интервью, практически все их советы основаны на общих принципах (мотивация, будущее, и так далее). Вы редко увидите от них профессиональный совет, аналитику их сегмента рынка ну и тд. \nСамый частый сетап для таких фаундеров примерно такой:\n- они ищут менее опытного работягу с командой желательно (2-5 человек)\n- работяга это менее опытный в индустрии венчура и подьема денег человек, поэтому будет очень тяжело находить общий язык с человеком который «обеспечивает компанию средствами»\n- такой фаундер будет жонглировать идеями очень быстро, но и деньги поднимать будет быстро \n- но дальше серии А добежать не получается, то есть это такая вечно живая компания строитель идей, которые не доходят до этапа масштабирования или продажи\n- его доля обычно 80%, доля других в рамках оставшихся 20% (идею вы поняли)\n- команды такие обычно очень неравные в хард скилах, в рынке вы будете чувствовать как отстаете\nК чему я веду. Для многих это самый быстрый способ получить релевантный опыт, но это не способ получить «рабочий продукт», нужный рынку эксперимент и так далее. Поэтому мой совет: работайте с такими людьми, но вовремя выходите из цикла и начинайте свое. Ищите кофаундера который равен вам, но обладает другим скил сетом. Собирайте нетворк когда работаете с такими людьми.",
-      "images": [],
-      "title_en": "",
-      "text_en": "I want to talk a bit about cofounders and choosing who to work with on a project.  \nThere’s this popular trait you’ll see in a lot of people whose interviews, posts, stories, etc. you come across — “the desire to be an ideological leader.”  \nThis type of personality has signs:\n- they come up with ideas fast  \n- they sell these ideas well  \n- but for some reason the ideas rarely make it to the execution that was intended  \n- it’s really hard for them to work with their hands and “in the trenches”  \n\nYou can easily find founders like this on the internet. They usually give a lot of interviews, and pretty much all their advice is based on general principles (motivation, the future, and so on). You’ll rarely see professional advice from them, analysis of their market segment, etc.  \n\nThe most common setup for founders like this is roughly:\n- they look for a less experienced workhorse, preferably with a team (2–5 people)  \n- the workhorse is less experienced in the venture industry and raising money, so it’ll be very hard to find a common language with the person who “provides the company with funds”  \n- that kind of founder will juggle ideas very fast, and raise money fast too  \n- but they can’t make it past Series A, meaning it’s this forever-alive company, a builder of ideas that never gets to scaling or selling  \n- their share is usually 80%, everyone else splits the remaining 20% (you get the idea)  \n- teams like that are usually very uneven in hard skills, and in the market you’ll feel how you’re falling behind  \n\nWhat am I getting at. For many, this is the fastest way to get relevant experience, but it’s not a way to get a “working product,” an experiment the market needs, and so on. So my advice: work with people like that, but get out of the cycle in time and start your own thing. Look for a cofounder who’s your equal, but has a different skill set. Build your network while you’re working with people like that."
     }
   ]
 }
