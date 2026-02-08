@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-08T13:15:03Z",
+  "generated_at_utc": "2026-02-08T18:57:46Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -29,14 +29,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "29c43ea1f8a2461959ac81da94a1e0a73fe11e7026db08b7ee475fdfdf11869c",
+      "hash": "b7307bbbe130a3a74ed777ed7180d95a502bb8e57147d7a0ffce2b0b68526274",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/Y3LrbXv8Mdcf7FnqhB061aDLw0U_nK0YwDycbLkPZ333NrIKTCS357t0dl0-I6Gzv-OscVj_6vAluSFdjlYulWBqDov38Vll2DP641oPPEFNAwcsyerRgQsIhu_s2vRYIFUUSSUKNqtN2ER7wTq4uFPI6NsDXybI58CE1f6spiDu0241_rNI7nfpCTQbKCDEIxoF5EEC9Mb91LUR_Aaz4MlIDWS3587qJ1tV2HdcWPhjd-Y83lQFZLLO_yRpIEgiE5zoHIStJ1DvwQLGkvBXc8wb-mgKKcYmAaPuUgZ_yziIcftiBTO5FF__zWWP_c0dpo24cQJdliXg8J6Rg8owFg.jpg"
+        "https://cdn4.telesco.pe/file/TddrFVpIDubu-Ins-_kcf6LptBIeExx6nwr_R6Ebc0erj23MwLA1sOutaX-rG8xxMaYVJIdrDpEn6CgLB-0wdoODBgqoSvoxOC6gfARd9Fv5gtUTDUYvFO3toasXzsip22vY8Py2k2bKIcIXx7nZoNdsQsU8oRKgvFwu43CAY3xNkuBqfiTUDiisqe3fCuOa9wTCO1DhER7yejmDJZ0kR1d89JpadjcMneEIE9qPx3Zpv3syWgQbjNefBNVBsHhMOOOT7ikPpH_pZMBJFNFBgrOMfWtSDmfvh37hedE2LmkyKfbpmnBzxbwq-vc9aQtWxPkqNspBvwQrLLCrMM21-Q.jpg"
       ],
       "title_en": "",
-      "text_en": "Gonna be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nNew Codex  \n— the competition is going hard"
+      "text_en": "Gonna be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— competition’s going hard"
     },
     {
       "id": 1223,
@@ -119,14 +119,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "f1a249b3bae221f9c4ba1dd71a1f5018d311dc9955e76604f28ea1b4437e946d",
+      "hash": "86fd17264b907b77a6cdb7f2c43996e38bbeea092280fc2ec7a18a9bf6bf0a2d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/ujUZuhN_8npG7Dy3d8O91pWku9ODh8ZK21dAkQwT1mOHJjzhOrHO7TDeJNN6j8vhDAZbeGl6HEEhxDtKFf64ORZvwbl28xXXu3oXGq3QnyjMYXxkbKz7l73GcVkTOx-u1izT6b5KS-YUoEAPPmhIqnm8sMAbdy8mcwbnvXkYYDAj0TtPKOS5-iWNootfa1UTXpeZvkCX61uKMOU9i0nn5YBTbx3ods3TB81BBo6b0ObZGj1wizsH0WONHpnWz6CMk15nx3KPsMKzl6P9HWLGHZF9_4G5d7XWuDNfsFCi5hVC1_05Yo4fnMYm1Sghi_LQWkGlHfGIjTPyPMSy2epO2w.jpg"
+        "https://cdn4.telesco.pe/file/gL2Dl7JBL6mqDjBrCQliD21DIMqz1P3--Rg3tltMuP5lMWQ3w6Lr92zOid0zQdrE1hd5nE9rKhuXBpkKA6FYtBXrqMQxkTWQVg-Z0lghWOO2zSX8X3EnA18BViB0Nl7v-b-mltcq6A_Oz9KQSzF4xn7pLqt8A1-XsPEGj3lIFn-1CCH5GYUTu8KxJ6gC9uWGd_bVYyl_DM3W-Mk-SVD0fZP5gnlkoYWhzowcu1DHIwuNx_rQ9H79JvTvqMcjrmI1UzEs9WJC-MB7ND_-K5pzIRO_vFkNgt7C--6c0ot2ci07WJPCCAVcqqZizFuNHONsaFjTzSwuLzD4dcIWA8VAyg.jpg"
       ],
       "title_en": "",
-      "text_en": "How OpenAI makes benchmarks"
+      "text_en": "How they make benchmarks at OpenAI"
     },
     {
       "id": 1214,
@@ -200,11 +200,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "cf569e72d5340487b99674e67c4637407dadcba89b2687b296a2d8c3832d089e",
+      "hash": "41a0bf107cc2f5a2081d8dc08143baea594cde656ea2354812abd35bef57fde9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/mhaULjfRIT0mVBJ92ygAcvXMgG-8jYVuvvVR16suK3spWEq2hFdG7DVbYBBDxxtcTmvcnsOpixwtUPy6HJ5oUz1IzGFDxFxIn-9it1gGYL16Fa9IeXkJmQbZDHV3qWE7x1rPy_ekhzdl6hFkCQKtY3Rzuv1AlyEMkcZI2ls6mlaK5voCKyQNzlgI_WySMuintN5SA2rTISbfnjo5mQAoBKF0rv8oLFbnbW7Zaq9YdBeniVfQ-9Wy1BGiBhhDn_yWkYNW1y_wK5oUUe0GJubcathpanaGFqoQpyhxEZkcthOZwWcHgnSjmm6bss3rE8qSuk27PFn8gNfSVB7DeXGacg.jpg"
+        "https://cdn4.telesco.pe/file/qj_XhAROlCU-ulsFUj2ljbC9lB1b4mdSkc8YLJv6KeO2H3oqDPLn7USOYt89hZKugNeGko1HeyGukwXs5U1GmFPICcZMZfhaeOAIuInB2_OCaJ8TmZsQFd0WU7akRCZivzM6jrJ55lZCt2oxzt3dSYTARyQLdbLJdMolgrLP_8r-6hNBnz0rjEuXMNA4Oxx_-UFBn2DUXXyjKPzD_4WIGvWSDmNQI365_1okLl5b_VfHR304Aem9RAs1TCerPrVwCql20GmOb7AnXD2frNLXcSPOfvofpAGGgD3rg9bpcsup1n_7b3QLN1nU_TcJd5TXeIfb_IFbGRXbTdhc4KtIIw.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -257,14 +257,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "b35a11626a1ee38c4540a8da7016d7d49d8a76ddec49f2c9140085d1a25e2948",
+      "hash": "d97a5847842c29d11bba1bfe33dae6ef69788d003edf04d082a7b9e654e7503f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/KBeWWAUrastzKZyYdFJGKxeEw3iO2b_PDbphErp71xY0ybOQtN48x2lb_RPtnWrJ9_tw96JH-mIrlhdJXxbYKD0BmkBV0VMnfZUVE-cbrY_dqq247f098GKcpWNWAE8MiR-DTGa-SmQ5gd5Yu-kheFQd0coluFjJvxrrvM7JASU_Lg4q9L3VEDV0XOzkqxiajDd6_auA5OBz70uae0DnPyOCqoy3wYYAdsWkCOGpBiZ_ixMbcm0RUkOmc5Usk-OFU-VKiD69yLga3vQSCmwDYHTtfY_okwfHlkoMEJ_t759D-bh1aBFjI52XwC-RwhuLJtFBXnx6X2shlC4Lo5Uoag.jpg"
+        "https://cdn4.telesco.pe/file/QLA1eQsW2-Mv0ob4AKhEGHOrnQlyP2K-b7WuBaW4_mW_9cqkbIEIafWC_7vT4JGE_QlgeMwyuzGuzmqfzdWJtxz0l_oXKJ_NNX5nHnJ3f1L-0oghFXiny6YZSEQrtR8FGZPN5SFT-Ri3gs9F54ASFmRvrVLJCdIn_8mNPg142BSA0pEcXfmB4QQJ6qs9IUVq0PaHCryzxzr_olbX8iELYFMaoFBrImzi0p4wOwuZ3hpDkbcad91ZdPvNEF8PJYj1q0EYQ_7KGMEYIzADDSSb2aHVkTZSWZJcTnBgrgKqIL3s2tjPfArqLR2yjQrVGr4Md34E60NAG1qjU2x-2BavbA.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is rolling out on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, the Yandex homepage at times. Wonder if the same old thing will happen again — one unified interface replacing the verticals — or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, the Yandex homepage in places. Curious whether the same “single interface replacing verticals” thing will still happen or not?"
     },
     {
       "id": 1202,
