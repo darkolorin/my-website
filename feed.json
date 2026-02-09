@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-08T18:57:46Z",
+  "generated_at_utc": "2026-02-09T03:23:09Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -257,14 +257,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "d97a5847842c29d11bba1bfe33dae6ef69788d003edf04d082a7b9e654e7503f",
+      "hash": "a5087a5bc8f80cbcf9354e2339bccd535c0e1bc568b627fb89cb268c36ea00a3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/QLA1eQsW2-Mv0ob4AKhEGHOrnQlyP2K-b7WuBaW4_mW_9cqkbIEIafWC_7vT4JGE_QlgeMwyuzGuzmqfzdWJtxz0l_oXKJ_NNX5nHnJ3f1L-0oghFXiny6YZSEQrtR8FGZPN5SFT-Ri3gs9F54ASFmRvrVLJCdIn_8mNPg142BSA0pEcXfmB4QQJ6qs9IUVq0PaHCryzxzr_olbX8iELYFMaoFBrImzi0p4wOwuZ3hpDkbcad91ZdPvNEF8PJYj1q0EYQ_7KGMEYIzADDSSb2aHVkTZSWZJcTnBgrgKqIL3s2tjPfArqLR2yjQrVGr4Md34E60NAG1qjU2x-2BavbA.jpg"
+        "https://cdn4.telesco.pe/file/mhtEZU0iCdUuOot6CUQyZ-iIEawhpQhUM1cVg35iy5v7A19vW-GAeUKfXsJwpfykAXk4DCDTJJ2oagkH5q5nDDWhB2bKMH8PuCBjGcNo_0J4QqrF5fGdGqs7dH3EgJ94jKd1usUIURxQg0-WjmrslyESE6L8GTBYtrZvbkWj6UeAQ5pluXz9slarUHw31bikK70C_2YS2PqpkhQR0pJvHiRphSK89FP2iyMTCt9HXM7OIKO_jy1P-W2e6MvgEXaE9XQZfNuTHhrF9vzmm97kGskS7ToplABs_jNVH4uvCSnofSybUsG4mhVja-vVMzrL2hzwbHkMedSihD1T3dw_Ag.jpg"
       ],
       "title_en": "",
-      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, the Yandex homepage in places. Curious whether the same “single interface replacing verticals” thing will still happen or not?"
+      "text_en": "I’m looking at what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and at times Yandex’s homepage. Curious whether the same unified interface is gonna come and replace the verticals again, or not?"
     },
     {
       "id": 1202,
