@@ -1,8 +1,33 @@
 {
-  "generated_at_utc": "2026-02-11T13:51:37Z",
+  "generated_at_utc": "2026-02-11T19:22:02Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1230,
+      "url": "https://t.me/chillhousetech/1230",
+      "date_utc": "2026-02-11T17:47:42+00:00",
+      "hash": "721d98ad35f559508aebcca16105c2c35d633fac303d3c574a942f7c2da1866d",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "О, еще интересную \nвакансию\n нашел. Первая строчка описания:\n«\nBlue Rose Research\n builds data and AI tools that help Democrats win elections» \n😏",
+      "images": [],
+      "title_en": "",
+      "text_en": "Oh, found another interesting job posting. First line of the description:\n\n“\nBlue Rose Research\nbuilds data and AI tools that help Democrats win elections”\n😏"
+    },
+    {
+      "id": 1228,
+      "url": "https://t.me/chillhousetech/1228",
+      "date_utc": "2026-02-11T14:38:35+00:00",
+      "hash": "2cf22050ea99c88c1fa87db36c18d5d9c8356cb91ac6dc661e21e1a88b069262",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
+      "images": [
+        "https://cdn4.telesco.pe/file/kK47AJJ_m-tY2Rk3QESgWXfNy4wmTOvb8Dy3zx12rhDGNyiAjn8AfDpcVZNILZFOzM94Dbij8bFqjWNb_PmcTwcCLtYheqcc5fZm0YHMKUPJdJ2NUp_0zZK7n73TWFJDRWgzVM5G30ooD7jmyaoFy6HU0QjxY_2Jpf0z63pC8qE_sRBJSYjCzgnA6uCCxaZ6ZS77NJBhrTz9WL2MLk44mViEiiyzAqZuHv-d96br_wKMLcShzOm2_2uOug50u-xQ16RdzKX_9_jbUYxgpMs39JTDhPhfTjStAw2XDjXA7PQAlEe7GOtcvqgGA4N8fwPHtqOOzO_0aGdMWr1SdxX2dw.jpg",
+        "https://cdn4.telesco.pe/file/ogdNbpGuKCMS3lbP27tNOF-lCFdlx5ur37YLLy7xrJUHTtsH2hYXgxKC0wKCA8DxsK_r-hkoZXja37aoSPRffBC0ZIENqWbgAD78tUM2NUjRI-a_cHuiLs1A28VxkJ7vqOZbq3kNfhEQtR0SHajOyoeGpti5wMbwS9QoCrDodEJjazW2ALYimuvCXkHkSdxaT_TxdMbDSUsVkFVymyyDPnOtbHAGLyejzJTQ8NxcFRA3HA1zBn5CyKe-nNaStyk46Ukzm6rxFnDnmBWFo9y5fJN4GcmylpWw2M39LSARx9VYKT2BN3xsZurPKRGwN8dtrmKYkFwoXa4U50YY-3ef7A.jpg"
+      ],
+      "title_en": "",
+      "text_en": "When you raised a round and immediately posted the key openings. And probably also flew off to Bali."
+    },
     {
       "id": 1227,
       "url": "https://t.me/chillhousetech/1227",
@@ -29,14 +54,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "e90e20f5078a3a5a6bf39153f806268b91d6034e646464aa48a5ba9d6612457b",
+      "hash": "efb7c3d8326849469539acfc8a52b52e17f35dbc7d4ef2c1e6f48f4111b96967",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/rireQSVj2e89j-o1QnUCmYYEt2Xj39G1AwgzaLs6_i9tti4hE_71ZhrAg5v94Zx_Rf4v3I4tmLKMaQ0LL58NRufQR4_1pPuOXsBRZ_OhXMEIRgitHRRugiZaLvSCqQ_x4rB9iN0dbeygXKPh7gNb-C-PXWep6VYpF0tmHTFTvIuSUA2ILceR6RQolcr0cABAfou3X_hDzMg-PRLH6VKP2NRku0EoH7OfjqIn9IjFEvNWa7JE2uFOwqVS2QHvfuy7u5tkBdoeBof3d1ZRu26EJ1bSYDYt6enmCDRUpres3R9TOXGOpbt-3nnQhHj6oHobGsPsVzMU5PcrlORHcL7Ffw.jpg"
+        "https://cdn4.telesco.pe/file/a4KXpkWR_y1Zo5BIEsRNJqmP6HNiE5bj8dbB4FIacFjnH5zoRBqnT47in7aNavZA8EcjzSodX1vvESi5u6ljVEjyhORiK5Gseko_LcvRMbGh1e3ZxN5JIjRDDnRt_-HMDd4qo_1i-JiLTByngqsoa4rH7GbYxRAbtffAk8rk9AozCHkVcqI7PeCmLpfonKrb73syzWyGE0xL_Vx1aOyDkOvwRm2jdPp0NdSUSlKAbeMqrcwpjofpYz3S1lXC_PHNBICkXY0lo6fCWPtnonXvUUbQd7C3IyJOfSJtKv1RgEz_K-p7YJ-F1gqQf-tJgCjFZCH_XJkQkTZ55hZGgPshPA.jpg"
       ],
       "title_en": "",
-      "text_en": "Gonna be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
+      "text_en": "So you’ll be able to vibe-code even better, turns out. New release from Anthropic — Opus 4.6. And right away — new Codex. The competition is going hard."
     },
     {
       "id": 1223,
@@ -119,14 +144,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "a412c67fba55a33e073f1931e4f01e579e67d8997dbcaab3083b9d5d04d4d9eb",
+      "hash": "d44904dbaa657d37d16c5cfb17d6ec03dab4add615d18925f27fbba0c08bf00a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/trFwvy1bjxlbJdr95eANKuWZxZzEOCWSZH1ixd7jkUULyHLO2yVLL0gPuMR64IK0LZ3N4pXIuPY_SdgsQosYFi4sr2vf-qPNNObrG8n6Bf7F_OzMvYMehRcsEVr0WThGqguqZmw1O0MU3hYIFFQuoCGfPV0UOqcqQGBqBeU5yx_LpynzGbgvb1dIz2kIItnocw7zSXisB-LdWFtDsEfd9GMSKgNC3taLeXuAkxXiUPQfotsbZhsG9sApoNOXz9E3SAaZT-0K9LxPCmzO8HAgTaCrxywIZ_JWnmDL4vvacVVnzWOpaBR7OxOwz7JdAuqE-am9Z7oxSkt9GpXFtPrPjw.jpg"
+        "https://cdn4.telesco.pe/file/USzP_kf7ipuWA2BemgIK69oj509_4LdyVwkHEU7W7y-z2E2PY1SxZA88WwXbRGdN4yjdH1wWvbTiuBePkKdzME_qXKWXRZRZMQ5YmoBstc2Bv-A9aMWM2xIXEE2TBWhWPPnVmDWcvkZs69XxZ6Qb_6FmSynQ8DMo9qf6ZfNoHBcfbAipsQG3mLCbxgVRz2hW9E2C5Ujbj8YizZyeT0PmotaPkbzoqVKFBMuCagcpqdIXCVN0rGLwhs8jSFesmmCePG5sXB9ORl-ycLoyFxaOXUiuRSA5M9o0def8aQEV2aoukKRa2cigslvuUFJvIa8LmelE209JaeFaSyDLv1lqpg.jpg"
       ],
       "title_en": "",
-      "text_en": "How OpenAI makes benches"
+      "text_en": "How they do benchmarks at OpenAI"
     },
     {
       "id": 1214,
@@ -200,11 +225,11 @@
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "37eaf0a7237934c4a169a82edee1f192d2d4d5e3eeff58ce3dae0dec5946ce38",
+      "hash": "71493840dbf3808c69e602bc1c84fbdfcf7055291207205e9a1081ef26ce586c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/XROUq-f15147rVcCwer2g0HupzoUAqqfB_IUFbct-mWjiWcA2OIdATyhVGY77qQt-CkP6e49J2yDQrJD0AcAkrod8UEHmKr5Z7dPw6TAl39BFM0Phy7LHmK8f7btFHFIygDtjz9DOfYSGkCNQ2ypVkX5Nj7RDIL_WrSQ_l74_pMLVSu5fpalaok5DcRTlgOyWnRuQosbhze2h078IEwkagYgHZnXymL9X33H7aA9-_4QTk2_LVGbxb2oDiw2adLh9cTbakQI4iE3LA22MxgKhXZ3RGfEfBFpTD0zGzTG0Ddyx9xYM8ATgkORQEcG9SFnU2JxE9Y9-BpuiU_Or_uIMw.jpg"
+        "https://cdn4.telesco.pe/file/lqyVsQibcuD8PVJvL99H1XaHMH5ttoCHo5cuse-naM8RVD9ZV2_ym2nqW5KiovOQ8kn2aRjkUFhM2FQOHEdPL6AHRDJwCovVlUMdmUx_8CFn89dcAxxExWoFA32Ba7AEH8riYE0OIsxXC5Nw1n4QVq2kM6NPrfWPSp43pi_CN54yBcfxSI28FVALU7stQx3xu_jM7KDBgRd9lbBLbi3umTpQi9_XjN7DAg59c6mPCql5zIp1n9DYlX_W08n1BG1Wb4cDueaIkio9GnnxQPYGTVfMCeCsoROqM5Q0kM2N1nxpivA1RTkg3mY2ef0FvHL4KlXeZEVmk5YfTl0SGjW1dA.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -257,36 +282,14 @@
       "id": 1203,
       "url": "https://t.me/chillhousetech/1203",
       "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "3222c3a0d15132ed37ddafc85c3c0b920960b612266841cfa7ffa7803189cea7",
+      "hash": "026275c44d67c393c245923be9db340d87e6a44036a599caaebc10599b8caa15",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
       "images": [
-        "https://cdn4.telesco.pe/file/HKL2RHxY2RAtArpcUx5vViEQ186_lMz23ExX2BoBFCgTzF2x_cR2auJcwdpYR9v-xppkytHRYalp3RXiMu3s3z-SJL4uagVMOEg6Byh6Hej_cXw7ogJL880fH6QvZFeCouz1zxHFIuiP_DiS0pFrVs1RvWGlPLk_hmYZ1wwOwRR7GWcVneDUspy9-E3PJhzLT5-lEU2IA2uF4AQL5QTwXdq6JtnkWQCKsD8z-ZhPjlMoFg6EIYVA3aJtsTfsBhMqxhXOSs2sKDj1udjrlAnirQPOXHFWVZsRL8SRIBBWoMGOmLZsrRNmOR0Dr1L4c-bt0DM1hUGs17nqFpvNbsefrQ.jpg"
+        "https://cdn4.telesco.pe/file/W6SYvbKavgGm9zsiTtaPRXDiESrRLrd2nMxOOVms4NcfgbTCBpWqyck0qoddd0iYWAp2od8f1-b9rVbzT5e-SJmjLSPPUfbGNqVTRKy5rAjVMzvS5O2ZSNdBI1lALsHefsKpwUA1jxId7j2J1Ea1R6DkaSr_uiRlnQ3pkRbEZ-azN1HxAAESv32PW-XcAJd2sscH6Ng1shOQNOVyt6m4Xva01wokQNkEHfCDIvj7ZP0obM__YNnqcORZJCsYPpdEFBsALapksZF3aKbkDmnlSEaM_YHmNrH1z41BlQYkiIXhuMeSmRxHOJb_JoqSKeOAgur6v9KAzaaProg9_YhYUQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Watching what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kind of reminds me of Web 2.0 portals like Yahoo, Rambler, the Yandex homepage at times. Curious whether a single unified interface is still going to come in and replace the verticals, or not?"
-    },
-    {
-      "id": 1202,
-      "url": "https://t.me/chillhousetech/1202",
-      "date_utc": "2026-01-08T20:22:11+00:00",
-      "hash": "a757df580f5bf4b20d4d18aa4303b52ec7ed1f0872a79045c11c8072c5c35b9e",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Есть у меня один такой красный флаг, как любят говорить, когда смотрю на какой-то стартап. Ну или средней руки компанию размером человек 50. Но лучше стартап на человек 15-20. \nЭто процессы. Ноушены, таблицы, трекеры, OKR, забитые календари, миллионы метрик и отчетов. И это все, когда нет PMF, все убыточно, люди то уходят то приходят, пивоты каждые пол года. \nКороче когда процессы и отчеты затмевают результаты это гг. Бегите. \nЗаметить это проще простого, спросите на собесе «а че там используете для задач?», если ответ дольше 2-3 минут - это компания где важнее процесс, а не результат.",
-      "images": [],
-      "title_en": "",
-      "text_en": "I’ve got one of those red flags, as people like to say, when I look at some startup. Or a mid-sized company of like 50 people. But better a startup of 15–20.\n\nIt’s processes. Notions, spreadsheets, trackers, OKRs, stuffed calendars, millions of metrics and reports. And all of that when there’s no PMF, everything’s unprofitable, people keep leaving and coming back, pivots every six months.\n\nBasically when processes and reports overshadow results — that’s gg. Run.\n\nSpotting it is dead simple: ask in the interview, “so what do you use for tasks?”, if the answer takes longer than 2–3 minutes — that’s a company where process matters more than result."
-    },
-    {
-      "id": 1200,
-      "url": "https://t.me/chillhousetech/1200",
-      "date_utc": "2026-01-06T01:43:32+00:00",
-      "hash": "efbc80940b8e723c9f0bcf6feff31328da1dd2326a6d230fa39e182d25bd21c5",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Пока были праздники вайбкодил все, что попадется под руку. \nДля начала пару вводных:\n- я нормально программировал что-то в продакшен очень давно, наверное лет 10 назад последний раз когда я написал руками что-то с нуля и до конца как готовый к использованию проект по серьезному \n- я хорошо знаком с синтаксисом многих языков, понимаю все базовые принципы программирования (всякие там ооп, функции, монады даже помню как работают)\n- но я не пишу код, но могу прочитать любой алгоритмический прием, но не могу всякие архитектурные темы (слишком много времени уходит)\nЧто я пробовал:\n- фронтенд для читалки а-ля \nhttps://alphaxiv.org/\n- точно такую же тему сделать как приложение для мака \n- делал различные коннекшены к нашему фреймворку, например плагин для zed чтобы использовать модели которые запускают через наш uzu inference engine \n- модификации разных репозиториев чтобы поддержать локальный инференс например вот тут \nhttps://github.com/alexzhang13/rlm\n- решение различных задач по матану и Олимпиадному программированию из журнала Квант (ну кто помнит тот поймет)\nПо итогу:\n- с фронтом у меня беда, я вообще не умею в веб программирование и поэтому тупо не могу получить то что хочу, интерфейс едет постоянно, я бился часами для выравнивания просто по сетке или получения превью пдф чтобы ничего не съезжало \n- приложение для мака получается ок если убирать интерфейс, с UI все так же как с вебом, но всякие плагины в menu bar которые статьи ищут по моим запросам делает отлично\n- любые модификации и коннккшены, плагины куда-то и простые поддержки API, будь то нашего движка или еще чего делает исправно почти с первого раза, особенно если заранее попросить написать \nAGENTS.MD\n файлик в каждом репозитории чтобы их легче было соединить \n- задачки решает в лоб неплохо, но если я пробую написать бота для игры во что-то или трейдинг в игре, беда с базовой математикой. То среднее это медиана то медиана то среднее и так далее. Ошибки примитивные, но исправить их получается только руками. Если у тебя цепочка состоит из всяких вычислений то он банально не может до конца довести. Получается только если заставить написать тесты на каждый шаг. Но имхо для таких задач это перебор. \nПо итогу. Прогресс очень ощутим. Codex по моему мнению умнее для one shot штук, а вот Claude code для проектов которые обложены тестами и md инструкциями на каждом шаге. Пока ощущение, что стадия написания интеграций, коннекшенов, базовых вещей и ревью близка к автоматизации. Но вот архитектура и математика в коде дается сложно. Про UI я молчу, либо я что-то делаю не так, либо там совсем беда и ничего кроме того что вышло в one shot он дальше не может улучшить. \nИспользую каждый день:\n- Claude code с плагинами, набираете команду /plugin и там будет море полезных штук\n- cursor \n- codex через веб клиент",
-      "images": [],
-      "title_en": "",
-      "text_en": "While the holidays were on I vibe-coded anything I could get my hands on.  \nFirst, a couple of inputs:\n- I last properly programmed something into production a long time ago, like 10 years ago probably — last time I wrote something by hand from scratch and all the way to the end as a ready-to-use project, seriously\n- I know the syntax of a lot of languages, I understand all the basic programming principles (all that OOP, functions, even remember how monads work)\n- but I don’t write code, though I can read any algorithmic trick, but I can’t do architecture stuff (it eats too much time)\n\nWhat I tried:\n- a frontend for a reader a-la  \nhttps://alphaxiv.org/\n- make the exact same thing as a Mac app\n- did various connections to our framework, like a plugin for Zed to use models that run through our uzu inference engine\n- modifications of different repos to support local inference, for example here  \nhttps://github.com/alexzhang13/rlm\n- solving various tasks in math analysis and olympiad programming from Kvant magazine (well, whoever remembers will get it)\n\nIn the end:\n- frontend is a disaster for me, I straight up don’t know web programming at all, so I just can’t get what I want, the interface keeps sliding around, I fought for hours just to align stuff to a grid or get PDF previews so nothing shifts\n- the Mac app turns out ok if you remove the interface; with UI it’s the same as web, but stuff like menu bar plugins that search articles by my queries — it does great\n- any modifications and connnections, plugins somewhere, and simple API support, whether it’s our engine or something else, it does reliably almost from the first try, especially if you ask in advance to write an  \nAGENTS.MD  \nfile in every repo so it’s easier to glue them together\n- it solves problems head-on pretty well, but if I try to write a bot for some game or trading in a game, basic math is a mess. Mean is median, median is mean, and so on. Primitive mistakes, and fixing them only works by hand. If your chain has a bunch of computations, it just can’t carry it through to the end. It only works if you force it to write tests for every step. But imo for these tasks that’s overkill.\n\nBottom line. The progress is very noticeable. Codex, in my opinion, is smarter for one-shot stuff, but Claude code is for projects that are wrapped in tests and md instructions at every step. For now it feels like the stage of writing integrations, connections, basic things and review is close to automation. But architecture and math in code are hard. UI I’m not even gonna talk about — either I’m doing something wrong, or it’s completely busted and it can’t improve anything beyond what came out in the one shot.\n\nI use every day:\n- Claude code with plugins, type the command /plugin and there’ll be a sea of useful stuff\n- cursor\n- codex via the web client"
+      "text_en": "Watching what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and the Yandex homepage at times. Curious whether a single unified interface is gonna come in and replace the verticals again, or not?"
     }
   ]
 }
