@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-11T19:22:02Z",
+  "generated_at_utc": "2026-02-12T03:23:45Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1231,
+      "url": "https://t.me/chillhousetech/1231",
+      "date_utc": null,
+      "hash": "16acc6eecf636821c97ba2796b40132413c87b03c166f0b987c10604fa2b8d79",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "By Seedance 2.0 and Kayne East\nНу как вам качество сгенерированного видео?",
+      "images": [],
+      "title_en": "",
+      "text_en": "By Seedance 2.0 and Kayne East  \nSo, how do you like the quality of the generated video?"
+    },
     {
       "id": 1230,
       "url": "https://t.me/chillhousetech/1230",
@@ -212,24 +223,24 @@
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "1a11ff6f4dd86eeda16539923ea47b318854c9d15a44c1ff15da1b9509333bde",
+      "hash": "e24b0b44a671d0a112433cd024728302ee7834d78695c6dc372774387ae015f3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/QztZjjLtQomVsuKb0RH-wVkD6yO2nZUBZ2ikdQb8XMoFmvIE9RVHFG4TyQipgR-GffRciwqjIlfLKxlpId4ytDE2A8lUW5DAqlWdQJ1DoL4LI6puUBFlOZSIctEx_TW4lTzUQ9or8dCgXE99i9pw2nprFLuE-hRxFJx8AZAWqJlz60yXaZyesA2Wxj5XMTn4zpB5fjBHXUvbwdpPzq4AcAJrzs5GYIVXUTB5ZGB7o8mpF_csOlZV7zhE_ZcLa7LSVY-0EAJeVpYMVERA1hAGpU-lovRMNaNAv5VIdh5fsQgxO_6dIKbV5o_YfcoKndMBhTOcxSbHoBkx2_G90_Qb0w.jpg"
+        "https://cdn4.telesco.pe/file/hvfQqmd7-qPdkzFeQ4gByJPeoUa_QvwqM0hQQtuCVoPm-j7yA35Iav7kc9ndQmHWAindrVX3YJqTmOmibY6shsXdvG4rmvTST5vIYS1m6lMZG_uej68t7goX2IrmAD5i7tjSoTsfXhW4g7QUTaYXE9soaZr5m-lksn9J6NLVuO78irE-rBq6q0YHvWEz1QNocEgBLlsSBkV6lkqAMZ8Gg13BBpa8Rjw_q9Uu5MaUrRoEcNmTlTkWsTeSjzTP2-L6nWoyyqein50GoTg4vWLvzY9E-sDg7YPnvdepKogzHi1mb-wUNbZIDYic_h8mNcaeHYysbrqPmdIgB_sbsfffXA.jpg"
       ],
       "title_en": "",
-      "text_en": "Alrighty, your opinion is important to us. Drop the appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
+      "text_en": "Alrighty, your opinion is important to us. Drop some fitting reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
     },
     {
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "71493840dbf3808c69e602bc1c84fbdfcf7055291207205e9a1081ef26ce586c",
+      "hash": "5f9263683a01b6f180dbdd983a2fb8aafa462ee2b99e71603a3f9fc39979d3a2",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/lqyVsQibcuD8PVJvL99H1XaHMH5ttoCHo5cuse-naM8RVD9ZV2_ym2nqW5KiovOQ8kn2aRjkUFhM2FQOHEdPL6AHRDJwCovVlUMdmUx_8CFn89dcAxxExWoFA32Ba7AEH8riYE0OIsxXC5Nw1n4QVq2kM6NPrfWPSp43pi_CN54yBcfxSI28FVALU7stQx3xu_jM7KDBgRd9lbBLbi3umTpQi9_XjN7DAg59c6mPCql5zIp1n9DYlX_W08n1BG1Wb4cDueaIkio9GnnxQPYGTVfMCeCsoROqM5Q0kM2N1nxpivA1RTkg3mY2ef0FvHL4KlXeZEVmk5YfTl0SGjW1dA.jpg"
+        "https://cdn4.telesco.pe/file/WuP3Zf1tpnmcVtBnZgw8m6l22tOf2GdvF0tuKTDlTGxrtI2HtyTj_m0qbcFMO8yQzbzFe6z1FEHj_6kzx-jvyCOGU8itykInB5i0ouf4UDx0ROsgYqgkyt9zGiEAuSusd_p3VmSDcTaIlsgJZatNEJpI35QJvVyU4ZCS5O7Ozi90zdgSX2vkW8Em5Q9dUlqDlAOK4KEmrIFdeNYF_iZ5g_yaJwrpSx-wMEvgV_aDzB4sSnQErr3PrXy2zKTzKuvjC4nHJlCaRa-fyQzkib-Xq9xYnNHMUYVUK7Z6OJgWWEVsrDGvksCalB1O-35FUxssFzh92srvXz8Z06VMK2icGA.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -277,19 +288,6 @@
       "images": [],
       "title_en": "",
       "text_en": "A small poll — drop your must-read books in the comments. Like, what you think absolutely has to be read 🙂\nI’ve got a few principles by which I filter out literature or articles:\n1/ any popular business books/articles can go to hell — they’re written with the idea they have to land on a wide audience, which means they’ll be exploiting ideas “as close as possible to the broadest circle of people,” namely:\n• how damn hard it is to do anything and how you need to work a lot (the corporate mantra; number of hours guarantees literally nothing, since it’s just a multiplier of your talents and understanding)\n• recipes for happiness (there aren’t any; if there were, we’d have noticed for sure)\n• lessons from mistakes (it’s very hard to derive; nobody knows the whole story, usually it’s only a part)\n2/ any books that are basically TV shows — conditional Harry Potter and so on — for me it’s easier to just watch the movie\n3/ books about successful success\n\nMy small personal reading list:\n1/ History: In the Shadow of the Sword (Arab history), Hobsbawm (just about everything), History of Western Philosophy, Commentaries on the Gallic War, When the King Loses France (Druon)\n2/ Philosophy: Seneca (so life’s easier, so to speak; Stoics are useful), Schopenhauer, early Nietzsche, Heidegger (to understand the modern)\n3/ Science: The Evolution of Physics (Einstein), Surely You’re Joking, Mr. Feynman (well this is more like entertainment), The Emperor’s New Mind (Penrose): here I only know physics, I can’t do the rest and I don’t know it\n4/ Economics: Adam Smith, Piketty, Damodaran\n5/ Just in the background: The Laws of Leadership (Roosevelt), World Order (Kissinger), Descartes’ Discourse on Method, I also recommend reading the Quran (well, an adaptation or some simple translation)"
-    },
-    {
-      "id": 1203,
-      "url": "https://t.me/chillhousetech/1203",
-      "date_utc": "2026-01-10T18:55:14+00:00",
-      "hash": "026275c44d67c393c245923be9db340d87e6a44036a599caaebc10599b8caa15",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Смотрю, что релизит у себя ChatGPT. Jobs, health, apps, pulse (news), и так далее. Слегка напоминает порталы веба 2.0 типа Yahoo, Rambler, главную Яндекса моментами. Интересно, все так же придет единый интерфейс на смену вертикалям или нет?",
-      "images": [
-        "https://cdn4.telesco.pe/file/W6SYvbKavgGm9zsiTtaPRXDiESrRLrd2nMxOOVms4NcfgbTCBpWqyck0qoddd0iYWAp2od8f1-b9rVbzT5e-SJmjLSPPUfbGNqVTRKy5rAjVMzvS5O2ZSNdBI1lALsHefsKpwUA1jxId7j2J1Ea1R6DkaSr_uiRlnQ3pkRbEZ-azN1HxAAESv32PW-XcAJd2sscH6Ng1shOQNOVyt6m4Xva01wokQNkEHfCDIvj7ZP0obM__YNnqcORZJCsYPpdEFBsALapksZF3aKbkDmnlSEaM_YHmNrH1z41BlQYkiIXhuMeSmRxHOJb_JoqSKeOAgur6v9KAzaaProg9_YhYUQ.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Watching what ChatGPT is shipping on its side. Jobs, health, apps, pulse (news), and so on. Kinda reminds me of Web 2.0 portals like Yahoo, Rambler, and the Yandex homepage at times. Curious whether a single unified interface is gonna come in and replace the verticals again, or not?"
     }
   ]
 }
