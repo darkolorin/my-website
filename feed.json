@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-13T13:39:48Z",
+  "generated_at_utc": "2026-02-13T19:11:54Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1234,
+      "url": "https://t.me/chillhousetech/1234",
+      "date_utc": "2026-02-13T17:33:16+00:00",
+      "hash": "53042ea55e07223d182bf21844a05cff7642554bef322179e39d365a9f7ec30e",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Если кто не закрепил, \"страна гениев в датацентре\" нас ждет уже через 1-3 года так то. Но внедрение займет лет 5, а может и 50. Кто знает этих гениев.\nНовое интервью Дарио из Anthropic Дваркешу.",
+      "images": [],
+      "title_en": "",
+      "text_en": "If anyone hasn’t pinned it yet, the “country of geniuses in a datacenter” is supposedly waiting for us in 1–3 years, basically. But rollout will take like 5 years, or maybe 50. Who knows those geniuses.\n\nNew interview: Dario from Anthropic with Dwarkesh."
+    },
     {
       "id": 1232,
       "url": "https://t.me/chillhousetech/1232",
@@ -40,15 +51,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "406de2c1bfb9f2d205fd4c49d8d5799e99ae7548de68c5d7f6d522f6955d06f7",
+      "hash": "1bd523f4709885e2b34b662e3cb48a0039632338008b7f1d97c7fa95d4423edc",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/Eq0kHolhnpkjFI4Q8VTvTun4BSnMpwpb6_1ldBX4peungHoxMgWOseAqPFYfmfFNipjzPpX9u4-R4O0B_IPPECdvW8QBszYS9DpWJHDBgNw6VLXj1fc5qAS7EoLeQWS_-wW_lk78wVhnTddbDZC3V5WQyGrn86zM-rM04UmhTYTU2aKAbuiWjnlyaqaQ7stR6ZciM2oB8BQ3b9_gysHY_pOsmi0egDJsUwoUg3Iap3PB1R8Z7hs_WcBxrupLe4ichX56CW_HF21d7XMluDV7xa2XyvkAfM8KhYdfx0WdphxIZXUabaut-9Z_GnZ4u3O3rkX7fD0KrGfwz5ZZ2y-Tog.jpg",
-        "https://cdn4.telesco.pe/file/WDibO-0ApYhXw_MY96gznHst3QxSrQrjBtM3REI47UbLLok-Cc9zSOPxYMZ25XnGJtTK35oGgBMCA9jwpEG90hPRGJo0LMdYTFAzXBNqbNy8MCIBONxr-dkqTwUTGhL68f1B_TvzjYZgeGkmg81_pd18GUDcgADbGfKl-EuL2TdB7aARaMmpd96bzwbG6LZ1v9b7t-JzzNd-Jd7RHzNe801aDttOP8GH0txKH4BwqWGsFgW4FkvfZUtILj69Kdy0jy6Qvwur2t0uOOCgG0gqBx1tTMB9PLsk9X-uQmig9jQmAKO59-Wb3RmBvxHRfW89REA3agv3pEe1GIGLppDmdQ.jpg"
+        "https://cdn4.telesco.pe/file/KbvBInG00gkZMteZTYCW3MEOziVCS9K7AIFXZLSegMUzSPZGQZyUjWR-DyhqF6QgNgZgKO_n0YkUCjNvbkgQ8nIE114HL3wWw1xSW4gz5zSXgjomYnOEojh_8GQpVycnzwCl0nu0JLfUeCp0EMcUMze09vYB6eOTGaJhROKT1-G8qLWOmF7TSdrzGd0NkQWkkz8me602mCnLLsmkPgsNO3Gsxp4KNDkI9uGC5DUWczumgct0mY_wVK-Ezic1vTCbQ_2wCiKMpKZN23KhUleYA89VuNzIrTZCC43jEYKckvJSCnVCl39U5e6zyfiS0Tfw-XBcsgCP2USQK2GljIDqVw.jpg",
+        "https://cdn4.telesco.pe/file/KaYNrpMbnFtFRIQm1F1ceYZry-8Pr1YYA_LFn5_YhMwFVhOkAbwy7aHhVdHC0r5lXc5FOE-jSnWpjjRk9Kqzmz4wI32pAZiPI5rsKLhtOYEUlAtfqMYZUemlEmb7XuDCpKNnxFsBp-B6Dik9EOYFBR-hMv6U7mHwLk-l27kgcWrttWtqElruNIUDBDvjcFUzk8eo-FIXfZ_5O6CG0g9iuUG78V-fDOZwPKrjl9dozk-AyfwajgWMao_Ya1ZPG40owC8iBCtqNSDygwLm_A-bdF2vJvZUJyJ6pBxwRqOxxDEyKoGUE_IUUFsLJWYlTYzEetV5cbiLigcdostIWN8FjA.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also went off to Bali."
+      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also took off to Bali."
     },
     {
       "id": 1227,
@@ -76,14 +87,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "45ed882d355a485b2d143613e1c59d3b3142540d447939a626e56350ffcfbc79",
+      "hash": "a0455f174a1e5aa1064c6081c6d03d265b58ecea5ee962f1995d87500f3e0764",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/jHNt6PmV5Qz_8LsY2OhbStUpcIynewFUwzPH0TiHj-5MnChLdACFasdr3ZlHaMTcjeI79rV5yy1IjrkyPNjv4GG0QB_T2E1uKoCv4taFW--LNvsko1aDnePxdEMxmSwVSJ3113sV3Gh3mVKDjeeEkYQlzaOrw-peXSNHAnMPUwfM6Js9Oc5VuON8xesk377IToDgTy4SnliGl0oPP_KY-YKe9BcO26JMOhEZT0D9CmOTt2X84Up15OrGXgRZFXnDjX7k-64XzXjamK1SinheqpRRV9UdqHPUeTWTJNnqJtbUUy_a8ocYp5bFJLQWqfz7DNbtZ4Eg1ESYa1eqvJjRVw.jpg"
+        "https://cdn4.telesco.pe/file/DfxU75CYoAD_bOzoS59F5hl1RZQCQCUotr2nzEKi995KRtKxZipdMo90Q6TEkYQ2POb_jQZ7tyCSi_iyxuliAkrBaMp5wFQ-MvZgN_XKYXMFABtePEr_uBhrL8Wa9c57_HCbz-fGmzV2Yd2RlNgs6xv4UJVEkiJ9cQUsQCbkAKiab_eUsaAJ_yLM9e1jp6couHy2o_IaVdJg2QYjVp4E47LvbR2eBD_c5_dqYBxwB4dchIqaRM_4Pl4hlxV506q9mQoG0O0TSxFhn5kiMTsW9lFkCX-axncydVobLFVkjhumlClzaDRmt4ISnRrJClH-XvpEbAfg02H6Ul8rQSZnDg.jpg"
       ],
       "title_en": "",
-      "text_en": "Even better vibes-coding will be possible, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— brutal competition going on"
+      "text_en": "Gonna be able to vibe-code even better, turns out. New release from Anthropic — Opus 4.6.  \nAnd right away —  \nnew Codex  \n— competition’s going hard."
     },
     {
       "id": 1223,
@@ -166,14 +177,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "c6875b31e9da83de1be22fab2ba11ef10e8ab7ce345ac090638ae1af8ada5dd1",
+      "hash": "fc40ed8e17e6986087371f3f79b92ba486a056a617ad574583491fffcd76f826",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/ZJvtrRrXG0D9Tfeh_NnJr3jUF9_burEsPzb23jh2bBLqiVzfChG38IEizTrxM__PRLVD9YTmuRdokYF1Sz4L7oDfCts4qSuGMeoWKI8NTwpanXAqnnbkdESQUU3rBjzmM7WJUYmVTxYmwc5B463AOE1r2UBhjCINYiCGFcToeMVsQbci0QnK4SNpNiaQIpuc2Yu2aZUg0SRvnnBnzvdW2sXWr_u9HThGVxfAWK8j2X_5NBtAtwOF7KKEVtub09rbvtyWf1gdypChCipO8pFnhtjS-n4L96sRdjTEJQ4AleaWL_VmVKLS1-fkqhyehb0QD7XGIvxtatZwS9YITrp6iA.jpg"
+        "https://cdn4.telesco.pe/file/UsXDjCr3N3N1ar-caq-73IwuAzSib9sDIwclghNVCeGV91sdlmftjDsZ2swC8s_kyjJ4j5wou2sgp44dToT_gZyn2jc3X6KogNgYujSCZdk8YI9KvNCNAXCBCvAst62BCtwtAzOupImWXhPNcnI3-z_tpvL8uM6CW2zCxxninGGUfsokbtsuUlDv0Y4o5R77PU0uRDh03XalEiFSf9bPX0ZecP29LYfj1tAU0TU5JapOQNtthBhflfrjxiF5gxTdFMhtHy9hUiCvvwfZHqR_3TQnDAOesZgcLZu5NB8z9B_Eu5Hdyaeqc2sXCpGemGvTdL_3atBZ9-zmcw3_o_gH9Q.jpg"
       ],
       "title_en": "",
-      "text_en": "How benchmarks get made at OpenAI"
+      "text_en": "How they make benchmarks at OpenAI"
     },
     {
       "id": 1214,
@@ -234,24 +245,24 @@
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "e6a041419660b6ae2cd36d63498072de1c7b2b8b6a66d9d6e6c32dcda45d0d9b",
+      "hash": "5c1bbef18db9a6720a8bed7282f6b79f8060130255035f542d60e38800ebc813",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/nAUQrIqq3os-4AumdapK4ffuYDOHKIfWwHufjOB87SDbpvdEdFJDN-N44viEOh45CKYnj-qKDO0GZTxN81bsjDm57ItQbnPElKDvDQE7F0RVzRFMpxIfm9ejuWhaQppMw5Yd-I5ASM2qPHaWSLMhTTOGrHG0zQtOyFI_8ig7lXuX0I9vO_b8mA7F0yyai9r-CoSHg30cA1l2e9aA4v7ht4IH_2kaUuhbTzWpLKTEuEEAUvE7Y1cAgnIJDvAn2TPhyjJFmnDedRtsa9sGmaJeHpVdpefeqYA0ptJCJAM9RedcfB6yRcQen_j6qB8fT-FcFbe2VR_qURZ2do79kz0Ckw.jpg"
+        "https://cdn4.telesco.pe/file/urImTBZI3hxzMop6EDbgH2P-29yysVGqOmc_6ogmIECCxnBkGxQQ80JsSRRbJ1gTGxuiRiKQPavEbV4K-6RDz7WFN3eSX19TxccCLoKdTbXo-CQ4U3WoKGnxq3Ecj3J0461ds0odSu60dCWaWc53WF3g2sK5sHej84SAyRXsHSTpd14rwhuFNXlHkcHjTR2X9lBZ9I5MSsQKFhzhE6U8h85ipdTMDNcGXb6JRjScDbvl8uoQlcMDXqYfiEiKRIf2VtPJsY44XqDmIS339gkV2rs4bL5Hgiuc25Wtz4Xb-Yc3zR4VkJyjmN30CH-DEwbiRDUB7ws3jF9qRgmkBBd8Aw.jpg"
       ],
       "title_en": "",
-      "text_en": "Alrighty, your opinion is important to us. Drop the appropriate reactions pls.  \nAnd if anyone actually knows branding, maybe you’ve got ideas."
+      "text_en": "Alright, your opinion is important to us. Drop some reactions that fit, plz.  \nAnd if anyone actually knows branding, maybe you’ve got ideas."
     },
     {
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "abe951db5d0ac2ffb0a7a41796dc38ceea3c0c743336bad01323fc1930987696",
+      "hash": "cf0411ade565dfa7613bcfd84bb295e61a1a3735b2bfe8bd177dad569fab820a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/oS4mqhuDubOOcYid3FaK-XI-e7QebZ7Bv-lT5VujkLZQBujul5KgCdg6anaz5Hbw9ur2qBBZ0KTndoMnQJ5Y7BMFunbnEmnsG1-zp8PKIweE0tpOf-Id2EdKUXdxqWyQoZkr_Bur6ImGKEfCmmxzu6SRTGmTSMQwyrx_ZcPijIkpgKMvIaiPdn5zjbeBHHMeI-rN2814YWCgvf4PLOvRS8-ccHC804DKI_s_HwGrluEBbQsJFH6GXoeTKkDquQpc570bP2rzgz-pzQdwzBcYlIN1vmYvYLFvsbCfYXzCLI4jXcEeUQQicMAFWffAJNcQzR5j0qT20HROXQNU-QNA9g.jpg"
+        "https://cdn4.telesco.pe/file/LNQB1dv8RztMkhwrQDXTumUmHxjQhpchLVMk05kZEu6wLndEZBNdOpiel-KrepBdTeSx80689O72sFvDx2Hwkfkwsc5zXtMma1bQDzwpBXOCGAk0CgRo0PAf4r28czd9iGG26DCAtDSHLcu3HETAA0VcMpVCZ9lAQ1BhC0yBoJzN_nxXRfsZZiw9ClAlRrRWfBcoHdUh7aKMo7M5GNsJ48zidwXJIhSGwp78HulwKz7EN50cAv_CcoUchE4Gx4vEuFOVYl-1p2corDJ4FTCL9gwY4oYXopsdzddbi6XDZphDzX3o0whaQv8Zihgin8TmN1XqJyOtyd_V6vZ1nbJhtw.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -277,17 +288,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Long story short, I’ve been meaning to write you a guide for your project for a while. If you suddenly decided to build a startup, then:\n- either you’re looking for a way to build distribution almost for free\n- or you’ve found a way to chop hundreds of percent in margin\nEverything else imo is a weird idea. Right now it’s super fashionable to ride the AI wave and build new tools (plug in a task and solve it with AI). And off everyone goes making primitive ideas, but since you can automate them that’s already a “worthy project.” Remember the dot-com bubble (everyone started making websites). Now it’s about the same. Besides the obvious “this doesn’t need to be automated,” most of it doesn’t scale and doesn’t make money even if you fully meet all the conditions.\nThat’s exactly why I’m very skeptical about the run rate metric (they love calling it ARR now, even though that’s a mistake). The fact you can generate big revenue at huge costs only shows the market is willing to look at AI craft projects, but it says nothing about whether anyone will need this long-term."
-    },
-    {
-      "id": 1205,
-      "url": "https://t.me/chillhousetech/1205",
-      "date_utc": "2026-01-15T21:16:11+00:00",
-      "hash": "5a28f65158ee7afa41c3dcfbe4f7ac70b7033bcc4eef4076ee706d3d830d7a88",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Нашел еще неплохой репорт по AI от ребят из Stanford. Много тем, много трендов. Рекомендую, чтобы понять динамику за три года.\nWebsite\n (где есть саммари)\nPDF прикрепил",
-      "images": [],
-      "title_en": "",
-      "text_en": "Found another pretty solid AI report from the Stanford guys. Lots of topics, lots of trends. Recommend it if you want to get a feel for the dynamics over three years.\nWebsite\n (where there’s a summary)\nAttached the PDF"
     }
   ]
 }
