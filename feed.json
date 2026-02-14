@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-13T19:11:54Z",
+  "generated_at_utc": "2026-02-14T03:09:34Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1235,
+      "url": "https://t.me/chillhousetech/1235",
+      "date_utc": "2026-02-14T02:09:26+00:00",
+      "hash": "790cc54a4f43a8fe9057fbc94c45f74a5ad21e302b2f6a44ec8d51e094c42d83",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Тут важная темка. OpenAI заявили, \nчто совершили реальное открытие в области теоретической физики.\n Что как бы ну намекает «мол, AGI то тут». \nЯ не мог пройти мимо (обожаю физику и даже немного ей занимался на уровне нубаря). Решил поподробнее почитать что же там. \nПогружаться в суть что такое MHV амплитуды не будем. Но отметим следующие моменты:\n- большая часть работ по этой теме вышло в 80х и многие результаты были получены \n- GPT 5.2 была особым образом «приготовлена» чтобы помочь в решении этой задачи и думала 12 часов \n- сетка действительно предложила оригинальное упрощение формулы на основе других результатов \n- промтили сетку люди и не просто люди, а очень именитые ученые в этой области \n- важно подметить что частные формулы были выведены до, требовалось обобщить и потом еще люди проверяли и доказали что решение найдено верно\n- зная что можно доказать, можно догадаться как провернули решение через сетку, путем RLVR или похожих механизмов типа \nRLM\n(даже не зная результата можно проверить получилось ли что-то правильное и награждать шаги которые ведут к тому что можно проверить), тут я не спец, но может кто шарит и скажет правильно ли я мыслю \n- ревью работы не было\nПочитать комменты и даже найти там комменты автора работы можно \nтут\nЧто примечательно с моей колокольни:\n- больше напоминает что на определеную четкую задачу натравили брут форс, то есть формулировка задачи явно была сложнее ее решения (в том плане, что решить крайне сложно, но возможно раз можно проверить)\nОчень важный коммент автора пэйпера\nHi I am an author of the paper. We believed that a simple formula should exist but had not been able to find it despite significant effort. It was a collaborative effort but GPT definitely solved the problem for us.\nИ дальше вот такой \nThere are closely related \"MHV amplitudes\" which naively obey a really complicated formula, but for which there famously also exists a much simpler \"Parke-Taylor formula\". Alfredo had derived a complicated expression for these new \"single-minus amplitudes\" and we were hoping we could find an analogue of the simpler \"Parke-Taylor formula\" for them.\nПоэтому пока что круто, но не пугающе все-таки. Напоминает изобретение пакетов типа Mathematica и их применение в научной среде. Конечно же в данном кейсе AI вывел планку на новый уровень. \nНу что ждем ward drive?",
+      "images": [],
+      "title_en": "",
+      "text_en": "Here’s an important little topic. OpenAI announced\nthat they made an actual discovery in theoretical physics.\nWhich kind of, well, hints like “AGI is right here.”\nI couldn’t walk past it (I love physics and I even did a bit of it at noob level). Decided to read up in more detail what’s going on there.\nWe’re not going to dive into what MHV amplitudes are. But let’s note the following points:\n- most of the work on this topic came out in the 80s and a lot of results were obtained\n- GPT 5.2 was “prepared” in a special way to help solve this task and it thought for 12 hours\n- the net really did propose an original simplification of the formula based on other results\n- the net was prompted by people, and not just people, but very big-name scientists in this area\n- it’s important to note that the partial formulas were derived earlier, what was needed was to generalize, and then people also checked and proved the solution was found correctly\n- knowing what can be proven, you can guess how they pulled off the solution through the net, via RLVR or similar mechanisms like\nRLM\n(even without knowing the result you can check whether something correct came out and reward steps that lead to something you can verify), I’m not a specialist here, but maybe someone who knows their stuff can say if I’m thinking right\n- there was no review of the work\nYou can read the comments and even find comments from the author of the work\nhere\nWhat’s notable from my bell tower:\n- it looks more like they sicced brute force on a specific clear task, i.e. the formulation of the task was clearly harder than its solution (in the sense that solving is extremely hard, but possible if you can verify)\nVery important comment from the paper’s author\nHi I am an author of the paper. We believed that a simple formula should exist but had not been able to find it despite significant effort. It was a collaborative effort but GPT definitely solved the problem for us.\nAnd then this one\nThere are closely related \"MHV amplitudes\" which naively obey a really complicated formula, but for which there famously also exists a much simpler \"Parke-Taylor formula\". Alfredo had derived a complicated expression for these new \"single-minus amplitudes\" and we were hoping we could find an analogue of the simpler \"Parke-Taylor formula\" for them.\nSo for now it’s cool, but not scary after all. Reminds me of the invention of packages like Mathematica and their use in the scientific world. Of course in this case AI raised the bar to a new level.\nWell, so what, are we waiting for ward drive?"
+    },
     {
       "id": 1234,
       "url": "https://t.me/chillhousetech/1234",
@@ -245,24 +256,24 @@
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "5c1bbef18db9a6720a8bed7282f6b79f8060130255035f542d60e38800ebc813",
+      "hash": "c1a7c258699e2703bfe520c8c7917e18a1e635e28f4b91417224f0f152212c3d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/urImTBZI3hxzMop6EDbgH2P-29yysVGqOmc_6ogmIECCxnBkGxQQ80JsSRRbJ1gTGxuiRiKQPavEbV4K-6RDz7WFN3eSX19TxccCLoKdTbXo-CQ4U3WoKGnxq3Ecj3J0461ds0odSu60dCWaWc53WF3g2sK5sHej84SAyRXsHSTpd14rwhuFNXlHkcHjTR2X9lBZ9I5MSsQKFhzhE6U8h85ipdTMDNcGXb6JRjScDbvl8uoQlcMDXqYfiEiKRIf2VtPJsY44XqDmIS339gkV2rs4bL5Hgiuc25Wtz4Xb-Yc3zR4VkJyjmN30CH-DEwbiRDUB7ws3jF9qRgmkBBd8Aw.jpg"
+        "https://cdn4.telesco.pe/file/Nv_syeE8Za8r-sSvv5HYWbVuONaCD0gAzGYScgS9mvepTxYQ8a0JDN43fMYWX9gMdMecN-7cIsNpai9lgT5RlMANRuoEaX4sBN68IGDnEbbkFOI_pHlSpmJohfMAKUuieVKaZ4qqVlLMR-gE7THaoZep6TYL7URWb3GFvtbQZEUnEtvoRJ1p8DV0yvH9yxM6It0boDq-LGdENKJtkhx-K-F0FYmVNEhQnpRj8HPOnxWJciJI3XgLnd0m3kGAgyAqiA2TQmg3Gb4dMiQBzuVt5iBzcieVsbj9O0qKGib1jwBM235EOKpTEokVm1iT15MJ5jDCjr0UGDs7Nq9Kj-uarQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Alright, your opinion is important to us. Drop some reactions that fit, plz.  \nAnd if anyone actually knows branding, maybe you’ve got ideas."
+      "text_en": "Alright, your opinion is important to us. Throw in the appropriate reactions pls.\n\nAnd if anyone actually knows branding, maybe you’ve got ideas."
     },
     {
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "cf0411ade565dfa7613bcfd84bb295e61a1a3735b2bfe8bd177dad569fab820a",
+      "hash": "46496224b895331eadcd5baaafba4dfa908604b12a35b7958e3302aa1f0d63c9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/LNQB1dv8RztMkhwrQDXTumUmHxjQhpchLVMk05kZEu6wLndEZBNdOpiel-KrepBdTeSx80689O72sFvDx2Hwkfkwsc5zXtMma1bQDzwpBXOCGAk0CgRo0PAf4r28czd9iGG26DCAtDSHLcu3HETAA0VcMpVCZ9lAQ1BhC0yBoJzN_nxXRfsZZiw9ClAlRrRWfBcoHdUh7aKMo7M5GNsJ48zidwXJIhSGwp78HulwKz7EN50cAv_CcoUchE4Gx4vEuFOVYl-1p2corDJ4FTCL9gwY4oYXopsdzddbi6XDZphDzX3o0whaQv8Zihgin8TmN1XqJyOtyd_V6vZ1nbJhtw.jpg"
+        "https://cdn4.telesco.pe/file/ksXnjG4Sq5SleyQgV06A8hjZSgrxlJM-Wle2tDZanZiYaKkeMZxwSp8hAz3mTC0p1X40A7GH_l7Zf4axduh8F-RGvdb49k9clkBTokDEtx64XSgPMy2mDFdpfO3CrKDltuBTdksclACNsWCah30x4hCvfvFk1f0Q9A0KY1lmNJ7PT5jAhAvkg6ay3EQdLjWh60crJC6O-NB7lM8MqVAxY66VR5_XpmcZowb8U16yBnc5BUY3tO4hQRvz9mATnXF2ORTTd2KjKA5H3upbeF-ofAT1pm624wEQyvNcuYi11B9FMOKZ7OqHch-K4x5eodzCGIu3wHOUkbOwkV-wYBw5Xw.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
@@ -277,17 +288,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Intern search post (you can be with almost no experience, students and so on). Repost if you know where to, or you’ve got contacts or followers.\n\nWe, in our modest project  \nhttps://trymirai.com  \nare looking for an intern to work with supporting different models at the level of  \nhttps://github.com/trymirai/lalamo\n\nWhat you’ll do:  \n• convert little models into the format we run and test all the flows, tools, and the rest  \n• vibe-code configs  \n• maintain the tech spec, maintain chat templates and the rest  \n• post little updates in the team’s Discord (yes yes we use Discord for internal team comms)\n\nWhat we’d like from a candidate:  \n• be familiar with Python, know Cursor etc, be able to do linear algebra  \n• experience in AI/ML would be a fat plus  \n• independence and a desire to grow\n\nWhat we offer:  \n• paid internship — terms are individual based on interview results  \n• minimum internship term: 2 months  \n• a chance to work at a well-funded startup and with real clients (top-tier AI labs and products with 100M+ audience)\n\nForm to fill out if you’re interested is here"
-    },
-    {
-      "id": 1206,
-      "url": "https://t.me/chillhousetech/1206",
-      "date_utc": "2026-01-16T10:41:09+00:00",
-      "hash": "6c5a7b9ee870b23ed4a7c0e38a02e1a39655c77e63e157ce54cabbbab870a5e3",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Короче говоря, давно хотел вам написать гайд по вашему проекту. Если вы вдруг собрались строить стартап то:\n- либо вы ищите способ почти бесплатно выстроить дистрибуцию \n- либо вы нашли способ рубить сотни процентов маржи\nВсе остальное имхо это странная затея. Сейчас очень модно на волне AI делать новые инструменты (подставить задачу и решить ее с помощью AI). И понеслись все делать примитивные идеи, но раз их можно автоматизировать это уже достойный проект. Вспомните dot-com bubble (все начали делать сайты). Сейчас примерно тоже самое. Помимо очевидного «это не нужно автоматизировать», большая часть не скейлится и не приносит денег даже при полном выполнении всех условий. \nИменно поэтому я очень скептичен к показателю runrate (его любят называть ARR сейчас, хотя это ошибка). То что вы умеете делать большую выручку при огромных затратах лишь показывает готовность рынка смотреть на AI поделки, но ничего не говорит о том что это кому-то нужно в долгую.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Long story short, I’ve been meaning to write you a guide for your project for a while. If you suddenly decided to build a startup, then:\n- either you’re looking for a way to build distribution almost for free\n- or you’ve found a way to chop hundreds of percent in margin\nEverything else imo is a weird idea. Right now it’s super fashionable to ride the AI wave and build new tools (plug in a task and solve it with AI). And off everyone goes making primitive ideas, but since you can automate them that’s already a “worthy project.” Remember the dot-com bubble (everyone started making websites). Now it’s about the same. Besides the obvious “this doesn’t need to be automated,” most of it doesn’t scale and doesn’t make money even if you fully meet all the conditions.\nThat’s exactly why I’m very skeptical about the run rate metric (they love calling it ARR now, even though that’s a mistake). The fact you can generate big revenue at huge costs only shows the market is willing to look at AI craft projects, but it says nothing about whether anyone will need this long-term."
     }
   ]
 }
