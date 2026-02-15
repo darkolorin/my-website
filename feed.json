@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-15T07:09:25Z",
+  "generated_at_utc": "2026-02-15T13:16:07Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -267,24 +267,24 @@
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "3857b4387798b987a0d40918a3c96db2379c095276b97e13bb934392ea470c50",
+      "hash": "e9ae9eedfed834bb5babf2fbff067d1e93dd98fb0b53d446766c61e8ae8e2f3a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/qeAIY-wJnwsQMHYTYT6Ci3NCsQ1GNr-QxLJsgZCq43L2VwU3xU_e208kbi58uuUhWhq_jT2QIdqGwr10J8Jg93ADJGzEUktJkI50IX034zHZ-jj5hd3HSxru6PTRfJ2lLjkWzXRN2DBd-r0R-xldXWg4ZnXuywCpENpZOXwGPDyEWfW6We3e0atrKxWMTrOlmhmtQrvD-ZrvzZvt7qZYrbinR_1EnnNqxp6nQuoMwtOl2mj-VxFbXc4_gEfx_zwqvKIMwyQDuPd_YhOGovve11huV0LsnFkIKVpZ10Xm7picte4sb1urANPjzLSjczsYrVbKLtf8SL1jaAT6fIB6Sw.jpg"
+        "https://cdn4.telesco.pe/file/GzX27zVwR7Puud795rtcwlE3HLL__h04j4UOQxPDsmYBybWj-dtmpVDep6_d3zcExykvrPK6eaQvH_V1jjKCYcWmDxe5k_5Nf6SXJBOX9ib3EWR5H7P73GZHfi4r1Is9ktFddl9_BaYh_ATJQLd7nMu-V8liGVcqyllDsbGMgiR68sZCj4wQWIBWWQObxhqn6XQrAiyH-UXkJKm_SfkcjJp8wd0B_K4Gyz4ZJFmv4T1Ffli0OIDkkHaiTNegi4K59MNAeFKxpfrsPpfg_Qh6HY4rlyzcmuMWBnR6-JrukNoppmXBCUFtNzQkjOdcuDvAPE71h9H-IhSDn1rbjeETTg.jpg"
       ],
       "title_en": "",
-      "text_en": "Alrighty, your opinion is important to us. Drop the appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
+      "text_en": "Alrighty, your opinion is important to us. Drop the relevant reactions plz.  \nAnd if anyone actually knows the brand maybe you’ve got ideas."
     },
     {
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "0cffbc1e7d28d0fa971d6bea70523ea677d0f4168e871cb2d5f1a8f64783f5dd",
+      "hash": "6677486e566f85e21d0851835f7c07e3669a8fa24ace2feeda04b38010960f70",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/JOtYxHDybdCqh9PzBCQLCBXRL4LOopaXQej5JlYm5HMxu9A2v3_NHhJnWuyvj_Oldmi4Gvyeln9tON26fPMXPzjqL8YR8EWrvgSupMoRL-v4aaesta7GIFgWi-BemfosanXZ_Yq7qqWsKkmKh3CDGI1XEDOpOqnbOpwfsx8pCjG1cPEwGUSkoudf7Rj78jxWE-hX76EzB48JR84azEWJOd8LKRwUyAxRlaDAN_2Ys2BHZc2id_zJcGt8cnqmRjFXolC_YS5-Mqkfk86H80XmhS5iGPha5DTVuElAogsfS14ZjlKscsBqlVs1HB12CoHkXpiBsx_zPy2XVQvV01Ur6A.jpg"
+        "https://cdn4.telesco.pe/file/EmslP0wYHBoJFpn8X3j99IfXupD3PaLno3OaMv5ElBHhdbp1t8fY7uzGsszB-rgzJNcnkrl561AATl72172v8eRJJWHViNcDwq8jqZgEueGmq5PYFwDDCXwh5Gldz2hBpO6ZJxv0oWXvkLKGXx-hxKTCC3On_6xn4fI1QTRKMkj0btWeP35ZE9PhbH0Iu4aK-5Rds8we6sVkb7U4WM8aVBsbaoGncWRvm88m-YCbCUaTO9NfK5vna2IiX4T_6BIdpB6waMLFbvhdapAsPevz9_0D3Twh4FUVFJe_mWQiuMQfPBUFLSgNWhR0ZwlTfmvGTP9vWV4QSMCHlKsVLzrP-w.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
