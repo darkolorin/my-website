@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-14T18:55:45Z",
+  "generated_at_utc": "2026-02-15T03:24:16Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1236,
+      "url": "https://t.me/chillhousetech/1236",
+      "date_utc": "2026-02-14T22:02:23+00:00",
+      "hash": "9fa2e93f7deaa48750d7a2312af9dbc935f92df4fc1203b8551673954918795e",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Наткнулся тут на забавную историю. Выводы делайте сами. \nУмный Ганс. Лошадь в Германии начала XX века, которую в 1904 году провозгласили «первым мыслящим животным». Ганс демонстрировал впечатляющие способности: решал арифметические задачи, «читал» время по часам, распознавал игральные карты и даже определял композитора музыкального произведения. Отвечая на вопросы, он отбивал копытом нужное число ударов или выбирал вариант из предложенных.\nСогласно историческому обзору \nSamhita & Gross,\n поначалу наблюдатели предполагали, что всё это мистификация, а тренер каким-то образом подсказывает Гансу правильные ответы. Однако было показано, что лошадь успешно выполняла задания даже в отсутствие тренера. В 1904 году немецкая комиссия по изучению языка провела исследование и пришла к выводу, что способности Ганса подлинны, а «большинство биологов, психологов, врачей, экспертов всех мастей и даже обывателей были убеждены, что животные способны мыслить по-человечески».\nПотребовалось ещё четыре года и серия тщательно продуманных контрольных экспериментов психолога Оскара Пфунгста (1907), чтобы разобраться в происходящем. Пфунгст показал, что Ганс не мог дать правильный ответ, если спрашивающий сам не знал ответа или если лошадь не видела его лица. Он пришёл к выводу, что Ганс вовсе не обладал заявленными когнитивными способностями: ни счётом, ни арифметикой, ни «чтением» карт.\nНо Ганс оказался гениален в другом, куда более полезном для лошади навыке: в социальной способности считывать едва заметные мимические сигналы человека, чтобы понять, когда нужно прекратить отбивать копытом. Эти микросигналы не находились под сознательным контролем спрашивающего; даже когда Пфунгст пытался подавить их, лошадь продолжала успешно их улавливать.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Came across a funny story here. Draw your own conclusions.\n\nClever Hans. A horse in early-20th-century Germany that, in 1904, was proclaimed “the first thinking animal.” Hans showed impressive abilities: solved arithmetic problems, “told” time from a clock, recognized playing cards, and even identified the composer of a piece of music. When answering questions, he’d tap out the required number of hoof-beats or pick an option from the ones offered.\n\nAccording to a historical review by Samhita & Gross, at first observers assumed it was all a hoax, and that the trainer was somehow tipping Hans off with the right answers. But it was shown that the horse completed the tasks successfully even with the trainer absent. In 1904 a German commission for the study of language ran an investigation and concluded that Hans’s abilities were genuine, and that “most biologists, psychologists, physicians, experts of every stripe, and even ordinary people were convinced that animals are capable of thinking like humans.”\n\nIt took another four years and a series of carefully designed control experiments by the psychologist Oskar Pfungst (1907) to figure out what was going on. Pfungst showed that Hans couldn’t give the correct answer if the questioner himself didn’t know the answer, or if the horse couldn’t see his face. He concluded that Hans didn’t have the claimed cognitive abilities at all: neither counting, nor arithmetic, nor “reading” cards.\n\nBut Hans turned out to be a genius at something else, a skill far more useful for a horse: the social ability to read barely noticeable facial signals from a human to understand when he needed to stop tapping his hoof. These micro-signals weren’t under the conscious control of the questioner; even when Pfungst tried to suppress them, the horse kept successfully picking them up."
+    },
     {
       "id": 1235,
       "url": "https://t.me/chillhousetech/1235",
@@ -256,38 +267,27 @@
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "71c3f3187b88759915db1ddd0b05ce095d6171d4382193de9a28905cafb30f23",
+      "hash": "a7cc95fd7d97c2c4615026d455662a1dd161fc3825c7c28deff18242b106ef81",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/qjEbTuLoeAqyeddL-gbuUs_k94W8coiYwYCerqptdlQEtxzuQhlVNrD514B6yxOTzVY68JL0nHT2Xn9-1T05RsenRq3YIosGzhfhKJIMb3fd_WMhByf37UR-ZxwoOxhEdVrZbu2q_DkiUa8URZ-QCrg387qoUhYEi2w3Q6QuRJDMu1nEfQAywEOnZ_R9ka_EC5zZ-Sz0CTDz26afNXo0R5BkxmRHuczWo5y09-qjS4RYtzmd3QSF5v5L1u2c5vy9zBPZ6gMM1XvopKWgW70JqU-7QH8EfO08oKR_rANtwdppInqY1Ar0Uck6WYDMI4TmcDnbZ6TTqqwMxF_QMMh1UA.jpg"
+        "https://cdn4.telesco.pe/file/p5F0r1oKup5Z5I291VFJ3zLmS-iAlM-_78V15ILd9Lt2rACzAvVh5LdCoHunrodlojHWajQ67boGZ5xhGjHLGlakRscK2u8gwIIBMMIu6C2uEitIhe-XZeedHhj-c3L4Z9oMvcfaFmw7WiEqWx0lK_ZKYMoJ9Rqgio1aGZUo0mB5Uh9Liq_L-Q91qzbgOQdEnhGoaOxoPz7gb9BjymcV6V3-II_HPquo7mcGercc3sXgAYAJGO_yhAWYL1Uav9XamTxqX3qXMhZPf5OCmwFdMkPmwxFY_Q4fpcicHkbhHnenCvlRNE2W_ONeXHTATzk0KaQSsoDSwaNjTcRG0LJxjA.jpg"
       ],
       "title_en": "",
-      "text_en": "Alright, so, your opinion is important to us. Drop whatever reactions fit, plz.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
+      "text_en": "Alrighty, your opinion is important to us. Drop the appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
     },
     {
       "id": 1208,
       "url": "https://t.me/chillhousetech/1208",
       "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "45313074e99e9d12ec8c8c280950580a6f004fa5ebc850be4dc7688e87fc144a",
+      "hash": "441b44f4af9014bbf34113136b3f76d37fbae09ecb8b114625652d98f54d4298",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "«Неожиданно»",
       "images": [
-        "https://cdn4.telesco.pe/file/Ma7VrpML2D-8fnhnKwXZO3fnpYOEHqAoaURopIO_BIFjsvhe6J5nd0NZsD1r88aTi27YuFpV0aYJfnOdF2oMmCSrF5maePWtXQ0vmNPYrBCtWu7cxatPXeps7LHkPRAAaQZQU3ldc0iFkiCkenINSAVNYMUY-eYC9mZHZTkPz0baINHkW1U21tGNe1cOQz3Dx99lV8smMM9ZEjD1FsQx2ofPL-tVlbmL4P0gC8258d9EjTfPO4PdVfl24zqTl2M1rUBCwMU4mn4aFXC8vcSloKh1IzVXotXN754PGUKoM24EP5f5U89xtMKkTEa6By1Bqt2mQt9fzInOpVHg271Hzg.jpg"
+        "https://cdn4.telesco.pe/file/a5CoJQUb0HZVaS7E-UuwsN8aiQE07zN7ERmnfBv7dshc5rV9HSLplLN1vK25q8iKxcCLLOrOyHKatBDbFwfjpUfqrv3TBg4ZK1_YLRMh786KUOg_1aeSYjrGj-BTNBdMNPuojOss9rPbEzIzAcYwXHe-xN98SLZicYkK726eM7abvft7k-Wzs8CTcMm81RMcIOahhSKkC-DHMmJ-0xVXVisubD04fqkiTaQEUouMsbvVNY9xOrgp-LVzrcGRW-wiG_VrEJH7CBEoJIT9j2xK8geizG_-oZR65c5fMqDV_mH1dlnfnN4qAOBsMfWfRHlVupnGQQSuXyWnwDvZqpr9Hw.jpg"
       ],
       "title_en": "",
       "text_en": "“Unexpected”"
-    },
-    {
-      "id": 1207,
-      "url": "https://t.me/chillhousetech/1207",
-      "date_utc": "2026-01-16T14:02:27+00:00",
-      "hash": "d7a0e1ce4c0be2eee661c4e34450e9ddd01d8c410fed9952ef403387917fce78",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Пост поиска стажера (можно почти без опыта, студенты и так далее). Репостните, если вы знаете куда или у вас есть контакты или подписчики.\nМы в наш скромный проект \nhttps://trymirai.com\n ищем стажера для работы с поддержкой разных моделей на уровне \nhttps://github.com/trymirai/lalamo\n \nЧего делать: \n• конвертить модельки в запускаемый нами формат и тестировать все флоу, тулы и прочее\n• вайб-кодить конфиги\n• поддерживать тех спеку, поддерживать чат шаблоны и прочее\n• постить апдейтики в Discord команды (да да мы используем для коммуникации внутри команды Discord)\nЧего хотелось бы от кандидата:\n• быть знакомым с Python, владеть Cursor etc, уметь в линейную алгебру\n• опыт в AI/ML будет жирным плюсом\n• самостоятельность и желание развиваться\nЧего предлагаем:\n• стажировка оплачиваемая - условия индвидуальные по результатам собеседования\n• минимальный срок стажировки 2 месяца\n• возможность поработать в хорошо профинасированном стартапе и реальным клиентами (топ тир AI labs и продуктами с 100м+ аудитории)\nФорма для заполнения если интересно тут",
-      "images": [],
-      "title_en": "",
-      "text_en": "Intern search post (you can be with almost no experience, students and so on). Repost if you know where to, or you’ve got contacts or followers.\n\nWe, in our modest project  \nhttps://trymirai.com  \nare looking for an intern to work with supporting different models at the level of  \nhttps://github.com/trymirai/lalamo\n\nWhat you’ll do:  \n• convert little models into the format we run and test all the flows, tools, and the rest  \n• vibe-code configs  \n• maintain the tech spec, maintain chat templates and the rest  \n• post little updates in the team’s Discord (yes yes we use Discord for internal team comms)\n\nWhat we’d like from a candidate:  \n• be familiar with Python, know Cursor etc, be able to do linear algebra  \n• experience in AI/ML would be a fat plus  \n• independence and a desire to grow\n\nWhat we offer:  \n• paid internship — terms are individual based on interview results  \n• minimum internship term: 2 months  \n• a chance to work at a well-funded startup and with real clients (top-tier AI labs and products with 100M+ audience)\n\nForm to fill out if you’re interested is here"
     }
   ]
 }
