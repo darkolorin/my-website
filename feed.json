@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-02-16T03:21:14Z",
+  "generated_at_utc": "2026-02-16T07:22:28Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1238,
+      "url": "https://t.me/chillhousetech/1238",
+      "date_utc": "2026-02-16T06:12:01+00:00",
+      "hash": "0caad50a2853d358c75529f2d6aa7789c0db7e6b457ee8310478e47ae9b31479",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Seed 2.0 Pro from Bytedance. Неплохо неплохо. Вполне на равне с большими лабами из США. Можно смело говорить Китай догнал (подождем когда там попользуются). А значит стало еще интереснее в мире AI. \nModel card",
+      "images": [
+        "https://cdn4.telesco.pe/file/b_0uvUNhnnDVvQvDrZvAqJG-cVhyX5jMvOAku93tWUNppFQDedKeRvTi8b2y5LCsKjHTfqFKJf4P2sZuF4B3YLrhur-as0n-A2DmkQMiKA0cOaqu8dX8Hjif76sPdi6z8_d9be-g4vdmibSkhp19naot3ex0NwqSFzogBPtTzw40HrAj0LnyqBtjU0I3GMwBku2rAwp7_Ida_r8tlFqmfxU1PX8YHND1V7tZUj8WLhI74RDY5QBziHmMEiyoO6LW6jsv_MLqp7xa0WkpnjZigH0r8NbUsLIFrKFJuz0obXvfKcHqa6QL7k2_Fxntmln0Umu1UtKMZXx2sDk8VcsWkQ.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Pretty much on par with the big labs from the US. You can safely say China has caught up (we’ll wait till people actually use it over there). And that means the AI world just got even more interesting.  \nModel card"
+    },
     {
       "id": 1237,
       "url": "https://t.me/chillhousetech/1237",
@@ -273,19 +286,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Some observations. In my feel, automating coding will lead to an interesting effect:\n1/ the engineer profession will get closer to the scientist profession — meaning where ideas and understanding are pricier than applied skills (that’s actually how it was way back in the 70s–80s)\n2/ the amount of trash software will be huge, but nobody will need it. This is that thing where every product person or mediocre engineer rushes to build “products.” Yeah, there’ll be more of them. But there’ll be a TikTok effect: when the choice is that huge, people will pick the best. And the best requires a higher level of approach.\n3/ overall nothing will change, I think. Yeah the feedback loop will get faster, yeah iterations will get cheaper, but that’s all on top of “so what the hell are we even supposed to do”\n\nWay more interesting is to watch whether progress shifts in theoretical digging (research automation). Because so far it’s not that cool there. But there are movements.\n\nCursor is building its own browser from scratch with agents\nDario from Anthropic, as usual, predicts the death of regular engineers\nWrite code better than Claude — a Challenge from the Anthropic team"
-    },
-    {
-      "id": 1209,
-      "url": "https://t.me/chillhousetech/1209",
-      "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "c352acb0fe4bca20267345a7ba36f9368201ffdfc15fdad74ccdcf1beb8ccfc3",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
-      "images": [
-        "https://cdn4.telesco.pe/file/ITNBC1kD6YLO5WnY_in9QVkQuvw-MsU4amKVGjU2m4LdjGNZ8EVAmlTRJg-O4HvwCG0yG5NBn3pDJ4UKUrjlGojQy3L0q2OQqUQQ8v_fX5OzQ4hP5T14dmthddCs022BSE_SCm-PfXD2j6VHT9JVkzWZ1qCgsztc5DU8f5eovDJtVeNKWpJwsTGwLmEVEgddjlI6zYtQay7MTlcGsMfOEHnCmKtIBpzy51ZsR6WpLsurA9740yZVu2bhdnY0q2S9KzRQkqhgCgWRxfFC3aELae0W5-cbyyKiIduRIYt3Orkw80F8JaTwKJoHpGCaIXH-J1b9YMsXllSaFdoHUwVRxw.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Alright, your opinion is important to us. Drop the appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
     }
   ]
 }
