@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-15T18:57:48Z",
+  "generated_at_utc": "2026-02-16T03:21:14Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1237,
+      "url": "https://t.me/chillhousetech/1237",
+      "date_utc": "2026-02-15T22:00:51+00:00",
+      "hash": "8c3e3b574874fed27434d73617d9e170ce339229f9df40e515eaa2d46701ad9d",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Чел создавший openclaw “присоединился” к OpenAI. Классический для долины ход. \nTweet",
+      "images": [],
+      "title_en": "",
+      "text_en": "The guy who made openclaw “joined” OpenAI. A classic Valley move.  \nTweet"
+    },
     {
       "id": 1236,
       "url": "https://t.me/chillhousetech/1236",
@@ -267,27 +278,14 @@
       "id": 1209,
       "url": "https://t.me/chillhousetech/1209",
       "date_utc": "2026-01-19T10:40:11+00:00",
-      "hash": "d72e799dd68479a87c2c6f509e26b9311a97169a2794842e9031f941cb5c462f",
+      "hash": "c352acb0fe4bca20267345a7ba36f9368201ffdfc15fdad74ccdcf1beb8ccfc3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Такс, ваше мнение важно для нас. Накидайте реакций соответствующих плиз. \nНу и если кто по бренду шарит может есть идеи.",
       "images": [
-        "https://cdn4.telesco.pe/file/Nv9FqUhbR2GxsjS3M4pIGr0KnjkD_Ftjrsz_8lq0RW-cZQE48rGYHsCwPqzYLeqYZHxb803_alJ9Mli8Sab9tkDQ_kQ3ReT6aYJrlbqmNyCGyb2Cbd8vhX16H0ZdQv5A8R31qm_K2Ap0msL_UurXFhIxaksD7jTbLGt0kYv0NunnNtQ_vTBHScqItcb2yot1T8ofiu8RZi9Q7bsam-LOl_5uH1nV-umQENvxaVy6UBVkVymwson55ZnUYJaCZqp5wuoGc2bZLbyqubbCeVAKQTePRmOiJIGknd2573hVSEntDl-PXF5nv12EoPynDNItYp1Tm4a6fgKu6ZxWzWjVyA.jpg"
+        "https://cdn4.telesco.pe/file/ITNBC1kD6YLO5WnY_in9QVkQuvw-MsU4amKVGjU2m4LdjGNZ8EVAmlTRJg-O4HvwCG0yG5NBn3pDJ4UKUrjlGojQy3L0q2OQqUQQ8v_fX5OzQ4hP5T14dmthddCs022BSE_SCm-PfXD2j6VHT9JVkzWZ1qCgsztc5DU8f5eovDJtVeNKWpJwsTGwLmEVEgddjlI6zYtQay7MTlcGsMfOEHnCmKtIBpzy51ZsR6WpLsurA9740yZVu2bhdnY0q2S9KzRQkqhgCgWRxfFC3aELae0W5-cbyyKiIduRIYt3Orkw80F8JaTwKJoHpGCaIXH-J1b9YMsXllSaFdoHUwVRxw.jpg"
       ],
       "title_en": "",
-      "text_en": "Alrighty, your opinion is important to us. Drop whatever reactions fit, plz.  \nAnd if anyone actually knows their way around branding, maybe you’ve got some ideas."
-    },
-    {
-      "id": 1208,
-      "url": "https://t.me/chillhousetech/1208",
-      "date_utc": "2026-01-16T18:27:48+00:00",
-      "hash": "c031efe1fcded89f6215deb2d4de21148dad6118e2e05662f565a383f289d591",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "«Неожиданно»",
-      "images": [
-        "https://cdn4.telesco.pe/file/Eoz46nOzHR6hoaZugWJjIf5KnMbkRIUYStQDzgDrmlA-eNhKZ9SMOIHtJlsXpVcvKOAOsSWVVnmUOjxa5Z_XpHJlyCe9LSjDExG3m5dhZU7VfzKuya5asba0_6qM6gYNfZkqyjDMvi3Hg30d_kx89kPvRegBHfY7ngHJcYQo7D7qA_QJwS_z3mswRJGJMW-yxNOWszcIledTUqUVGUwH27kvgJW4hToUgh9fkE60lK9LuHvar9WrgT-eFf6YAeqgIcPRJqMwIbfaZO62jjUcx9U5bfuI5boCELCPPutwv728_sRR0oyTeD5QPpEN499H4Q2764IfLRYx4Yk8eA59JA.jpg"
-      ],
-      "title_en": "",
-      "text_en": "“Unexpected”"
+      "text_en": "Alright, your opinion is important to us. Drop the appropriate reactions pls.  \nAnd if anyone actually knows their way around branding, maybe you’ve got ideas."
     }
   ]
 }
