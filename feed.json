@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-17T07:18:01Z",
+  "generated_at_utc": "2026-02-17T13:41:23Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -223,14 +223,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "5a570a4634961af6c1a1d88ea3f1383c7b4f4126c0ead3860f7dac9dd0c90793",
+      "hash": "87bb244a74d2cc5d98a7953779c6f60fa3f034112a3a0f444c0ad5fda0293736",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/PXHD6EAzmwFBbOf2EmkHE4hlnS-IXgboBH1aNg_zWybVID9gZrspgrDvx7kDPRWmF-rDaTt0s_UafYwVadOx_VR9XD002jqyF264kUYUp9J0t_8PD1B4e2y0s3FpVqiYSk9sOhNHQ3Wq03xvidj6UGE97bbcmOTPDHdeo9eeJGfowqvEkmHflW74RYakFi1YUFprN-up4CLNfIX266xkAuy8jdUSjGAnq3-GtaFTzL0bJgWlHPDibuMTnEPo7h3deWqZeC5Pu6vDBCAe_Tbsn82LK2mS2H_St5UTo7aUngrqSBXC5St9wtRyBBkGnfiBwc8mdTKfpf7iMECuWanyKw.jpg"
+        "https://cdn4.telesco.pe/file/kU0o58_tcJcGg9wCONttUyBlYH9cD9XPZTcGMRYkrCG9WmqiA4n02B1b5KQqqQRDdV33R64MmCWQzSH7SMM40p7MOMcsN9hGRszBJKIOCX-I9vEn4zv2heDiUFKMO8-1yQGDhKjXWz5dSV_xehZ8JK-yaXzzQK-E-F0Sm2pb4BnHq_ZRhzJ5MbUCt3S3PAlHwzl2UWZDj96S8bNAF8psCSGUH6MiCp6IILvSvygur1XNNynsPSHlKI1cyxe99_xjK1d1XjFPAzymGQeJ8ISke-iWT1Z8uUnFv5ByFy77LEGU6eV13wYV3ILEuh4BagxL1C49vUgYffGFvnCsMYW8WQ.jpg"
       ],
       "title_en": "",
-      "text_en": "How OpenAI does benchmarks"
+      "text_en": "How OpenAI makes benches"
     },
     {
       "id": 1214,
