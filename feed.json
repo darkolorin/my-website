@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-17T13:41:23Z",
+  "generated_at_utc": "2026-02-17T19:16:50Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1239,
+      "url": "https://t.me/chillhousetech/1239",
+      "date_utc": "2026-02-17T18:16:04+00:00",
+      "hash": "a42d7795c9dca864d2d48c9d5159fa7050fb0717220e504a501bca920aa4b311",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Тут проскользнула такая мысль. Допустим мы все уверены, что каждый инженер будет использовать ai coding assistant. И будет кушать много токенов, иногда даже тысячи в месяц. Получается стоимость инженера в компании сильно выросла. То есть нужно сокращать кого-то другого взамен или часть тонких по марже бизнесов умрет из-за того? Что думаете? Ведь не каждая компания может себе позволить 1-2к сверху на инженера в месяц. А пока если прям активно использовать такие затраты и есть.",
+      "images": [],
+      "title_en": "",
+      "text_en": "A thought just slipped by here. Let’s say we’re all sure that every engineer will use an AI coding assistant. And will eat a lot of tokens, sometimes even thousands a month. So the cost of an engineer in a company has gone up a lot. Meaning you have to cut someone else to compensate, or some thin-margin businesses will die because of that? What do you think? Because not every company can afford an extra 1–2k per engineer per month. And right now, if you use this stuff really actively, those costs are there."
+    },
     {
       "id": 1238,
       "url": "https://t.me/chillhousetech/1238",
@@ -97,12 +108,12 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "7f3661cb7297586acee737699f8dbb65b670655e3cf7518d2cd180fbf18080ee",
+      "hash": "829fde2196eee36c4a50a31c6fe5d3bd5938023e1538ccdde1d3aac5d063ce59",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/cy_6FRm2muKqcMFhBdUc-rYmZG1ObqjyW-PVg7JxzZIZwrGK4ZqhNk8o97PM2tsNCi0CHXU2N2KHSUz7v-H1sBFw3Lwx2dRczAKwqxw34bD5QMXnykDb9tdyEdj2AnxfUKypE4gbBsyyOKNYoGjbVRpjGiiJWfHYUCI5EAxaeH9d6n5EwJGwF9V5fze6ZQ76cJIZWKs1QMAEHHRIcn28BKmMjsMICdalesEPX4JtkpGhVrOJyDCTG-RHERgFykKfl7_ohm4E_dDEaUJEG8L0vJY_xL9vTaezXnZEqSTaAAHSyVvhFMmg8DoPxIG6dnAe_hgMoPaF7VdU0IByk3SGBg.jpg",
-        "https://cdn4.telesco.pe/file/DzMEe_xtU4PgzKrmES2KssLPbZMCrlZPdamGG2GfiBbZ573Y-sBA7Sg9YHPSW0FG-cC6yCUJosswyjkEitgTqPAc7PXYlXpQnF6wHYUcLYykUtCjIMEodOfvaizIt-5qj7pS336LjthhjBwEsJC4n6w9u-NKT6xO3DNWRlAUW7FPe2NORjtfH4iJFXWpmxbye6nUswFQi8LubBVjlGncIu_T7HGMe-lfnVY3mc4tL2_4nRRUpyc6UXGSVSuXk7jrxuOXuV7VyV6v6nm7bXBd5WlEPQndm3k63zzlCKkVzDrXQqRWE1zPsMWF4ApIt_F8YpcJD_hjk1zMZ4N89BVX8Q.jpg"
+        "https://cdn4.telesco.pe/file/eL56zY0vVq_JTeOGYqw8FB-DGDgEQfT6gvZwCtVajcxNLUMX3ewKVJNXeGWTxfWbq6rIz8aXuXOvnJXhsbE7hvy_Ks3J2-W77UK-jf_WsLWb8XcX-_uN0c4cxI6e9d3f-YAm6VJ1fYv-orKYDdjECpr0yeUe4mSdjaWzsHiqeTt6OR9Y_g_Z9X934MJ3dodd_1QUskVcK0RHA_Ma9uB2Jpf500vbqFqyt-yCGlUJZWyj9iwjVTMuvzy_PhCJvUiNVIcG3V8CbZ_tsXsCzTdHS-zv209u3WN0Udct7U7DFvyH18vEzQJNOQdXaJ2ES0fSvn2e7Mr7k1yFUdCnsLgMUw.jpg",
+        "https://cdn4.telesco.pe/file/gUzgX3HHZVZQtu_qhkpSOZ0C0V42jPltRhwEa3OKX3eD1p3ou2VE6P721SUxu2YfHVtcCU1STPhachBwy1tnINY6BHgpx7AhAXCMZSQP1zgX2N_xSsMvhzCtB9bCd6uhSJHSH_9hwONly3nmf2H2tH5VPDgfi1_1NOvI2tXLd9ghDofycVYjKjyubZ4-9ufA2PqRkyYva7Z70vvhe1nrMcM6MHWdYmYpSd6psNJM2E-MC-oC5DeN52HbB5FcoXwts6DU_9o5ICuQCbrvKmO56ELBaOS1WbZNY8F1kJLtm9XdzewPfghm7_9eXoGz8u6QUTStkkiTafxaV9sflooqHw.jpg"
       ],
       "title_en": "",
       "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also went off to Bali."
@@ -133,14 +144,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "45f007a78f7b8debdc40148e23c55b1cde26bbeb91506593af754adf028b8f42",
+      "hash": "947456d0c3a9621833705d9418c8b7cee164cba26192e6991a53dd23c8f39124",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/rRqJnQUVC1aFDk7ySMImrNuW9OuSsLbeZEXGb03gI97BE4lIogjnSeMzdYhZ7uAD-YvpVbe0zZPKe02DtF_JLlKUwxIvp1k5rauOMKqyhLlIcah9pBdJlYKiP1dpddKoU55IRu70QCIBlMg4JpNfYO_Od8fY7DgJjrSPV3bwxEJSrUd-y7keXuIpcqODr2UcsfbSmk1cKz6sdtfmO4Ah0EANmvBZDNsru4vX56F2rjZva1GxKaeszKm1pbRaubWCHx8H05EzCTATU7QVJbTlXZQNkyEgbE10Yfh4mNeWNdMkNXssvurdvP0uxXYSMookiV4vI7eFywd-lQGSi1BFIA.jpg"
+        "https://cdn4.telesco.pe/file/a_xcvfaJ5LPb3IeYWxvWJ8-19J1zi5kYGzjy8E9BXjS9-kpcUmml42yNBwfaGElAIW1TR3USSLyTnnjnJg-K5HyGGrlnkWRUJbIvJRM--dUN05WmzSkO7CKyJ2RFX6iptxzvUAR7NlMNnb1iK_wvxDGiC_NwVlyjvkWfRzPakC_-1GQxn_OModTS0FvCk083DzvJSrcSIkB-PuU0cvfq3uLOre4NiEJG9eDCLzNsChnei9S0-TWbrfUNRDmRkt9nwmsVOflhSMUVvr2-9uHdp5HxTGgx207eiWzj2CsfcY0nGBpM6z1W0rKCJgSViwW_xRzp_j9um3nJ9HvU9plwfw.jpg"
       ],
       "title_en": "",
-      "text_en": "Looks like it’ll be even better for vibe coding. New release from Anthropic — Opus 4.6.  \nAnd right away — new Codex.  \n— the competition is going hard."
+      "text_en": "So it turns out you’ll be able to vibe-code even better. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
     },
     {
       "id": 1223,
@@ -223,14 +234,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "87bb244a74d2cc5d98a7953779c6f60fa3f034112a3a0f444c0ad5fda0293736",
+      "hash": "ff14b2d52a37394f289c7fddb687783adbd15fff5a6655ec494f19e364120c8e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/kU0o58_tcJcGg9wCONttUyBlYH9cD9XPZTcGMRYkrCG9WmqiA4n02B1b5KQqqQRDdV33R64MmCWQzSH7SMM40p7MOMcsN9hGRszBJKIOCX-I9vEn4zv2heDiUFKMO8-1yQGDhKjXWz5dSV_xehZ8JK-yaXzzQK-E-F0Sm2pb4BnHq_ZRhzJ5MbUCt3S3PAlHwzl2UWZDj96S8bNAF8psCSGUH6MiCp6IILvSvygur1XNNynsPSHlKI1cyxe99_xjK1d1XjFPAzymGQeJ8ISke-iWT1Z8uUnFv5ByFy77LEGU6eV13wYV3ILEuh4BagxL1C49vUgYffGFvnCsMYW8WQ.jpg"
+        "https://cdn4.telesco.pe/file/MXPbnZqJ8RFQRWbIYCfF1oYsIUSHXMOhYV-86EYlEAH9V-6-odLRk06CkZx-amLBHvrvVVZhd5A58Oajh3ER0zHznbCzcVXovfa0DFpo1PUEekUaaFbSvxF0xzXiiKdjQ4qPtKMNGDKdPYi1je-B6UmJpc3ytP0-Qs0Ex_jVh3MZn9rPcMDNp2M6eCMKX5bbyE1v4OV9dFa-c_D2-Cs0VKktWmy3Up0PFhd37mPop0wcHqgrTA3htURgL_1EetrRCPpw9E6L1BfQo1tksNhebgZkdzr6toyhE6c0axIXIlDl-dGSglFuHoB-qObcbipoEPr6lrBU7G8Le-SLtfKsDg.jpg"
       ],
       "title_en": "",
-      "text_en": "How OpenAI makes benches"
+      "text_en": "How OpenAI make benches"
     },
     {
       "id": 1214,
@@ -275,17 +286,6 @@
       "images": [],
       "title_en": "",
       "text_en": "By the way  \nnot a bad vacancy,  \npretty fresh. I remember even a year ago there were ones like that there.  \nAnd their (DeepMind’s) cofounder says the following pretty confidently (claims it’s been his view since 2009, like):\n- in 2028 we’re in for minimal AGI, the kind that can do all tasks including cognitive ones, except the ones requiring extra abilities (like tasks for geniuses and so on, hard to say what he even means here, but that’s how he defined it)\n- and then in ~5 years (he wrote like he’d be surprised if it takes a year, and if it takes 10 he’d also be surprised) there’ll be full AGI, like any task a human solves can be solved  \nLink to the tweet  \nLink to his PhD thesis  \n (skimmed it, didn’t get what the big deal is, dude wrote a ton of stuff in there, where’s his genius? Tell me if you’re in the know. Because it kinda looks like my uni papers)"
-    },
-    {
-      "id": 1210,
-      "url": "https://t.me/chillhousetech/1210",
-      "date_utc": "2026-01-21T11:46:06+00:00",
-      "hash": "93ae38074482429036f3a65b0755ba14c2b70dc0b7f128662ec97bc724c58630",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Из наблюдений. По-моему ощущению автоматизация кодинга приведет к интересному эффекту:\n1/ профессия инеженера станет ближе к профессии ученого, то есть где идеи и понимание дороже прикладных навыков (так было кстати когда-то давно в 70-80х)\n2/ количество мусорного софта будет огромным, но он будет никому не нужен. Это то, что каждый продакт или посредственный инженер кинулся делать продукты. Да их станет больше. Но будет эффект тиктока, раз такой большой выбор, то выбирать будут лучшее. А лучшее требует более высокого уровня подход. \n3/ в целом ничего не поменяется думается мне, да фидбек цикл станет быстрее, да итерации станут дешевле, но это все поверх «а че вообще делать то»\nНамного интереснее наблюдать сдвинется ли прогресс в теоретических изысканиях (автоматизация рисерча). Потому что пока что там не так круто. Но подвижки есть. \nCursor пишет свой браузер с нуля агентами \nDario из Anthropic как обычно предсказывает смерть обычным инженерам \nНапиши код лучше Claude - Challenge от команды Anthropic",
-      "images": [],
-      "title_en": "",
-      "text_en": "Some observations. In my feel, automating coding will lead to an interesting effect:\n1/ the engineer profession will get closer to the scientist profession — meaning where ideas and understanding are pricier than applied skills (that’s actually how it was way back in the 70s–80s)\n2/ the amount of trash software will be huge, but nobody will need it. This is that thing where every product person or mediocre engineer rushes to build “products.” Yeah, there’ll be more of them. But there’ll be a TikTok effect: when the choice is that huge, people will pick the best. And the best requires a higher level of approach.\n3/ overall nothing will change, I think. Yeah the feedback loop will get faster, yeah iterations will get cheaper, but that’s all on top of “so what the hell are we even supposed to do”\n\nWay more interesting is to watch whether progress shifts in theoretical digging (research automation). Because so far it’s not that cool there. But there are movements.\n\nCursor is building its own browser from scratch with agents\nDario from Anthropic, as usual, predicts the death of regular engineers\nWrite code better than Claude — a Challenge from the Anthropic team"
     }
   ]
 }
