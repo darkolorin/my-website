@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-02-17T19:16:50Z",
+  "generated_at_utc": "2026-02-18T03:18:59Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1240,
+      "url": "https://t.me/chillhousetech/1240",
+      "date_utc": "2026-02-17T23:51:54+00:00",
+      "hash": "4234c8b78653bab38150482c5aa147a06ae04c42266d5fdbab45cb7b4d36d1dd",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
+      "images": [
+        "https://cdn4.telesco.pe/file/U_jCkoC8wq2D-LBiB1lcjRe6-HQ_ynpG605om368jh24yeN2gA3kc0Xp1ZySEBcFQp0zLkv5fXJcti8UAnsMHIdCE7qRUjkKtlETFIYPz8YFltXB6CnodBb23HvKX04ElHQomlXYTQxp-zDcB1mGvptyEMESOQztBArjVMpKTTvWc5bLWGUnN9ebUSZOYYbNtucqbpLrl3bmG55LIOJ-agDSQhhrFIZMbzgHjrwjmvDGC049SfE5ke6gLhKxkuRPnMv7zF45jkpFiV77_aoGglmFSiXiv2tiO54u2eQLqOUXmapGwH1vb-MqVXCgPoXYncgSCIWf7gja0YdPxQoo4w.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Now I’m almost sure people there don’t write code  \nhttps://claude.ai/\nUPD: they fixed it fast"
+    },
     {
       "id": 1239,
       "url": "https://t.me/chillhousetech/1239",
@@ -234,14 +247,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "ff14b2d52a37394f289c7fddb687783adbd15fff5a6655ec494f19e364120c8e",
+      "hash": "a3d683ed65e7512eb172039bd6fd45a0e59970928c33805d28e1b53afac1ff98",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/MXPbnZqJ8RFQRWbIYCfF1oYsIUSHXMOhYV-86EYlEAH9V-6-odLRk06CkZx-amLBHvrvVVZhd5A58Oajh3ER0zHznbCzcVXovfa0DFpo1PUEekUaaFbSvxF0xzXiiKdjQ4qPtKMNGDKdPYi1je-B6UmJpc3ytP0-Qs0Ex_jVh3MZn9rPcMDNp2M6eCMKX5bbyE1v4OV9dFa-c_D2-Cs0VKktWmy3Up0PFhd37mPop0wcHqgrTA3htURgL_1EetrRCPpw9E6L1BfQo1tksNhebgZkdzr6toyhE6c0axIXIlDl-dGSglFuHoB-qObcbipoEPr6lrBU7G8Le-SLtfKsDg.jpg"
+        "https://cdn4.telesco.pe/file/L1AN6X_bOFo9CqAaFWQveLnHjizguhZY5_xaiBQUQW17WG9QcIb7YjPytim7LfsQ9yp8a7xmh_j6L6sM0m_Sxx3rOQNthYNZ5s4QNIslxDGjDWoM754ZeGsqbgIAi7uNZlAY_x--sEvRmDIznm41U1RR8F-wB-wfp0wXr5H0_uwpDwhepYL-MCD5kFeirGdS8vSgXUfbEIXeUy1UckxutUynTN-YBUWh0KKVmGRD8SagJhXbvU6Zv1i4qGLdNx0SMU3Y3KOaML6tyNgtDOg_b4yPIHJljd3y26kAOEr7siraOAlbl09FWDYoOQ2J2OGhVi6g-OIykuXU-cTR6xUhpg.jpg"
       ],
       "title_en": "",
-      "text_en": "How OpenAI make benches"
+      "text_en": "How OpenAI makes benchmarks"
     },
     {
       "id": 1214,
@@ -275,17 +288,6 @@
       "images": [],
       "title_en": "",
       "text_en": "There’s this common take that AI will just make every link in the tech industry chain faster and more efficient. Like, now we’ll hand products Claude code, we’ll train them, and boom — era of fast iterations. But I think a bit differently. My logic is roughly this (critique welcome):\n\n- the bottleneck in any economic production process (software) is always time — basically, how long it takes to do something useful  \n- where that time in software came from, IMO, is simply that typing characters on a keyboard was slow, so you needed more engineers who can type and think on one project  \n- the more elements in a system, the higher the need for synchronization and verification of efforts (well, everyone types at different speeds — an exaggerated way to put it)  \n- introduce a sync element — manager/lead  \n- the number of sync elements grows like crazy — you get processes/responsibility (a “reduction/folding” function)  \n- and that’s basically our whole industry today  \n\nOne of the “innovations” AI brings is cutting time on the very first point — coding. And even if, according to many, it was never really the bottleneck, it still held up the headcount in the industry. Now imagine it’s not a question anymore. Then the number of people will shrink hard. And with it all the layers above (they’ll get hit even more, because they often didn’t have a clue what the hell is even going on in the code). PMs, product folks, and the rest. Because the people who’ll be able to run experiments will be the ones who simply hold responsibility — and there were always few of those (few people like risk).\n\nThere are tons of examples of this kind of compression:\n- the early-20th-century assembly line  \n- industrialization (people leaving the fields)  \n- etc  \n\nAnd there’s a second fundamental shift AI brings: the ability to work with non-deterministic user input. This will seriously change UI and then UX. More on that later."
-    },
-    {
-      "id": 1211,
-      "url": "https://t.me/chillhousetech/1211",
-      "date_utc": "2026-01-24T03:20:00+00:00",
-      "hash": "6b917c9899475df9adbb3c64c4f4471d20867e6050966b795da31643ee1b5b3c",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Кстати \nнеплохая вакансия,\n достаточно свежая. Помню и годик назад такие были там. \nА их (DeepMind) кофаундер достаточно уверенно говорит следующее (пишет что аж с 2009 года):\n- в 2028 нас ждет minimal AGI, это который способен выполнять все задачи в том числе когнитивные за исключением требующихся экстра способностей (типа задачи для гениев и так далее, сложно сказать что тут имеется ввиду, ну вот так определил)\n- а потом за ~5 лет (он написал мол если за год будет удивлен, если за 10 тоже будет удивлен) будет полный AGI, типа любую задачу которую решает человек можно будет решить \nЛинк на твит\nЛинк на его phd работу\n (прочитал наискосок, не понял в чем прикол, ну чел написал там тучу всего, в чем его гений? Расскажите кто шарит. А то чемто на мои работы в универе смахивает)",
-      "images": [],
-      "title_en": "",
-      "text_en": "By the way  \nnot a bad vacancy,  \npretty fresh. I remember even a year ago there were ones like that there.  \nAnd their (DeepMind’s) cofounder says the following pretty confidently (claims it’s been his view since 2009, like):\n- in 2028 we’re in for minimal AGI, the kind that can do all tasks including cognitive ones, except the ones requiring extra abilities (like tasks for geniuses and so on, hard to say what he even means here, but that’s how he defined it)\n- and then in ~5 years (he wrote like he’d be surprised if it takes a year, and if it takes 10 he’d also be surprised) there’ll be full AGI, like any task a human solves can be solved  \nLink to the tweet  \nLink to his PhD thesis  \n (skimmed it, didn’t get what the big deal is, dude wrote a ton of stuff in there, where’s his genius? Tell me if you’re in the know. Because it kinda looks like my uni papers)"
     }
   ]
 }
