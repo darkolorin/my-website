@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-02-18T13:42:42Z",
+  "generated_at_utc": "2026-02-18T19:17:13Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1241,
+      "url": "https://t.me/chillhousetech/1241",
+      "date_utc": "2026-02-18T13:56:58+00:00",
+      "hash": "a55fb9d20ee8cdafa5babd33fd496cced8bc141ca7a7baecc9f6275c71207b42",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Короче говоря хочу внести чуть ясности в эти раунды. Вот снова в лабу инвестируют топ фонды ярд при оценке 4. И таких вокруг новостей в целом полно. \nЛогика в этом примерно такая:\n- всем фондам которые делают такие раунды нужны проекты типа Google, OpenAI etc. Которые будут определять развитие определенной отрасли. \n- им не интересно зарабатывать из 100м один ярд. И никому из их LP (вкладчики в фонд) тоже. Им продают высокорисковую стратегию и они покупают. \n- большие аи лабы это вполне понятная ставка учитывая что настроение у многих именитых рисерч команд о том, что трансформер не приведет нас к след уровню AI \n- фонды делают все на основе уже пройденного опыта, ага вот в прошлом цикле сработало и сейчас должно, эта идея близка многим людям и хорошо продается \n- иногда важны детали, но редко, обычно выбирают максимально именитую или с кучей референсов амбициозную команду и дают тучу денег, теперь такую контору и не купить то особо, а значит эти умные ребята будут пахать пока не сложится что-то или вернут бабки (всем ок что они сожгли половину это нормальный риск профиль)",
+      "images": [
+        "https://cdn4.telesco.pe/file/r75Za_pTZMfNMZqx40Dwwg53-Vvmj4VuCQXcmzW_mng9JOGU-Hnk5IHFwitcV3VXIbGi_tkLaPxPVkgRIQ48yJQA5t2UPoVZ6tcXYqG5rMua22zsuPwa9Kt4drmm1ULonBZ17pk6JJUFhKQO_6RJ2MPeQYEIaasWG8Hls5R50QU3Hhj2ywqScnwoSmL1OXxwT4CvXlHnm8G42DHfGJm7KyKsHaWHoynPAhbFoMjSLkFSRL01J9sVkASpk1TsDCrqimA9sqFA16YfHxbcU50fb0hjsZ3F3TNdXjOlYEMCr_XTXedGRXyLN3RKUihCTF1Hou1fAeT2zcI0OTqRZ8m94g.jpg"
+      ],
+      "title_en": "",
+      "text_en": "In short I want to add a bit of clarity to these rounds. So here we go again, top funds are investing a yard into a lab at a 4 valuation. And news like this is everywhere in general.  \nThe logic is roughly this:  \n- all the funds that do rounds like this need projects like Google, OpenAI etc. The ones that will define how a certain industry develops.  \n- they’re not interested in turning 100m into one yard. And none of their LPs (fund investors) are either. They’re sold a high-risk strategy and they buy it.  \n- big AI labs are a pretty understandable bet given that the vibe among a lot of famous research teams is that the transformer won’t get us to the next level of AI  \n- funds do everything based on already lived-through experience, yeah, it worked last cycle so it should now, this idea is close to a lot of people and sells well  \n- sometimes details matter, but rarely; usually they pick the most famous or an ambitious team with a ton of references and give them a pile of money, now you can’t really buy a shop like that either, which means these smart guys will grind until something comes together or they return the cash (everyone’s fine with them burning half, that’s a normal risk profile)"
+    },
     {
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
@@ -121,15 +134,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "829fde2196eee36c4a50a31c6fe5d3bd5938023e1538ccdde1d3aac5d063ce59",
+      "hash": "013f165bc0b1a80bf1b36746513a39e08e307200775bfc053931952d731f2bb4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/eL56zY0vVq_JTeOGYqw8FB-DGDgEQfT6gvZwCtVajcxNLUMX3ewKVJNXeGWTxfWbq6rIz8aXuXOvnJXhsbE7hvy_Ks3J2-W77UK-jf_WsLWb8XcX-_uN0c4cxI6e9d3f-YAm6VJ1fYv-orKYDdjECpr0yeUe4mSdjaWzsHiqeTt6OR9Y_g_Z9X934MJ3dodd_1QUskVcK0RHA_Ma9uB2Jpf500vbqFqyt-yCGlUJZWyj9iwjVTMuvzy_PhCJvUiNVIcG3V8CbZ_tsXsCzTdHS-zv209u3WN0Udct7U7DFvyH18vEzQJNOQdXaJ2ES0fSvn2e7Mr7k1yFUdCnsLgMUw.jpg",
-        "https://cdn4.telesco.pe/file/gUzgX3HHZVZQtu_qhkpSOZ0C0V42jPltRhwEa3OKX3eD1p3ou2VE6P721SUxu2YfHVtcCU1STPhachBwy1tnINY6BHgpx7AhAXCMZSQP1zgX2N_xSsMvhzCtB9bCd6uhSJHSH_9hwONly3nmf2H2tH5VPDgfi1_1NOvI2tXLd9ghDofycVYjKjyubZ4-9ufA2PqRkyYva7Z70vvhe1nrMcM6MHWdYmYpSd6psNJM2E-MC-oC5DeN52HbB5FcoXwts6DU_9o5ICuQCbrvKmO56ELBaOS1WbZNY8F1kJLtm9XdzewPfghm7_9eXoGz8u6QUTStkkiTafxaV9sflooqHw.jpg"
+        "https://cdn4.telesco.pe/file/DDblsPjG3rxvhy1kCrG9ifrmU3QbohNgLVst_fertSNDbeUE_yKdJsm9vK89ijUWxfZ2xk492TTFUf_f74YaJcyHIue3rAWiCewBW0o_b5qvOj7-ktNR7FJo4MRUXcnJ-wdQEPUyeKu7Z3FfrJMQBwIu3ABwgesfn5ctU1x9tkiWQr4ho_oyYoG9uaZwvFIkU-seP9cWUZ7FtoSvRqLfdjWzQJ298K944-YolZIN-8YiIehrjqDeFjs_At2dx1jl0r0GUfH3rwi5y-wZ4xAnKKy3ZRVuq3ioBhgXdaVW5lwM-SJKllVm8dTf_AmA74ydzwEHUZ1kQ_R3iFdEoVKiQQ.jpg",
+        "https://cdn4.telesco.pe/file/VETPReimYDfboYgq4p-i7KOFJQkNy5DMc13TAp0DcJrfoJ9bUFyStEQ-N4RtFQOSH22s5otQTSLA18TDGQ9k6OzzxX-tTaZQwXlQpdFSl536dSW03E1DOlq2QsAlLm0zmI9i14GPY0UazoGVHusL3tj7DFGJRVF4PDsAeYB_TrEggCvX0lk0YP4b2de89I4_cP7X8cEqT0b11ykgp4SKxowXv02hxAFiqpvzKeE75nmZ5-DUL2NWZTKdzm5EvihHPUKDI9DCg-2uJ3E7UTJyurkEfuGsgK0hT9CEOc4quyTGiR5iIbVmldFSdR7BvT4412_C-9Jle86d1XJ23WM5Gg.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also went off to Bali."
+      "text_en": "When you’ve raised a round and immediately posted those “important” openings. And probably also flew off to Bali."
     },
     {
       "id": 1227,
@@ -157,14 +170,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "947456d0c3a9621833705d9418c8b7cee164cba26192e6991a53dd23c8f39124",
+      "hash": "3f102cc14ddc5f5304129f59d79fedd5f1b9461d4f35b1559df5388e6274edc1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/a_xcvfaJ5LPb3IeYWxvWJ8-19J1zi5kYGzjy8E9BXjS9-kpcUmml42yNBwfaGElAIW1TR3USSLyTnnjnJg-K5HyGGrlnkWRUJbIvJRM--dUN05WmzSkO7CKyJ2RFX6iptxzvUAR7NlMNnb1iK_wvxDGiC_NwVlyjvkWfRzPakC_-1GQxn_OModTS0FvCk083DzvJSrcSIkB-PuU0cvfq3uLOre4NiEJG9eDCLzNsChnei9S0-TWbrfUNRDmRkt9nwmsVOflhSMUVvr2-9uHdp5HxTGgx207eiWzj2CsfcY0nGBpM6z1W0rKCJgSViwW_xRzp_j9um3nJ9HvU9plwfw.jpg"
+        "https://cdn4.telesco.pe/file/Vn4kL9nQMa98xYQ-g7ywhqJFibJYuZXKhIAKX4MSLHn4pCiydPbywggDJxxir_6LkW3SdNN_t_ypq5MFGhB6hynjbqjfJrMLle-9qmusZHdVPE3h6zvEkyc2jod156KxhGG38gkyuof06Ms0h5N0HqY8Zm0k1lFTfMJKjF79IHYxv30oI2nsFi_JwGLL4GeNC96rERp2DnWKGMTc6wYgtadwMmY2pR5KzQJ2qXd_J8sMXZtExe0QDdJ4PujV_eNhAbRxm8CW10rbXbgbYohuLJbKxOJXShV5y-QnJ6A83kss_3YnDkgDYh9b-YR3qlMwOQF-C3BccGnaMg82KBM77g.jpg"
       ],
       "title_en": "",
-      "text_en": "So it turns out you’ll be able to vibe-code even better. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
+      "text_en": "So it’ll be possible to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
     },
     {
       "id": 1223,
@@ -247,14 +260,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "4dfefa4b209d1911159f9dedb1da67febabd8b8c84144af5eb6d78dafd66d85f",
+      "hash": "97718e43eef355c58ce14e7cd55485f4a0862896e3fcdfb15d99ffb164b18358",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/ZnPMxr2yhvePdbj_NVY5aQyK1GFfIiilTtQVFEduX1SX4vwPFXDGG2YjDETdBooe_3i0ry2PuGjYoPaT0ZD-phVWd7egKsIZyCSyf55a4pTexPvOF4_d3C-sUaux9RAwngoYiv86mHeKzg71wXANSINMwy4VZuRX2OaPioqCnjg9H9Pd8eUk9pk-d37EToPnVpaBS8VYITV_OtSbu2sAOPja2CWxYTjaY4UFIGueVW8_wwLt3gLc991WHh36ewRnHuDjjNoJidAztVicVU9c7KeMVdqMHYBC2KolTpO_WrJ2JGA6GnzirQeuupdCm7QdQNXF7mmghRQ-OXkv0mznNA.jpg"
+        "https://cdn4.telesco.pe/file/J2K38bxNw8VNngMJerrFim5WeW8CG-8aBJ2SSujHI_06T61nRFQsumXJGwAwFGtEnEO2n1AZ9ejuSBS8Y00XFLNnC1PnZ5hVqDappk4T-5LrqU7FgPN_AhmQ_wmvphlQK21oiSzXm2J763UPjQLEX6ZpuOUKxegqLhST5uy2jO-Aw502W9jlij7Y-LHl2x5IkUY7ZJi31djYQ-EW9XVv1FF8yJjFZaAlMQaA50x_k9dncwSWjfa8OAQ_REUfuffwwkGOqCi-L43uaqsr-TbA4EBEJX2nmrB0YFha_uaBvU_UDafAr7SWW8ImFyoRHWgWXciP9YNiosQg16VVOgTW0w.jpg"
       ],
       "title_en": "",
-      "text_en": "How benchmarks are made at OpenAI"
+      "text_en": "How benchmarks get made at OpenAI"
     },
     {
       "id": 1214,
@@ -277,17 +290,6 @@
       "images": [],
       "title_en": "",
       "text_en": "So Dario dropped an essay, and this time he repeated like a hundred-fucking-times that he might be wrong, that it’s “just a hypothesis” and all that (why doesn’t he say that in interviews though?). But this skepticism of his gradually runs out over the course of the essay, and after that I generally recommend reading on. But the most important leap in his reasoning sits in this paragraph:\n\nWe are now at the point where AI models are beginning to make progress in solving unsolved mathematical problems, and are good enough at coding that some of the strongest engineers I’ve ever met are now handing over almost all their coding to AI. Three years ago, AI \nstruggled with elementary school arithmetic problems\n and was barely capable of writing a single line of code. Similar rates of improvement are occurring across \nbiological science\n, finance, physics, and a variety of agentic tasks. If the exponential continues—which is not certain, but now has a decade-long track record supporting it—then it cannot possibly be more than a few years before AI is better than humans at essentially everything.\n\nWhere it’s all so simple, like, before it was hard to write a line of code, and now look, it’s better than top engineers (hmm, that conclusion is based on what interesting fact exactly? that at his company they claim 90% of the code is written by AI?). And then he says it’ll be like that everywhere. Bold. And that there are 10 years of exponential and it’ll keep going (also a curious extrapolation). Reminds me of progress in computer graphics: like three years ago it was “oh wow so bad,” and now “look, cars that look like the ones on the street.” You know yourselves what happened next: the pace kind of slowed down, and everyone more or less stopped giving a shit.\n\nFurther on, I recommend reading all 5 points. But roughly speaking he goes from the risk of a country of geniuses, then that we need to make good restrictions, then that politicians of countries will humiliate their residents via AI and you won’t beat that for shit (apparently then we’ll have to fight for democracy using the old methods). Then economics and science: with economics you can kinda get it, but with science it seems to me we won’t be seeing new scientific ideas from AI for a long time yet.\n\nRead the essay yourself"
-    },
-    {
-      "id": 1212,
-      "url": "https://t.me/chillhousetech/1212",
-      "date_utc": "2026-01-26T15:15:18+00:00",
-      "hash": "75b59a49df484f66442a480ac2bb94bda2e4913e831c315eedeb80b1bd0709f4",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Есть такое расхожее мнение, что AI сделает все звенья цепочки в tech индустрии просто быстрее и эффективнее. Мол сейчас продактам раздадут Claude code, мы их обучим и настанет эра быстрых итераций. Но я считаю немного по-другому. Моя логика примерно такая (критика велкам):\n- узкое место в любом экономическом процессе производства (софт) всегда время, условно как долго что-то полезное делать\n- откуда в software бралось это время, я считаю банально из-за того что набирать символы на клавиатуре было долго, поэтому требовалось больше инженеров которые могут набирать и думать над одним проектом\n- чем больше элементов системы, тем выше потребность в синхронизации и верификации усилий (ну все печатают с разной скоростью - такая утрированная формулировка)\n- вводим элемент синхронизации - менеджер/лид\n- количество элементов синхронизации сильно растет - получаем процессы/ответственность(функция сведения/свертки)\n- ну вот и вся наша индустрия сегодня \nОдно из новшеств, которой дает AI это сокращение времени на самый первый пункт - кодинг. И если он по мнению многих никогда не был действительно узким местом, то тем не менее количество людей в индустрии держал он. А теперь представим что это не вопрос. Тогда количество людей сильно сократится. И тем самым все уровни выше (они конечно еще больше пострадают, так как у них не было часто понимания че ваще там в коде происходит). Проджекты, продакты и прочее. Потому что ставить эксперименты смогут те кто просто будет держать ответственность, таких всегда было мало (мало кто любит риск). \nПримеров подобных сжатий очень много:\n- конвейер начала 20 века\n- индустриализация (люди уходят с полей)\n- итд\nИ есть второй фундаментальный сдвиг, который дает AI - это возможность работать с недетерминированным вводом от пользователя. Это очень сильно изменит UI и следом UX. Об этом потом.",
-      "images": [],
-      "title_en": "",
-      "text_en": "There’s this common take that AI will just make every link in the tech industry chain faster and more efficient. Like, now we’ll hand products Claude code, we’ll train them, and boom — era of fast iterations. But I think a bit differently. My logic is roughly this (critique welcome):\n\n- the bottleneck in any economic production process (software) is always time — basically, how long it takes to do something useful  \n- where that time in software came from, IMO, is simply that typing characters on a keyboard was slow, so you needed more engineers who can type and think on one project  \n- the more elements in a system, the higher the need for synchronization and verification of efforts (well, everyone types at different speeds — an exaggerated way to put it)  \n- introduce a sync element — manager/lead  \n- the number of sync elements grows like crazy — you get processes/responsibility (a “reduction/folding” function)  \n- and that’s basically our whole industry today  \n\nOne of the “innovations” AI brings is cutting time on the very first point — coding. And even if, according to many, it was never really the bottleneck, it still held up the headcount in the industry. Now imagine it’s not a question anymore. Then the number of people will shrink hard. And with it all the layers above (they’ll get hit even more, because they often didn’t have a clue what the hell is even going on in the code). PMs, product folks, and the rest. Because the people who’ll be able to run experiments will be the ones who simply hold responsibility — and there were always few of those (few people like risk).\n\nThere are tons of examples of this kind of compression:\n- the early-20th-century assembly line  \n- industrialization (people leaving the fields)  \n- etc  \n\nAnd there’s a second fundamental shift AI brings: the ability to work with non-deterministic user input. This will seriously change UI and then UX. More on that later."
     }
   ]
 }
