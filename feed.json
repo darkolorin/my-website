@@ -1,8 +1,34 @@
 {
-  "generated_at_utc": "2026-02-18T19:17:13Z",
+  "generated_at_utc": "2026-02-19T03:17:47Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1245,
+      "url": "https://t.me/chillhousetech/1245",
+      "date_utc": "2026-02-19T02:49:28+00:00",
+      "hash": "8b320391028b390c75abbca3714af35b7739ecc2a6ba17b66ff9d5e8d4ecd58c",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Заметили сколько сейчас всяких сервисов по созданию контента через AI, все они обещают супер конверсии, просмотры, что угодно. В инсте просто один раз лайкнув ролик или рилс сделанный сеткой (там уже сериалы пошли) сразу можно осознать масштаб. Так вот. Простой вопрос или проблема насыщения (это причина почему инфобиз и прочее работает редко на масштабе): что будет если вся целевая аудитория начнет пользоваться сервисом? (Все блогеры, все кто снимает рилсы, все кто редактирует изображения). \nОтвет быстро приводит к следующему шагу в стратегии построения такого продукта.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Noticed how many AI content-creation services there are right now, and all of them promise insane conversions, views, whatever. On Insta you just have to like a video or a reel made by a grid once (they’ve already started doing series there) and you immediately get the scale. So yeah. Simple question, or the saturation problem (the reason why infobiz and all that rarely works at scale): what happens if the entire target audience starts using the service? (All bloggers, everyone shooting reels, everyone editing images).\n\nThe answer pretty quickly takes you to the next step in the strategy for building a product like this."
+    },
+    {
+      "id": 1242,
+      "url": "https://t.me/chillhousetech/1242",
+      "date_utc": "2026-02-18T20:45:33+00:00",
+      "hash": "7ac71e7d6e6c39f318d1db1f84c280199de109e057dabf13325806a4f0bd4c95",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "BBBRRRREAKING: японская компания TOTO, которая делает унитазы, внезапно выяснила, что её инструмент для керамики можно использовать для производства cutting-edge AI чипов.\nРынок — $60B.\nАкции +60% на этой новости.",
+      "images": [
+        "https://cdn4.telesco.pe/file/m2F04B4eMrilV_RQvSFEe_GLGodO4VhpMKCD9wfS9jzSwR9cw151b12foaqqhZkashSVUVje_0FTZfAgmfnSzlLBXu9eaE0pQB1LKxEdzl6RB01kNG3Wi0pZSpjZzpDm9krLNYYneO5lPRbxrOIKX0BBwHkG3BBPpOywVD4e_BL3Dl3VVMjDdnqJ0wbU75b-wX500B29E-NqlSsC4DuKgBYaHgj1EzSlYEOVgJqK0IxyYa_YbsVB5CPWl2Tvwa0GhxGcxg68Q0g31Dwso_kqEdn8w8kluYMqyBI4UTyjyOV6d_xEDEf9IL9vzTS_SpSVcH0WkAmGoZypwZPdJpQkRQ.jpg",
+        "https://cdn4.telesco.pe/file/tPKboNrwLU9vcoEMSGiJbkDKgcGGBiM7Ms1pq2wdi-bD7rZ3uPuGN2dGUcHk50ah7O6z-GypSaHd4Qc4CTO7dTtzTJ0t8GopIIqgShi_Ygs0v7BZpfWggqMCLD0I-tAyhpGC2Z-uKzZPZnjJb2gLmcrneZylChFE_r-fjedVAoPPOPAPysoTeRWDpd2BTCJVUslvf-Osa3n1qmuU2e0B-rEILUWxd2wvjyTcZmgch5r90hnLeNfs5z2rllCDGPkoEVTq_R8Az1CVz5tWh8DEgcbO-Av9soRHElSdsF7iOrCRMzO5VMRCMU_V01BOfWID3P4G0CENsckvLrYdUBeYYw.jpg",
+        "https://cdn4.telesco.pe/file/BvJKmbC3wsJhjgOvjXiG7FY_bgW6B8CsQkAaciVjiLq8k9XnviicX4uWIOXPjKYPo-Q6FLZd83oCyWfXPULj6ilemC9CNu52zxDj8pMyWy6sn3PD-_wWkZwPxEBSXn4jt7fZ7twpKw0oJcQagI-7d8T_msALyfPICuHMWt6rh453JsAa6tCBiOIB0l8JWQ_iW3O3t67qjxHHb67gwKFInXiCa_0UGjx9MiPS5BYe8_J72Y_Ovq_w1QGo073AbYqCxYev93QeViGcGB1mzN7PgaOJZgckOBo1Ziz6M2nMZCcfIe8tFTx1YIa5RvlBZwtbnLJz5suvvY-TEyIbYcogDw.jpg"
+      ],
+      "title_en": "",
+      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly figured out that its ceramics tool can be used to produce cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
+    },
     {
       "id": 1241,
       "url": "https://t.me/chillhousetech/1241",
@@ -20,14 +46,14 @@
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "4234c8b78653bab38150482c5aa147a06ae04c42266d5fdbab45cb7b4d36d1dd",
+      "hash": "b7c0138c70969c952ce72246eda8dcd51bdc6a7dbb50ccddfc3721ec3bec6224",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/U_jCkoC8wq2D-LBiB1lcjRe6-HQ_ynpG605om368jh24yeN2gA3kc0Xp1ZySEBcFQp0zLkv5fXJcti8UAnsMHIdCE7qRUjkKtlETFIYPz8YFltXB6CnodBb23HvKX04ElHQomlXYTQxp-zDcB1mGvptyEMESOQztBArjVMpKTTvWc5bLWGUnN9ebUSZOYYbNtucqbpLrl3bmG55LIOJ-agDSQhhrFIZMbzgHjrwjmvDGC049SfE5ke6gLhKxkuRPnMv7zF45jkpFiV77_aoGglmFSiXiv2tiO54u2eQLqOUXmapGwH1vb-MqVXCgPoXYncgSCIWf7gja0YdPxQoo4w.jpg"
+        "https://cdn4.telesco.pe/file/kVwy7XPOwdVhk7kgF4aJd6DvgBkcYYA_2cBoquvR-nB1eIZxdPQ6esheEV_-NKcoxnca0Zq8OGHvZJeFMmNgxfwRHwRD31n0ekyYzzRgPauop4eUUs4kY8WbB9cuNIX8hDhTTRTtUjZd53kkS0kFuGvyqX7-Ub26DadRHHgyzvPBRL4gnj6pP6mEZhJQlONYOO3Ef2X4bjjSa-BTt3SRwX5a3RhVPNolIYiMDcMvSCam8rGZmga2gVLLEheH9r2RpZfFCRthnMSpfYDw4P6LVPaaYCJTHajjUz1yGhFSwLmlXt_AoGivP8Y32BXeklXJnFmsZ7m3MW39oVOflbt8Zg.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure people there don’t write code  \nhttps://claude.ai/\nUPD: they fixed it fast"
+      "text_en": "Now I’m almost sure they don’t have people writing code over there  \nhttps://claude.ai/  \nUPD: fixed it fast"
     },
     {
       "id": 1239,
@@ -260,36 +286,14 @@
       "id": 1215,
       "url": "https://t.me/chillhousetech/1215",
       "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "97718e43eef355c58ce14e7cd55485f4a0862896e3fcdfb15d99ffb164b18358",
+      "hash": "8c0496dd3c3c8407a18a03978e98ce1551327f1ef95044fdfd9b1424632a4588",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Как делают бенчи в OpenAI",
       "images": [
-        "https://cdn4.telesco.pe/file/J2K38bxNw8VNngMJerrFim5WeW8CG-8aBJ2SSujHI_06T61nRFQsumXJGwAwFGtEnEO2n1AZ9ejuSBS8Y00XFLNnC1PnZ5hVqDappk4T-5LrqU7FgPN_AhmQ_wmvphlQK21oiSzXm2J763UPjQLEX6ZpuOUKxegqLhST5uy2jO-Aw502W9jlij7Y-LHl2x5IkUY7ZJi31djYQ-EW9XVv1FF8yJjFZaAlMQaA50x_k9dncwSWjfa8OAQ_REUfuffwwkGOqCi-L43uaqsr-TbA4EBEJX2nmrB0YFha_uaBvU_UDafAr7SWW8ImFyoRHWgWXciP9YNiosQg16VVOgTW0w.jpg"
+        "https://cdn4.telesco.pe/file/VUZiPlzExZ0ZJRCcWhjf4P8nhGpNv-PGmsiowYCXU0dGSUqUF2M4WDP6IVjU9HyWtMnWlmUGLneexWmF62x_D8fkYW8SLatTCGnrgFgIToOO2ZultLE7XRIG5EeD2bRjas5CrEJu4U_3PA4E7MfyQlX9G-vE99sOmUsSdAkw-PrFKRce92gTe3qag3fJaHQaLcqiRSMcVdpF9k5le7oEiMjPJ8Vvka42raBgGNEyLOR16QbCqMLoMJUZBCBn-_cOcZUCJXl8BDgSUoYHfmHh3aHsaXvViTshUMW5HddGKbX2YH6-ppDJQn2BaFNL9ZELQhk_F70NNTfs_O7RikH7hg.jpg"
       ],
       "title_en": "",
-      "text_en": "How benchmarks get made at OpenAI"
-    },
-    {
-      "id": 1214,
-      "url": "https://t.me/chillhousetech/1214",
-      "date_utc": null,
-      "hash": "2d03366f07aef8cabc40653066ce020a1df2ffffa14b86a0b1f0bb75deaa7594",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Xiaomi. 1 телефон в секунду. 24/7 может работать, нет персонала, работает в темноте :)",
-      "images": [],
-      "title_en": "",
-      "text_en": "Xiaomi. 1 phone a second. Can run 24/7, no staff, works in the dark :)"
-    },
-    {
-      "id": 1213,
-      "url": "https://t.me/chillhousetech/1213",
-      "date_utc": "2026-01-26T19:07:14+00:00",
-      "hash": "5d2d1ded5f96856de70c2ae020a895b84001280933a9182e3d2a4e8e7c8a3c11",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Там Дарио запустил эссе, и в этот раз он стопицот раз уже повторил что мол может ошибаться, что мол это всего лишь прдеположение и все такое (а че на интервью так не говорит?). Но этот его скепсис постепенно в течение эссе заканчивается и дальше в принципе советую прочесть. Но самый важный прыжок в его рассуждениях стоит в этом абзаце:\nWe are now at the point where AI models are beginning to make progress in solving unsolved mathematical problems, and are good enough at coding that some of the strongest engineers I’ve ever met are now handing over almost all their coding to AI. Three years ago, AI \nstruggled with elementary school arithmetic problems\n and was barely capable of writing a single line of code. Similar rates of improvement are occurring across \nbiological science\n, finance, physics, and a variety of agentic tasks. If the exponential continues—which is not certain, but now has a decade-long track record supporting it—then it cannot possibly be more than a few years before AI is better than humans at essentially everything.\nГде так по простому, мол раньше было сложно написать строчку кода, а теперь мол вон лучше топ инженеров (хм, это вывод из интересно какого факта? что у него в компании утверждают что 90% кода пишет AI?). И дальше он говорит, что так будет везде. Смело. И что есть 10 лет экспоненты и она продолжится (тоже занятная экстраполяция).  Напоминает прогресс в комьютерной графике, мол три года назад было ой как плохо, а сейчас мол смотрите машинки похожие на те, что на улице. Сами знаете, что потом как-то скорость подупала, а и всем плюс минус пофигу стало.\nДальше все 5 пунктов советую прочесть. Но если грубо то он идет от риска страны гениев, потом что мол надо хорошие ограничения делать, потом мол политики стран будут своих жителей через аи унижать и вот фиг победишь (видимо надо будет потом за демократию бороться старыми методами). Потом экономика и наука, что с экономикой в принципе можно понять, но с наукой мне кажется пока новых идей научных от AI мы долго видеть не будем.\nПочитать эссе самому",
-      "images": [],
-      "title_en": "",
-      "text_en": "So Dario dropped an essay, and this time he repeated like a hundred-fucking-times that he might be wrong, that it’s “just a hypothesis” and all that (why doesn’t he say that in interviews though?). But this skepticism of his gradually runs out over the course of the essay, and after that I generally recommend reading on. But the most important leap in his reasoning sits in this paragraph:\n\nWe are now at the point where AI models are beginning to make progress in solving unsolved mathematical problems, and are good enough at coding that some of the strongest engineers I’ve ever met are now handing over almost all their coding to AI. Three years ago, AI \nstruggled with elementary school arithmetic problems\n and was barely capable of writing a single line of code. Similar rates of improvement are occurring across \nbiological science\n, finance, physics, and a variety of agentic tasks. If the exponential continues—which is not certain, but now has a decade-long track record supporting it—then it cannot possibly be more than a few years before AI is better than humans at essentially everything.\n\nWhere it’s all so simple, like, before it was hard to write a line of code, and now look, it’s better than top engineers (hmm, that conclusion is based on what interesting fact exactly? that at his company they claim 90% of the code is written by AI?). And then he says it’ll be like that everywhere. Bold. And that there are 10 years of exponential and it’ll keep going (also a curious extrapolation). Reminds me of progress in computer graphics: like three years ago it was “oh wow so bad,” and now “look, cars that look like the ones on the street.” You know yourselves what happened next: the pace kind of slowed down, and everyone more or less stopped giving a shit.\n\nFurther on, I recommend reading all 5 points. But roughly speaking he goes from the risk of a country of geniuses, then that we need to make good restrictions, then that politicians of countries will humiliate their residents via AI and you won’t beat that for shit (apparently then we’ll have to fight for democracy using the old methods). Then economics and science: with economics you can kinda get it, but with science it seems to me we won’t be seeing new scientific ideas from AI for a long time yet.\n\nRead the essay yourself"
+      "text_en": "How they make benches at OpenAI"
     }
   ]
 }
