@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-19T13:44:52Z",
+  "generated_at_utc": "2026-02-19T19:14:46Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1246,
+      "url": "https://t.me/chillhousetech/1246",
+      "date_utc": "2026-02-19T16:10:19+00:00",
+      "hash": "86ab8209a9be581e6aa2f90e516a53c1ef85fbb2e1211ba8a0675e495a0cc8c6",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Недавно в канале спрашивали \"как там дела у Mirai\". Настало время поделиться. Мы подняли 10M USD Seed Round. \nЧуть подробнее в посте.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Recently in the channel someone asked “so how are things with Mirai.” Time to share. We raised a $10M USD Seed Round.  \nA bit more detail in the post."
+    },
     {
       "id": 1245,
       "url": "https://t.me/chillhousetech/1245",
@@ -196,14 +207,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "3f102cc14ddc5f5304129f59d79fedd5f1b9461d4f35b1559df5388e6274edc1",
+      "hash": "75547cea61284860c300d846aa8d666552d95a8c43487661cc46cc3582949834",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/Vn4kL9nQMa98xYQ-g7ywhqJFibJYuZXKhIAKX4MSLHn4pCiydPbywggDJxxir_6LkW3SdNN_t_ypq5MFGhB6hynjbqjfJrMLle-9qmusZHdVPE3h6zvEkyc2jod156KxhGG38gkyuof06Ms0h5N0HqY8Zm0k1lFTfMJKjF79IHYxv30oI2nsFi_JwGLL4GeNC96rERp2DnWKGMTc6wYgtadwMmY2pR5KzQJ2qXd_J8sMXZtExe0QDdJ4PujV_eNhAbRxm8CW10rbXbgbYohuLJbKxOJXShV5y-QnJ6A83kss_3YnDkgDYh9b-YR3qlMwOQF-C3BccGnaMg82KBM77g.jpg"
+        "https://cdn4.telesco.pe/file/BBRXrhJCWlbWHQ3YIYuLdso64qjxffXZhlc5QHIuhvD3G3--9T0-opXE9pWYm7YO2T9WskyAcg5ANqVZ0tpQL3EXi8APOhWK_18NCYQAq0iFL1VeVsyFsU_9Bxo81SiPQRfGZjDt7E35zj3_kez2GzX5uaPCXsTLwdNlk-BLHvx-boz4In4mVkS7kL63RMm0v9TbZA9G5R7r9XBWrKRSKFDoX0ibzNfqGmzpEeNTwwCwFlfqvJZFNEPqOfmPBGuWklRRjZKhlHmA9QHB7rnAriIpkcvaqulF-mZcyHax3afWOphAmYvK4tLXt_WZjIyjIZSTifPZFlhbDfeSPEdNVQ.jpg"
       ],
       "title_en": "",
-      "text_en": "So it’ll be possible to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
+      "text_en": "So you’ll be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— competition is going hard"
     },
     {
       "id": 1223,
@@ -281,19 +292,6 @@
       "images": [],
       "title_en": "",
       "text_en": "How much was it that OpenAI promised to be making per year by 2030? And here it’s like, bam, in a quarter.\n\nApple today announced financial results for its fiscal 2026 first quarter ended December 27, 2025. The Company posted quarterly revenue of $143.8 billion, up 16 percent year over year."
-    },
-    {
-      "id": 1215,
-      "url": "https://t.me/chillhousetech/1215",
-      "date_utc": "2026-01-29T16:12:16+00:00",
-      "hash": "44f5aec73f9e87c4c446da206670ee7f3acb59e2e3cac148802fc7967f10242a",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Как делают бенчи в OpenAI",
-      "images": [
-        "https://cdn4.telesco.pe/file/gLWOpdv6EVyaqZebqdY_FrX1qSdBNdXvJM2nUPQc5cdVJFEpjejm-T0-fjl92Ch2mGl5fj-fp267jWX2KP2k5Kgq3x10wWtiSlspttmOZwhOdSgUGLYWhBaywiTuUjNGufHuiSmytNRni5xDDWQ-Gs_q2w3eda2COooR8LLSreBikmsTmuXwdYuStdCveAKQIX_4cAPyYsawhWSc8MGfKWpRCUhEtIaGrKMKMDDuwaMaE0hdvtMrL0oYJN2sAfSsJnfGqwbGe-QKqpDZ3j6tARf3zipiWjXPnNa4J189la4scSOsxYiLkoevHRvRR2-CYWudxrhsMwx3UsVYzqoeCQ.jpg"
-      ],
-      "title_en": "",
-      "text_en": "How they make benchmarks at OpenAI"
     }
   ]
 }
