@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-21T13:13:15Z",
+  "generated_at_utc": "2026-02-21T18:55:56Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1248,
+      "url": "https://t.me/chillhousetech/1248",
+      "date_utc": "2026-02-21T16:19:15+00:00",
+      "hash": "160206f767a5171d0a47eed5bff18147e3ae89f57e5043885148b2efd0deb788",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Наконец-то что-то вмеянемое для поиска инвестора и контактов. Без таблиц, поисков, комментов под постом \"raise\" и прочей мути. Просто список фондов и партнеров по категориям и стадиям. Пользуйтесь на здоровье.\nhttps://f4.fund/raise",
+      "images": [],
+      "title_en": "",
+      "text_en": "Finally something actually sane for finding an investor and contacts. No spreadsheets, digging around, comments under “raise” posts, and other crap. Just a list of funds and partners by categories and stages. Use it and be happy.\nhttps://f4.fund/raise"
+    },
     {
       "id": 1247,
       "url": "https://t.me/chillhousetech/1247",
@@ -55,14 +66,14 @@
       "id": 1241,
       "url": "https://t.me/chillhousetech/1241",
       "date_utc": "2026-02-18T13:56:58+00:00",
-      "hash": "a786dc14190113e6576a94bd96e338037010bcfb9bdbf17ed93b6cce9e3775df",
+      "hash": "43e06ed5036b417210f1503d887878e68cdb3be33840bcaa1c93f830a39b62ba",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Короче говоря хочу внести чуть ясности в эти раунды. Вот снова в лабу инвестируют топ фонды ярд при оценке 4. И таких вокруг новостей в целом полно. \nЛогика в этом примерно такая:\n- всем фондам которые делают такие раунды нужны проекты типа Google, OpenAI etc. Которые будут определять развитие определенной отрасли. \n- им не интересно зарабатывать из 100м один ярд. И никому из их LP (вкладчики в фонд) тоже. Им продают высокорисковую стратегию и они покупают. \n- большие аи лабы это вполне понятная ставка учитывая что настроение у многих именитых рисерч команд о том, что трансформер не приведет нас к след уровню AI \n- фонды делают все на основе уже пройденного опыта, ага вот в прошлом цикле сработало и сейчас должно, эта идея близка многим людям и хорошо продается \n- иногда важны детали, но редко, обычно выбирают максимально именитую или с кучей референсов амбициозную команду и дают тучу денег, теперь такую контору и не купить то особо, а значит эти умные ребята будут пахать пока не сложится что-то или вернут бабки (всем ок что они сожгли половину это нормальный риск профиль)",
       "images": [
-        "https://cdn4.telesco.pe/file/W9LkG8inbulpm55QKs9-SpZMh0X-eg1dFImxkkaEi4EJd3OocweHJL2j-N4sawvLA7tQ16lhTD43VpjZ_Bszg_2DZX1dNEBcT8mkQa9xKhuygrvBXry5osgdICYsO0H29caQJBk4T-f4CBar0sp3PzhHEyJIXfd6eSpaKplgOLQLTRyUMzi7y95kcafgyncVQrPt-AXcm-7yIVswPrBpZA4vMAkg-i5EjoZDQDlcsibW1OVY8uYyyXn6lFlZuNtzSZmJV3RU9iQrb7dr91F60RqiLrgQ6BqCBIAnAZMQigwuRJra5OLzi1JrbfueePkv9aotA2bE8LhLXHEdpPTlUA.jpg"
+        "https://cdn4.telesco.pe/file/J0lngFpMISCcdrkkiuNz2M5ZpLqxC2kiwg6Gfx0Sreh8ZPRFapEe_ui4gQi77kqyKbdHkPyYUCUpaN-Z7SNQOElVOdP-7K4SGO31m2VbH4z41saqMVYgSqr7gcbMPMkR8w19zoebyGLnlcE0y-7XPnashNm-MkEzbii8j-qPDnQ1C_feQbsUgMrcrAzi0QvB260ZYJtXjPH300wHTT01ZOoWIyQ-9nvk6POYjLYQc_wkFrqkrL8C8Q3yv4EzLy0j2sKs0Ph4-SqCQVN6O9mSW2gZGZniQpQg_AU9gwdZxi3nHQihNlm_U9af2TnwWYPFvL8WaWvXKYgrHAM5qVNqoQ.jpg"
       ],
       "title_en": "",
-      "text_en": "In short I want to add a bit of clarity on these rounds. Here we go again: top funds invest a yard into a lab at a 4 valuation. And in general there’s a ton of news like this floating around.\n\nThe logic is roughly:\n- any fund doing rounds like that needs projects like Google, OpenAI etc. The kind that will define how a whole industry develops.\n- they’re not interested in turning 100m into a yard. And none of their LPs (fund investors) are either. They’re being sold a high-risk strategy and they’re buying it.\n- big AI labs are a pretty understandable bet given that the vibe among a lot of famous research teams is that the transformer won’t take us to the next level of AI\n- funds do everything based on already-lived experience, yeah, it worked last cycle so it should now; this idea is close to a lot of people and sells well\n- sometimes details matter, but rarely; usually they pick the most famous or the super-referenced ambitious team and dump a pile of money on them, now you can’t really buy a company like that anyway, which means these smart guys will grind until something comes together or they return the money (everyone’s fine with them burning half, that’s a normal risk profile)"
+      "text_en": "In short, I want to add a bit of clarity about these rounds. Here we go again: top funds are investing a yard into a lab at a 4 valuation. And overall there’s a ton of this kind of news floating around.\n\nThe logic is roughly this:\n- all the funds doing rounds like this need projects like Google, OpenAI, etc. The kind that will define the development of a certain industry.\n- they’re not interested in turning 100m into a yard. And none of their LPs (fund investors) are either. They’re being sold a high-risk strategy and they’re buying it.\n- big AI labs are a pretty understandable bet given that the vibe among a lot of big-name research teams is that the transformer won’t take us to the next level of AI\n- funds do everything based on already-lived experience, yeah, it worked last cycle so it should now; this idea is close to a lot of people and sells well\n- sometimes details matter, but rarely; usually they pick the most famous or the super ambitious team with a pile of references and give them a shitload of money, now you can’t really buy a shop like that anyway, which means these smart guys will grind until something comes together or they return the money (everyone’s fine with them burning half of it, that’s a normal risk profile)"
     },
     {
       "id": 1240,
@@ -182,15 +193,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "d01443e67a1e43fd20bb1ead820ff602b5ff6554cfd19ed4cfa11bdd4586599b",
+      "hash": "63eeefca52904663fe5e511f13ee02615ecd78aa7a69961274157579b0889240",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/L8yQJCUY-VPC-6RsZTYVpKtkGPw9UUFKRXMJfi2wm-0a_b1YJ4LvE3Bp4_7MZ9W-_C5IL-SI7M_N6wDVg2SLutKT91_iV6cb1_nwRciL--Er8GEhJrp9WqafuBA5QqKMID_O36a_UuZ5q4FtSYytDcecR2KkaGkJor7Sz5gvNPCuK-PDahhDnP3WRq5Nl113h4_DXRRoigSZFwIpd-Gdt8jG4_YapZiAZsu6brefdv6W-iSIHKUj1XRlQoWp0tTDATphuKJa9BkXgix9WCHNmLve3fk39-fWtj52GzNMl0Kop9vnyIArsq-VwMwzWaNwS6sXic5lcd1PUP-0rOdXLQ.jpg",
-        "https://cdn4.telesco.pe/file/Aavfdl3aq8E_iklc1mc0vMjUk9A9bxZi78Q9-AiMW5G03iAyHtgsvzF8RUdZUaA7VZjZXX8Ci6TU6a2W7kRAoby8RPDxC13FL9SYPE7elpTBle2oTVhhxPzBeZVMfuOLkDzhnLyR5xVRi82NMutleu5otdAoBl35cfwgHUR9ZkCr76zXpkfmYg38yrCuPNVIEWN0LbCPKbCkLZNuY8OitY8Vj5ghHLvr2ck6L29wypsSGd2q_hwZHfiTnZwcltmp-GR_12LLChDpGhTmXx8mq7FrSVYbYeUQvBJGxVLxMrd6Vn5UQTUSclLHYbsmpAwhvSBeuAKS-xwgRrhNJCnjWg.jpg"
+        "https://cdn4.telesco.pe/file/eBbK4kynASK29e6hT623_9AsPpYEcw1mqKJYTbDfiF5VcgiZ7p0aJ7WvM09NRx3RCAVeHyQrBFQDqV88150m6LQe_bzXpZbhrClQPKG-f6DmNAW-JEfW1ZO9YWJLxiSn4VurEVfCReg7t3wC3LDd2fHcxzpoXV3Upu7qN57qj3LRLlEAL4M-o-rqisuRpzMn4CJA1z_AHxgGLBCe2DwC8uQXEZzgrvC58ajUNBg-LJrQOU-MKJH5r3XUrAxmE60zW6hb1k_Litfkc2AQj-FDUheIN8fReNpe7QDUhKHp2hqe58qhjdq3hFWWiPb52O7m9KeQyU44mYTdH42BPPIjDg.jpg",
+        "https://cdn4.telesco.pe/file/QmF3wQsB1gfaBYUUjyS8LaYKdhGam7xIWFrQR7lHGtQ4EQvChxnmkke4z5rYHzZlbyS6gV-2DMnuh_uwN447n5H2g7vSaolkN8Gt7ll_HbJ4mZtxfTfZ8YPfkSwckiE2H8YJ_JpyhtXwq9S7VczEeUdGihiiFs57S_csk93B1KmoODBr17RcYIRwsjUi1DVGebapfDEbtzTuaOjq8NDtVFZtC71h3p1yTy_MchIYMpKfYXsuO_BiHBdiRbSu6IDU_8noDmGv6VnE21THSftuYX3ia636IXTuu87JZ1HRP5i9irGi-lxSdlCVuTt2RE3hHTV4gLbHfOl5chXQaEi2Uw.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted the key openings. And probably also went off to Bali."
+      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also took off to Bali."
     },
     {
       "id": 1227,
@@ -218,14 +229,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "af9859164de6d24d0b9a1c158a6d3dd9d585906aaab8826b7ad73dd90e849a08",
+      "hash": "cdadb9bda424f9f3ce59c93dca8f0985231b956db3d1b481de153df55916991a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/keVQLqtul9IcMJpVxJAhjvyy78h_xzZfd0H5zoEIcSMvEuLlbwijNGG67uiCQbq5E9w1cyC02VZO-VUqTUt7qHSwwmycpksjK6eONKC7apvAZP3_jmjZzcnZlH4Mcp3JEMu44sSeVVgfWycYjheb7ChEbgT6JGYdBtrJVHMK7XQyE2Lhlp6CC_XqnoDXDho2aDbKqtDwDDcNfFX6tRYsYtR4iMKmZJhG9lOl0cElMpm39ZE797RVC4WH3ks___LRfDrXJoI_eZf2tf3pKQbi2dDQcb9QXdyjRwVWAH9vHrgn3GWohWUIq1nbseZIL5QJLxshqOHKIs20t3aHcfrGqg.jpg"
+        "https://cdn4.telesco.pe/file/WjNboZtSllRTfsetYMMPauhWVTmxMRpfkCL-yeNpS6kQQ0tfZz4_gyCfvcpWN2oEBOSJ9yP4tbcZbUEuEPUds45N45CaLAlpUilggKZRXhMkNn14D-LInWCjvUP4l2-HBkLaL30MpVhqDM0tiVeQRSPXaPOQucztdWbxsBCTyZZGRZpXFXCGVYrr96yHAxjjmQh7bHQlqO32oUelb8OIIFtoD7dZMyTjR9bS7A0Oe-unQ0zEWjF5DYv0WbYbOy6dbJKdQWXLJyYvwXNZyCEy-SEzfCRGDfLArTo2gG1FD2sycaB5htFUaIY7fXMdtookFS3peF6RJ__E2uoMdh9z7g.jpg"
       ],
       "title_en": "",
-      "text_en": "Even better vibe-coding is gonna be possible then, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— competition’s going hard"
+      "text_en": "Gonna be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— the competition is going hard"
     },
     {
       "id": 1223,
@@ -281,17 +292,6 @@
       "images": [],
       "title_en": "",
       "text_en": "There’s another thing I’ve noticed over a long time, and sometimes I catch myself doing the same too. No matter how I ask a startup founder or someone running their own project — everyone’s doing fucking amazing. Every release is a success. It’s always like, 1-2-3-5-10-100 ARR is just around the corner, like, tomorrow, and next month there’ll be a round, two, three.\n\nI’m curious what kind of effect this creates at scale? Because 90% won’t have rounds and won’t, and will basically never have progress. Why does nobody want to share the real questions? Seems to me one of the main reasons is founder ego being pushed into the public stream. What do you think?"
-    },
-    {
-      "id": 1217,
-      "url": "https://t.me/chillhousetech/1217",
-      "date_utc": "2026-01-30T02:21:06+00:00",
-      "hash": "75b174e887f46e7233f9d29001954887f3f6338824c17f7cefd855db031c4119",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "У нас открылась еще одна позиция, фул тайм - Inference Engineer. Если вы любите извлекать из железа все соки и знакомы с AI/ML чуть дольше чем оно все на хайпе, то оставляйте заявки.\nОписание можно найти тут \nhttps://trymirai.com/inference-engineer\n \nКомпенсация в рынке\nRemote (prefer London or US)\nМед Страховка\nОпционы\nЗа удачный рефер платим\nЕсли вы знаете кому отправить - буду благодарен!",
-      "images": [],
-      "title_en": "",
-      "text_en": "We’ve opened up another role, full-time — Inference Engineer. If you like squeezing every last drop out of hardware and you’ve been around AI/ML a bit longer than just while it’s been hyped, then drop an application.\n\nDescription is here  \nhttps://trymirai.com/inference-engineer\n\nComp is market-rate  \nRemote (prefer London or US)  \nHealth insurance  \nOptions  \nWe pay for a successful referral  \nIf you know who to send it to — I’d appreciate it!"
     }
   ]
 }
