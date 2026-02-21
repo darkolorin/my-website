@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-20T19:07:59Z",
+  "generated_at_utc": "2026-02-21T02:49:44Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1247,
+      "url": "https://t.me/chillhousetech/1247",
+      "date_utc": null,
+      "hash": "e3074222db6fa96efc23c7d6ac38900e435a2ffcf1a5608c9985ae913fe6eb29",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "AI editing back in 2000s",
+      "images": [],
+      "title_en": "",
+      "text_en": "AI editing back in the 2000s"
+    },
     {
       "id": 1246,
       "url": "https://t.me/chillhousetech/1246",
@@ -29,16 +40,16 @@
       "id": 1242,
       "url": "https://t.me/chillhousetech/1242",
       "date_utc": "2026-02-18T20:45:33+00:00",
-      "hash": "92ee8d369cbc0d1efc77e1f7c961e93deb68e23539ab813ed03878616016bb92",
+      "hash": "75d4c42439b998e1617f42520c63bea400b718b8c8b2fe26e8a638d3c21f8a71",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "BBBRRRREAKING: японская компания TOTO, которая делает унитазы, внезапно выяснила, что её инструмент для керамики можно использовать для производства cutting-edge AI чипов.\nРынок — $60B.\nАкции +60% на этой новости.",
       "images": [
-        "https://cdn4.telesco.pe/file/GXyq6GCKH_mW_FvlZVI73i5ZHNS1yDns9mk6DClkDqQtDUFSporpplPZWZ0B4SIASZqwjGh61YKJlcGqRt68b37OygrAijBA0Up9FrgOZn8-WD9U0c32u7z2my8avCOmYdaOCfY0FQPP82oYqPuoT-ZaNpPmxdZzkaPfFl5VzhFi1zmO_TOPAzGOeVosPy6aDc9aexrKeXvDhVvGs3CntethAXJt1wMuuCGHxqyMv-V4hcCsf3LbaCvPcz02tJ_yVY0OB9TbgIIDeps_JjuoZw5_fYmwY5wJWqxBM8YBPx7_f6q0ZM9cj5f_mR-KsZhHyXWV1ds_FVZE0bmzjh1zaw.jpg",
-        "https://cdn4.telesco.pe/file/mYAKYP0F13GxRAEwM_V4v3UfRmgDyq3apVl9LwnfP4JwSeG__41JCsy5SldfPHVMdXevtcLwIFThqbLlyzH3O8iWKk-aA6ASXiRd-IbK8Wx3vsV-HeZyQvVV-AbHpDGTAGN-itqz8hDIjL4LIgW9tj8CU-imlZMYQXziegDTDK6u6VsVjvaewZCXPKmv0w7lBXFF6VroChCxxp9y8DSsteqsLoxffHB9IRXNkaoaQyzvWxtC1pWfoSJLsX-u6T3frkNO_g3cRywsbNwibg2VMePx3s6P_IU47VhtnASZ1EeGu12hhhW6W1LbdLIw-kOB6lC99IX03bznigEL-HrxDg.jpg",
-        "https://cdn4.telesco.pe/file/Ya-pXwNcT-i_71dDl5aOE0M3gVd_--x5nzLOqh_XqI_MTq-njar-tfmgsITi4zUhEIAQDXKGtvFqIPA5A-f6VLbLZtWaqvVtqTjJEoxYuo0tyU5tu4qVQtazu-5EqMH4qdjMNlvCLSOFHYntBSLh8QxW67oeE9X6JDBvjhGMXTZS9JZSLLNvq1SnNnpc-benx6mfJ5aAjz9ZgXAK0OX97riw9osoJAV82SatkCryi21IUdncpiChpDzPrJ7Hp4x9Aqh7Vs_Ym4cg_JSnfK0mGeaItLlIu1wOCKGuLg45D_3Rw_7TsoVaBW4RPpk5lBwArTxC0lVM11KwhKUjX5UVzQ.jpg"
+        "https://cdn4.telesco.pe/file/sMMYkAzujmdsbIg_d_AWqCIfZVlBkmKbA6BEYNxkWAYOwfG6HkRFZWBNLDqVWs9Bi7YSYHi2xY6WlGtrWr62AjTHr6Ru92A9dQgTy6PZXrv6XKF5f067zRIUCPOEHIPMmlyq71re9T9H69weLufcbqV8yAJ0Zn6mtvBNbvFQU2z28brZ2v6tuyYskIC3WUPnPBTq6XsXIFI6WFC5hQ86Mk3fdevfXIuE_Ne4aKamgGQDRFJV4rcfatj6e9YlLxh1EytIcHe7tv_kvybT98L3a2gbCrHs16yW6mfq7Diu1eapEHMre7-KhFtbIUa_yQKTEx56-a9wQDxIjscBUuK7Fw.jpg",
+        "https://cdn4.telesco.pe/file/mySqFe8vSNgKXnXx3A16o4eqJF5FqAH2Gt_aL-I4wBI89zcm8c9gm4CYbMd3S--dR908R9JfmqxjhiqkwNq_oClfpX5M0xD0D6gnJ-07abvy3hIoyRD41hlAImIFGlHDmKbjLX41JcaEMjyjuydUKhYvMmTfIoqs3vYK6fjrnB2mMpOCj9aouEw0GNx5cJqHdD_WbHp6WLeAL4Kbz_2cesf1-UWm5wFrO5PK6mKG312l69NaPsoqqO9mxGZxIKt63TlZLx8zSWWpEmskMoOiUv9uU8fJghQMpNVmZxJIUuXREnnlGSka870872b71_IOqxlT7VKNULwCpbyZBfO96w.jpg",
+        "https://cdn4.telesco.pe/file/uXDEkUgocy8_mfQD5E7ojO9gAZCzmhsOLZHgSmSrwHmvjoLgOMVp8_CjyEhf09U4rCuvkkkQxVK16d3nJaG01oVQ2J7ePhoRRX3GS1iJqwNKYdUZpmFdMsZH6hzrNExnYprKwsbUATExxmYpOwNipd8N3t4czherkbErVSaeBuG0imzCeJKAgLqKC9dPad1OVZXgPmqmyw71GQPe2UqdIZzorFi6YTZp9p9eyNIrhi3MShx4VL3z5YvTNwkQ-C9T3QU7TYQh3mKU9lHdsnoE3GEdG3zsPWvT4No54vcu8bdHDglEnaXd_Ze4N8qxhgKqUUiiHL6snQOUuCcm0FgttA.jpg"
       ],
       "title_en": "",
-      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly figured out its ceramics tool can be used to produce cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
+      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly found out that its ceramics tool can be used to produce cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
     },
     {
       "id": 1241,
@@ -57,14 +68,14 @@
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "2d1c56bd13121424a49357e71678d27fd2b199605ce165416bf5bdabfca4d2d4",
+      "hash": "92670e13115f09e73a4a16518aa9efa0a2cd7a8d132fbe885501fc894e6834eb",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/KBmBgZ3EzXFdgKIjIlcae5ffDxhzKO51RFcNpin8wMJJ3sA7Phc5QLEulQRi2MeGpCRNTDGewD2tMIJMxyIooC330NI9BPgQTo-LYlv483aA_Z-4cyFFqQM68_a1KqnLmFQouusRt_aMtuKeeHl-iQaCoyKUnFaqL41Yn13Qw946HMJH6nKIQkTX3nzkzuMwUmObGzOVMRNKB1LUVCsTUeWuON638fTjXMEp-K2V0CoVhIaPDtVcJEJghEWOUV723H5oP7iR7jv77APNE8kPijtS5IYZchIhGFaT6yr3Fhg04v5ZjQMcgmgLJwuWo5GibiR59W1ol_hNn1eHi6eMmA.jpg"
+        "https://cdn4.telesco.pe/file/jr25hDsjF5DEX9PKJ391r-r8nQ5Thp83IW3OigFa_Dw9Wzm4EI8_t-9hOcMucwL-K75zC446z_eufI4ojdfIz6-LOcbXXgtdIB-t0-aZGQZc7Pg2Usc0ZwEJegP4FQ0tacSwo_N2GxY9YwpXuNZ_J97smA7sYTCGsxFIttlZr8H55A_uLNG_m5j5ReygLs9VyNrE365TqatiiebxCMniuW7uPK1u3S61wrWWyatS3Dh2gViORkLB-Buv4Y1oxArM8NHGh2x_UBt5IzhaKvNwBfG6NcU77TZ6GsUSX8gnkc0XYfyu1IRIVOh8vcfw1UiC9XcwutXZKk7gw_T30wz5xw.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure they don’t have people writing code over there  \nhttps://claude.ai/  \nUPD: they fixed it fast"
+      "text_en": "Now I’m almost sure people over there don’t write code  \nhttps://claude.ai/  \nUPD: they fixed it fast"
     },
     {
       "id": 1239,
@@ -207,14 +218,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "90120ae7eae6b79ebfd5632195890de37b5f38102580c4ae5b965e1caa8f6759",
+      "hash": "6e8f825f68803e6d3cd2f9b222315f8055df8182f654958ce79b19515f14e0ec",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/RYt6lEreKlLZKnyAA1b4bTqI0GOuXjkCLGsJ0tFwbI1SRdbmVANn1xI5MB2CJWUlxqSVu_Si-BR1LycUYQgJzaBOKTBrh0OdxEr2-0Hb56uJjxVvqgKpMZab2vWGFfqDWc5y48IbULogs2xwW09FsIW1mfdfMaOWf9SEI4CmxUncQQ8r94IJ8GGY3sFHMKoK9DLqZWm6iizXvxw-l8oYEM-bbHvCAanuJG4moL5s6wLPRX61lhfv-pVUREiuCs95J9Jc-CUfHtWTrjdQRkE9JIoriwFuv1VmAiYScx7K3d7xvZr4wyqY8xKdazSe4ndnxPqH5-SNpFwv4f1o6M3HmQ.jpg"
+        "https://cdn4.telesco.pe/file/f-6vBSQJBG5ZFfrcXmLKhDBjf-Az9_q6Wa-7mqEvBh1WCQRL6P9dJyJz6GkI3ui63n_lI83kUBOBP6XyBDpuPsYQdLgxZLdE1wdgAMeBGGtFKZy4of8pgyTM8picLMcy3FE90IVNDP20D29C7uM38z6NvtCumw4Ni-SOyINqw9ipjEN-MG_9X8Wrg13RlFh_ZR3Es0IENE2cbNFyywyuTqPUZxChil_LuwM7X2B89Fp0UWxTZB_-Jbts4lF1aYbz597IjD6ug06SaclKZKQdwn2so5dK0cKeBfC8LiSyO7pKYHHXnFWUiJn89FlLX_HinP4wZuxieTndSYfX6CNJSw.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out you’ll be able to vibe-code even better. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nNew Codex  \n— the competition is going hard"
+      "text_en": "So you’ll be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— competition’s going hard"
     },
     {
       "id": 1223,
@@ -281,17 +292,6 @@
       "images": [],
       "title_en": "",
       "text_en": "We’ve opened up another role, full-time — Inference Engineer. If you like squeezing every last drop out of hardware and you’ve been around AI/ML a bit longer than just while it’s been hyped, then drop an application.\n\nDescription is here  \nhttps://trymirai.com/inference-engineer\n\nComp is market-rate  \nRemote (prefer London or US)  \nHealth insurance  \nOptions  \nWe pay for a successful referral  \nIf you know who to send it to — I’d appreciate it!"
-    },
-    {
-      "id": 1216,
-      "url": "https://t.me/chillhousetech/1216",
-      "date_utc": "2026-01-29T22:22:32+00:00",
-      "hash": "d6259efe51e84bf5615a55a5e79505c2dfcadaabfbb8cde42c282ab674199fa3",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Сколько там OpenAI обещал к 2030 году делать в год? А тут вроде вон за \nквартал.\n \nApple today announced financial results for its fiscal 2026 first quarter ended December 27, 2025. The Company posted quarterly revenue of $143.8 billion, up 16 percent year over year.",
-      "images": [],
-      "title_en": "",
-      "text_en": "How much was it that OpenAI promised to be making per year by 2030? And here it’s like, bam, in a quarter.\n\nApple today announced financial results for its fiscal 2026 first quarter ended December 27, 2025. The Company posted quarterly revenue of $143.8 billion, up 16 percent year over year."
     }
   ]
 }
