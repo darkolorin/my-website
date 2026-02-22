@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-22T07:08:17Z",
+  "generated_at_utc": "2026-02-22T13:14:43Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1249,
+      "url": "https://t.me/chillhousetech/1249",
+      "date_utc": null,
+      "hash": "727fb615e56039a45602db31126582a96ba7dfc97704f42facee06c2094ca235",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "YC поможет вашему стартапу, подавайтесь в YC, так же их партнеры",
+      "images": [],
+      "title_en": "",
+      "text_en": "YC will help your startup, apply to YC, same with their partners"
+    },
     {
       "id": 1248,
       "url": "https://t.me/chillhousetech/1248",
@@ -66,14 +77,14 @@
       "id": 1241,
       "url": "https://t.me/chillhousetech/1241",
       "date_utc": "2026-02-18T13:56:58+00:00",
-      "hash": "43e06ed5036b417210f1503d887878e68cdb3be33840bcaa1c93f830a39b62ba",
+      "hash": "2904e7cf902d3167d9765542d656b16e8a29ad2216fb1eee5d036e9b0f211473",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Короче говоря хочу внести чуть ясности в эти раунды. Вот снова в лабу инвестируют топ фонды ярд при оценке 4. И таких вокруг новостей в целом полно. \nЛогика в этом примерно такая:\n- всем фондам которые делают такие раунды нужны проекты типа Google, OpenAI etc. Которые будут определять развитие определенной отрасли. \n- им не интересно зарабатывать из 100м один ярд. И никому из их LP (вкладчики в фонд) тоже. Им продают высокорисковую стратегию и они покупают. \n- большие аи лабы это вполне понятная ставка учитывая что настроение у многих именитых рисерч команд о том, что трансформер не приведет нас к след уровню AI \n- фонды делают все на основе уже пройденного опыта, ага вот в прошлом цикле сработало и сейчас должно, эта идея близка многим людям и хорошо продается \n- иногда важны детали, но редко, обычно выбирают максимально именитую или с кучей референсов амбициозную команду и дают тучу денег, теперь такую контору и не купить то особо, а значит эти умные ребята будут пахать пока не сложится что-то или вернут бабки (всем ок что они сожгли половину это нормальный риск профиль)",
       "images": [
-        "https://cdn4.telesco.pe/file/J0lngFpMISCcdrkkiuNz2M5ZpLqxC2kiwg6Gfx0Sreh8ZPRFapEe_ui4gQi77kqyKbdHkPyYUCUpaN-Z7SNQOElVOdP-7K4SGO31m2VbH4z41saqMVYgSqr7gcbMPMkR8w19zoebyGLnlcE0y-7XPnashNm-MkEzbii8j-qPDnQ1C_feQbsUgMrcrAzi0QvB260ZYJtXjPH300wHTT01ZOoWIyQ-9nvk6POYjLYQc_wkFrqkrL8C8Q3yv4EzLy0j2sKs0Ph4-SqCQVN6O9mSW2gZGZniQpQg_AU9gwdZxi3nHQihNlm_U9af2TnwWYPFvL8WaWvXKYgrHAM5qVNqoQ.jpg"
+        "https://cdn4.telesco.pe/file/tt37Ot790TBxoPij6KsdFg5PpJ0H7M2Y_XSzcyNKIDNx5vZrB85fFZINCuBXN10p_cDzNC214cImYIA1D4PT8yJdEqtDqUcUGnZKKS2bNlYwAag2n6kSemLsuGHeCWYbgBV1LfanUlAcvU6HkZJYOHsopOu77mCYnSe4c0YAcasAeD9rN3tFmfdQ2kiOTeRV-2l0DJpwnQ5HP31ct33P6R7SkVGZXL90ZVy0dyYH5mtGN3y0Uo20pFp7fQl6dDfKImExZB1CUi9Ty6B4NHei11KAjj8FWlZuUKSRYAGRSqxmmEZNwM90oKccWyqU1m6KltiIDMgl6tqqAV4IB84cdA.jpg"
       ],
       "title_en": "",
-      "text_en": "In short, I want to add a bit of clarity about these rounds. Here we go again: top funds are investing a yard into a lab at a 4 valuation. And overall there’s a ton of this kind of news floating around.\n\nThe logic is roughly this:\n- all the funds doing rounds like this need projects like Google, OpenAI, etc. The kind that will define the development of a certain industry.\n- they’re not interested in turning 100m into a yard. And none of their LPs (fund investors) are either. They’re being sold a high-risk strategy and they’re buying it.\n- big AI labs are a pretty understandable bet given that the vibe among a lot of big-name research teams is that the transformer won’t take us to the next level of AI\n- funds do everything based on already-lived experience, yeah, it worked last cycle so it should now; this idea is close to a lot of people and sells well\n- sometimes details matter, but rarely; usually they pick the most famous or the super ambitious team with a pile of references and give them a shitload of money, now you can’t really buy a shop like that anyway, which means these smart guys will grind until something comes together or they return the money (everyone’s fine with them burning half of it, that’s a normal risk profile)"
+      "text_en": "In short, I want to add a bit of clarity to these rounds. Here we go again: top funds are investing a yard into a lab at a valuation of 4. And in general the news is full of this kind of stuff.\n\nThe logic is roughly this:\n- all the funds doing rounds like this need projects like Google, OpenAI etc. The ones that will define the development of a given industry.\n- they’re not interested in turning 100m into a yard. And none of their LPs (fund investors) are either. They’re sold a high-risk strategy and they buy it.\n- big AI labs are a pretty understandable bet given that the vibe among a lot of big-name research teams is that the transformer won’t get us to the next level of AI\n- funds do everything based on already-lived experience, yeah, like “it worked last cycle so it should now,” this idea is close to a lot of people and sells well\n- sometimes details matter, but rarely; usually they pick the most famous or the most ambitious team with a ton of references and give them a pile of money, now you can’t really buy that kind of shop anyway, which means these smart guys will grind until something comes together or they give the money back (everyone’s fine with them burning half of it, that’s a normal risk profile)"
     },
     {
       "id": 1240,
@@ -193,15 +204,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "63eeefca52904663fe5e511f13ee02615ecd78aa7a69961274157579b0889240",
+      "hash": "84ff6a6cf09502e143534d4ade4ed3019f47d07d7bf089f4b8c0b97361d4fe6f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/eBbK4kynASK29e6hT623_9AsPpYEcw1mqKJYTbDfiF5VcgiZ7p0aJ7WvM09NRx3RCAVeHyQrBFQDqV88150m6LQe_bzXpZbhrClQPKG-f6DmNAW-JEfW1ZO9YWJLxiSn4VurEVfCReg7t3wC3LDd2fHcxzpoXV3Upu7qN57qj3LRLlEAL4M-o-rqisuRpzMn4CJA1z_AHxgGLBCe2DwC8uQXEZzgrvC58ajUNBg-LJrQOU-MKJH5r3XUrAxmE60zW6hb1k_Litfkc2AQj-FDUheIN8fReNpe7QDUhKHp2hqe58qhjdq3hFWWiPb52O7m9KeQyU44mYTdH42BPPIjDg.jpg",
-        "https://cdn4.telesco.pe/file/QmF3wQsB1gfaBYUUjyS8LaYKdhGam7xIWFrQR7lHGtQ4EQvChxnmkke4z5rYHzZlbyS6gV-2DMnuh_uwN447n5H2g7vSaolkN8Gt7ll_HbJ4mZtxfTfZ8YPfkSwckiE2H8YJ_JpyhtXwq9S7VczEeUdGihiiFs57S_csk93B1KmoODBr17RcYIRwsjUi1DVGebapfDEbtzTuaOjq8NDtVFZtC71h3p1yTy_MchIYMpKfYXsuO_BiHBdiRbSu6IDU_8noDmGv6VnE21THSftuYX3ia636IXTuu87JZ1HRP5i9irGi-lxSdlCVuTt2RE3hHTV4gLbHfOl5chXQaEi2Uw.jpg"
+        "https://cdn4.telesco.pe/file/DdYgrX32QCZk4QUcN7z8cgWqhfSsj1esh5gOxpOsrGkggN-1RAqhRyx-b41Gl7CQRC-Xrhmpv2V0kRRVCKPqYtWNiYTS8Ryx72LQhnf9547T34TitfiSL4PyoWRZvHmSLQVMMXZe8Wy7r8T0zY7kjcLD43COcHrVGTIeKk4EWt-KqwuLYbhKvfalEmobYeFWu6STtnvVBoMSYTNI6Pkr1-xA7Vz6sgA_AntKDSK8B3rzr8FkvrY5SVzMmwFafHLpr0GkHana_Y9UDunmalgSKFTxj-RhFN10ASed7-qFnu26gUTzM248kd91Aa2ypUj2DxpOfmEhpU48yfG4J-7MYQ.jpg",
+        "https://cdn4.telesco.pe/file/DKJHpR4zWLqdY1anE1Gi-v0JWcidMqVcB12g0WaH1pt7hFL4qcBhxuJjO1saX9E_2uVnOXkw2os1fSQpEl_wODLgB3-v1NQMOCG2Rb4gB-CnGE-qXF3B1BMjFZpPMQt6RvrxvZwfXpv6pkxPia4140Pk9Dt2d_GuQ6CmlhHjG7iY2fWcbqDtuZpGNHrcNvJJ-2DvymbAQA8z20aZlmwoO4lu8uJJWPqmNbM5FMgYfftewG6gNK-SE8-md6_Wy2SqvSgl-izZXK_HtqKAcsYj4tBvl5L-yI_eskV6Lm9jvAj5r34QiJP4Ul_fbJlTjHghhDlgq6J-B26yi7HXur3QOQ.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also took off to Bali."
+      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also went to Bali."
     },
     {
       "id": 1227,
@@ -229,14 +240,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "194168982c2ad3f95736a304d9a3d606ced0ac755a6ce6ddb53f822a29efcac4",
+      "hash": "dcd7ab85d3549f6c148b1b83b85b5b62d71904f55e2062d31540bbc761056c2d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/uRyFa09CKBzQVyaXVb0gBlSJWfTUEj5THBikZNDDqynMNF2T6hjDyqN3DJ90_CkyRaj3wEU9vXJ8Sun3iWPNZT5LwDZVSNHzwY3eu4P3unYPH72nkhfwPTYZ_SuWkpOtJQpPJ15Z2TmpBsXauWiDVljGO30Qj6Wqa-8bByKRA1FIlpGunJlm5Al7OPO-pnmI8Ln1GNomjOHfB2V6swvxhkX5ajqg0trX9cGXVeNj-ZLVE3paLGRzFWdWBNzsWhXqSVpvUeovGAfNyohajVQ_x8FSMdM_2m4QxjNuEeh4z_zH5xlHWJgaKViLFIMQpAKoKmA-cE4P943_9xIdgfj40g.jpg"
+        "https://cdn4.telesco.pe/file/J1aiZpRrS6LM4NYzBmWcPaQ0EuGpjzWg5VKUf7tYPuXex8Om_oK_by_yNIaX7oXSkm1b655F-VO_heggj14_VNBZ84jRFpDYg5YhGLavME7say6sDdALQ59hdsOI6gNd58b2wRwmNv8PvaOUB2gskgA_j99HhThdzD4c0I5XU_ajCt9ZzT7ulkFig4C2hWCrVjJajt0Ja5-inovgfJj1fH0_4hxmbd6s09F5NtmWK-0vYVwS6Iy86shqt7ZUnaQXZu3Q6BURU2EVvt-yVYCiAdAsRGT0YzwkJqotv0Ed-wJRbfOL3L0m7lewmOlhqKPE2mHlaIfvSQDPlXddPiymmA.jpg"
       ],
       "title_en": "",
-      "text_en": "Gonna be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s getting brutal"
+      "text_en": "Even better, you’ll be able to vibe-code, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— the competition is going hard"
     },
     {
       "id": 1223,
@@ -281,17 +292,6 @@
       "images": [],
       "title_en": "",
       "text_en": "There are a lot of business dudes who apparently missed the whole point of consumer products like 10 years ago and got hooked on trafflo. So here are a few important details:\n\n• AI will mass-produce the kind of hacky “products” that, in the creators’ heads, are supposedly needed by someone, which will make the value of an actual product idea even higher. Roughly speaking, making something that someone actually needs will get harder. That’s basically the base.\n\n• Next, the crowd is yelling like ads will run the show and the main thing is to know marketing. Well yeah, your marketing in the form of UA is obviously important. But it’s a multiplier on the base. Doesn’t matter how good you are if you’re multiplying zero. In other words, the product still has to retain and do its job.\n\n• AI, like I said, replaces a lot of stuff where you used to need pretty mediocre skills. For a good product, by itself, it’s not enough yet.\n\n• All the trafflo geniuses, with faster validation of trash hypotheses, will go en masse to pour traffic. Remember hypercasual games: made it fast and kinda poured. Now it’ll be like that with products that are more complex by nature. Competition will go up, traffic prices will skyrocket, and like with the hypercasual model, the whole thing will die.\n\nI recommend:\nAndrew Chen on marketing\nFirst Steps in Product by Scott Belsky\n(one article is free, I think)"
-    },
-    {
-      "id": 1219,
-      "url": "https://t.me/chillhousetech/1219",
-      "date_utc": "2026-02-01T17:33:36+00:00",
-      "hash": "4e264719c448eb1157ec80f4e6e23abf416298e695f4194bb38ae784a96f7819",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Есть еще такое наблюдение за долгое время, даже за собой порой тоже наблюдаю схожее. Как ни спрошу фаундера стартапа или своего проекта - у всех все супер офигенно. Что не релиз, то успех. Всегда вот вот будет 1-2-3-5-10-100 ARR, вот вот завтра, в следующем месяце будет раунд, два, три.\nМне интересно какой эффект это создает на масштабе? Ведь у 90% нет и не будет раундов, и не будет прогресса почти никогда. Почему никто не хочет поделиться реальными вопросами. Мне кажется одна из основных причин это эго фаундера направленное на публичное русло. А вы как думаете?",
-      "images": [],
-      "title_en": "",
-      "text_en": "There’s another thing I’ve noticed over a long time, and sometimes I catch myself doing the same too. No matter how I ask a startup founder or someone running their own project — everyone’s doing fucking amazing. Every release is a success. It’s always like, 1-2-3-5-10-100 ARR is just around the corner, like, tomorrow, and next month there’ll be a round, two, three.\n\nI’m curious what kind of effect this creates at scale? Because 90% won’t have rounds and won’t, and will basically never have progress. Why does nobody want to share the real questions? Seems to me one of the main reasons is founder ego being pushed into the public stream. What do you think?"
     }
   ]
 }
