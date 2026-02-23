@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-23T13:43:53Z",
+  "generated_at_utc": "2026-02-23T19:33:32Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1250,
+      "url": "https://t.me/chillhousetech/1250",
+      "date_utc": "2026-02-23T15:23:00+00:00",
+      "hash": "75e8bf66fc75df48c614111b5b4397dfa1c7d691c6d360fb51edb7f2e212dee2",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Новая вакансия у нас \nhttps://trymirai.com/careers/machine-learning-engineer\nТак же на инференс всегда открыты к новым людям \nhttps://trymirai.com/careers/inference-engineer",
+      "images": [],
+      "title_en": "",
+      "text_en": "New opening with us  \nhttps://trymirai.com/careers/machine-learning-engineer  \nAlso for inference we’re always open to new people  \nhttps://trymirai.com/careers/inference-engineer"
+    },
     {
       "id": 1249,
       "url": "https://t.me/chillhousetech/1249",
@@ -204,15 +215,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "6c5bb2aaa03342a814a3484bd8a1fefd02f197b1d910f23ddf5c2cce9c8e4a81",
+      "hash": "423596afe2cd04a42044fbe198f40cee91e8e6a4892e3bf0228cfd01d6cc18b2",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/UIBvrLDwGp-5QkGXaOx23TjngBAkQJ5oYyhuW2TZ4dc217L9ZaPiiSj4WXz-Qtq99mDq7gS8ZjZDsSgGkcQSxy4I1DPCCbV68-C1oodQk8A9T8xC682Fypftj_EDJpahovVmUZIGWCxq7hB6l4NwHajYi_MRr8rLyd8gGpbcNjICK9Cv7EE_NIj6rw2lg-5JBLuUDyrID22SWv36mC7WmcyabmJJuJsxTrH_SjAIhPVpehmBcG067AmkgZcuLhK5NwLvqDbTQsVLeIVK2LroSmv15Y_Nn-bKgECpDaB-5W8GVXrNqNfm7s-5A_fWWS6frKUK71m6Bu7pTWeObWYuSQ.jpg",
-        "https://cdn4.telesco.pe/file/orntg7R-JI7CQxJRq1Bg5hcLOnUGINMLhxHVnzNcXOmWU0_MzRyNvH-9sEooHj51PYmjRUTscoD1mBrkMszz44XF9SLA8WHA_BVaVtjDHuYF8wxotgIquL1AFaOpI-gnQw2vFGd-yIE4j-dRGORwudCbP9ZUZlMhwnf0JEBlcNzh8G98fiKuWeQd0tPgcN-nRkgV2Kvy0745OLt3YYuQPS1RpwraiOWtwyxjF0rwA0JFO6XJSpKSGV3YxlB1k35WhWxh-njwkdNZMFP8zlCa1SZZhXPEOESru7Qi8X8ltmIsUafFnc6TRIGZSkp8Km3jlJOayftmevwUG-OvDg_Klw.jpg"
+        "https://cdn4.telesco.pe/file/JTjSarJAqXtdUAlKKzlgxGD6DzoFWj9xXSXgkmLfj_HLgz1RN9g3hDjgqwJae0UL3lQNpkaanw-23_Abim22mu0Gwdyoyw5AxfEYg_EfNuLIdk7uMyEG-yztN5f7eQQIW0znqLCqmWePF6W0LefWgXeZYb-GT3ACaUxKwdwAOm2P5hqaedC9O16TJe4G_lXg9x9EQIpfEsh_wXIebHxC0vvCW3YdM4z24etZ1fzebx_xMAEJnMpxj5Bt7R25XLPLYqSdrRIoR2u24HoP-RxRXaAbe3861mLZ370ZRtRPzmedVH18D5lQtz9--hICjWM_l8ZEvaLTCfAUhm5ilYXGOg.jpg",
+        "https://cdn4.telesco.pe/file/CPntlgN7Bcle209YMvpT1tB8Jaqvfb88MXZ5CekK5pkmT91plQV0Kd6pDFPHSd4M60f9ay7uAniZcRhy1FYH7-dI0jXMatgnZ7scm_UmY9rr6oF211QfXBjRbaPs4zF9fhuG7zBcifX7JInaMq47rTJFXHXoicEO6-UZOb6IKACdv0bCgcR9FJjc4IWZ9Kd849gzN751W59ytXZV7e0NwdrwbUTKS3zkJxGZCwVu15gfwx_ArnSTTu0EF0gAoV1VrP4pp2Ng16gg5bg8eiAmGuxV79U0kkWchgkVQl01OHVcinX88cK0cSnShQrnIi8aPwgdzzEXp__tJAy87rngVA.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted the key openings. And probably also jetted off to Bali."
+      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also flew off to Bali."
     },
     {
       "id": 1227,
@@ -240,14 +251,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "582c7df475451434917087c9d527d027a69d65d84eb1ceb7ac27b71967d0c37e",
+      "hash": "6615a59690fa4c87cf4fe091807ebc507b8f9dd0c1f8f13d8f06f4be378f9e41",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/cph06-3XJFtmlqPiwVVKc5lHmQdKsm1xUvTgkJOMlE_8446CCjrfiuMHCTHcL1xtHFC1aFiZPbQ3FiyxtSwPWnuioh4ohjBFwu5zeJlF25MJSm0q5I2eYWvuoi7H7S6Rhy8k84sEUkmvrUoLUNRy-pD4h9Trm3U4sGq6eKqHtHk3x-uoVBywmF8OfdmbAFKRA0djUPN6jUsEpfuVtwZam8Tx7tbUeP-m4a4B2HKfEbLicr42wO2xGMthGXM8Shh1RzOiJkOzP-Wou3ITJ1frRwMoTsD_K62ZTeHJDXfHJZqX43efMdBlA3SaYpxPTryMHUeieMd4Br_CoT05-d6PcQ.jpg"
+        "https://cdn4.telesco.pe/file/txXmLvbTANQ4M5YfWk6UrpjXQ1N5w02osIJ5pEhQDdkDeUY-IEqRy5iCF-yGvVEjQRWNDKk3ONjUeAdIQSYUykeuwDpvI-6CBVVC9Z_nchjBmrc-exGXS6NSwOBvwc-blT8uZFjY1vOpVolOVvFJXxUxpE7ojJaGrfqehGDVM3-nIdWSLM3z1NqlbHpCJKP3AzwnZ6VwJk7anByR2wAnqs6iq06bswYeUiSnzXrcKivebiGz86Jl8ZbuaXIyTmbaULlaEkwZ-IjKdeSNf9GzLcrZ0edR4jb3pO9JEfexiPNbeQeAryhcimjCko81OtG66Id4R6bZ6Sk_sEWNdoycBA.jpg"
       ],
       "title_en": "",
-      "text_en": "So it turns out you’ll be able to vibe-code even better. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
+      "text_en": "So you’ll be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— the competition is going hard"
     },
     {
       "id": 1223,
@@ -281,17 +292,6 @@
       "images": [],
       "title_en": "",
       "text_en": "For anyone interested in what they’re looking for at YC in the new Spring 2026 batch."
-    },
-    {
-      "id": 1220,
-      "url": "https://t.me/chillhousetech/1220",
-      "date_utc": "2026-02-02T08:43:18+00:00",
-      "hash": "d3d0907e1d11c63bf17b738f2dd2015dd9e6485490e9e8000f713a2fee66126b",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Есть много бизнес челов, которые видимо упустили суть consumer продуктов где-то лет 10 назад и упоролись в трафло. Так вот несколько важных деталей:\n• AI сделает массовым поделки, которые в основном по идее создателей кому-то нужны, что сделает ценность продуктовой идеи еще выше. Грубо говоря, создать что-то кому-то нужное станет сложнее. Это как бы база.\n• Дальше, толпа орет мол реклама будет рулить и главное уметь в маркетинг. Ну так вот, маркетинг ваш в виде UA это конечно же важно. Но это как множитель к базе. Не важно насколько вы хороши если умножаете ноль. Другими словами продукт оказывается должен удерживать и выполнять свои задачи.\n• AI как и говорил замена многим вещам, где раньше требовались достаточно посредственные скилы. Пока на хороший продукт его не хватает самого по себе.\n• Все гении трафла с ростом скорости проверки треш гипотез пойдут массово заливать траффик. Помните hypercasual игры, быстро сделал и типа налил. Вот сейчас так будет с более сложными по сути продуктами. Конкуренция возрастет, цена на траффик взлетит, как и модель гиперкэжуал тема подохнет.\nСоветую \nЭндрю Чен про маркетинг\nПервые шаги в продукте от Скотта Бельски\n (одна статья бесплатно вроде)",
-      "images": [],
-      "title_en": "",
-      "text_en": "There are a lot of business dudes who apparently missed the whole point of consumer products like 10 years ago and got hooked on trafflo. So here are a few important details:\n\n• AI will mass-produce the kind of hacky “products” that, in the creators’ heads, are supposedly needed by someone, which will make the value of an actual product idea even higher. Roughly speaking, making something that someone actually needs will get harder. That’s basically the base.\n\n• Next, the crowd is yelling like ads will run the show and the main thing is to know marketing. Well yeah, your marketing in the form of UA is obviously important. But it’s a multiplier on the base. Doesn’t matter how good you are if you’re multiplying zero. In other words, the product still has to retain and do its job.\n\n• AI, like I said, replaces a lot of stuff where you used to need pretty mediocre skills. For a good product, by itself, it’s not enough yet.\n\n• All the trafflo geniuses, with faster validation of trash hypotheses, will go en masse to pour traffic. Remember hypercasual games: made it fast and kinda poured. Now it’ll be like that with products that are more complex by nature. Competition will go up, traffic prices will skyrocket, and like with the hypercasual model, the whole thing will die.\n\nI recommend:\nAndrew Chen on marketing\nFirst Steps in Product by Scott Belsky\n(one article is free, I think)"
     }
   ]
 }
