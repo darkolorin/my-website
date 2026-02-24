@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-24T13:45:46Z",
+  "generated_at_utc": "2026-02-24T19:19:58Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1251,
+      "url": "https://t.me/chillhousetech/1251",
+      "date_utc": "2026-02-24T14:54:28+00:00",
+      "hash": "183aefd5d4e2de07b84d67b0a169c315b59e22cb67e1eef4b494d42dd9d6efea",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Вышел достаточно хороший обзор того, что сейчас любят делать большие лабы: а именно смотреть на большие задачи в кодинге и горизонт исполнения. \nМое мнение что качество исполнения так же важно как и горизонт, и одно без другого не имеет смысла. \ntldr: как и ожидалось кодинг агенты хороши на том на чем их учили, и ничего нового сделать не могут. Идей и решения текущих проблем нет. \nПодробнее",
+      "images": [],
+      "title_en": "",
+      "text_en": "A pretty good overview came out of what big labs like doing these days: namely, looking at big tasks in coding and the execution horizon.  \nMy take is that quality of execution is just as important as the horizon, and one without the other is pointless.  \ntldr: as expected, coding agents are good at what they were trained on, and can’t do anything new. No ideas and no solutions to current problems.  \nMore details"
+    },
     {
       "id": 1250,
       "url": "https://t.me/chillhousetech/1250",
@@ -215,15 +226,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "5fa34fe3696be5002dc74f3274284598630fe9fbc3ed3f1c380557f725d82073",
+      "hash": "aa1c0b2b0207c976a428c541cf2b5c88f5c6c4bc92d08c6e6f5a758a77a785fe",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/vtjPivg65cUPrk9ZT5Fnt9kyj33OQ-i7gqbU8mVu4cq4Ux9dm0YJD5WhfwmctTdstTJJyeyXzD_t3auBf5bbdKc5guxyk5UIYl_QsUbvX0Yr9ISXyLa2wSQm8JJ2nS_zLWTgjOYc9VaJd-ajauoP9XufUteyJOW71wMmGxSS29wpJxA4X-6fZGkO0C6MYvKmP3X-n4Z2EzVpeFZcBU4C1QXJdmM76GFvrez_1UAxw1jYU7SJB4bqyh5AtTNEmm0Ey2b5Ew7J6Nc-d8YzckX2wQr9NEoNPQLMynJoxGpK3hywNll08v5qhX7S6H8vnN_d8tuDXl9fH_wfM48FmT4_1A.jpg",
-        "https://cdn4.telesco.pe/file/s3Sgyw5Cx4EJBp9wvFrcxAAg2Uj8abANbBb9Klw27SUI_mIB2PB-JjUTFSRN_s5Tgxan91o23uV9mbWRuNpp5jT82xWqhTMEQtbWd886NUV59pPhF5r-0fkKrkE-30Oqd6d8j8RO3_0bfiRHJ5cNZ6e0ieT6Us1626W5zSi4ucKD7mgpMEKkOPUvueyR-0odIskQONJiQjNGq8q22r-k4X5cSHZPdtR1ccCck-xQ-JiFL112WJxbcrMYLP_3ed2uEUoQK7MpXikg4g4j0f7CXxfmvnkJp5EUlJITgtpXWW39NuZNAxiifq2Q0D_bvwk0vlhGQ13iUiwP7FoFaX_-sA.jpg"
+        "https://cdn4.telesco.pe/file/G0YGmsu7TZSKFjBSveXNFKJ5Q8YPS4D6ySklqxw9b2CR7ofFSwzEBCgIr6TlTgW96sJUrkLkOXqI7vEXRPAurHPC9JEdfCIlANq3wjPTw4cXwbu4Dc6fXZRqV9lGEVxlnjTlFU1sTyt6efwx7pjvmmVlpqOjFQjimZon7qbk04iF6o_c_XslaMqGnpwEPucWsM9XVP7GJsoaply1NLSdXIcIbHRWHYZ6p2ILdageDS4AsA3hGr3bzgMTuTH07nH1pE5-EyY5JW2Op8HsZWfgV7LsRjwEu7KQF5jBzdT7KCFOWfHppcvipS7Cdt9qbh42OuZsB-T08_hHmswB4T3rCQ.jpg",
+        "https://cdn4.telesco.pe/file/eTPOtN2sS7QUK9iip2mc0DC5LnFaktWCG0TWVAjXjA5Q0HG2N7W32GeBvy3OkcEgfWZurqYmMXekKr8yuQHVr6oRHHqUhOJcHg6SOlIH_V9678tqhBmLNlfc0SVVJ6vkqapyzYfCPKaAjJ7mnDkp-ZnUnjFJFaJlTtTJyfi2AIeUkvCO6v7ki7xwC159KITleNAXGmvRI4p4nVqD-oI7ca3f7iGuVfXQD2BA3IGfosNd_R4XWYnlqdfKXWwnIWY8yw-7Lg-XcVTiPP0nMRwKN1jyNQRiD8-KJ48fSJPsFRQ2des2qCyNa9d4YqeqxYqYItMFVwiPQKEdaCq3u8UntQ.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted those “key” openings. And probably also went off to Bali."
+      "text_en": "When you’ve raised a round and immediately posted the key openings. And probably also jetted off to Bali."
     },
     {
       "id": 1227,
@@ -251,14 +262,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "c0a2116af65bf3cf91b1da0961f46c1f7c1ef84da690f2d0bead6f2dac53cf0b",
+      "hash": "49afb36e59f00f6d5760bef3951aa07cdb0ab96206b9ce7ab158c377caaa75ea",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/gX_l0NgVMurdJ_33wm2zqx45Z7hMdOWPABYSPQEAfVI5xsSYsaFkxyyDBPwKTpuW1nPy5wS5mcGxevfuYXYKpYpouppNiN6A_hhecXjOcyn6xG-2-KECFJ3ZTBPOPUvXWadhbpdOK23iV4kPHlYpxisxMlJfwQhemPvPgNQOMH1n_1X2AmQRo3y2z-69bO5bk55K1KBIlKyZp6eGGKc8Jm04BfohzWYbRfI6z7dxE0uApBEa81DfcQzp9M-aTahmW_x1CSuizY-JT7XcpZ0PLIGh4IU4QJDu437J4oCKxgJcVPiNZiAbbJevpbtnq5s9iA2QHGXsxfAzO2fL0u2MXw.jpg"
+        "https://cdn4.telesco.pe/file/dOz3EzG3LuAhHmZXzlnLtrt7IsuOjuSOfyFDR695u4yQdrdkl4msecR5NqyNsO7kGIVrCdzdiYdfDh3fHo-gR9qNHrOScUgcvvrOsHf0_hABJIjwrMN5i4kKMwzympyxseRxfXfruTdbx0l9q8zxxd_rGiCuOyzJS_uwDqZSzZM_SFYqoCuZHRo34XLklMTbz1tBIeA6K-HFz13UUNKw_96__LXvq_l_tJngmroX8jaYyClG-5ObAKM7NAoR9hTaUmfLjvgeHL6WfYJgTgcbLQ90Wm1kFPudT0TMYJZSwssF454GkGiEoaBZACCgKT7Az8BigiMVJyTNLC9t0yzL4A.jpg"
       ],
       "title_en": "",
-      "text_en": "Gonna be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— competition’s going hard"
+      "text_en": "Even better vibe-coding will be possible, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nnew Codex  \n— competition’s going hard"
     },
     {
       "id": 1223,
@@ -281,17 +292,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Anthropic dropped 4 insanely cool ads on the Superbowl. Monument to the agency please, that made this.\nSammy got butthurt and fired back on Twitter.\nAds are here\n (three more on their channel — recommend all of them)"
-    },
-    {
-      "id": 1221,
-      "url": "https://t.me/chillhousetech/1221",
-      "date_utc": "2026-02-03T07:06:17+00:00",
-      "hash": "e75428a355961bf7709f8a22c266c3694983ff5b9fccd2c3dca6aec66899dd88",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Всем интересующимся, что ищут в YC в новом сезоне Spring 2026.",
-      "images": [],
-      "title_en": "",
-      "text_en": "For anyone interested in what they’re looking for at YC in the new Spring 2026 batch."
     }
   ]
 }
