@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-25T19:22:00Z",
+  "generated_at_utc": "2026-02-26T03:12:48Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1253,
+      "url": "https://t.me/chillhousetech/1253",
+      "date_utc": "2026-02-25T19:49:16+00:00",
+      "hash": "9d1b14df417b5c320db8d574212ef055cce717a5322e634c9fca3186520e08ab",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Одна из моих теорий почему openclaw и прочие так хайпанули, помимо того что модели хорошие в начале года запустили, так это то, что каждый почувствовал себя руководителем. Все же хотели себе нанять ассистента и давать ему указания.",
+      "images": [],
+      "title_en": "",
+      "text_en": "One of my theories why openclaw and the rest blew up so hard, besides the fact that they launched good models at the start of the year, is that everyone got to feel like a manager. Everyone wanted to hire themselves an assistant and give them orders."
+    },
     {
       "id": 1251,
       "url": "https://t.me/chillhousetech/1251",
@@ -112,14 +123,14 @@
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "aadbf95f4cb7837d1a9e5be8a4b82528214c0af246711ba5db569885b604e49e",
+      "hash": "03d65d5164ede476aaa56129d3f83ad9262c85ab9b266e4bfe294b76585892b2",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/FuGamEiI4K35ge2XGOegaJ1QjA61qBFpCKla4Ilq5Zru5-HzddhotAvjKFF5Ac0Hpi94UeVB62rTLwLV2KfjPwEwMRD0myaTwKuIyvF-Hm346C1m43YO9OhPsNyjT9EhOxW4vAWOYwIOGAVArUBiAtPfyV5ndmwAm82IF4GPqLua9U80FWjOY2VIR_eFM0UacDLq2uEjcpkr3XgVfUm9BIMKlLVsvqE7DZFg5GssGzJOyy4ii4kdC5refkVVa-hZcKMyfad8cVqPjype8xzg1YDK5wwkIqNJxTGF9LMyXUY9bHA-XYz7hCzrtPjFf5RoyVnKMzx8V56QkBaHMv-1Eg.jpg"
+        "https://cdn4.telesco.pe/file/n5QHrLUcsHUPuA4HLKR9eCUv_nq3vzshirY08OEQaSyVIDFkcCkwchhENc8UuVppVaW5PGi79aCubBaDX8SoKNqstEp5Ha9ljyS0qe2LZgfyoD6fh_1YzDptfR8wRHaMYcyel8yCpaiKFgesS_NiY_lgL7knhE2QCa9mxyKGZ3WQKDKKt9ocYkDNjEoL1qKt94AK4TgD8yiiIrrdADuRE6AQTC5be3XxHKS6dKnE47EqpYlbxyxDKPZ3imHNUSabhDGT3shGhtdvGLucK0XYw792JUuZTTSLFa5H3U3QRQN9B7EBRFql4mwz1i988j0uixC2SDLcLfuDOVLifgWUcQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure no one there writes code  \nhttps://claude.ai/  \nUPD: fixed it fast"
+      "text_en": "Now I’m almost sure nobody there writes code  \nhttps://claude.ai/  \nUPD: they fixed it fast"
     },
     {
       "id": 1239,
@@ -226,15 +237,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "d873327622e7aeb75ab6a2b5520d9a7d3b7a6a9857a07ade84332d6dca678bbf",
+      "hash": "4ffa240abd35ac2b6d1b217333495d866813f5f142b0c2c9a05a1790f12b5c10",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/fwEaiyx2SAvWP8uPSD2-VkZPN7OFOe_6R6q1SYs6PZhwaCGaPovsJySWaJnpyT6-R8t8mxsc9cuYma4nDlOYINgnCYBV51SOJonboNvTiID2_Rv2Gy2Hvwt7lxrlhvV_arEp82LbLu03mV_X-DKN-KBjQFfdmGP-L94JM9Dexpu9ERnSarbi2KObHtBFDUx5oNKNoH0Hs8_v3MhuTtAwn_HlIXWThpzy0k4ElIu_e7h0HaJf6FT2nXJbipReqL2Cr6gzc76RnzjHksnguX6wXcPLEtCjvJmPrFr1anOn5DeIfJEpoIbh1nUhNNhsCapjO8VnxNJwJJZoFmOiJinkrA.jpg",
-        "https://cdn4.telesco.pe/file/Hb3idhJhKxUpRXkvflzxn1oaKMxPSnmyJ9D1tFqUuY9lBjALHdp9JFQsvkau73Ku9ryf_fFZs9hSEmZFUVeVTwW4iNE1E83oWcRx7sSFoinCXqO8xp3XXOQw4yCY4NHNfAjmQNF3KWMvkSB3svxW5vWsy_zwedbOLTc8UmX3rXrUt-5hhGYSE7DJZglE4pOsJqshztD_WqNQgQ_1qDLMBItw8wbyW8xnnHlAHXuNiaEi0wji6lJr0-__Q374emltRhvQDGy4B8btT8Ol1ebDh6ZnUH5-CQMVqMkA55JkX3GrDjUOr4ZbELXuskt8OTNFgxIg2p5evnNbXr3CS2TOXw.jpg"
+        "https://cdn4.telesco.pe/file/d-a6zX3hvwOBP1nM7THdl3IeT9pJelzXP9mqCmNiz4aEl6Wx5XSdNWjHGhBJ4A4ZIyjIgnvlWR2WUsVYDz3ynetqIop3a0gQ2C8_sBLba9FVUNwXVPtpCFxJK6soMWoPdJ1kIUR_ZLEL-jttrIDZVWnpy7O09RntWctTAW3mU9NR1ydEizFPfFTOMsoe-p0dDKhWW2FhK0f4lPjQUnvyYC6fieJFrLGq6siZ1jwgb1IVxBYjh7U1kdPIrzlFHsFSXF6ofKLfkYvTNKH4ZEkIEqbu4rzYu74-AluNojrGHSPAG9u-u303XDT-G6NJ_4RKueZpvywxTCImE0bYihHGaw.jpg",
+        "https://cdn4.telesco.pe/file/OaB5hrdJq5iDqysGIj-5rWt0Wi2Rl3cR1dgoQHAgwlpx00LGDhGseaqVw-qOMH-tFEJ-QkZNiT4OlHz6uzwLM2L4djyoY13naRXukvig5euanmbopZefI15w-rzCDvSnv5EcFVlf62NY8x4AcFYBwJuixHI_jzNxm4Yn5z_kW7sZYNVYdsr7-Lx_yqrp4EJ_VyfJQDb0XrX37Ql0DDptvk4gfvx36QWPbwEc8ynsv_G6KJKNeKb-DiHMcfUNHCjZ44WatG83ye538gJiciKsdR1FGjKA3J1wWuPfibW-n3sp_8VPGYE6FrsoMzXFyw3ZmSBWtGGmS3gcGjhJm1zNRA.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted some important vacancies. And probably also fucked off to Bali."
+      "text_en": "When you’ve raised a round and immediately posted the key openings. And probably also jetted off to Bali."
     },
     {
       "id": 1227,
@@ -262,14 +273,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "a4bfd2adfb4cd37a64fc7b1b82f869c4e5fac250244ea1062975fb5d7513da3d",
+      "hash": "c144cd639f8f331cbed9368b8af85ccc75ab9a2ebc0f09796da54403d12e43a9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/I3DTwm8DJUyYdonYJMdBz1NMSJ0gJplKRVKEsT3QD0TfWSAFHWxTicuaC0nhYQ4VUeoatmwAB7MJNpvwjX23qSPFQ57ostpbey6lQcWI4lOaZt_Lmi4ur1W2KU6GcauspY1J0sRQOJCGaLFwzSAl2sGEmJLXGbTRdeqkIQwJMWMRBPMCyRhi7ZVCxo2W-aTXcVDPfFlRJ5heeTTKKYLEMNn22bmr47MMBD84wrxMrYVNjEtjOZFKUFmRoK61wn2QIqmrWYjT-KAfm71qhfJ64CJL90p1blKIGzeCGD2BexHKjjhDcMia_EOT4syL0IHaNs0eA4juatVZfAm6k8S4vQ.jpg"
+        "https://cdn4.telesco.pe/file/nUW1dv4Dd576lP7pexSA7SH7xJH0k1zs0lVeoN09dEjAsJ0q2PsFAo1RHTp9kPwmomsOIJgXmzT8qDu7Yj7MgjyICnHdhfmdv-Giu6nLJ8aPaOeAqsTe5rjxjheos-ENWvF64mBLbBI1e2iBMZxSRvmS4q3ZBCXywLxshm9gXP1CW7rtmCKS_OqYdLSrBixb2s1ZGzBT3QZLDsoXpSZJpehUg9Zgpw5bqZx38N9OUrxA4nGUAC-wNjpT1UidKvmCgQ8OLjWPtEhwOB9_b0bExRSc8ALGQkrg3JP80i4-POpzXccpc-wP2V06k5hRpgIlv1ON0MLydKT4hdkjDEOw5A.jpg"
       ],
       "title_en": "",
-      "text_en": "So turns out you’ll be able to vibe-code even better. New release from Anthropic — Opus 4.6. And right away — new Codex. Brutal competition going on."
+      "text_en": "Looks like it’ll be possible to vibe-code even better. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— the competition’s going hard"
     },
     {
       "id": 1223,
@@ -281,17 +292,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Meanwhile, Google launched a pretty fun benchmark. They’re using the Kaggle platform.  \nThe bench is made to compare how different nets play games. Kinda interesting to look at the results. Like, who’s good at what.  \nWould be cool, of course, to add real online games there and see how the nets play Dota or something like that.  \nhttps://www.kaggle.com/game-arena"
-    },
-    {
-      "id": 1222,
-      "url": "https://t.me/chillhousetech/1222",
-      "date_utc": null,
-      "hash": "7312ed58a100299d739b35471048b84a5010e454de6a2c1ec38374d5be1ca9c4",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Anthropic запустил нереально крутые 4 рекламы на Superbowl. Памятник агентству пожалуйста, которое сделало это.\nСэмчик обиделся и ответил в тви.\nРекламы тут\n (еще три штуки на их канале - рекомендую все)",
-      "images": [],
-      "title_en": "",
-      "text_en": "Anthropic dropped 4 insanely cool ads on the Superbowl. Monument to the agency please, that made this.\nSammy got butthurt and fired back on Twitter.\nAds are here\n (three more on their channel — recommend all of them)"
     }
   ]
 }
