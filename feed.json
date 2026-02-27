@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-02-26T19:12:10Z",
+  "generated_at_utc": "2026-02-27T03:10:39Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1254,
+      "url": "https://t.me/chillhousetech/1254",
+      "date_utc": "2026-02-27T01:48:01+00:00",
+      "hash": "c94bfab61ecc59dd4e1c05304d1e432e9e77dbfcc0f2527ce15bc84f4a120e75",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Если кто не видел, вышел новый doomsday report\nCitrini Research\n \nCitadel critique \n(это критика этого сценария выше)\nTLDR: одни думают что все AI агенты заменят нас всех и все крах экономик не избежен. \nУспех и распространение ИИ как технологии могут привести не к обычному экономическому росту, а к структурному кризису\n. Другие попроще и смотрят в историю и текущие данные и говорят, мол, внедрение идет медленно как и всегда. Ниче страшного, и мы недооцениваем все что будет делаться то и потребим. Такие дела.",
+      "images": [],
+      "title_en": "",
+      "text_en": "If anyone missed it, a new doomsday report is out  \nCitrini Research\n\nCitadel critique  \n(this is a critique of that scenario above)\n\nTLDR: some people think all AI agents will replace all of us and the collapse of economies is unavoidable.  \nThe success and spread of AI as a technology may lead not to normal economic growth, but to a structural crisis.  \nOthers are simpler and look at history and current data and say, like, rollout is slow like it always is. Nothing scary, and we’re underestimating everything that’ll get done and that we’ll end up consuming. That’s how it is."
+    },
     {
       "id": 1253,
       "url": "https://t.me/chillhousetech/1253",
@@ -123,14 +134,14 @@
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "03d65d5164ede476aaa56129d3f83ad9262c85ab9b266e4bfe294b76585892b2",
+      "hash": "fcbfa4da9b0e47af7ffda6ffd35d1c494b1abff1a4cc60ec7302b3fa5a07b1f9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/n5QHrLUcsHUPuA4HLKR9eCUv_nq3vzshirY08OEQaSyVIDFkcCkwchhENc8UuVppVaW5PGi79aCubBaDX8SoKNqstEp5Ha9ljyS0qe2LZgfyoD6fh_1YzDptfR8wRHaMYcyel8yCpaiKFgesS_NiY_lgL7knhE2QCa9mxyKGZ3WQKDKKt9ocYkDNjEoL1qKt94AK4TgD8yiiIrrdADuRE6AQTC5be3XxHKS6dKnE47EqpYlbxyxDKPZ3imHNUSabhDGT3shGhtdvGLucK0XYw792JUuZTTSLFa5H3U3QRQN9B7EBRFql4mwz1i988j0uixC2SDLcLfuDOVLifgWUcQ.jpg"
+        "https://cdn4.telesco.pe/file/oNsDzwEZqHWmvva15aL6Zbg6SOTA19_Sv12xTfjShEZitjd5zEX7ax7x7LhWwXREesH3p7g_ww_kTcTSqbdUyKNUxWIdflKF2fimVUN-nvo7J2vcxjQ-EQf1OffcxTf1OEWrZxDoVrPxwppLTOe_EGagnJpHWYcvpxEIb2yHAgi7sUwMVFFq8rlULlWiq0UGVKdVXrI8JY7bDm_uzujeSQjecic_8nZC5s9hgQPrEKocjE7buSrG-RbJYwTfFTxP6Z7C_h1fnRB9cqg0AGlZ-nuXloha7L2NiVETo646dDiZGKiQ7u43unTPUnZbdO7vyvY0wWXWP19HM87NyfxMqg.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure nobody there writes code  \nhttps://claude.ai/  \nUPD: they fixed it fast"
+      "text_en": "Now I’m almost sure people there don’t write code  \nhttps://claude.ai/\nUPD: they fixed it fast"
     },
     {
       "id": 1239,
@@ -237,15 +248,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "add9fe7faf54599497f20946db0d0df3736e5ea95226bada3d410aaa6893bf28",
+      "hash": "21b1c43e468c76db4dfcb1f776bb77931acdbd4dd07ef88d3b5a3327e6c5222a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/FY_-ed3tiIOxZiM3oHbYv9TQX9AXDvi4HskVMRjPL5GH_sicNqn8-J27fAk4MmQLiSJU7aIQ8MT7ELkMqdXcg3Sog_o-VOk-q-SROT32QpZte9GxM_0GJTkDxaLOwFCMxR-GuEDKtIZhBqo-b8dl0hVRBbVWwM-Khds83ByQxlh2utC_PQVqrCm6f1-mvTQlIv_t-MGjjLJbBalubkhrsadHrVKvTBR92_uRLgejfi_QkciOtkkmWrQ4olMeH5S7GSdfArByk7Gs5t7UoKgHkjB2mFQftd4hG6KcLvdZxxQhJhYxud_6tXn0tszoNl5ad53WWygVtUH_sW_z0TieEQ.jpg",
-        "https://cdn4.telesco.pe/file/aHFRSMLjpI76TKRjFlKstaDjqw8nyJmrrNgN_sao4kHNj75HcgXfWMIpbjmJCy2Gc1cqI9UoKDjwvruYEL6J1ofWWeCuI4_wnmpW0JnxUYULEvTic3LZPQ3JEq9F_IkiL-t5nC02R0Zpn7HOkD2OtakZRei5oBqwLWEAydV9Qpx5F3Sic-lQ5grVCpjZLf7K1AwVEN3i8FYG8zXSEgJnB8pIZiwlA_F6SCDahoIATPW00410TwyLiiAlSyBXIVcr6re319uVjoyUUFWfoAANApioIas2oadblznSdCgYeJRAXwWEKeI3-bzmuy8HIGOSousZIaPTEglExPQ0JZcqyA.jpg"
+        "https://cdn4.telesco.pe/file/YOeY3TfAUaFzG6X8hXEHLhHpEdTW4GvdT0sKom2wflBkAz7sKKFGCYl6gAAnc75KKGGkYwqWE3pQ5pxigQKCRXCoTKGxRO92ZjHCN9TDpnHJvwKuzXcX4RdUvILGOaswiD7dwJ_-KQLVhmX5VA7zf_-xx37lufC0x9xM-PYx10q9fmbHcbHSEYHXBRNKWeex_y5HoP7L7C3s9zoa5c55vxP8_7Sc2-BF0hwnuzYugAjUwuxXCvw2053M5gYmXMRdBPKklJC7SKeDf6GFPysbuMTVxPFMvvYqEMl0VvEXpsxOBNAa9qbdhSNLOPFQfxYQBHdw-mv06FN48WcDzoipxA.jpg",
+        "https://cdn4.telesco.pe/file/rS1GMUiLcwgEM6Ohds0q1GGUWX3yY7eOYiAjFhsmqOOKbDDKjg7VKCV3MY1OUgbZunIl2_NnZRmQW51Ynf_7RLk7ln173c2zpdfNfYXcGPx-YymWP4muC4b2aAX9XA2C7vmVFzZHHY22c_5TWIfJGDYNkCVP194MCjyeSavkQ1U5etY94AEcno8f49O7I2ZLVoSv4A81eKw8Fr2FHcq7UO6i7_AQLkNFriokH9If5s6ScmiUr-FRDJv0XMzFAMC9n_08_SV33wzw-QvpVkLAftDz-gGWyZuwy3Re6rNIezLEoYVOR0joeImuMuOnfQ0uCasE-RT7wuliIFPOC6-rZA.jpg"
       ],
       "title_en": "",
-      "text_en": "When you raised a round and immediately posted the key openings. And probably also flew off to Bali."
+      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also went off to Bali."
     },
     {
       "id": 1227,
@@ -273,25 +284,14 @@
       "id": 1224,
       "url": "https://t.me/chillhousetech/1224",
       "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "606219c9029f7067aef96620e8cdf009b219bdbf6ba49aa52100fe029af6c088",
+      "hash": "66b8bb7e9a932ec2242f845e219e0253b105b6364a7c316d342c0542279e8460",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
       "images": [
-        "https://cdn4.telesco.pe/file/AHOBLT9LnNgofILDDwhbEtCATC80GEQ3rz522j6pKf1ongwtGfceHgUXz10oN2md0w1-eQmj4VbHmXz744lMaJQsIBfAGTnN2a7wlKTQjtunBlVNYBOvFJCpiE0CbBytqIJ12LCEQWhl3Ou5jjWulsbPGxTZEt_84IncCChaGbbxczLR3KABT4cx_rcFE-Gi2gCCQuxSrEnuag1aOmwvNcxaCeSizzDN3Hfg_Ty3sRwcdv_YtKGEHsGUQ70n79bsn1wvgjaXUUIfjtKSV2YTK2EAWQA2wRJai0Pb0ENAlg4dpPNDFLm-j22IVS8k4DWcN1aO2giorH2fZxPE9zVGXQ.jpg"
+        "https://cdn4.telesco.pe/file/m08IBOMVKur_NpNmAguX82cU8Aym6emiuX5oxv7tnTIO3ZzI24oWZ0KJ95XP8XIJKpCndFVJIwwHPuODkomLMmNM8XvVwkeNFnl-sNsqjrAZ6zVDTcrKtbMGouEE0xXtG6U7sCTK7DL3ZBHuKklff27BsX7AA_VQEvTYQ_cH7Henb42aNXVWMSWJVgumuMnH44Fbh0PjGJx9IOjq4XNvnvb-9Ngr-gt0LyWso60X8O2r-Nz8AU9UQJbsIOwb3InUxC4MGFI4JAqG7DNYy_DVKtnALMrtUPss_DA0oqowsdGJTmnL2Xl65KMCLa7_4AhV9XA6wj6dQXkL6mXHrJHduw.jpg"
       ],
       "title_en": "",
-      "text_en": "Gonna be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— competition’s going hard"
-    },
-    {
-      "id": 1223,
-      "url": "https://t.me/chillhousetech/1223",
-      "date_utc": "2026-02-05T07:30:15+00:00",
-      "hash": "9d98f7e4661305ae96a81466a5bd6f296f86b2e770002adfda52ab8265477537",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Тем временем, прикольный бенчмарк запустил Google. Используют площадку kaggle. \nБенч сделан, чтобы сравнить как разные сетки играют в игры. Достаточно интересно посмотреть результаты. Так сказать, кто во что горазд. \nБыло бы круто конечно добавить туда настоящие онлайн игры и посмотреть как сетки играют в доту или еще что-то такое. \nhttps://www.kaggle.com/game-arena",
-      "images": [],
-      "title_en": "",
-      "text_en": "Meanwhile, Google launched a pretty fun benchmark. They’re using the Kaggle platform.  \nThe bench is made to compare how different nets play games. Kinda interesting to look at the results. Like, who’s good at what.  \nWould be cool, of course, to add real online games there and see how the nets play Dota or something like that.  \nhttps://www.kaggle.com/game-arena"
+      "text_en": "So you’ll be able to vibe-code even better, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \nNew Codex  \n— competition is going hard"
     }
   ]
 }
