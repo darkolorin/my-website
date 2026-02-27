@@ -1,8 +1,30 @@
 {
-  "generated_at_utc": "2026-02-27T13:34:18Z",
+  "generated_at_utc": "2026-02-27T19:04:37Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1256,
+      "url": "https://t.me/chillhousetech/1256",
+      "date_utc": "2026-02-27T17:17:24+00:00",
+      "hash": "d3e3cf1d64a37d790e4c86d0518b9e41d2d1c4f17bab8ae29bb64d96449ca021",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Джек Дорси увольняет 4000 человек из-за AI, тем временем он же в сентябре 25 проводит \nвечеринку ценой 68м баксов.\n Ага, AI конечно же крутой предлог сегодня сокращать людей, когда у тебя проблемы другого характера.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Jack Dorsey fires 4,000 people because of AI, meanwhile that same guy in September ’25 is throwing a party costing 68M bucks.  \nYeah, AI is obviously a great excuse these days to cut people when you’ve got problems of a completely different kind."
+    },
+    {
+      "id": 1255,
+      "url": "https://t.me/chillhousetech/1255",
+      "date_utc": "2026-02-27T14:27:47+00:00",
+      "hash": "d3909f1f6124080eb7e90fab3e734215cec96f1bad508f2540e81ff379457696",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Ну неплохой раунд на 110 ярдов \nhttps://x.com/sama/status/2027386252555919386?s=46",
+      "images": [],
+      "title_en": "",
+      "text_en": "Not a bad round at 110 yards  \nhttps://x.com/sama/status/2027386252555919386?s=46"
+    },
     {
       "id": 1254,
       "url": "https://t.me/chillhousetech/1254",
@@ -106,16 +128,16 @@
       "id": 1242,
       "url": "https://t.me/chillhousetech/1242",
       "date_utc": "2026-02-18T20:45:33+00:00",
-      "hash": "0f3e5df70d206e6448a5fec7dbf041cd0bcd5b64b0912b933132f47fb9a8d64f",
+      "hash": "82100f6a34b43bca734d940aeca116f4b11f9b5eb987d86cd4b8d03a9a3094d7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "BBBRRRREAKING: японская компания TOTO, которая делает унитазы, внезапно выяснила, что её инструмент для керамики можно использовать для производства cutting-edge AI чипов.\nРынок — $60B.\nАкции +60% на этой новости.",
       "images": [
-        "https://cdn4.telesco.pe/file/m8w3vw4IEWENXadTmsW0y9uLhpiKFcyQ8Bg-hteu7LGMgC4B8QZE2mtgllPJNfOcrW9Fbp0SbKHEf6ns1quCnyeOEpxRteESz51NCFwcN6C99EFT4QUWy-Vi3qdMxlX63igGqoKcN3XSfxkYaDp7oDQ1ajSHeDe08puAETG-D_69yuMUf6aDPnkscaBKDAfDmnZwMK4XcJPKlPWg28ZF9Sh9FlsLAelv2p7TmzJO_ZXJ92jzoobooGjBPxF7FhRO8sZMffNZCw6SAevZESuyqV_whPzWbdy5VFxfT8rIn3goH4EXfKygScAsNZzW7yEyHksvY-KFxp-wjY0vZd1Lug.jpg",
-        "https://cdn4.telesco.pe/file/RH2l7KaDrVqmWAGAh5x-ms8FuRs8NeDXCmzxAAwGc259ZDfJpL2H7c9pmfjZ4VA_9f8qXi1ubOs0PpPUBC1fzs_gbeDRlYAQVj2b9vCN7IKHPRyFsWUaEctobcvObDIG0bPxW9nPSOUdLIEQmIGSx4KiT4TNnCYFGuoXctQFu6rcZNWForbyAHa3NX4SZ1LHy-vnHkVVnnIFtQM95yw4p8_bAuhSBEWUkXpqpyvNZftsBHGNtpbt9Y2hAHa2gI7lPZLSUgPny3a3BrKA80TOUzYtRYGWlmGL8EJTnqProilB58xtrmFfsV08t7nebdDSvgqvc_Ot26NCewnXiSOaOA.jpg",
-        "https://cdn4.telesco.pe/file/WzYuCs-G5o6ctp4xr1Lj2jZqTRWDDQRms4RfysmmucFyBqnFun4Vho4zUHgoFfGaZR0hckxeCukmT3uVsU_-WI5qCZMM97cxDnhv37CCTxvYnQAFZRrjv246pkfotUDpWOsLuefM7FF7CDyNGWdNpBctsgY2hkxw0qwcqHYj9qF7UN0h5ps0a-a4c-ujrTmNYuxPwAWn2zB090reJYxX3d4M8CwAnaGnQQwo1M8pCj6FDKMtp_SkCrfwdWbfld1JCh6Uc4UYRywThjISue5iNx3lTOkVIyR_pKOdMsSsoCIRwFADQL4t3reZI97W5i7DBM0AT8mWTxFanPZZa-p0gQ.jpg"
+        "https://cdn4.telesco.pe/file/nz7mASNFJQ9ku01Q4oH-Gw4UCssjuPD0P0TeFaEkzKyubqGvq3q9OlZYWcBtmOtHck6h1GKm2ZFHUmvxf2sOUVZYPWoL5_RjssUk_crJYUlYLnJl6DI9QQlHYMZo6fNfyMYHzqeFzjVC8KJk-bVlGLoa0q1sKuTNsrroqFUJMcGWl0Sci9DUTFVG7ulE7Qpg4htKUMgahjqnVC9RW91RSTg17hhh7YEzjUm3yoWj-i3Qkuf3GPs7ApaFGDI7AfMmx15IUqy2lSDuN2I10jjUAIr05qgWzSWS6qAmuobEvBnE8SbLSK95oYUmzx5e71ynbcvonqLdtRNyNbjspRLTUw.jpg",
+        "https://cdn4.telesco.pe/file/O2-XZbSEZJy12PCuM8y6Ms_iMXPQdVxWQnW7yoYxhOEUgwgIG4IwLI2A4NhJ0a9Gh7zrxFUpir-gSdr1fXKonsZ_QBfzUoxEQjiS_hxDRNxTuFNEpNITIba0jFgaqhwCe_-tCPoEjbx0-tw1Wkh6x37RgSxF3qysJUPQVvj6R1R0-JhDJRLvrcHt__iKv-aiKM1oxTb9Mdt0MshwBVreKxky4eAnch9jrK7ypnI9_sE13aZevUioyhMBJWHFixR7inRzY3d6iW8cjUVZn4A80X7ST9Ch4wHpiTIqGLByhrPhovmjNAX6kdPKD3PZqYTtt75_88189kyZZDM4x2M31w.jpg",
+        "https://cdn4.telesco.pe/file/AXqNH2DWPvAzRcppCQk-fm8VClYsS2_-R7GF8E_48knUUGW6sfIdJHL55AFThW_5sHDwNG9hbJpzkjuMjvusLqbah6t96U_q5mpqwo6OD5bK4gwSlhCcpBBM4htc6lF-S3kLp_N69HyhofCdrubcgiW50g6G05IhuybhO64JHb8v_HVvMwI0xrWjuXC5MQQG3Z4zJ4X2XDbkCBoA_7WOqEq6kIZZMtUuOqdUzhgW1tBKyvonVhY0xCkkg3IoaBXjTvyHHCe5584Xsso0yQuX8EwM_D1qNdI3QCsll06oN_PNawAIuqfDNhJsMrFsWMV_wrCfxhAkJOEMDY71AAbmMg.jpg"
       ],
       "title_en": "",
-      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly figured out that its ceramics tool can be used to make cutting-edge AI chips.\nMarket — $60B.\nStock +60% on this news."
+      "text_en": "BBBRRRREAKING: the Japanese company TOTO, the one that makes toilets, suddenly figured out that its ceramics tool can be used to manufacture cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
     },
     {
       "id": 1241,
@@ -248,12 +270,12 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "5242daa8594bc227879faa18e7d9b6c21488430230c608272179f2d4d37f4ef2",
+      "hash": "a7e1fe3fddbe7d0aa2508bdc7ccb087be576aa116d9b081d56ba484d0cc36e26",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/Wm5wl1Lr8DVLoZfTCUaZYFwZQoPjVv392U3ImJNC6-09hwukvbuJ0_j1IMF4m8AYUzBB-N8Af-vUJFn3P2K0ItkB3tpafbWNtYhc1bMoS5zZds7-Lj28CMvJ_m-A8kQSG2SnqgaQYEFOqnEtxxzg1r5_ywVRcH1vt3ON5xUjVjR4TaQuS8LfkQdbumAqe9ZJ2TeTcIqs_tXA7cGJX2Rx-suC0gv2XdlJlDk9CMlmAmZi1jC8kzNesEeRepOFGMlf9DGFt1QBx81W2zGizFGV-3Lagn5CvVYm8uLnvH52xMw5DL9UZDvNVIVnuBf2BeRNoD_Ye6GWovdqJf_5an6BrA.jpg",
-        "https://cdn4.telesco.pe/file/qjJN0uz3YBhZTrHoyijoo7U8wsQo4ltmA_b1BnKD4Fhvr3cZKjggDrM4BA6bpT0BkXuVPbR1av_1NLwZ8laWwMG4UY_O_yzk0u3-6LlgDDa830vRE6S8pGLoNcDs2xbX6TW_bl7yTffTZhJ18oMsvHjtkuDgmg8p_Y2DszZUHKE5tczqkVl7L_U1-NWoTknxxPGPasj7BbEYd9HcS1kGNjDit-V5UZ3btVJCYVpOFWFtioCQnJ1kIhbGG14rnXIq1zkqbd_a-3Xezc6Ot2nIvrQBwPjtjlnQa1S1ShIZwZqngX3YP9phED8AaoPCP-fZiUhouuzWmh0lKht0lYjx_Q.jpg"
+        "https://cdn4.telesco.pe/file/IuKniicnZmYHckEjn5lGR80ZwiOqTUNA7rS5QzK4Pm7B8ZcfB_YnyRCe4w7nF1AGKVbNGKpv-qVTPD_qN7XO0QMF8aKCqplaNeUoZZXE6TZpVAkw6Fp6ITIloBGgWipz1WSzzKw8poGefPoAtUcl3u1fDrRHVuGrpWXQe5MP0aSfQIkAydN-8tppDK1z9NbOyzfKCjU0SMpp1i1NYjD4Cc1Fgl4XSfvU26X2e_Pay7q9zI6UTvDPjpLL6sAR35ktC-RpLi3CY9kKQLs6cFt1cweIMMqJEAAzja3f5-v9kZwaP_gwCZ85-ecte7lDfs9OCaDyRA624ngVZIdfo4EhlA.jpg",
+        "https://cdn4.telesco.pe/file/QKgk4tjNYyRC-69wjuNqGXyt0BubVV3zUgdU8MaTTOrO74MGhI9hNcpKQX6JC27OpZl-PH0GavWHevmZcWXLhmCQSY0hVDxY-eX_HsOP5osTzHemRFpLoS-0QcW7GG3xWZFYkhi-klWH2x1O-c7k6c0bvp1oObOfkVr3PZVkprgr9eFa8sx6hM1lGVkdDhFMQTezXhTfbUog0ZRINp2B3pxyib2Lg229CjEkDkDMGscrDzglA1I6tzS5ISJPzd4GtLQ2IywkAJBf2_9zmVy1fw4bn-om41jEy-1W_Rw6ouuYHAlNheg3d2iMbWOUR0Hn4_iMbNPF9CgpoaCHfJXubg.jpg"
       ],
       "title_en": "",
       "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also flew off to Bali."
@@ -268,30 +290,6 @@
       "images": [],
       "title_en": "",
       "text_en": "For the weekend:\n1/ Waymo\nshowed\nhow they use world models. This is just sick. They simulate road situations.\n2/ it seems to me that an entrepreneur who systematically sells their time is making a mistake by not investing that time into their business (does that mean their projects are bullshit?). Because you can’t scale your own time by selling hours. But you can scale a business."
-    },
-    {
-      "id": 1226,
-      "url": "https://t.me/chillhousetech/1226",
-      "date_utc": "2026-02-06T15:19:38+00:00",
-      "hash": "2bdde78f5f03bc97004b5e3a0c78544a50ac6f74eebbabc8dbee9dd5362b8e39",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Короче, когда разместили вакансию начали прилетать разные резюме. Так как она была и в линкедине и много где в целом, то заметил один \"нюанс\".\nУ нас в описании очень узкие и редкие требования есть, ну типа оптимизация кернелов на GPU и еще лучше на каком-нибудь условном Metal. Что встречается ну очень редко, да и в целом мало где нужно. И чудесным образом у некоторых резюме, опыт выглядит примерно так:\n• писал бэкенд для больницы или чистил датасет\n• и тут же в январе 2026 личный проект \"Developed custom \nGPU kernels in Metal\n for accelerated matrix operations, specifically targeting Apple Silicon (M1/M2/M3) for on-device LLM inference.\"\nДа ну конечно \n🙂\n неужели кто-то думает, что такое скажется в хорошем смысле на процессе. Ужас конечно это все оптмизации резюме под вакансию.",
-      "images": [],
-      "title_en": "",
-      "text_en": "In short, once we posted the vacancy, all kinds of resumes started flying in. Since it was on LinkedIn and a bunch of other places too, I noticed one “nuance”.\n\nWe’ve got some very narrow and rare requirements in the description, like GPU kernel optimization and even better on some hypothetical Metal. You almost never see that, and in general it’s barely needed anywhere. And magically, in some resumes the experience looks roughly like:\n\n• wrote backend for a hospital or cleaned a dataset  \n• and then right there in January 2026 a personal project: “Developed custom  \nGPU kernels in Metal  \nfor accelerated matrix operations, specifically targeting Apple Silicon (M1/M2/M3) for on-device LLM inference.”\n\nYeah sure.\n\n🙂\n\nDoes someone seriously think that’s gonna affect the process in a good way. It’s a horror show, this whole “optimize your resume for the vacancy” thing."
-    },
-    {
-      "id": 1224,
-      "url": "https://t.me/chillhousetech/1224",
-      "date_utc": "2026-02-05T17:52:15+00:00",
-      "hash": "c64bee5a56dcb346c53e5305b65869ad760919138eafb0a545cdacd655bcd331",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Еще лучше вайбкодить можно будет получается. Новый релиз от \nAnthropic - Opus 4.6\nИ сразу \nCodex новый\n - жестко конкуренция идет",
-      "images": [
-        "https://cdn4.telesco.pe/file/O9CTguF36S6DDqDO6tVkKkAaF2uA3xBBbVrz3vbq0DCNd0lKPOzeKuEjsP2ruCl5JvTrV5DVHdSqDaHwD9ozN8YbBbKlsFlkqjRtm4vVLSLUMrnk2FMBxmBGBzdWsWHE2TVRUs0BOc9HnzneNma3K1Ioy5G7T0mEFu0WPb5Dy4eM2S3Vh6BW6DEgBP213x50v91PWFFioLbtQljVCvEPnnyBHwkRu0Vc0FCab5r3ZKrsTha8GUrjS7cfAQFUfvdAtV5jdi-BtKM-Xpftm5_3cPCrK_y98HYfm8jYQkFpIx4rc4LzLSGgzn7_sTSGgHhFlyVK9ScDDB1GzB6QhqFxQQ.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Gonna be even better at vibe-coding, turns out. New release from  \nAnthropic — Opus 4.6  \nAnd right away  \na new Codex  \n— competition is going hard"
     }
   ]
 }
