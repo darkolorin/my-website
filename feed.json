@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-02-28T13:08:35Z",
+  "generated_at_utc": "2026-02-28T18:51:14Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1257,
+      "url": "https://t.me/chillhousetech/1257",
+      "date_utc": "2026-02-28T18:41:18+00:00",
+      "hash": "b79dc8e610daac5fefca6db8b269eb29ff05e20a38adcd04b688f30b8d8857c1",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Мы живем в уникальное время, когда просто знаешь что делаешь это уже навык.",
+      "images": [
+        "https://cdn4.telesco.pe/file/Fm5SQkEOszTALl6wrvlMCkWxAVByBXlsq3vGbe3-WFzkvsxZ5W0R0A910Y1CjkJcQ44Lpd9VuAm1Nxh1x2797a7vbSfTdhUwt4st0fOtxEisdwFd2jP2uuS5O80sFi07M61AAoDIsJeZuIE13i-DnXNtekU47RsOH85nsFD60A9E2MCysIbvzTODJjAgQzpjDr-1-acRlVk5s-dH4aNd6IlDWh-tu7FE3MryLO9IS8-Vn1LPn_G5gZn3aHIczHwpJ3PFCqamvseYfynL8ouRNLk2pCdACWheRtVwcURzfjkJB17hxb1oxxjFhT85wKW3ODtmvxVy_CBT2Hg7Oen0Uw.jpg"
+      ],
+      "title_en": "",
+      "text_en": "We live in a unique time where just knowing what you’re doing is already a skill."
+    },
     {
       "id": 1256,
       "url": "https://t.me/chillhousetech/1256",
@@ -128,16 +141,16 @@
       "id": 1242,
       "url": "https://t.me/chillhousetech/1242",
       "date_utc": "2026-02-18T20:45:33+00:00",
-      "hash": "82100f6a34b43bca734d940aeca116f4b11f9b5eb987d86cd4b8d03a9a3094d7",
+      "hash": "4ca63f23832880c40ecda26adff98151f5802e7f9363133b448dbaad2dbff924",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "BBBRRRREAKING: японская компания TOTO, которая делает унитазы, внезапно выяснила, что её инструмент для керамики можно использовать для производства cutting-edge AI чипов.\nРынок — $60B.\nАкции +60% на этой новости.",
       "images": [
-        "https://cdn4.telesco.pe/file/nz7mASNFJQ9ku01Q4oH-Gw4UCssjuPD0P0TeFaEkzKyubqGvq3q9OlZYWcBtmOtHck6h1GKm2ZFHUmvxf2sOUVZYPWoL5_RjssUk_crJYUlYLnJl6DI9QQlHYMZo6fNfyMYHzqeFzjVC8KJk-bVlGLoa0q1sKuTNsrroqFUJMcGWl0Sci9DUTFVG7ulE7Qpg4htKUMgahjqnVC9RW91RSTg17hhh7YEzjUm3yoWj-i3Qkuf3GPs7ApaFGDI7AfMmx15IUqy2lSDuN2I10jjUAIr05qgWzSWS6qAmuobEvBnE8SbLSK95oYUmzx5e71ynbcvonqLdtRNyNbjspRLTUw.jpg",
-        "https://cdn4.telesco.pe/file/O2-XZbSEZJy12PCuM8y6Ms_iMXPQdVxWQnW7yoYxhOEUgwgIG4IwLI2A4NhJ0a9Gh7zrxFUpir-gSdr1fXKonsZ_QBfzUoxEQjiS_hxDRNxTuFNEpNITIba0jFgaqhwCe_-tCPoEjbx0-tw1Wkh6x37RgSxF3qysJUPQVvj6R1R0-JhDJRLvrcHt__iKv-aiKM1oxTb9Mdt0MshwBVreKxky4eAnch9jrK7ypnI9_sE13aZevUioyhMBJWHFixR7inRzY3d6iW8cjUVZn4A80X7ST9Ch4wHpiTIqGLByhrPhovmjNAX6kdPKD3PZqYTtt75_88189kyZZDM4x2M31w.jpg",
-        "https://cdn4.telesco.pe/file/AXqNH2DWPvAzRcppCQk-fm8VClYsS2_-R7GF8E_48knUUGW6sfIdJHL55AFThW_5sHDwNG9hbJpzkjuMjvusLqbah6t96U_q5mpqwo6OD5bK4gwSlhCcpBBM4htc6lF-S3kLp_N69HyhofCdrubcgiW50g6G05IhuybhO64JHb8v_HVvMwI0xrWjuXC5MQQG3Z4zJ4X2XDbkCBoA_7WOqEq6kIZZMtUuOqdUzhgW1tBKyvonVhY0xCkkg3IoaBXjTvyHHCe5584Xsso0yQuX8EwM_D1qNdI3QCsll06oN_PNawAIuqfDNhJsMrFsWMV_wrCfxhAkJOEMDY71AAbmMg.jpg"
+        "https://cdn4.telesco.pe/file/lubP_NFjupOWdj8zhT4iJXN9C5mT9gveWB64gnVGVWVYjpSsfuxp4ci-NBjyKJ9DmSBWkhNVog17sXID0CwGZs6GUoXVgWaGH0hygF39ruy9ATz1nksFxWANmbeVFDckwe_nKuqFLmkhjefERIhp6AXdSY0fQQ_B6s91uIawS6YtvfUQpHGIrCSmpS_JrYxNh1LIqDGpN23ipMVxIhPlbF4YvCfXk67fpULjMOMzzSwV8xEet9gk1rIJiaUuH0HiUtShdVjAll4JIKs95wNA6XfWCBivLKPYO932u3qJeWOLCcYP-kUtfrFPPSyZRsrl38vk4wuW2vHCdJ_zF8j1Zg.jpg",
+        "https://cdn4.telesco.pe/file/mzFkSoHfE3tG_umGEq35duna__hJkfTqtaUvFhdqyClaXLuZS4WAaRU9JKgLY5EGMciJeU-aUwd7di1YB4swzhdLPFJ-P9_aaJ9hX4Px5pWONe-dIo_rYx5BGpau5skKIJyS7coHV5hy5vAoQQdlDZDsXJF2TvTME5tnnNFknwx4qqpq04oTIs2TNl345gDN6kXM-GwAC9c48mnwb_8E5WnUnek20gBDj17QCpIQnaVt1V9kEjpTwzkywHjUGgqOdH3zfH98ghG6h6Srzzh0eOPqRYUVxtwi2HkunbEZlKvijUGGiImrtaP_iPyB8qsTfIype0qOSdrIuAfa6kEe_Q.jpg",
+        "https://cdn4.telesco.pe/file/R3y2kjL9nR8YbdnFosasW8yrbJVYGHc-NkU798F1xDaCIPqZi0ypP30sHuv4ag1QO7vTLM1380whHdXcYIKdEH-8hg-_1boA9DlQfpuN3dQYxt3STwWmhuU3TksraCja1tYLncXra7PXc2J3DglxXLZnmTPe4bPoubyd42VUOGpXqtEjCQeUmf8Ina_xOdrAzUwYySGAhJA-zxqnGIWLnCmhNhFS1iEAloAEQB0PQ71vQlcDdtsEuvJZvOl8TgTvrRpSPXRdwJupR_rOmA01GT3m9nbxRslOe1Fzh46sXsDgdDJc-3Un0WpYpbvIRpM1Ph-l43eUGvf9J3uQPRUpzw.jpg"
       ],
       "title_en": "",
-      "text_en": "BBBRRRREAKING: the Japanese company TOTO, the one that makes toilets, suddenly figured out that its ceramics tool can be used to manufacture cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
+      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly figured out that its ceramics tool can be used to produce cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
     },
     {
       "id": 1241,
@@ -270,26 +283,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "5596030b3e179db0cc36eb8198f1e7095aa17b36571161fe867432a9264606ca",
+      "hash": "3e7f5f9d52d4e745018c91893eac02100a27cedba9e3f39ec518a79cdff8b205",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/e82VksE0rwT9OsgdFgnxbTsQFy6Bzy3AVTbJtRsZQ-yfeg_jZolp5Ifl8wBqOfacDKC8x8NhVxckd7rsyLL1ouSyih2sjUx1oCS3pf8EJHFyF5dl4y4pUifaEI8eNd8rBAZ1ONqsMQdPtP80PaFKK4TxMXYk1UlocyvFjE0F-MyYg-UXGxlsR7qY7EIaxh242UXCq_1_6kJQywjwGnU8Mg10TnUKDhb6Vo8wnCrw131KI9ahQ462SgvSBsI_9IGxZ3LgLWeS6KYa5N3C33HZMD1toUzsf0BXZXKXoZ3FBN-e698xwGEprdfXPmTVy1N7EYXt4LasjKNMiM6_3lDECg.jpg",
-        "https://cdn4.telesco.pe/file/TiiOri3SS8seLe1fNiVlVc7y6UN2kShZJCePMiNMTz1ZvgEag0s6Tk8OnWB-udad2BX9wUM_nnCtbuxUnyFXrw0JAX-opyda7O5sw5NiSo1Y_Kfw6fkBnPkPHo9rpKblZPC883Qy3IztiObAXpEdli0BtTAbRZA9WrvoopS9KhweS327iFmGxGEh_t5NvyiMLSfa7KB6FrX9hzOlBCt8EGrkpRp-o-W0YqAqBX3Egg_15TN1xsZFcC2HqlOTJ1qPUc22Fdn8DHDdrC0Rq7UiqBY7BSTW3NKDCyWjxkOw-uGeLYAZrE0l62injjpaRecTqQMMYJIKMzYdxepoLatEiQ.jpg"
+        "https://cdn4.telesco.pe/file/bkhcuRcKm3JlJ2gjUVSIl71AZpptcJbjp7ymFqQY2P_cuCgUUVdOTYTlQod-bZsQDB9ux4FzFE0mz-8iNKsUiRLTlWHilXkFE0H0UgOT6ia_g4kgq1_r4xTHeRPabPomM_8JRsuG33Ap2pZGI8O7989cK_Vohv_rKUIDw9Hm359X0_NWH7cUCVlEPc0lhsltr0A7ocqEQ5fMfGCb3Ue3z7kV8yYuJLi9qeyVeVSKbSxEkvpaBy2hU8fvaD6_pIre3uYO1jBPMv-t-QSMihzQ5bkyBtAHvJ1CIzWfJopUh3MnEnfW7w686VRrvgfbIDfTXa-a8wJzeT2qNrjl_j9YVg.jpg",
+        "https://cdn4.telesco.pe/file/n5Z9Fr-iyqPLb40k3iVJtYOhrA40WehfB0IoiroCtC2xg99KdTKIrE_gP7jjMGj4TpjbNgos16oXXUOj_sBKr7aVQtabtirCnNxXXT6XynG0n0WimfAu-oqfI5v4OF6WCt4PEu4Uzj0QzfyZe6gFrvGzNcAvQHemUTRw9Jq1uI-QSCU84ucLJjZNlihQhSzfThe-B-LZPR6N0HThTBCxlNp3SAsdE3AzPT4ovTU4HvTlM0xGBJxGPFjPkGawelSE2NybLnD8X8hxJzkQMvsZXKXtkI54xOJcXKj2tw2-KhiQJLVRBHEB9MTbk9ufxXYRVHBmgu0zpPoLrptfKae3Fw.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also jetted off to Bali."
-    },
-    {
-      "id": 1227,
-      "url": "https://t.me/chillhousetech/1227",
-      "date_utc": "2026-02-07T13:25:57+00:00",
-      "hash": "e8ad63509fabd84772b40d4c9eea6367f4d07ab593b5ab8c0afb10657babf839",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "На выходные:\n1/ Waymo \nпоказала\n как они используют world models. Это прям круть. Симулируют дорожные ситуации. \n2/ мне кажется что предприниматель, который системно продает свое время совершает ошибку не вкладывая это время в свой бизнес (значит ли что его проекты херня?). Ведь свое время масштабировать через продажу часов невозможно. А вот бизнес можно.",
-      "images": [],
-      "title_en": "",
-      "text_en": "For the weekend:\n1/ Waymo\nshowed\nhow they use world models. This is just sick. They simulate road situations.\n2/ it seems to me that an entrepreneur who systematically sells their time is making a mistake by not investing that time into their business (does that mean their projects are bullshit?). Because you can’t scale your own time by selling hours. But you can scale a business."
+      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also took off to Bali."
     }
   ]
 }
