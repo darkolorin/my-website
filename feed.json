@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-05T19:38:08Z",
+  "generated_at_utc": "2026-03-06T03:10:00Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -169,11 +169,11 @@
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "efd311ecff36419a557f43f35c8761000892efc68afb780c6ee9af383292f3f6",
+      "hash": "72cdf3b25a7c3e542aa1ff2f1ac5d1fb603a353ac3c5504a54e495df8a47cc17",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/JirsGxqYc31N7UjODQWnyY46KNT2B_nALtYkamrc49bgqnuMtYnFBxSsY2ZanZC5bCkial7op35Zmw7ZKOoTVVUZe0hZ7V-ssHUjC07Y6PZMSv0Fuh4Qcoh4I55up1wzf4QnupRvr42fVj_r7ukQ6kRt9NKyLCga5m4Mj-k3zgdG5ZqRoC_jqTidaH2C7Y5WtFshQx4o_7FdlTHzUkEWzuwvs-o2XdNdV3uXVNa1okLNDqSdMJY_lyo753CGQ71YNnamCah2sQBZlcNFnmVo3ltRDMyHD9K0Ey05UuzxMxkJooY5IABaf_KrExdRMiacP5NtK4T4Kb41Zogd3y0Ucg.jpg"
+        "https://cdn4.telesco.pe/file/uatBdCYcMJ7qa4z8cPUdnUcqC4tczc08oyox4KM1FTSTiQ6_LFN_hddeyVEoP21veMXPgNOZrzvf6cnhZELBr_AYdXCHCTB2sucLjXZwkpKkPgEufJfOXpPMGzR47XsG7M2eGTBaYi-cThaxFfLv-fp-vUWbwfJhCiglRemDoHEg-5qAsIbWypdGDklrMjGT7qbq3tRG4smIWeO8Ns4Xv1PKuoWoKDljfb06Yztv38f_bybd1cC82bQY7QGJjdWc9eo53NZzbhnimkhXWr8iFqJQvz2TBOx8qViWRbLY2O4b_MbkM-MFtHp1RssdlS9xxHWY5DXYqejjfR1_Md20Lg.jpg"
       ],
       "title_en": "",
       "text_en": "Now I’m almost sure nobody there writes code  \nhttps://claude.ai/\nUPD: they fixed it fast"
@@ -193,14 +193,14 @@
       "id": 1238,
       "url": "https://t.me/chillhousetech/1238",
       "date_utc": "2026-02-16T06:12:01+00:00",
-      "hash": "11d9f8cb095788e5e2948425a85a8a41b9f8611ac44b16c2ecc4b62779b66474",
+      "hash": "d2dd857dfb877f88a59d74565a52c9a744ffddae699b4bca1907dbe436578f0f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Seed 2.0 Pro from Bytedance. Неплохо неплохо. Вполне на равне с большими лабами из США. Можно смело говорить Китай догнал (подождем когда там попользуются). А значит стало еще интереснее в мире AI. \nModel card",
       "images": [
-        "https://cdn4.telesco.pe/file/MDV6_MIDu_D763hVz9C0I0oRGlFdj69raEhJF-pSYIWav2NW5TWr6iS9zo3D8RuZUhmZMT4-iTUldS5gyY3FLDq4KUKwFF0-ubYz9Fm0rkfh6NskAjpq89HbGieyIiuOEsIDTsOrUJfpTjDAD_42g35N-9uCqfQNRtuhAqFov_oDRlZ2qIGJMIFRRHN40bTOR1xon5_DwJl4o9E10BRzlh0rQuXi9LLOHlDurrqivdrVMlf0RVBPyc1nowqy0bIP1kfY0jHCvDeKhkXXF68zOivubgzhnO76qqgLozvZtOM_0aTOdPxFIptK6QETL882X8Mnv5YtBQD4_9_M3M4CEQ.jpg"
+        "https://cdn4.telesco.pe/file/K2le7SOv7l98Y1DkgK_qgMTclW9puA4pEu6eGdGO9tUx6LYK6h2izLD3T0Ea0KzmsgjxNptzfQRAG8epAI78_XhlJV3H8vjMuV8EqiHZOScmpnonoNCPXaZq7n4KfOgg10LtjuoGYSY8i_tBSAnTARReaJSaQwE4LWhgPCvTe4jsaJCbBgL-qyX0S4QJmlSJ5stlBoXEcM_x6XEfl9Yx1_bh5zIozphJvduqBc-Xtk4BL5xj0Y9cEpdBs82W_Uv-yJfUe3Yu0x1fH6FR-4zAF6EQNYNTf18G7kKPYwsun0tEl6Fl6uYn7u1iWK-Z8TYYawC-QD617H7PFhcqoWBuqg.jpg"
       ],
       "title_en": "",
-      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Totally on par with the big labs from the US. You can safely say China has caught up (we’ll wait till people there actually use it). Which means things just got even more interesting in the AI world.  \nModel card"
+      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Totally on par with the big labs from the US. You can safely say China has caught up (let’s wait till people there actually use it). Which means the AI world just got even more interesting.  \nModel card"
     },
     {
       "id": 1237,
@@ -283,15 +283,15 @@
       "id": 1228,
       "url": "https://t.me/chillhousetech/1228",
       "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "67abe3578bfbed5fd2f83f4320b22c3af180cf700bd1a28e28aa8d56c760a693",
+      "hash": "430205c71ddc657bf7120ad880db77cdd5427a1c2d2af7aee412430ae72f547a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
       "images": [
-        "https://cdn4.telesco.pe/file/rIcxVSGJvGTPDkoVRMlY7KW3-_HgKF2CoMOo0ofaKAu3wZ4k2cIxgIHKkS86UH6-Aee05jxEDRzuYQ1kR0yvllwV-BwAl1VhgIOmiwe2NGRzqqzWQqMK4kEEoZ0OsQjMlaaUIXG7gwX7n69wcwx7Odq46XD8sm5ixGbnRY-ey0bp9xdDVUzhMClFCoinBD3e06OWKWXldOAZpXTpjGJNqcRJHtVbi_jt9L9ztcDBK2F71S8uzSCkHgF-tojTADKTqFVYw6fUvmJu4BzF8fkB0Lm9BcDdeXPf0crr316fKGH74sOjlBFk9t5UgQqocz1e4AtX4360x-U4qZYv-KgfWA.jpg",
-        "https://cdn4.telesco.pe/file/jtc5w5dYP1amlAbsZywTvR8BpO7T5PwKfpu6KApz3haAJOkQ3CHTb49L08t3GMd_1PNKiMAsn2DY_8gveoFV5S60INncidRmfjEoho977lbTr9SgXipKAeDiXEj6Wo6tYc9OApdKQaNPON_dNT7QL324eRSKPytIatY_OxzT7x7-pUc5EyjariyC1QkCUnl7P5c-qMNxupoSTkMhBlRi0sDlAGSYBSSfeEd6GuxKATZlOsO7i0aeyb_1mK93J0laI_f4i-qfCfa-e4a34i0bxQxeM5M_-g7_n4fKoPBZOfBD86a6EcZY4bkAGODbcoN6TsqRV6BoiEKLDtEs1hg86g.jpg"
+        "https://cdn4.telesco.pe/file/FP4OA1dOn6V0KhMymnIGajMMmt90fertjDMIpaZ-xpHaaQGLPQil6g7ZJnZWKgsNiNR_wpGrOK1uo8731wfOK75TpcilTtuZMPYiz_jv-MS4aQrc8Gbs73i7V7h6DtAoFvk6M1Q-g7fDNVZNnNsv4ZirwV8Nots9vns1IVBudl8fASg9hLRMOF_GK6fchKC1QRkD0dLHx9bHrQVTp5ArqYCmxJfXXQElIDS1iKupCDWvcAKiQXxXWxA2VbyqVFLi0mWLmXeBflrv6Rg5wuMZckyO8RH572sSw_cTGqI40GFIfntu2WZhE2DCsO3pmzhTKPZrL5EDWmTG_5f2oe183g.jpg",
+        "https://cdn4.telesco.pe/file/L4MDa_SzDbSMi9OvGDAnEgYopNqJcvbOAYCQKXekLTUO4ZNvm2x-ngxRShiaxNl6uMjMYCMg1uheWcJIxd2cpS8k_wLKsj5ot5a49Uj1lkBgqWFxbTrcwkLaWXVzPZVNoppRQuZcXfdN5RxuaoZmo5JoCVoM3sIwcPZ9F-b6ZJ0BsmUd1WvQ74lxrAIir4CqnfOQxIXD3YUzGUF2cQ_lGVz-gQSrlZIulq20p1s7rytxkc8JeIzMS3TOe3GCohnR12zHWO-6KChAGWkSAIRD0nB4EJRRxm66pHqeLc6PcgNDnzthrGzDerDf_Z25E4_gCpn5F4rQBpO-2yxnXs89Dw.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted the important openings. And probably also went to Bali."
+      "text_en": "When you’ve raised a round and immediately posted some “key” openings. And probably also went to Bali."
     }
   ]
 }
