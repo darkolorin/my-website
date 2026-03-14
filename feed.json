@@ -1,8 +1,32 @@
 {
-  "generated_at_utc": "2026-03-13T19:03:16Z",
+  "generated_at_utc": "2026-03-14T02:52:37Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1259,
+      "url": "https://t.me/chillhousetech/1259",
+      "date_utc": "2026-03-14T00:24:20+00:00",
+      "hash": "39b344b18703227c64e8d36407143df3d28a89e3a712309f141bf86c275d853c",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Рубрика «прочитано, но не до конца понято»:\n- как умирает качество в сетках от длины контекста и разных трюков поверх, \nработа старая,\n но тут ныне все взялись этот бенч (longmemeval) нещадно RL закидывать. Поэтому советую ознакомиться, чтобы не всегда вестись на 1м контекстного окна\n- \nклассная статья\n от настоящего математика про успехи ии в науке так сказать \n- \nодноразовый телефон\n как концепт анонимного чата с ии\n- узнал что такое \nкоэф шарпа\n- все еще не понимаю почему вообще про \nэто\n говорят\n- авторисерч карпатого кажется залетел в каждый угол, попробовал погонять на кернелах наших получил +2% скорости (не то чтобы интересно)\n- \nрекомендую\n про Китай и США",
+      "images": [],
+      "title_en": "",
+      "text_en": "“read it, but didn’t fully get it” column:\n- how quality dies in nets from context length and various tricks layered on top,\nold work,\nbut now everyone’s gone and is mercilessly RL-bombing this bench (longmemeval). So I recommend taking a look, so you don’t always fall for a 1m context window\n-\ncool paper\nfrom a real mathematician about AI’s “successes” in science, so to speak\n-\na burner phone\nas a concept of an anonymous chat with AI\n- found out what the\nSharpe ratio\nis\n- still don’t understand why anyone even talks about\nthis\n- Karpathy’s autoresearch seems to have flown into every corner, tried running it on our kernels, got +2% speed (not like it’s interesting)\n-\nrecommend\nabout China and the US"
+    },
+    {
+      "id": 1258,
+      "url": "https://t.me/chillhousetech/1258",
+      "date_utc": "2026-03-14T00:12:37+00:00",
+      "hash": "7b346f8032c7cee4c048c903cd4c7057f16325c71d6d0a00ab3ba54110ea573f",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Возвращаюсь к новостям. Поездка в долину была продуктивная. Даже писать было некогда особо, но эту новость пропустить было сложно. Все новые и новые модели выходят!",
+      "images": [
+        "https://cdn4.telesco.pe/file/Lvptr1UqA_YEUKHoZZ8TsqJ_ajHAh9yiohyzjdxfUaXuTH4c3xUpwCSv_uq-dXPtzXJrpDvGTyc1kJXO4OcHuRV11RmHjuttEwZ944_Zg6Qd1N7WLtlZv2DiK9YRBsirZGuDQ1sfkIwFqr_W7wlVlIeP9tTY-P1ILlkBljFe2fokB9EA_5RMPVlLSk3I1BuwefgsS7czX_LATGHaeMCpy0ASQ0jNT9QSj4VlTMoSsYQSIfuu4GaxhnhrAQfSLBrIaHoQuIK83eRFCsMvu_bTEd0xDxTgPIk9K9emAMmOxETD5dzsjZCfoCnYYNAXNDs846IPE8Vd-qMpitggw40hwg.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Back to the news. The trip to the Valley was productive. Didn’t really have time to write much, but this piece of news was hard to miss. More and more new models keep coming out!"
+    },
     {
       "id": 1257,
       "url": "https://t.me/chillhousetech/1257",
@@ -169,14 +193,14 @@
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "742ec650c94ea0558667c493880883223d583642f643c795fb5b052fce21dfff",
+      "hash": "8b2a49a33ceaf4fe279316a050e9f3bfedc86d4d108b453032f1905262e2153f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/sXFEtsoXHTTk3c2VSZ7MqPGJeZGawa7zQSnD6pvkelnZ0JnaGm4AxOk6N5dHsj5IeaJV08c_KO_j8TNWGM3KwCG15BoiEXYBNr9-T_DoorSCfMtt7ApRH9SbCW5fYywnwkQUiAG8D5KAgVgbLcWmUoTUHmdUtER2NAfJJsRQPkXL1c3c8KUuZZ-hp9ee4juS5gF_wBoe_et3gPoBzi3xnymA05rqjufb8sienffgrOKHc315rM20cGI5EkKvyVK3DeAZSb1owrbzHxT9EfJrHrbkGJBGhSbv5Fqp1ctD1cnRZ4hy53Bv6fHsmujKWYlnMJ5bgGPa3mVhRM7CcOStjQ.jpg"
+        "https://cdn4.telesco.pe/file/k_SSBUdomElJF21E_8BB5z9eiiG2OQUQgtQ09ZRSk_na4Lq--jY9CcFnnSPc5QNf6w4Ezk3qsYoZvP7AKfYZz87UPMZDCPq3_qlTEqam3W7tVBtduudn3fOWtb8p08FbCrF6gl01T5Ny8LbSEIo2cAS6xPgTXLCAtwDIeh-iCvRUm-G2NG3d-k-SdtccETlWtlxm8ckwlvpw7tjXyT3Y8gQzqXAlsBidiJPQTlBIb8ifKBeLERX1c2xRZSCwj8WwhT9BOXXGiMgPakcW2nzbMYE996exVStCMorcW3t1ZmIlz9vq3OjEyxodjlAo9UMmQcZ-LibnerAO1Vjn9PW6xQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure they don’t have people writing code over there  \nhttps://claude.ai/  \nUPD: they fixed it fast"
+      "text_en": "Now I’m almost sure that people there don’t write code  \nhttps://claude.ai/  \nUPD: they fixed it fast"
     },
     {
       "id": 1239,
@@ -193,14 +217,14 @@
       "id": 1238,
       "url": "https://t.me/chillhousetech/1238",
       "date_utc": "2026-02-16T06:12:01+00:00",
-      "hash": "6d9da8a767a7554be8925b24a79eeeda23dc95ea64be65f0837d96eb980680fb",
+      "hash": "000a860836399dc38089faced909df393620ad504c60b2cd3c049345d4daef6d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Seed 2.0 Pro from Bytedance. Неплохо неплохо. Вполне на равне с большими лабами из США. Можно смело говорить Китай догнал (подождем когда там попользуются). А значит стало еще интереснее в мире AI. \nModel card",
       "images": [
-        "https://cdn4.telesco.pe/file/Kx0FuQwnu-hu_WAikQ7aTg2QqC3TLtqm5lJg2e5MyUIZSIDZw19cBBHrr7TdkjwRxyhU_fTit4ig25sGiacYWfFtnYHwfJqEG_aRqOpTzcu77H_g8x0vR92FWQ_oKzZe1apyxkgiZ02Z5-km7r4LQQ3_Oijig2PUDlmvh1Ae-QKxe-XktIGci2Fzp2-_Hze-NQv3Awv4wf6mLly1gXE2wsl27iM4Yh5ZMjcODwHmU5EhA-m8tUzzJV3Vg3Vy28Gdm3uGO7GSk92A5uzNwh7xYFvUfNlII2Ct_mfVXqf7Dq9P1xkMSkraFRiTwjhAZtfxq5m8Z5TL-4PusNvKsW2aTw.jpg"
+        "https://cdn4.telesco.pe/file/WEcy2Nc7BOUsIPAzydflqoOe4xF4AHzANqfjNYGoyvZKi9eEFvagFwTurxLWUy5iF8GJVSunJrGBupq126X4LZspUfSPbx-wED9ygtDA0mRZEUXtPO-HXSOSpLm4muHwcigAHD7UH7JSl1GJAlbnhFdvnr4bXy7Q6GQTsAQH4_HwIlyA-yHnILgPPoSyClHSIZxn3Q9nyv2-BClm3Lu2QE_D4mHtM9ekMc0qSxFdT_rKSaHc-Ta1ZfiImQmDnDzzyhYIWXmqqqmLS1n4cBPyB5GjDimF42tKc8Rft699kykz740vDDWpj-vN_3y_scKqp7WV2Plvzw2VYxqmIGJBGA.jpg"
       ],
       "title_en": "",
-      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Totally on par with the big labs from the US. You can safely say China has caught up (let’s wait till people there actually use it). Which means the AI world just got even more interesting.  \nModel card"
+      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Totally on par with the big labs in the US. You can safely say China has caught up (let’s wait till people there actually use it). Which means the AI world just got even more interesting.  \nModel card"
     },
     {
       "id": 1237,
@@ -267,31 +291,6 @@
       "images": [],
       "title_en": "",
       "text_en": "By Seedance 2.0 and Kayne East  \nSo, how do you like the quality of the generated video?"
-    },
-    {
-      "id": 1230,
-      "url": "https://t.me/chillhousetech/1230",
-      "date_utc": "2026-02-11T17:47:42+00:00",
-      "hash": "721d98ad35f559508aebcca16105c2c35d633fac303d3c574a942f7c2da1866d",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "О, еще интересную \nвакансию\n нашел. Первая строчка описания:\n«\nBlue Rose Research\n builds data and AI tools that help Democrats win elections» \n😏",
-      "images": [],
-      "title_en": "",
-      "text_en": "Oh, found another interesting job posting. First line of the description:\n\n“\nBlue Rose Research\nbuilds data and AI tools that help Democrats win elections”\n😏"
-    },
-    {
-      "id": 1228,
-      "url": "https://t.me/chillhousetech/1228",
-      "date_utc": "2026-02-11T14:38:35+00:00",
-      "hash": "5db581e7cb2ba7a1fb7256fc8686157d7b991dc7b3762c823875617d06da5a64",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Когда поднял раунд и вывесил сразу важные вакансии. И наверное еще поехал на Бали.",
-      "images": [
-        "https://cdn4.telesco.pe/file/BsS9EUmcdn1PMs5iqtt6v1sdF-jTklbwegep0Oqv1zQqGDvhId_AyTZFyEItbZDTNw0hTIyQp0Tu6yYuHuMW54bu0rAlOiq3xe9KLEXm9AkqR43AcGKCGFUipxMPyq88GREsMyiFnOpddNb8b68HZS7Rdjbb7CDVYdQv-C6LdPqzqQO77TqtKR_wL85cXLQlN15JbiXroK17ExS8qTwMyKu7rGOrjeeSeqq_jK_STxcGvgg7y940Y-jPd6ITMxeNAWiQRud8v3G8DeAnhLsW-hR_3QDB0hIV42riGyti7kJl8u3NPX3rdbl-m9NEcquFg-cb3WmNvwc4fLSbSqgAUw.jpg",
-        "https://cdn4.telesco.pe/file/BWFom0YwRS2_kPF84zRbRQD70lMv2KI9aLd8dYQry-ErWSpUUl1hD6x4plCJo_R39oULmUt0goSE5eunP_gsHaSNiQmJmh3YFoWb2YTPQZKfmQCqJ5SewJ5iQ3BIrqLETlYfHXi3I4Hnu5zkzqyCa4SMvbMJWwe5QLRDkx7P5cE7rcgPlGqrDwggO-8n1JtwOBvomMarABR6Xsw_VjnecUHSsxAu8GnIg6T7oqTqsVyqOLckTLCRXbsZpLD-LAcYvJirAKU8BytSP_su9XPuU78pmdF_YOKwBR8D0-9ZEKGOjaaeq-a8xw-qWEybmkk-8xT8w3-0z1MAxv0S16yz9A.jpg"
-      ],
-      "title_en": "",
-      "text_en": "When you’ve raised a round and immediately posted some important openings. And probably also took off to Bali."
     }
   ]
 }
