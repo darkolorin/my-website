@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-03-16T19:21:58Z",
+  "generated_at_utc": "2026-03-17T03:14:29Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1260,
+      "url": "https://t.me/chillhousetech/1260",
+      "date_utc": "2026-03-17T01:51:54+00:00",
+      "hash": "4ef31a96a4b847473770e5fbb75ef05252e2a3d85eca611b2b46d6119c9d4716",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Ну это AGI тезис похоже отменяется, либо его вообще перестали серьезно форсить. Но тем менее OpenAI идет в прямую конкуренцию с Anthropic с его кодингом и в бизнес/enterprise. Это крайне интересно и кажется говорит о том, что делая все подряд они упустили достаточно много конкурентов вперед (тот же Google). И еще интереснее тот факт, что похоже в срезе фичей для аппки идей у них так и нет. Даже учитывая покупку openclaw и прочих. \nА где же пресловутый ChatGPT AppStore? Хах.",
+      "images": [
+        "https://cdn4.telesco.pe/file/d3YWywyGOt0tQBhjHceXjgfJAh9Q8tmg58dWow87Q8rsQXlVXEmM-D36jUQ5pe2CI8ZCnB-_L-hB_b9dFbPjQKHo6Z2JD0h3PssbrvKy08NoKFJlcPG-kY_5numbidxH0DGKBhMGGHPXhC7z9DPCe42knV-LjqAlVQ7usSveJDWCHZF2ngVZQkUnb_r4y14QuQ3HQGB-uy-q-L7La6wqa1KL5v3wpfDy05DuHd-07d4K5d6a91eZbTlCz4HVJHqYbg5Fxe3Gn2A5Vix3epZAH0GiUEpFVcVAIb_lzhxd79IZeDno3aSfAdJboZ-CKql_t9Ln7jSW3U4gHkHPd-hyJA.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Well, looks like that AGI thesis is getting canceled, or they just stopped pushing it seriously. But still, OpenAI is going head-to-head with Anthropic on coding and in business/enterprise. That’s extremely interesting and kinda says that by doing everything at once they let quite a few competitors get ahead (same Google). And even more interesting is the fact that, judging by the app feature set, they still don’t seem to have any ideas. Even with the openclaw acquisition and all that.  \nSo where’s that infamous ChatGPT AppStore? Hah."
+    },
     {
       "id": 1259,
       "url": "https://t.me/chillhousetech/1259",
@@ -18,14 +31,14 @@
       "id": 1258,
       "url": "https://t.me/chillhousetech/1258",
       "date_utc": "2026-03-14T00:12:37+00:00",
-      "hash": "953c67dc00bdee14e7779d0ed56378b710b90871b14a74fb4d52e1fb2541dcf1",
+      "hash": "b76069f8018de1b1e4aa0095f663c3451e1b4bdd7b4e73b037693c78c92279b1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаюсь к новостям. Поездка в долину была продуктивная. Даже писать было некогда особо, но эту новость пропустить было сложно. Все новые и новые модели выходят!",
       "images": [
-        "https://cdn4.telesco.pe/file/fIFfzw9piZCPQkcdHyjC0alwwJbHIxA4uE-zStdnwod2zocXiVJB7QIXNSUirNPaUzhigJF--gJ1wyUOTA2cFV5d2C4I3LS0k21MwY0Uqg_R1l60Xr9SW9UJ7GYPkLPOGVQh26zPwtA-OugTjEMwhQRURYvVoe2yhI4j52O8BsEr47qWFR6vNR3suVLw1AHxvkuNNn-X6A_49g-S4M91iqvsOkCE-89YbHBWjYNeJ1nKjzMs1QhHN741lSI0G0Sb6PNhgPoPxc02Rm1s6EjN0F4bkxI52wGDTOr9nRIeFyC8rDYYxH7TvmhJ7wEaPaA4fzQpXZ4OtiqkSXPMfo2WTA.jpg"
+        "https://cdn4.telesco.pe/file/Midh6kxqDaX3wxyhfn1hoq5XVBmCbyTDKm4vvneyKsnlf3kUDfOQX7-OW68ePHXw3h28kP4kR9QwZRrnd7Cc7NtGu6PAlazAKVN1SCuj3S0kr9fAtn7Gz9QzldkBeX_D8yRrfppvPIGE_Y15rgiJYqzHgegj2ITpYTZIz6ZMV9hBWAYYey-yJWfYy_g0MlPbt1FCRRQ8TuU4PyqDJvsycFxOQwg4quuco-0hZJWCQcr-2K6q0GiZ4uS9sJlJhnSaBzbQNSL1ET7zgZtpkTQM4OfzLiS11ZUFtbpGfmuqLYw71QQwCi1vQ66WfkrWMd-JQzRRQQqR_v8DCy7u3Rwkgw.jpg"
       ],
       "title_en": "",
-      "text_en": "Back to the news. The trip to the Valley was productive. I barely had time to write at all, but this news was hard to skip. More and more new models keep coming out!"
+      "text_en": "Back to the news. The trip to the Valley was productive. Barely had time to write at all, but this one was hard to skip. More and more new models keep coming out!"
     },
     {
       "id": 1257,
@@ -193,14 +206,14 @@
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "d119cad220b28605aa1e49efa7286051bb3f8f4aa8a769e04daa39d672b431cf",
+      "hash": "a5fc13bc1cd3a41ca214a003768e9e24d5f4356717c3f1c2dc5d31cac5dd2705",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/lXFRfhQNWuQRzItFZ4sYznxULltA5EUcto_evKB8jCqCd7mNTahhfQC3pKhPz-QwDh44rs1A0BBcWC22cz5F1oYecoCzH_rEh4_1hJIFvohtVGiwhEWU6B2dDHO49A3D9eLQbqL_lrVwNIg49kqKQGSRSLZ1NBEWcMkWTTjcqualqRDpWmbSNhxMzV776gZHLyTirZIGlOpo57Ka5djyg67jaIasUe6Dyt6qPprXecDRmrwAo5VcN4O-Tmztuf8UbAZiFZC4KCtTSnOY1dvZ0ddYnlg-9xd40oLuY8HSMhysulXjRumfBw1NEXGGG51XpaXeJRlNDPj_YtMTf86w1g.jpg"
+        "https://cdn4.telesco.pe/file/pdqA8OHda5uiM2AMFinn1EweewXJzY6dEnNoFivMb-tvrnDnIzLDoqmvKMwzkosN-hKrNTqrCD3mTxX0TIwDZnCOFXzLhzjfUiZOAniuPnfKKEOegj4Icp9UyqjYpETkLwUP6-92lYky-cqgQ-4-PBU_xYXf5t2Zb9FqhlPeDBU7mmxTa2k1sUZKvHMhuwixpWnDSRV-XhX9vulrmqbrQAO9gxzYz3AoIncDyYEluNBgAnX7KBfe1sT8yEIwM3FiUzB0SVpV9ERypkzt9aMQoBN-nHdNbPIkoOS8mhui_9xutNY_p7IDtAHL7IDd6ilfS5hLVB7UPm-tlzU7nbgQTQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure they don’t have people writing code over there  \nhttps://claude.ai/  \nUPD: they fixed it fast"
+      "text_en": "Now I’m almost sure people there don’t write code  \nhttps://claude.ai/  \nUPD: they fixed it fast"
     },
     {
       "id": 1239,
@@ -217,14 +230,14 @@
       "id": 1238,
       "url": "https://t.me/chillhousetech/1238",
       "date_utc": "2026-02-16T06:12:01+00:00",
-      "hash": "eba4dbce49919b370afb2a3320cb850089e44904680ee9130884d9684f8f9155",
+      "hash": "e10b95d39e0db9701f7b1a0d61c4e12ac95c9067369783f90f70529dbce643a4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Seed 2.0 Pro from Bytedance. Неплохо неплохо. Вполне на равне с большими лабами из США. Можно смело говорить Китай догнал (подождем когда там попользуются). А значит стало еще интереснее в мире AI. \nModel card",
       "images": [
-        "https://cdn4.telesco.pe/file/ohKJbK4TOO-MK_ws9qEq-jRJqHbCpSRKv9QNin5CHLUIS3KHTdsxAUcjFdGkk0Auzphu4rK1EPVXLCks3ocp9vyIsgjGPgT4JWusiyFbawfDkMvrfXoD44LNbgFu02YEs-X8zhxtoRuOi6E40-cVcN-unV53Y-ZiZSPb5IIRG-jBcHO_oWSD8bewj1qf7c-zCkj2qixZhrIuk0w90O11lxshgiStBD4YTJ6ma9XCAw3PiVAUoOqV1YBYmmUKD-dOzze_CMQAtp5E4Nu4TNw5BGWjCBZjLrVl-QEqdMjoM0qtek4OiCq-65z22nxjezJRjCDbNBkx0RwaOp511G1bLg.jpg"
+        "https://cdn4.telesco.pe/file/RfRcibRc5fR1gEJYd6JOK49xEE-Du_N1BJlXAgKDW9orLaOnUnOfo9kuAkm83SYPNrBwpXE1Rr-llESlJzS-y6Za-b1n9sgKw6mAvZcADPWvsmD06TawreEorhPRw5zdC_7dAmXdPzPAS-xXO00QFVflWmurvAcsIfXsOfDE7chGEYApQhSK6uS-g32Uo2IPhH29fw34Ku9DRXr6fFpjWTeS0uqe2y1SYuxII4S1r4b9XEHCzqXjqfqJttnYfEE8Hx4zzU5J5jttXgBpT--eWZCDRqzazQh734S-Uf0g0UnHZom2VpIEWjmu5JKm8hehjaHU5BOsJl62XOES9S0Y_w.jpg"
       ],
       "title_en": "",
-      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Pretty much on par with the big labs from the US. You can safely say China has caught up (let’s wait till people over there actually use it). Which means the AI world just got even more interesting.  \nModel card"
+      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Totally on par with the big labs from the US. You can safely say China has caught up (let’s wait till people actually use it over there). Which means the AI world just got even more interesting.  \nModel card"
     },
     {
       "id": 1237,
@@ -280,17 +293,6 @@
       "images": [],
       "title_en": "",
       "text_en": "A pretty cool blog post came out, one I myself wanted to try writing. But I might be kinda meh as a coder and researcher. Still, on the level of vibes it’s a direct hit.\n\nIn short: in the race to automate coding and, as many believe, then the whole of software engineering after it, there’s one detail. Today everyone is trying to brute-force improve the models, and yeah, that’s understandable. Some hypothesis of the last three years: like, model performance alone is enough and then everything will be awesome. But there’s always another problem sitting right next to it.\n\nLet’s call it the “harness” problem. Everyone’s building the fastest car. But where you’re supposed to sit comfortably — nobody’s thinking about that yet. Like, in code editing, just changing the approach to how we edit code and how we feed formatting into the model already changes the result a lot. In the article the guy put hashes next to line numbers and some models improved their benchmark results by 10x.\n\nWorth noting that there are benches from JetBrains on this topic too.\n\nAnd the jump in quality is insanely strong even for top models if you just change the basic format of interaction with code. AI isn’t only models, it’s tooling, it’s inference, it’s hardware — all together. And you can run everywhere or somewhere separately. Massive field for startups."
-    },
-    {
-      "id": 1231,
-      "url": "https://t.me/chillhousetech/1231",
-      "date_utc": null,
-      "hash": "16acc6eecf636821c97ba2796b40132413c87b03c166f0b987c10604fa2b8d79",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "By Seedance 2.0 and Kayne East\nНу как вам качество сгенерированного видео?",
-      "images": [],
-      "title_en": "",
-      "text_en": "By Seedance 2.0 and Kayne East  \nSo, how do you like the quality of the generated video?"
     }
   ]
 }
