@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-31T19:21:17Z",
+  "generated_at_utc": "2026-04-01T03:47:14Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -20,14 +20,14 @@
       "id": 1262,
       "url": "https://t.me/chillhousetech/1262",
       "date_utc": "2026-03-25T23:54:22+00:00",
-      "hash": "6c1a8f570acd71f298469dc5ba5c0c603d5953000636605f836be5728334d7f2",
+      "hash": "f8489b2b51797a0347f31165e8dd6ae7449e3976f4691ad7949185d8606d1238",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Напишу свои пять копеек про повальное увлечение AI «штуками, которые конечно же делают меня в сто раз круче и я наконец-то заработаю». \n1/ на сегодняшний день AI инструменты прямое продолжение их владельца, если не хватает знаний то и не хватит с аи. И дело тут не в том, что невозможно получить сайт который раньше не мог сделать, а вопрос какой сайт и что будет в нем. Так вот суть проектов прямое продолжение владельца. И если раньше с командой из 10 разрабов ваш стартап не взлетал, то и сейчас с командой из 10 агентов не взлетит и непонятно где потрачено будет нервов больше. \n2/ аи на сегодняшний день не понятно как интегрировать чтобы получить измеримую пользу. То есть да мы замечаем что вот мол эксперименты пошли быстрее, или подбор параметров. Но это все личная эффективность, а как увеличить эффективность всей компании не ясно. Помните такой мем что один разработчик сделает задачу за 2 часа, и два разработчика сделают ее тоже за 2 часа. Тоже самое и с аи плюс человек. А еще хлеще проблема когда это куча людей и агентов. \n3/ автоматизация == оптимизация. А оптимизируешься ты когда кратно расти стало очень тяжело. И если вдруг вы с помощью аи начали оптимизировать проект с выручкой в 10к в месяц - вы явно копаете не туда. \n4/ аи все еще инструмент который нужно руками вести к цели, что конечно кайф, но ждем мы момента когда этого делать не надо будет и можно доверить задачу от начала до конца без ручного контроля. Думаю в разработке такое частично случится или случилось уже (только в определенных задачах). \n5/ вышел тут \nARC AGI\n 3 и там из прочего смешного появились реплеи того как аи играет в игры. Очень забавно. Интересно как быстро натюнят харнесы и для этого бенча. Ведь суть бенчей это просто победить соперника ибо многим абсолютно пофигу на реальные задачи.",
       "images": [
-        "https://cdn4.telesco.pe/file/IA33WxM4vsTCXpb8l2BW9ReC1H0Dy7lP431uYVu8CCMJ5ofSiUjPx-SsWUcuERjZGirGe_wHJ_MrUcTvV817CSNw9MJyz_BEyJ2Jq6b4HgYH97Q6Jx-geNdJEyytM9Xu3nEoBc9JURYdQsHLOma1P4tmAyJGzGev6qS-JawWUo5JGlReonwkxY3gNns_NNlVu1p5R3Bs9bxxCWrNSVh5opqmwWsVVs1CkQ98JorStW3T3Az8Rm5HvjZnxQURbExREESi4Zqez1R8xp-NoIakY3CFEDyOO03r3ee71XsMYeft9IuyeRO2O4qlRKrMZ_RuSBHFL6COdlIkQ5cx9IvArA.jpg"
+        "https://cdn4.telesco.pe/file/sDPTU99my1vgMsehSu5DF1FjDIQymhrf1GAmIvvK15L6ZXh9h5Y3ODWBbuKl4aegm9g_JhV-32vQDTOHpfek40SiPO5F3jQ-AmL2DJjLUb5j51fhGtYukpAarVCmdGGTn6ikB6ygm5oGteLze45NK0SvmHq-ThM1ZVZzeVrXw-lwxfxfRSwCahkQEGWnGRPBCjfCAUdmI5MO9fkl10eEq3ObcFDGW3oKetAsyV3Pa_QdOrrqaqRkRr9zQRq945-DFqI9jMzf1UC1HmHgxbmpj0xGLq63OZzB5ja6pgVPQPM98iVjsAuMIAw3skvzkf9ufsRDg6fFyY3ftFklUhWqNQ.jpg"
       ],
       "title_en": "",
-      "text_en": "I’ll throw in my two cents about the mass obsession with AI “things that of course make me 100x cooler and I’ll finally start making money.”  \n1/ as of today AI tools are a direct extension of their owner. If you don’t have the knowledge, you won’t have it with AI either. And it’s not about whether it’s impossible to get a website you couldn’t build before, it’s about what kind of website and what’s going to be in it. So yeah, the essence of projects is a direct continuation of the owner. And if back then your startup didn’t take off even with a team of 10 devs, it won’t take off now with a team of 10 agents either, and it’s not even clear where you’ll spend more nerves.  \n2/ AI today is still unclear how to integrate to get measurable benefit. Like yeah, we notice that experiments got faster, or tuning parameters. But that’s all personal efficiency, and how to increase the efficiency of the whole company is unclear. Remember that meme where one developer will do a task in 2 hours, and two developers will also do it in 2 hours. Same thing with AI plus a human. And the problem is even worse when it’s a bunch of people and agents.  \n3/ automation == optimization. And you optimize when scaling by multiples has become really hard. And if all of a sudden you started optimizing a project with $10k/month revenue using AI — you’re clearly digging in the wrong place.  \n4/ AI is still a tool you have to steer to the goal with your hands, which is of course a vibe, but we’re waiting for the moment when you won’t have to do that and you can trust a task end-to-end without manual control. I think in dev this will partially happen or has already happened (only in certain tasks).  \n5/ ARC AGI 3 dropped here, and among other funny stuff they added replays of how AI plays games. Pretty hilarious. Curious how fast they’ll tune the harnesses for this bench too. Because the whole point of benches is just to beat the opponent, since a lot of people don’t give a damn about real tasks."
+      "text_en": "I’ll throw in my two cents about this mass obsession with AI “things that of course make me a hundred times cooler and I’ll finally make money.”  \n1/ as of today AI tools are a direct extension of their owner; if you don’t have the knowledge, you won’t have it with AI either. And the point isn’t that you can’t get a website you couldn’t build before, the question is what kind of website and what’s going to be in it. So yeah, the essence of projects is a direct extension of the owner. And if your startup didn’t take off before with a team of 10 devs, it won’t take off now with a team of 10 agents either—and it’s not even clear where you’ll spend more nerves.  \n2/ right now it’s unclear how to integrate AI so you get measurable benefit. Like yes, we notice that, sure, experiments got faster, or parameter tuning. But that’s all personal efficiency; how to increase the efficiency of the whole company is not clear. Remember that meme that one developer will do a task in 2 hours, and two developers will also do it in 2 hours. Same thing with AI plus a human. And it gets even worse when it’s a bunch of people and agents.  \n3/ automation == optimization. And you optimize when scaling up by multiples has become really hard. And if you suddenly started optimizing a project with $10k/month in revenue with AI—you’re clearly digging in the wrong place.  \n4/ AI is still a tool you have to steer to the goal by hand, which is of course kinda a vibe, but we’re waiting for the moment when you won’t have to do that and you can trust a task from start to finish without manual control. I think in dev this will partially happen or already happened (only in certain tasks).  \n5/ ARC AGI 3 dropped here, and among other funny stuff they added replays of how AI plays games. Pretty hilarious. Wonder how fast they’ll tune the harnesses for this bench too. Because the whole point of benches is just to beat the opponent, since a lot of people couldn’t care less about real tasks."
     },
     {
       "id": 1261,
@@ -44,14 +44,14 @@
       "id": 1260,
       "url": "https://t.me/chillhousetech/1260",
       "date_utc": "2026-03-17T01:51:54+00:00",
-      "hash": "85cb5646cffa38796986cfef03282824c810e0b4afe8b834da967f0c40d0c24c",
+      "hash": "87a54894f72a0d506060c2f84e5e92d1e684b84fbf41bb1d4b20e64a645137b9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это AGI тезис похоже отменяется, либо его вообще перестали серьезно форсить. Но тем менее OpenAI идет в прямую конкуренцию с Anthropic с его кодингом и в бизнес/enterprise. Это крайне интересно и кажется говорит о том, что делая все подряд они упустили достаточно много конкурентов вперед (тот же Google). И еще интереснее тот факт, что похоже в срезе фичей для аппки идей у них так и нет. Даже учитывая покупку openclaw и прочих. \nА где же пресловутый ChatGPT AppStore? Хах.",
       "images": [
-        "https://cdn4.telesco.pe/file/gvh7Tqk8fMDEDJgwmqTLX5H_OZ_HW0YJOVdUqWb9hqky-N6v90R0AXOZazYLTaMuE2_Tz8e0VGrTfByJKvIk8qBpHgOKRSYM3R1fA6wTV02Ymm9vpOMSqAn8Vf2XHi-aa258WaSAB6jafSEYVu0Xqx2cba3Ar6nM7ipQooqewueW5IgNDt2QEAlogFcH_Tl5oImA54d_lrGOJdm1u0vEBUeKvVTdmOudbsJ5yGbLAiNfgqW5It7-3vrnxSFqeJk03tviMP2PgROge_avKV227g6Mer3ZUGyhe5rmuVEdgejpDLLrpWA6MsrjyU-DtC2sXe-cqV9egWzSxAZBTWFjJA.jpg"
+        "https://cdn4.telesco.pe/file/pe97BWWJ7kEvv2JBDZQxpEqDYXvlyB01Y9NB_3MGDGYVKFwMi6KKjvSpGhzNHpI7THzyVtrOOXzcK9m62WVe9ejrbnhfoieu9e0abzkt4vce2F_MG56W9gVBkUCvZuOjPwPejxB_r4ZUDGMHsZ96nKp7zp9WX01QSQ3dIoxUujsoZw8iN5JGrcAXKTv89Lvr3eeT3apqArXxO3WPTTBLWJygx2xex2cd3Y8yl9zUJNCySYVHJqogVGyAhOjxjL5qR5zefuog98zAfTg4B89wFaP_mdAD4EW7fhyNlQx0ENGJ0HfHSjbAmAWDQ64NtLUuzJ6R1gR1lbRi4Yx5aZrJKA.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, looks like that AGI thesis is getting canceled, or they’ve just stopped pushing it seriously. But still, OpenAI is going head-to-head with Anthropic on coding and in business/enterprise. That’s really interesting and kind of suggests that by doing everything at once they let quite a few competitors get way ahead (same Google). And even more interesting is the fact that, judging by the app feature set, they still don’t seem to have any ideas. Even with the purchase of openclaw and others.\n\nAnd where’s that notorious ChatGPT AppStore? Hah."
+      "text_en": "Well, looks like that AGI thesis is getting cancelled, or they just stopped pushing it seriously. But still, OpenAI is going head-to-head with Anthropic, with its coding stuff and in business/enterprise. That’s extremely interesting and kinda says that by doing everything at once they let quite a few competitors get ahead (same Google). And even more interesting is the fact that, judging by the app feature set, they still don’t have any ideas. Even with the openclaw acquisition and the rest.  \nSo where’s that notorious ChatGPT AppStore? Hah."
     },
     {
       "id": 1259,
@@ -68,14 +68,14 @@
       "id": 1258,
       "url": "https://t.me/chillhousetech/1258",
       "date_utc": "2026-03-14T00:12:37+00:00",
-      "hash": "57d31743ac60e8a5b6ab7825aa5c2c6e8657b3abb658dba1d7b0f64efa529010",
+      "hash": "f0b76ad395a0f22cacf3d1c0b34c0dedfa6108b887640b3e2067d2e495a99694",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаюсь к новостям. Поездка в долину была продуктивная. Даже писать было некогда особо, но эту новость пропустить было сложно. Все новые и новые модели выходят!",
       "images": [
-        "https://cdn4.telesco.pe/file/Zk31FSe_ntqvXM6tsNfUoLHLplpzw9VLyCU4coYO-QwoN1P1t38jDJVnEtizFUgsmJZmCH2aWkVIKJx5SRkgyXyRsBuVxZuxf4LNUaRb1l2f4VUmFtUqrWVRaAFc70XXFflA55ShKE6GDOGQTD4fOAP_gsCNhVdRn90ysXJxNqfCpHInHrfu8MqiVGSTFajl9iXdPpxKw6CmAzbxP5lgI_b-fXtBTBnrO-p9d1o7eXUy54Bgrmum9M02ztTqh93zWXh9ykjGdNj06W5xG-QSIxFOrkBFcmTSFQVBeoJSEVWFx_FGiOpm9aDbt-_X-4iY5Ga--9BnWlQTe1zHJGadTg.jpg"
+        "https://cdn4.telesco.pe/file/MRTu-U8DtAQK1L0qeIwr23KEn_mYGjJiulJTeBKSaA6equOL8BW7UfSS8Qnr-Pqi3qE2DL4ZaGEAnahL_-dusjWWGyDjnq_zxHOUmkWgwebNaX5-UBn0Yo3qeamG_dKz_llpADOpv4jjy6u6CSIPL9sw4lBM0-aX2AeYWhLzBJ-c7-QMrB9glkNlHz27_dczA68rym0lSkbsMnay0STvQdFeyMk6bWq4oggjAj9JoKaQ2gvkVtESU9uy4N19FVKwNdPqazA_Wa1PDI4uk7DYswi4wDsDUMqXDGTAD2NpfY1t7B8V1wQdEygmdl4AqKshQxetTVXt5sKtxLdfc52Mkw.jpg"
       ],
       "title_en": "",
-      "text_en": "Getting back to the news. The trip to the Valley was productive. I barely even had time to write, but this one was hard to miss. More and more new models keep coming out!"
+      "text_en": "Back to the news. The trip to the Valley was productive. Didn’t really have time to write, but this bit of news was hard to skip. More and more new models keep coming out!"
     },
     {
       "id": 1257,
@@ -230,27 +230,27 @@
       "id": 1241,
       "url": "https://t.me/chillhousetech/1241",
       "date_utc": "2026-02-18T13:56:58+00:00",
-      "hash": "6386055b6b1b1da28ddc7be36eb99c5b12e3d6bbf96f68cb9785b0e2b268a6e8",
+      "hash": "58567104d056184b314e66eed1d0763e081905558e40541b6e8dc89d285cd7ac",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Короче говоря хочу внести чуть ясности в эти раунды. Вот снова в лабу инвестируют топ фонды ярд при оценке 4. И таких вокруг новостей в целом полно. \nЛогика в этом примерно такая:\n- всем фондам которые делают такие раунды нужны проекты типа Google, OpenAI etc. Которые будут определять развитие определенной отрасли. \n- им не интересно зарабатывать из 100м один ярд. И никому из их LP (вкладчики в фонд) тоже. Им продают высокорисковую стратегию и они покупают. \n- большие аи лабы это вполне понятная ставка учитывая что настроение у многих именитых рисерч команд о том, что трансформер не приведет нас к след уровню AI \n- фонды делают все на основе уже пройденного опыта, ага вот в прошлом цикле сработало и сейчас должно, эта идея близка многим людям и хорошо продается \n- иногда важны детали, но редко, обычно выбирают максимально именитую или с кучей референсов амбициозную команду и дают тучу денег, теперь такую контору и не купить то особо, а значит эти умные ребята будут пахать пока не сложится что-то или вернут бабки (всем ок что они сожгли половину это нормальный риск профиль)",
       "images": [
-        "https://cdn4.telesco.pe/file/nElZj_b6p4hXOv09HKb-F0NBbLNU-SVafOoh5cfPhtGNwSfKwTgDseIEF9joUUwvCK6yMSnv6HX3xj-yQyr7jbZ052vLI1McEIQ_6sUrC8LHc8wnYGvpH88Qw0Guwu5Cj0uFGhpVqvgofZJtUSxlqEy0KgCO-jFZonMd9NG4U6sHLvWPGBQeKws-bUiwSJzPMw6BYLHgn6lOALMClmfo_TcEgQcGeL0b1K-x2iKtFBbQlNnT-yhqB7Q_hD2DgdJJVB9wgVbxLrvWPqSbXZt0lWwSezUYMFU2B67yfBueuB0RoEVqPhyPcnFdilCnnXDa6ZZAF04NiP5_2HW42EDBkQ.jpg"
+        "https://cdn4.telesco.pe/file/tHInfOirOJ6andH4wOfFreFI6dJlqrxlOU5oNi2NIl811JWxq-4Uq0vJ6xqjtanX9GT1J5-8KiUufHSfxzdXOaoktoW0XycNzssb74I6Bv8Nb8_QkuCX7zCZRLUzER2n7DQLJ7JQpbinyW4GwLsAxmtOrjDn7qQWuUBEPlMBiMe7nUFlIAmqvX4T1ycUspDAmRCh_dGi297ztXz-r_qlLxznHBzvQ1Igrw1ufq6BMlORqkOyUjQaZsH6VP7r--G17G-o3p0mU1yix8GJ-zDpurDuPFCan3rjEqy6fVIpDu86zY7JBQKUdOa29ElzlZpKGOtnCYJSZKWNYDz_h10Vkw.jpg"
       ],
       "title_en": "",
-      "text_en": "In short, I wanna add a bit of clarity to these rounds. Here we go again: top funds are investing a yard into a lab at a 4 valuation. And overall there’s a ton of news like this floating around.\n\nThe logic is roughly this:\n- all the funds doing rounds like this need Google/OpenAI etc.-type projects. The ones that will define the development of a given industry.\n- they’re not interested in turning 100m into a yard. And none of their LPs (fund investors) are either. They’re being sold a high-risk strategy, and they buy it.\n- big AI labs are a pretty understandable bet given that the vibe among a lot of name-brand research teams is that the transformer won’t take us to the next level of AI\n- funds do everything based on already-lived experience, yeah: “worked last cycle, should work now too.” This idea is close to a lot of people and sells well.\n- sometimes details matter, but rarely. Usually they pick the most famous, or an ambitious team with a pile of references, and dump a ton of money on them. Now you can’t really buy a shop like that, which means these smart guys will grind until either something comes together or they return the money (everyone’s fine that they burned half — that’s a normal risk profile)"
+      "text_en": "In short, I wanna add a bit of clarity about these rounds. Here we go again: top funds are investing a yard into a lab at a 4 valuation. And in general the news is full of this stuff.\n\nThe logic is roughly this:\n- all the funds doing rounds like this need Google/OpenAI etc.-type projects. The ones that will define how a given industry develops.\n- they’re not interested in turning 100m into a yard. And none of their LPs (fund contributors) are either. They’re sold a high-risk strategy and they buy it.\n- big AI labs are a pretty understandable bet given that the vibe among a lot of big-name research teams is that the transformer isn’t gonna get us to the next level of AI\n- funds do everything off already-lived experience, yeah: “worked last cycle, so it should now.” That idea is close to a lot of people and sells well.\n- sometimes details matter, but rarely. Usually they pick the most famous team, or an ambitious team with a ton of references, and give them a shitload of money. Now you can’t really buy a shop like that anyway, which means these smart guys will grind until either something comes together or they give the money back (everyone’s fine with them burning half of it, that’s a normal risk profile)"
     },
     {
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "ceaa6308b58602b38a58bfa00e8f99598864d71b1352f944e86d6ef5026be193",
+      "hash": "1a0490f72141683edafe499574326983bf73ac6eb0930a1b54f869b1ad0f27d1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/JDZmfCOv2BfwvPfkkJdbemDCeIYeHd6g99opAgc4DW65z0z49UJdTwIrzuOjXUWvofgy_Tbdk3HkIPmZ1r0OAaePFrsHp9gin3ROoGP9Ojg9cXp8ALxmK5zaYZVI1Beko1NiYVw_ol54Hos69sOc71ji0CrvUxypPjwr_C5LfkaRVH796kRjzxPX6yIiMePP3wdilamUgmNfbeRO-zc05PFUz_O9kmwJ8AVbp636Q3u2bL0tIrh19KYatuM_JsRP-7Sqq9SZvp8mblPvUITfwzehm0_Qg5Zgok_VlFpvesjM19HX4WgeMr-cO4xZoXLAUlYTrBoWw5vnQrHKkRyVQw.jpg"
+        "https://cdn4.telesco.pe/file/n_BB3SoeL2txmtvBwVw-PfOQ1YE-WpS6MJGtQB52oCZUgIjEFyxYONanznWS7-GXzGcZy0XWdHTWQvrXXML4PuhQ0W1fTOj07XcUW00mL9MfVbvGVNFG4WM3InXur8UanmlQ6MiCGuRBeV8MlXn3TvjED1LEcCZ0Jvwne-xEGi2D-sRmao8FmM6zMBPlIbcTSEhhsIraXGCzxR8xvxmrzpl1TSBNvirV9CZ0XkPzWLakbN-24iIIpc-6_pqSFEJQT6Bl09pGbymWC6HNGxL15Qgy-_ECyKYMZa8QIIsaTvY0MJpc1peyGfjP7D_xTNdmBRWzvKmprgDmDfDF9yOyIA.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure the people over there don’t write code  \nhttps://claude.ai/  \nUPD: they fixed it fast"
+      "text_en": "Now I’m almost sure no one there writes code  \nhttps://claude.ai/\nUPD: they fixed it fast"
     },
     {
       "id": 1239,
@@ -267,14 +267,14 @@
       "id": 1238,
       "url": "https://t.me/chillhousetech/1238",
       "date_utc": "2026-02-16T06:12:01+00:00",
-      "hash": "c9effd80a9ab4d3ce4b8f285c7e6d97e7d71c02c509e15e24b631d53306cc6e6",
+      "hash": "cac3e1a5b8eab8fc3c6f6c6808339c11f36b204126ed6246a82f2f6952891c9a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Seed 2.0 Pro from Bytedance. Неплохо неплохо. Вполне на равне с большими лабами из США. Можно смело говорить Китай догнал (подождем когда там попользуются). А значит стало еще интереснее в мире AI. \nModel card",
       "images": [
-        "https://cdn4.telesco.pe/file/V-UYJPMFjCffqo4ckkgZWqlqbFmbhxEjtoZG0b7d02uZdGKc_ZzdP51q2YFe5GvBf-I1sXtmoT6G1D--K3-V08_cD4b-yJM0dLVRTp6_KhIaYqGFmg53EX_fcGfpPi7gC-fBIeiSl8EJAFW7k4heIUXsOtTCiKe63v7GO3r1tMe7OCG64mdEqqTGmPuk7lYJ-6ymhZUpu8HUpusYrTzfl_SRPpxxCp_FfO6xAY2W1pvzF7JlnrZZlTXVYOK7gVhZHJdKpliwuyuvlJWwDOGPHoGzLMmUGPv34bz5RFpKIGpOpfbR68euqNQwrnXT6l55FRZfHDH8NLWWazjZ9RUXNw.jpg"
+        "https://cdn4.telesco.pe/file/Kwi_d_DxRZNVUfAR6bpHMwfJqE2KFOm1QsmEnNPylapHIcC2jyuudD-FQ4krxJpSBThsxmkyfFkoGt62rfLzpxJ4lK8UvJohjjApwlsNJN4UwexAiHHAW1E89fSjcyseWEqPiYcVz_cu2Wa8TqzznO4eyWS9cwInvUOn2ClKx2NFdi1GowT-zSs2tTiS87joVPRskIcFMTUJubWGOSKk7hE7ZytTz8uuQ8GoHHuDt1wywblKJmaur0baCbUdQQiWiOvV-Rlq-FiEhbfxG7QrZqZBFQh4ktUGGcebHU6sTpuFUGCFwqdBGZYUuVhiJLhB73rWYjfY76TcA7iKcZy5CQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Pretty much on par with the big labs in the US. You can safely say China has caught up (we’ll wait till people there actually use it). Which means the AI world just got even more interesting.  \nModel card"
+      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Totally on par with the big labs from the US. You can safely say China caught up (we’ll wait till people actually use it over there). Which means things just got even more interesting in the AI world.  \nModel card"
     },
     {
       "id": 1237,
