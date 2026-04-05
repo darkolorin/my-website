@@ -1,17 +1,31 @@
 {
-  "generated_at_utc": "2026-04-05T13:31:56Z",
+  "generated_at_utc": "2026-04-05T19:05:21Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
     {
+      "id": 1265,
+      "url": "https://t.me/chillhousetech/1265",
+      "date_utc": "2026-04-05T14:32:30+00:00",
+      "hash": "c1309fcc1745355f60b803fcd273f26f2c9a5cf5ba714cdd70fb5eab93e0c6be",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Возвращаемся после поездки. Если кому интересно фоточки из Боливии с высоты 5к киньте реакцию какую. А так воскресное. Лучшая реклама Apple.",
+      "images": [
+        "https://cdn4.telesco.pe/file/T65PtSgmBfKcgUx5uepiSgeVIJ4uVDSYZVN5Ao7o2IjXThDact3WPjJoFvHrKAVuDjucl93-OEs_IES5KK9Af5uIFGxdn23LJMYlFj9hLiE2UGF28-r6WY0sO9B_6BCzv9jr6r0qt4Y7jF1S0QQwNmLr-2BnbXwwyqqCCCkfaXEZ0d5XGCDZMpJ6O5FJyBOmdEg7xcflRWq0atTJnYDZyDZA0HRmXlBN6ixkvnmhEk0ReetI5K-SlE1TxsRPoUW1eddRcrUwXp_OPG3KaJ_dOPtXqu7A01BFvbQ2NPkuK2Y4gIDFsEbs2sQP6-nGS3LkucqVrrPG4Rz1HHQR185WuA.jpg",
+        "https://cdn4.telesco.pe/file/BCGcIYCE6Mm-1MwDOtgjpWf8kjrDQN3_eYXF1X6rkksQreRCm7N_VFY_nJefrHDiqeu3jYkP-ZfyRT8AUW5N-W0f_zR-b6TEY0sWHkR3Khf82kOabOtDICGgpz98sdEKIaZv0hwEaXmpxyKy9JFnBdmUfwNrS460_lhzhuPDTk5Hw6x6yZm3VUyk09c_qBRaXKy-FSHmeVJMJ6G3V3t5qRieewpPl95c870hLmsnZ05iDSwu61RlwR0dVKOdP8ZUeUeovecaF0WzdUSCAWOw-wzu8de36bweHomGdBkMfPNCa8eyV-XyCF0hpLonwRalVUuv16So9cP1y01AtzDNMg.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Back after the trip. If anyone’s interested in pics from Bolivia from 5k up, drop some kind of reaction. Otherwise, just Sunday stuff. The best ad for Apple."
+    },
+    {
       "id": 1263,
       "url": "https://t.me/chillhousetech/1263",
       "date_utc": "2026-03-27T20:11:32+00:00",
-      "hash": "3ba315759e29fd99d30409d9e20d8538e3e74cfa5bc968d7aef7252aab031cad",
+      "hash": "3d61423531febfe19c900929751a7f607764f7b9fa2e2eefab6a54487d7064a0",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Из прекрасных обсуждений",
       "images": [
-        "https://cdn4.telesco.pe/file/qYijGwUjbx_rKYyPOUr4FlKHAsgyXA15RC4xNyFF-y1OcfKDv4K_zYFIT65Uo3-4YDumUTlC_PIUmh9FIs5ctpvHOVIk1d4wptqsx_KE3OkWYTfCZSoc1K_v4CcmKszP95gJZhQIzq47Er-By-i6BGSQWk4WF4k4Hve-2jmD56pEN8rlNVEDNtqHDZyC2IdGHJHmDcgmsTgHY_qdgc0hMIm371MOok4w-ztQK7Wyobs2hu8IJwWVR4EmEZb-2xRziEJNMiLHdoXGwwkhhSjuKHANoPkKP2FTp2t2nKzjAPa2RMTiXNdzdY0C2fK3a6aH_dKjjgQlGBs88w3NNasoHA.jpg"
+        "https://cdn4.telesco.pe/file/TbldgbLZvRQcw7HbPXegW1NxNo84FvXeXCgmiQFbfkOFjw6to934nJEtGv30j1JnVkiFFg4ypggFMgZjKCH8GPgJSzVckm9AiSlJH1wMcNQJMIlvdav87BM7lAhoEdWsvyTwnNjb0lbq-vQxI9HvLBq1gc6NHqtIVayN26s5lUGbyKaaJatuWQKOBdnC6oqYZY5Mv2qVlZQye-XiX4XhirdA6bgh-UdLODcavfyPo5U70TTlhHyT7Q2n966joD4MrRVbefvwjNkpXerE1umLzsGBNxoTBv9mlYif_mbZT89bLpLhAR7it6UMKwNlxCCnIpwCj5YRGW75vwjd3axdlg.jpg"
       ],
       "title_en": "",
       "text_en": "From the wonderful discussions"
@@ -215,42 +229,42 @@
       "id": 1242,
       "url": "https://t.me/chillhousetech/1242",
       "date_utc": "2026-02-18T20:45:33+00:00",
-      "hash": "efc4f8294fb5715b62be22bd2d3dff5700cafe0bac6c83945c13f7c056386428",
+      "hash": "3109b363849129998d0209d2f45a8c20e22b496bb9d8a2c68bf47cf14553ca01",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "BBBRRRREAKING: японская компания TOTO, которая делает унитазы, внезапно выяснила, что её инструмент для керамики можно использовать для производства cutting-edge AI чипов.\nРынок — $60B.\nАкции +60% на этой новости.",
       "images": [
-        "https://cdn4.telesco.pe/file/PHZCik4G6iGjRSBB-ptNz41j5GFKQe1xHLViv4SjpSEjUwv06koTYwAwA5b6ZsNCAKqoVE5TFlesvHiWVY4tuXni_xaCxgviN3H0qPvjyHwZJusnd-pfa9LEBl3oHfVaQ7RCZJOlLA0-0VIWCUSIHlPY3uxLC7qFTcpvXmq-GSKb7dnOQmexUn7Aw4ib2l9y-MDqa7F5jzWhBS30tV_Jst8SFshszi5mHbSgCnV0YtSrCtFA9jU3RBNkrTpPyE0t7XYwoxw3iAoLr3a6Ubxwg6W-XeZNrOUSQ_PzA3NB3PGl2gCdrCmIN6Blgna4Qp90qQgx4OjBbVogc8ez5HY8Ig.jpg",
-        "https://cdn4.telesco.pe/file/J1letJmxk2eeYh2wtg3r7mjXaGYrKNU3Yln6QnCNYdGtJHJhUJRDzh5mNcv62DZcIncCGqXvnOdQk2NZZQuVv454owKJ2k7ghdeedG8S_idBUxAU7slWbt-GW3LNz5dXO5EkX0rOmtZLt22KKIi0o4_SG1eLy09H4QmxIkBIqIn0wEy0P0HnXsL7nzjTDBuYxPgkZBoNjCA5LLhYZWVVImHhbkFZDoooLFwOo28_cgRYBbYPZGqPiIVOf2vAl3f6VGkhibnwvK0IoMvBaxjCRg2FLxmpltaC9S7d66ujXp-taQcIiwZZ_hYydnO9HxdFuWucU2XRLPk4iyKVTG3U-A.jpg",
-        "https://cdn4.telesco.pe/file/OKIGHSZHsioKDRefVF1ysz05RoI7f10HloKrkKpuyWVF_sL0Vj7q3tFCpODqR1Jf8EZ76bZICjIApF0Vyw2Irfz-soqmO2DQUjzDcRHskhlu83STip7gGgKcFh0wYHBvwAOepCXTZ95PPZkVyaXrVWyr1wheVDrGPMdOZ1o0IzIBuNBUBfYyYq3gtEYGR_Kbg_lWaAtlOeJxPkV1IFGE0NelKwleI2j5N_h8n2xdVU-TV4-voNcj6LsUchuB5iVK2h77wD9nlhto3ekr1wsp-O2QGhaSeT_zxJg7t7tsvYvPaEjwCqOdxaE9C1cdUZvu5plwrJXNOk8Uroyx7WztVg.jpg"
+        "https://cdn4.telesco.pe/file/sQiLVmkw7mWUn3ZrZiajB_2DDELzvxI1Tkt-xUtK1SZ70L4b2Va9IN6ikiK3jMdLAGbPZzFVaS97ugYQt0st7QewfNEjxD8bxRaMubIJGzqSNy-we3u1DY02RKied4X1cpISCb2_UU14iCVpiNmoRvkTaya0s736d0mj5692zGdK9xSTinsBsYnm04THulmKH5rCMl-tWjAl17AtRg7vb102Sy45CYxkvMqz-bMJjP8wfA1C4cuJt2zr7Jn4DxhlFsOBPmu_qMeruvRDR22XxSl3g4Oy8esucggzsFcoprQeZggKzPu8EKX6BnaqOSvLbsou_MIj_GqUdS9opcBxBw.jpg",
+        "https://cdn4.telesco.pe/file/GvvWyJ1XVi5P0id7SgSpUhNv6CPuoQEsEUvu5n3sLcopTeWoIqpVpkN8_NQ7B36uSjBKpK7_CyIUhUnXbjxHyf_DoatLXf8F7loCfNM8-VcfOlgCRoow7ZWJQ_yMKQvN9IPlpkqAxrIx8-yP6RsmrG5vSFO7U01AYyH6F6vDoPkLiSI5lfFH4PlUtjUBNpLlB2MA-BqHRyL4lRMcX6rb4hRNqwOn8GVRtfchbmt8JalXR9sdSd7d0Y_KXY1ItOPQ5Ekb3HakV2j19Gvda4iBWhj247guBRHmretzcbBCw2DPpzuYTRWIJrNtkRJZr4uQgSryOivSTsqQBUcYObVe3A.jpg",
+        "https://cdn4.telesco.pe/file/YU43QqA_0LZj-8n6sZ97OJWLmhi_6yjrZ9O0y2uwfEEXPd8J73SrlBcC6AbR0nTsI78VyOziS9qx78u1mmYwGsEnYQxkNRQXlQQgrl-47bWxWTV3eWOqmesgYb5ti66Hcv-8dNLEUA1KJSIhzTZtWAfwfc1tHAxSvKFivWLeSVIwMH19jjgAFQkut0zftIMd1PoSbAE_Q6ZYBWftCkw6nwbMe2kC_ta_CsAuZiFFQgfAktm7jPegb3HNScjey7Q2JmQkLhTkT3TyDsgC7z6efB6TwPgbhCDIGWO4hJ1ZZUxsZx2tEbZjqBca6PKBhURhIl_uv59r3PokTr43yQo4gw.jpg"
       ],
       "title_en": "",
-      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly figured out that its ceramics tool can be used to manufacture cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
+      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly figured out that its ceramics tool can be used to produce cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
     },
     {
       "id": 1241,
       "url": "https://t.me/chillhousetech/1241",
       "date_utc": "2026-02-18T13:56:58+00:00",
-      "hash": "5cab699ccb11f8090b64f12089ba5676bb9eff95abe09a73aa0d8801da4c2744",
+      "hash": "f71b4bbb98f8d06aaeb43e082d915c06a80603c361394b389a014a95694ffd2f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Короче говоря хочу внести чуть ясности в эти раунды. Вот снова в лабу инвестируют топ фонды ярд при оценке 4. И таких вокруг новостей в целом полно. \nЛогика в этом примерно такая:\n- всем фондам которые делают такие раунды нужны проекты типа Google, OpenAI etc. Которые будут определять развитие определенной отрасли. \n- им не интересно зарабатывать из 100м один ярд. И никому из их LP (вкладчики в фонд) тоже. Им продают высокорисковую стратегию и они покупают. \n- большие аи лабы это вполне понятная ставка учитывая что настроение у многих именитых рисерч команд о том, что трансформер не приведет нас к след уровню AI \n- фонды делают все на основе уже пройденного опыта, ага вот в прошлом цикле сработало и сейчас должно, эта идея близка многим людям и хорошо продается \n- иногда важны детали, но редко, обычно выбирают максимально именитую или с кучей референсов амбициозную команду и дают тучу денег, теперь такую контору и не купить то особо, а значит эти умные ребята будут пахать пока не сложится что-то или вернут бабки (всем ок что они сожгли половину это нормальный риск профиль)",
       "images": [
-        "https://cdn4.telesco.pe/file/l1D44xWpPrH8nh6VlNTH5CoeO6cOZZAZg4bkiH6WhIqwx-XpiAiWk0Gk-sR_NSB90MFbO7tnRJ8JEm20ZWb9eOpfOct09ZsbZ7HBfYB019Jy7AvBZbB_BJ7AWLs27kGqMRNcIgqiXWGzLXE6HdzmOCGu2_kOOhKyfT--3Xax11v1js1unjERfO-K7U_URxjMnSzCUM7Nx0G5GHSi9twVh69H8S9AXU-foj7loGuo8sRqYA1XqtVqutd-iPlV-RLB4iKf_ugRpODiiN6keLtxeTlZBhDSrCWOJlncmUd3xakCSnXsJenjhnDG6pCcOYhuEU_V43X0Rxu6FDrc1nB2_w.jpg"
+        "https://cdn4.telesco.pe/file/B3T9QiKb3M1sqXrX7E0CfioZOi3yyj1C0pYSJC403StCSuONUe9N_hDI-JoXn9z8iWEPY2mG6zINDSfSSizi0M50X_XIn6fxNO0ESOLJrT65oh2ijpuc_53KeCRcnweF2elmp0AwWyRFPP11dpQGE-AgfVznAGh_XbseS6QRrRAUnXSdxyTW0rSxwW0ffbxSi8WQtcFVpjlvyEpzVlixnCbl4C_40XnRhJgtIPJ837NUOrcwXOr00duyFzcU6ny73pluQ-3sfDicHzPoZ4Y8s5wCGmwAMlasnkwdhJ3pKofNDQ4JF2nqkVxMAegVAjW6D6S7TkdxK5EyY6SxDHxW0w.jpg"
       ],
       "title_en": "",
-      "text_en": "In short, I wanna bring a bit of clarity to these rounds. Here we go again: top funds investing a yard into a lab at a 4 valuation. And there’s a ton of this kind of news around in general.\n\nThe logic is roughly like this:\n- any fund doing rounds like that needs projects like Google, OpenAI etc. The ones that will define how a certain industry develops.\n- they’re not interested in turning 100m into one yard. And none of their LPs (the people who put money into the fund) are either. They’re sold a high-risk strategy and they buy it.\n- big AI labs are a pretty understandable bet given that a lot of well-known research teams are feeling like “transformers won’t get us to the next level of AI”\n- funds do everything based on already lived-through experience, yeah, “it worked last cycle so it should now,” this idea is close to a lot of people and sells well\n- sometimes details matter, but rarely; usually they pick the most famous or the most reference-stacked ambitious team and dump a ton of money on them; now you can’t really buy a company like that anyway, which means these smart guys will grind until either something works out or they return the cash (everyone’s fine with them burning half of it, that’s a normal risk profile)"
+      "text_en": "Long story short, I want to add a bit of clarity about these rounds. Here we go again: top funds are investing a yard into a lab at a valuation of 4. And there’s a ton of this kind of news overall.\n\nThe logic is roughly this:\n- all the funds doing rounds like this need projects like Google, OpenAI etc. The ones that will define how a certain industry develops.\n- they’re not interested in turning 100m into a yard. And none of their LPs (fund investors) are either. They’re sold a high-risk strategy and they buy it.\n- big AI labs are a pretty understandable bet given that the vibe from a lot of big-name research teams is that the transformer won’t get us to the next level of AI\n- funds do everything based on already lived-through experience, yeah, like, it worked last cycle so it should now, this idea is close to a lot of people and sells well\n- sometimes details matter, but rarely; usually they pick the most famous or an ambitious team with a pile of references and throw a ton of money at them, now you can’t really buy a shop like that anyway, which means these smart guys will grind until either something comes together or they return the money (everyone’s fine that they burned half, that’s a normal risk profile)"
     },
     {
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "84634ff2e48aca8986566aa22e103e7c2e37195af6f555e71747a6b78befa029",
+      "hash": "d8761b803bd57256c154b424affe1b8e4210830a74cff0e41c282894459ccb44",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/sL7yQtqwCEaKzYZA6GosYzBXzDbkXF-Md6I_3X8bTn3u2yTJPeWJGA0FwAtEqPH557xEqFzr4zcLr8kJGmQNkxQdhxHw2ZAsRaOULRuBv8evRdwTMDDseJJg2B2zjjsnVqIXyyFO_wahn3QDSL5xGe1D-JBUNKUEST-Q-FIqxRaGMKYRjjAzTT4AP-OhVBcXc9feU5vXMpYsNaAbsdn2BBXAu7zU-c3gOZ59zyJQSAekUc18Bav8_W18B0PE_sfiSA-K7HtWPK3t0p2ABnKJFV-Kp92AUXp3voE8bosbN_rSR76i0pnIAXSvszD4I__tcdgo9JTB8NoIapGsAq66jw.jpg"
+        "https://cdn4.telesco.pe/file/K-wc6QXi4AQwKqa89xfcK2ER8pavfy6GHm-hfn1RHlquX1o5h0R4JFmScy6MHtYvRurXgp8e7HjNDpyEG6YVlEkK-HHZ8dk8jGVij5dxb1jeZfCHAEn93aOX9I7-xcOOtmkcTuoG8QK6LMd3Uv-L45NOoZnRbaB0aos7z6BoxrMKaPGxu_k7slxLHoM5kO5nZKiiH-ng3tKQYinBOI_JS1OAx-Npd5w24T7c9XAnv9kA_MVVkn-e-UadL5SEQFQW_6K6hg9yZwoKXrsHJ9v0Wb8uLIcjo80zkXiomL9NPnoyqhHlM2A2cDfJoDNweiYCk666u7ggyVWQdrBx6ihA7w.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure they don’t write code there  \nhttps://claude.ai/  \nUPD: they fixed it fast"
+      "text_en": "Now I’m almost sure people there don’t write code  \nhttps://claude.ai/  \nUPD: they fixed it fast"
     },
     {
       "id": 1239,
@@ -267,14 +281,14 @@
       "id": 1238,
       "url": "https://t.me/chillhousetech/1238",
       "date_utc": "2026-02-16T06:12:01+00:00",
-      "hash": "f95337b648077b9f3382b74291a51fe6f2e39a3f0f3fdef9da5fd2b3b190055a",
+      "hash": "91cec12eb1570c82fd71da60242eaf732f79ee317b43b2aeae73a2420358ce79",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Seed 2.0 Pro from Bytedance. Неплохо неплохо. Вполне на равне с большими лабами из США. Можно смело говорить Китай догнал (подождем когда там попользуются). А значит стало еще интереснее в мире AI. \nModel card",
       "images": [
-        "https://cdn4.telesco.pe/file/Qw2sbI1PvJrwUR9vL2FLNz_33NvXqUO40bcOwsDnAPBA5bCa4EkCFUJPppwqWnSOltDflCz2M1f46GMCtIarp4ONwpdbDWgKINDU79B5T3Ip94fDuHqJMHbJBKJRNB9Di-g0Rg_PEXiIpXVVvE87rU8pXImv_z8vpyxb9f9taM72n0ih2Jg8zOH275bEfDe5ees1lVyzfPq7UPDJ_Y9w9fg_q8AzMADCo-uRBgUz97nd9zAA8t70-YUr8j3K1BcDX6QNlPOWghzp43A01YFrCNACphbhEu2Hz5wDDMWFuomWe3bZOwxCj3-9lLZlXkK9UdX93XQwszxoZQH1OLf-eQ.jpg"
+        "https://cdn4.telesco.pe/file/Yl8V3tDTY_k3loni5oBmDr7vTHZCsyvcqz9oEmnmVymifN2hqPULOE1ir3kKlMw27CWKfpkQEFaa_WxCV9ITPP8NuMcuixfHrCi9RJanRCDgf6WNZT5brTfwhaHbsCbFVEHUMrCNqkYu_XfrN1PgNZ5aRsZkCgucMYW6fAg85xVncox3Cw-OCm3Dj0z8oN6Mo4DJuVSEbHkh_1CVrw0m0IofLA686LFp9Y4aWq4iu_gwNoxoTssS90244hab0rbtdSTF8Ta0vtC17_bZRRIYZBr5lxKjSsXKlsP_uajbaauGKyESnqw0Xq2KFMl5VXLTEpN2GVMXpzmw0wTvDnLm1A.jpg"
       ],
       "title_en": "",
-      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Pretty much on par with the big labs from the US. You can safely say China has caught up (we’ll wait till people actually use it there). Which means the AI world just got even more interesting.  \nModel card"
+      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Pretty much on par with the big labs in the US. You can safely say China has caught up (let’s wait till people actually use it there). Which means the AI world just got even more interesting.  \nModel card"
     },
     {
       "id": 1237,
@@ -286,17 +300,6 @@
       "images": [],
       "title_en": "",
       "text_en": "The guy who made openclaw “joined” OpenAI. A classic Valley move.  \nTweet"
-    },
-    {
-      "id": 1236,
-      "url": "https://t.me/chillhousetech/1236",
-      "date_utc": "2026-02-14T22:02:23+00:00",
-      "hash": "9fa2e93f7deaa48750d7a2312af9dbc935f92df4fc1203b8551673954918795e",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Наткнулся тут на забавную историю. Выводы делайте сами. \nУмный Ганс. Лошадь в Германии начала XX века, которую в 1904 году провозгласили «первым мыслящим животным». Ганс демонстрировал впечатляющие способности: решал арифметические задачи, «читал» время по часам, распознавал игральные карты и даже определял композитора музыкального произведения. Отвечая на вопросы, он отбивал копытом нужное число ударов или выбирал вариант из предложенных.\nСогласно историческому обзору \nSamhita & Gross,\n поначалу наблюдатели предполагали, что всё это мистификация, а тренер каким-то образом подсказывает Гансу правильные ответы. Однако было показано, что лошадь успешно выполняла задания даже в отсутствие тренера. В 1904 году немецкая комиссия по изучению языка провела исследование и пришла к выводу, что способности Ганса подлинны, а «большинство биологов, психологов, врачей, экспертов всех мастей и даже обывателей были убеждены, что животные способны мыслить по-человечески».\nПотребовалось ещё четыре года и серия тщательно продуманных контрольных экспериментов психолога Оскара Пфунгста (1907), чтобы разобраться в происходящем. Пфунгст показал, что Ганс не мог дать правильный ответ, если спрашивающий сам не знал ответа или если лошадь не видела его лица. Он пришёл к выводу, что Ганс вовсе не обладал заявленными когнитивными способностями: ни счётом, ни арифметикой, ни «чтением» карт.\nНо Ганс оказался гениален в другом, куда более полезном для лошади навыке: в социальной способности считывать едва заметные мимические сигналы человека, чтобы понять, когда нужно прекратить отбивать копытом. Эти микросигналы не находились под сознательным контролем спрашивающего; даже когда Пфунгст пытался подавить их, лошадь продолжала успешно их улавливать.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Came across a funny story here. Draw your own conclusions.\n\nClever Hans. A horse in early-20th-century Germany that, in 1904, was proclaimed “the first thinking animal.” Hans showed impressive abilities: solved arithmetic problems, “told” time from a clock, recognized playing cards, and even identified the composer of a piece of music. When answering questions, he’d tap out the required number of hoof-beats or pick an option from the ones offered.\n\nAccording to a historical review by Samhita & Gross, at first observers assumed it was all a hoax, and that the trainer was somehow tipping Hans off with the right answers. But it was shown that the horse completed the tasks successfully even with the trainer absent. In 1904 a German commission for the study of language ran an investigation and concluded that Hans’s abilities were genuine, and that “most biologists, psychologists, physicians, experts of every stripe, and even ordinary people were convinced that animals are capable of thinking like humans.”\n\nIt took another four years and a series of carefully designed control experiments by the psychologist Oskar Pfungst (1907) to figure out what was going on. Pfungst showed that Hans couldn’t give the correct answer if the questioner himself didn’t know the answer, or if the horse couldn’t see his face. He concluded that Hans didn’t have the claimed cognitive abilities at all: neither counting, nor arithmetic, nor “reading” cards.\n\nBut Hans turned out to be a genius at something else, a skill far more useful for a horse: the social ability to read barely noticeable facial signals from a human to understand when he needed to stop tapping his hoof. These micro-signals weren’t under the conscious control of the questioner; even when Pfungst tried to suppress them, the horse kept successfully picking them up."
     }
   ]
 }
