@@ -1,31 +1,42 @@
 {
-  "generated_at_utc": "2026-04-07T14:02:54Z",
+  "generated_at_utc": "2026-04-07T19:33:09Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
     {
+      "id": 1267,
+      "url": "https://t.me/chillhousetech/1267",
+      "date_utc": "2026-04-07T17:25:58+00:00",
+      "hash": "9d5788047f0693aa20c1c36e4747e8a6d6fe931663521942fa663ca531315b1b",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Думаю, что основная проблема в AI бизнесе сейчас это снижение стоимости инференса и тренировки. Все остальное вторично. Claude code, и как следствие open claw и все прочие кодинг агенты очень сильно спонсированы, думаю реальная стоимость в десятки раз выше.",
+      "images": [],
+      "title_en": "",
+      "text_en": "I think the main problem in the AI business right now is driving down the cost of inference and training. Everything else is secondary. Claude code, and as a result open claw and all the other coding agents, are heavily subsidized — I think the real cost is dozens of times higher."
+    },
+    {
       "id": 1265,
       "url": "https://t.me/chillhousetech/1265",
       "date_utc": "2026-04-05T14:32:30+00:00",
-      "hash": "3209274e04a3683c020b404c16a1c230cc337cd46a708bfd361ce54de960cf9e",
+      "hash": "1b58e29abd05852ca6c118eb9f1391ee633e65d8183177f3772586f69d264431",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаемся после поездки. Если кому интересно фоточки из Боливии с высоты 5к киньте реакцию какую. А так воскресное. Лучшая реклама Apple.",
       "images": [
-        "https://cdn4.telesco.pe/file/KHxEwFz1pl_OmNsn2hQ_ttkXH4ABPq-Jo_I8lEbfkJCvKqnS2qfuZlpeiXJMuqf-AhjBk7ua0PuyXdAuDRE0MEKpjZbki-F5jXyUBOapDmKoAUkkObA46O_EvLN9zg_EFMgEPbmr8kF3C3PxZ1g8nik8n9pn5uZhnEvzqfoxJOmmvWkpPBNXrJ2s-RgnD2MCtUCkN8PdMOyhRF0TXmMASVl1r-44vjiKEJ3ozfim0D11PcV4F7qR6B9K6DSOP2BrHLec_j6VsCoTKcrybmI4bl6K_Lo6T9MgkKH_GglpZBBi3G3DC5C-EyuxtlErew9Ozw0vfVGcrB90noApBmlyWQ.jpg",
-        "https://cdn4.telesco.pe/file/jZ0iOboKCaub8CaJ2mJLkhBCf7T1RKbaNopQ_UGpE0z4HmaD5UpW7e1M_SOL932tNMiSS0CO-yh74HBrzUIGkjcgRpIXICiL7Tcuh6JmVLMl8hiZ-I5zHDvRpk_7p6BXB4zZ_koRUBWfjIbG-2w4GnZpT5tdg8uvjkSofn7rt6ipUBZ4CO6NzcEHycjOtib0ud0w15atxumWEUnJCI5ZXYIanDEkbTqHMJqKyr1_nR-9Qc6-SjMFFD_KD-8zKA8Ky4WKQcW5dQ_GIVIPxTT9kp05jyppqeRAom4C8Ofw1c1UAq1RNlvIxNIoUzHsY5zRMJfPvpeuMuYmvZO0-uMgSw.jpg"
+        "https://cdn4.telesco.pe/file/pFRvld-Mkqah58RG3mZFsZV9eaFrJJ-o09YdpaPWDZ7NP7ae6tjZTjlbGqWztAgLQdI6G2cnS4BSLnqeuKT5G2PBA6wtA6tOXBPEWTvufMy59GPTcp_lnEOH6ez2x8OAIEpCQtGOwS0Uxp2aydR3eryC4yZdJzf61JxSzrBTKP2N2NB2-fPQNv3at8-UTOn3krV6hX3FuSmpC33nIUqLn4QJiAeml--6cyAvZSclZaDH83wFmSqV3bgiNtT6QnUY6xvRI4WsSB-lToIwQHZ9yis6a-Or2QywD0kxlqSw5Fbm6vEqEGFLlOL_zQm9OZZy_3XUtWjoxeTmsgX2qEM5QQ.jpg",
+        "https://cdn4.telesco.pe/file/NC7ecfKuABzCWeJFoImF8jzgJoIt_5F9mfpUvVaNSVNtdKkxflCK_419ufCat7KhUThedpBkkblzoUQ3K7JaOTQBHwjjcTv7Jq7uZ_AH5jh9gobX7axK6IY4of40wKo5rgHzm76zy7jXL3e-mWqIrwGRzCBmFMl3_96OEObAfoNKtbSqR1ofzKNG5T_KW0nq3jV5qXhkCRQKwm_kWFxjUlQI0ri4xR5usmyRUxG85TgaM__JGCt3ufoc2l9MD0Kbyck1z4_MetArVhyHbgz9gfLlJy9E93p-YQaBnHb6G83SaFMhFL6FZKAXGrTQTltqEa_VeNUDr40yEoW4AxlFWQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Back after the trip. If anyone’s interested in pics from Bolivia from 5k up, drop some kind of reaction. Otherwise it’s just Sunday stuff. The best ad for Apple."
+      "text_en": "Back after the trip. If anyone cares, want some pics from Bolivia from 5k up—drop some kind of reaction. Otherwise, just Sunday stuff. Best Apple ad."
     },
     {
       "id": 1263,
       "url": "https://t.me/chillhousetech/1263",
       "date_utc": "2026-03-27T20:11:32+00:00",
-      "hash": "7246e17b04532e4de7ca43e10392369f4ac8957eb7005abe8fc8b51f8bc8d308",
+      "hash": "945afed92e5e1d005d9e6a81030b13867d6f0ae5b44f1e196d71f8fbcfa8a9c4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Из прекрасных обсуждений",
       "images": [
-        "https://cdn4.telesco.pe/file/sJyT7hRSG0rwvLt5kHGuSAFof4HvC0DlwM8vsHYxlDyYyvQ8LCqf1k6kzAK67mF6tE4pn-ub4fiAHz-r8AKS91khzpX7ZV3xJPeAlGZbeAxg74kpry23wSq8047S0xo-uhSdvYlpWkJFl5A1WGvTrEe8fOP4qYKAh_P1GN9oZ1ju2qtARezeINbtXnLTh2EsWPmr_b6qYwqi4lAH8sbl27NsfXfM2uaVkCljtcHw2z0NLTQSlEy6htJ6_uqS2leGDlj1RrLFl4hk-l9eI_RaibxdLYMkr5ERH55R3QVcaPp3KVb_d9J3QqfMj-UNhZbKA6gb-mLLeVzJG_pZaeJjHw.jpg"
+        "https://cdn4.telesco.pe/file/gNAABp_HZ3ZPT5MaBp5B55xUoy-CuZFWbn16b4ZdTAHh7r9cV6PtEvRR2vWaAU6rtZUVodiwYoN_XehmY_vILu7Cf99yLkV1304VPu8kVviL6-IVzJLqS-Z3jeb2UUZUgfOQSztkFUmVQYaKR-nqMHf80XjrxyTWqCzQ08-Th31GrtAidW_C3pAG_MEDpM5kndZWPn_7IkSjRYNme7lHXZ0bsDRmOpJOGvzVpbBWghovBlusobo04Nyf6PeJ8-tCmk-2zGQScpJ8MEpxNxsxF_YKcLOjdOAYsfLEW74ezJTzfBEgYoqVuDxjtvWDPQouBmTT5ZWcu3BdDOKsVv4eKQ.jpg"
       ],
       "title_en": "",
       "text_en": "From the wonderful discussions"
@@ -229,42 +240,42 @@
       "id": 1242,
       "url": "https://t.me/chillhousetech/1242",
       "date_utc": "2026-02-18T20:45:33+00:00",
-      "hash": "043ddbbd10c3a59b9ebf1bc3a2bd6176bf39da4a054a00a6d6ae2a1d925b42de",
+      "hash": "3d9f12611a74a2cd79fce6054c8da53b79a6f62cf3fde5202ba243548023d4fd",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "BBBRRRREAKING: японская компания TOTO, которая делает унитазы, внезапно выяснила, что её инструмент для керамики можно использовать для производства cutting-edge AI чипов.\nРынок — $60B.\nАкции +60% на этой новости.",
       "images": [
-        "https://cdn4.telesco.pe/file/j35pGrA7f9Mr84owpY7-Axj-MDUl2hYWzK02l_qYrkxg4WUYt59X03kwY6IH3CfrVWyIQSueLRzqzhM8s64UQWBjFbx-eznyfHSrqwFYfgFRqb98uOhhA5uyQI_VzgXbCIbXcAQAuM1Eb1zw9dgfbgokhaVaonXiQW_-E8Wmlypkp94IIw8YsI1ryR4twE1OJZgxceICqVdKyOqLPjspMtvnXMCmNvGUOTZLwNJR39NLmifVR3Tz_s4c6I5kDWWDHwE97Fl4blr02pXHL5DWbzk6H6o6FtNTkvjN23rVEcGfabQzmdk0FZs-mFQOhIOaQsPV_3iwvPN7cfiRYbjgsg.jpg",
-        "https://cdn4.telesco.pe/file/DyRXlDVVc6bkvXn3vE5zllo4WRq7GwEbuvsdsNAoKseZUMXA0GLP7xs68Z89f2UmzDTKGZGd9wlXc1dGwZj2thXcBC_S_9-YWwGDRNFwrMUdZKIq6B7LGVdWfQJ1mtOv0B5ZMyE85eAk53BFEiylc7ZhKrfSBbGJBUHpCgp73AWfofei34VPENWr7yDNVtOwS_15gOEaFaf24jDCV_b1QJKHt2mA7Wm2BshSWxWaw69AtyksF6HeLeQEkCXQU0NGS1ckYzN1ZghGnXlVql_3I9nbuWmWhs7P1dXUF_HRtszAsT8Uc7FlkdTuPb-myM3y1rD1VaBxbjTAz-B9s-F1dQ.jpg",
-        "https://cdn4.telesco.pe/file/HH5GXXM0r-G2nUMD1XL5hXz0yTIDWuprjPPNXjLaGt67b_PHI5J-0iPER6zKq_9k_Q9mis5gpQRNq7-xK5KEqdUU3KDztRurDdW6lsHXYUT5p5kGBzsyAPjeVLxj72lyZpqRKl-sxIqQfDK6Mi_AHd-xsrRWgmEvERgVDE7BQjb6dRnVSxXzo99KCrpl6zr1G27cC_CbmAnmWvD7RYobDDmvRTcZ3Icj0qR3kz5gg_N2gYe7o-3zfRFJ8wvhMcpj4uDJxDbm8z9Ogg-fdYEmgFhgM_nbMvkVb8uL4bdHy3Q8Gq1Afsly1UdvpKLmtdUvFOTwFyUxD08p9M6MTe51Rw.jpg"
+        "https://cdn4.telesco.pe/file/tSKYa3YR963sbfWdczY-Syf9O41VRJRa4SgQROYQblyQZv5mw0Wu0pRMHebk6_tMjGaKkSG_qBlumYuQRp40DKEn-CbhhLCa4nfUQy3HQB4WOv5LF3z_oKqbiEcb3ryygEVP1SK0K6wgEimSQaiypqNQ8OYLTpFa19cmbuCoR4YGpcZf3XeXvv6vwchHbgpXS9IDjGiDldrLY2nsXXJL0LFpGHPJ5A_yzAKuIT4Us4frKX-qdWXUdPfLfWRnZmWMPWIsZUe7FJER9pBtW5I7q_93FRzwJNwVH1KDLibQNnUu6SzjSV8hdAB_O9hwGbLEnRxIhQreKuBsjyu6tYArTw.jpg",
+        "https://cdn4.telesco.pe/file/juILjlzEcijRbyYT4HzfljyC5vA7hUarj1Hb1l0jkVzPCkSzPAZcQUFh3RZGcWdf6UzusapdcWdliJSO5sKSZ9lNou_Rrr7ZsW7ARvcrziiS3iszHcqW7t3DvV9BJk1XWxHkkj0BOyaqLBVxKh7uAs38SNGv8cpoOEcc9ezwq4DODYdwA8VzV_jdq419a_yhOBMYGHJYUT-m5d-MREr9dIRtFNbRxH3K0ir4rLk_9dosGnA7hdKdybND1NtVKm-CRc14IDkfUbHIka7zVgEo6A7jUXHzWPribEZvrGENSr7FX_PRLgw2aIFW025K75y5wT-Ly3BWNRR9Zmz5QseFkg.jpg",
+        "https://cdn4.telesco.pe/file/Gt0MTXUmqm33dYef8sqDpGCABmb75Vn9SW4CNWAQCCxnSQhkFAkND9udGhjIdE2MC2zJ7lUpXKu3as6w5gNaLxK9WlY0ZNJZxngvNxcIp_P5wSUre_ebHc4zrn6QUy3-zTLIAA68b57DUqvCLws34WOX_FG62Jm9IgQQMjO-bb2nWE7BKrGLSxHmUSNTdVfOp9aOaFi1lOPHvZVx6Z6yFVF_6CnNr0J4Es4wOjx26iOnTOc3S8ZSTBfWD-k95IwMCO09k274Q6uEvrwbxXYvvduD4VxmKvGQBFPsqdIMvpRpHQWz12iie5lk5RqBgveDr6OYdbi9tX-hpMmxE6ZDCg.jpg"
       ],
       "title_en": "",
-      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly figured out that its tool for ceramics can be used to produce cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
+      "text_en": "BBBRRRREAKING: Japanese company TOTO, the one that makes toilets, suddenly figured out that its ceramics tool can be used to produce cutting-edge AI chips.  \nMarket — $60B.  \nStock +60% on this news."
     },
     {
       "id": 1241,
       "url": "https://t.me/chillhousetech/1241",
       "date_utc": "2026-02-18T13:56:58+00:00",
-      "hash": "9894c1ccb438bacc162bd6ff5ba37622363ca4b03001ada31abf8c8b8ea32c0d",
+      "hash": "b7c0fe48c74a11d2101c2a656fb68b95f80e4513c594c7a3c4167351fe0f5014",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Короче говоря хочу внести чуть ясности в эти раунды. Вот снова в лабу инвестируют топ фонды ярд при оценке 4. И таких вокруг новостей в целом полно. \nЛогика в этом примерно такая:\n- всем фондам которые делают такие раунды нужны проекты типа Google, OpenAI etc. Которые будут определять развитие определенной отрасли. \n- им не интересно зарабатывать из 100м один ярд. И никому из их LP (вкладчики в фонд) тоже. Им продают высокорисковую стратегию и они покупают. \n- большие аи лабы это вполне понятная ставка учитывая что настроение у многих именитых рисерч команд о том, что трансформер не приведет нас к след уровню AI \n- фонды делают все на основе уже пройденного опыта, ага вот в прошлом цикле сработало и сейчас должно, эта идея близка многим людям и хорошо продается \n- иногда важны детали, но редко, обычно выбирают максимально именитую или с кучей референсов амбициозную команду и дают тучу денег, теперь такую контору и не купить то особо, а значит эти умные ребята будут пахать пока не сложится что-то или вернут бабки (всем ок что они сожгли половину это нормальный риск профиль)",
       "images": [
-        "https://cdn4.telesco.pe/file/uJzQ9icZv0ux1GlllCxspEb7BQ_2HkxfSADrzxlrmOVoQA7NpPMj-9A8w1ZJ2w8C3_RkYjoQ4l-1CyLg8Clu6RDtI0u4zhvqnWZvsYMxpmzcIWiJM-jFWcQIYcYwJcrRb7pJVzq1Cs3RWotaWtrPp7qPhCQV78lGfB1gE4hDjQTpweIAPnpdBDpQt3bNddqiweFY0McEcOg6NageSPMQ92t3JlJfm5mEp-rphCgnr4Gojjy-o8BUz5PUITYQL_X7by788gmSUe-qpLoWv5kNsHYkpQrPDfp-eMxNmpKL_AXAfdrYKtWgeiFCiNuxrY7tQGHbEKTOACq85wy0XhBH0A.jpg"
+        "https://cdn4.telesco.pe/file/LCdPCthu9_xZ2y8NfOISXw947k-aFZk5iqdx-GjgFo2GdtC9IFL_A58eSWrnMXWL04PFBKEQim1ECsC-0Ehoapy1_ZvXRpTASlmej5CHa1uc0g_BJ6dsnqg4OmF83e0kNNEDJi7We7jLNU6eW1frHVnuRG1xlaUhGuUHwxZJipjcfDhTvK87xnQZjj-gAptXcDF1goGuiy4cReIHJdGm-W8EjWXPrEZcQs5gQllrZrypqlmYJm2tH8UMsSUuh2-eHbKRWNeWCDlRDa3h3QaPwwBa3KHFgvbPBNlhmJAwJGTlP--XVo79uK0yEl5y3Msw9a_XRCaUddcw2sJBmoSKqQ.jpg"
       ],
       "title_en": "",
-      "text_en": "In short, I want to add a bit of clarity about these rounds. Here we go again: top funds are investing a yard into a lab at a 4 valuation. And news like this is everywhere in general.  \nThe logic is roughly this:  \n- all the funds that do rounds like this need projects like Google, OpenAI etc. That will define the development of a certain industry.  \n- they’re not interested in turning 100m into a yard. And none of their LPs (the people who put money in the fund) are either. They’re sold a high-risk strategy and they buy it.  \n- big AI labs are a pretty understandable bet given that the vibe among a lot of big-name research teams is that the transformer won’t get us to the next level of AI  \n- funds do everything based on already-lived experience, yeah, like, it worked last cycle so it should now; this idea is close to a lot of people and sells well  \n- sometimes details matter, but rarely; usually they pick the most famous or the super ambitious team with a ton of references and give them a shitload of money, and now you can’t really buy a shop like that anyway, which means these smart guys will grind until either something comes together or they return the cash (everyone’s fine that they burned half of it, that’s a normal risk profile)"
+      "text_en": "Long story short I want to add a bit of clarity on these rounds. Here we go again: top funds are investing a yard into a lab at a 4 valuation. And overall there’s a ton of news like this floating around.\n\nThe logic is roughly:\n- all the funds doing rounds like this need projects like Google, OpenAI etc. That will define how a given industry develops.\n- they’re not interested in turning 100m into one yard. And none of their LPs (fund investors) are either. They’re sold a high-risk strategy and they buy it.\n- big AI labs are a pretty understandable bet given that the vibe among a lot of big-name research teams is that the transformer won’t take us to the next level of AI\n- funds do everything based on already-lived experience, yeah like “it worked last cycle so it should now,” this idea is close to a lot of people and sells well\n- sometimes details matter, but rarely; usually they pick the most famous or the super-referenced ambitious team and dump a pile of money on them, and now you can’t really buy that kind of shop either, which means these smart guys will grind until something comes together or they return the money (everyone’s fine with them having burned half of it — that’s a normal risk profile)"
     },
     {
       "id": 1240,
       "url": "https://t.me/chillhousetech/1240",
       "date_utc": "2026-02-17T23:51:54+00:00",
-      "hash": "3dad704d6e41d81a94d11dee99cfe43c7f7046d7a75f642b143847ba49a67ab5",
+      "hash": "ebb85a70736cf16767a3cddf2ad5823237bd3412142c505dcf2d85f2f6420ae6",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Теперь я почти уверен, что там люди не пишут код \nhttps://claude.ai/\nUPD: починили быстро",
       "images": [
-        "https://cdn4.telesco.pe/file/lboXPkOOMttdA9Q9WJk2pELELss0SwZhkS9qoA21SRMa5kWhdLNcqonWCL4jyhmrA-PBVlls7M8nfLNhnQGaV67x5Jph1vE2DHwO0rcRHWWabcrum1nHsjw2lyD5r522tZLUEjSBE1pWQJZZ2DeEwkgdp1EAk9ulYNp8efHBfR3H0RRXhMRmHwUJXE2YRuToB33Jq18aZ1UTlvAvdS4XOTCl3oJ7xavpSSpqP55h_JM1fEcs6hSdT06766Ap9a5jZZKfaHQ9qP_n7RrA1006X_iij7d326VX5A3Fqc6xjH9Pk3C-fLIzG8XZRt6p2mBBQ68ojcs26HB2bmSlzi9gmg.jpg"
+        "https://cdn4.telesco.pe/file/K_gknVHNm7DHV72SbzB4onavf52mmrdwmLZf6yJbTrfmUdUUgdAtGzDaQsMNMmlI5exOUAzPdoTvVXkDQReg59lxuCUDGRXv7BF3YKksbhmAfoSvmyySsTsuTH97tr4mtgCxPFm5ANjQpUA8dYFd31ynsZ8skDh027FHJdFHVDrBU9QTfF4-atsk8H1CcI7xero-FXmDhI1zwXLCQb9uXhcUC7rPdkQRyTM_bowDIRgIMmh1LAYTTT5RPD27O5sQWTyKndCKeZYB439g3V3MIyqr0idPrcD5HpahoLrkn55W9R8a1TWO05UNaPvhz6bq5soVXhlIfLb6P9KonL1Nmw.jpg"
       ],
       "title_en": "",
-      "text_en": "Now I’m almost sure they don’t write code there  \nhttps://claude.ai/  \nUPD: fixed it fast"
+      "text_en": "Now I’m almost sure they don’t write code there  \nhttps://claude.ai/  \nUPD: they fixed it fast"
     },
     {
       "id": 1239,
@@ -281,25 +292,14 @@
       "id": 1238,
       "url": "https://t.me/chillhousetech/1238",
       "date_utc": "2026-02-16T06:12:01+00:00",
-      "hash": "b64be159cc621074bd938988a9bee0d50692ce6befa066073bff914ecbef9c20",
+      "hash": "a396cf44cf63ce96f2f954ca4b122199326e974d6d9d4cd4e21b6d1a015c5217",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Seed 2.0 Pro from Bytedance. Неплохо неплохо. Вполне на равне с большими лабами из США. Можно смело говорить Китай догнал (подождем когда там попользуются). А значит стало еще интереснее в мире AI. \nModel card",
       "images": [
-        "https://cdn4.telesco.pe/file/NlaTL_lrbd4dtOpcVN6l5WbLxv3l_rrB827OF7Gr3WPYyhVtsu2qTy3kLx3mXEb63mpwuU-O7ncE9cUEKeACfreXhAJO6UBaP302N0BXYzvPOQzhS7iWwZGaGeC0z8QgSE22sL4WCFItV4GigxiIulhi0X_94I_T3jxnnZ1vxSkW-JIBnzadHY-_shCZMke3EEgu4_K7Zr-SU0oTprKPuc66f3NrrzIwnBQ4SioBuULrFDjWw8WMMa8-nK2mLrj1BGJK83riRmuhMfH78Wg36ZFbnTFPaUb-TyuysYh3AC0O6K0v5NnnyTZL7m5Oztg2VGq5oBl04D1ts52rCL2zEw.jpg"
+        "https://cdn4.telesco.pe/file/LjmMVmCMLIUMDGt8oJjWLza8wzf5jEzagm62v-zqHnTIrK8o6y7iDFil1MgE_jBVO2r1IWOMSL7_JlXrnc3t0WwTF3iSIx-qGLu9sTAbUrnpe5BfGrZBNECXISx9-kJCzNyke74PoZAys4vgkf8nnI_CZdt7wVd95k5mbBxFb5HgyYfyazTA9cDcokXFS-WkGEw9QiBXDC0VkxS5uaUzhIaqkKReJtZekox7r4Bjh_RAROJUuQ0EWNz7wcfRMg3ST0gHUiidyJT_QEjg-nYT1yzNz641KFkfeGcbOw-RlfbwAwixJ89otyNky4iB26NzhEJWjpG3JxNL6lnZN2nVug.jpg"
       ],
       "title_en": "",
-      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Totally on par with the big labs from the US. You can safely say China has caught up (let’s wait till people actually use it over there). And that means the AI world just got even more interesting.  \nModel card"
-    },
-    {
-      "id": 1237,
-      "url": "https://t.me/chillhousetech/1237",
-      "date_utc": "2026-02-15T22:00:51+00:00",
-      "hash": "8c3e3b574874fed27434d73617d9e170ce339229f9df40e515eaa2d46701ad9d",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Чел создавший openclaw “присоединился” к OpenAI. Классический для долины ход. \nTweet",
-      "images": [],
-      "title_en": "",
-      "text_en": "The guy who made openclaw “joined” OpenAI. A classic Valley move.  \nTweet"
+      "text_en": "Seed 2.0 Pro from Bytedance. Not bad, not bad. Totally on par with the big labs from the US. You can safely say China has caught up (let’s wait till people actually use it there). Which means the AI world just got even more interesting.  \nModel card"
     }
   ]
 }
