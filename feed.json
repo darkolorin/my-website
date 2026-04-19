@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-18T19:11:24Z",
+  "generated_at_utc": "2026-04-19T03:51:26Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -145,14 +145,14 @@
       "id": 1260,
       "url": "https://t.me/chillhousetech/1260",
       "date_utc": "2026-03-17T01:51:54+00:00",
-      "hash": "385a345e31afbc3058cbd6ef681a3a07abe77393c7f860bac7b96a4c9f87556a",
+      "hash": "06a92174015bb7b4dd0194bfe911adfd4c5c28c8145680f790e5848a39ca402c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это AGI тезис похоже отменяется, либо его вообще перестали серьезно форсить. Но тем менее OpenAI идет в прямую конкуренцию с Anthropic с его кодингом и в бизнес/enterprise. Это крайне интересно и кажется говорит о том, что делая все подряд они упустили достаточно много конкурентов вперед (тот же Google). И еще интереснее тот факт, что похоже в срезе фичей для аппки идей у них так и нет. Даже учитывая покупку openclaw и прочих. \nА где же пресловутый ChatGPT AppStore? Хах.",
       "images": [
-        "https://cdn4.telesco.pe/file/reDPfVdQ30qleO3IY-MxbL4UrZeMrF5vLL1eecIewu9vqENFLbXHDZizrobTejgFdO7PrKCr1ysMAct-15C47IYtOJoFDJVzSAuAuUnZFBwY4u40qowZi4U6GtKSy0hY_mpDd9ifHJTyt0FGEqfL4-yEBJ5kK_iX4U7tWpLqtwLb08riFGZt1byPgbGVaWhkIwymVtz8I-3LW6sqaPfJgMARWiDP72NbFOclj_Y6BLyHvMQTwDWuoTp9sTzKnhGx514Eb60JGHZX5q1bcYtG1LLEB_hBfbNV6b5Z4V6UHyBsFMXczjLe7HuvInkHoDzcYeXYfzlWkCgKicm5x76oHQ.jpg"
+        "https://cdn4.telesco.pe/file/CAFzKsziHvzpM-RRKF5S_dC3DzTg0FIvE7dl2rOx9KwKVh839sNrHCBj-BTbsNhirBqGBzNob5qlZJtiSK3h-AF18HwXz0FP53CeT8__mQrjswoToV10lbF8efufP1NoGbeveKcOTjILFkLTmFqY0NbP_byMdoiOl7m2j_F2P-Ewgr__uUWFQ4AhNl--4WFM1DPX0qQEwZ7DzJytr-SIR_kRVvoqCpyKgMBCY7UmxrJ4k__XxIKuuoOT9fsPQyCcn24QW3DWuzd0_2o_pc4BdJgu8K1ppZpUswfcOko0UWlDSJJYkt1S9UTMhoHGVNrCldZdUZAY6LveOGs_aZZxSA.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, looks like that AGI thesis is getting canceled, or they just stopped pushing it seriously. But still, OpenAI is going head‑to‑head with Anthropic on coding and in business/enterprise. That’s extremely interesting and kinda suggests that by doing everything at once they let a bunch of competitors get way ahead (same Google). And even more interesting is the fact that, feature-wise for the app, it looks like they still have no ideas. Even with the openclaw acquisition and the rest.\n\nSo where’s that notorious ChatGPT AppStore? Haha."
+      "text_en": "Well, looks like the AGI thesis is getting canceled, or they just stopped pushing it seriously. But still, OpenAI is going head-to-head with Anthropic on coding and in business/enterprise. That’s extremely interesting and kind of suggests that by doing everything at once they let quite a few competitors get ahead (same Google). And even more interesting is the fact that, judging by the app feature set, they still don’t have any ideas. Even with the acquisition of openclaw and all that.\n\nAnd where’s that infamous ChatGPT AppStore? Haha."
     },
     {
       "id": 1259,
