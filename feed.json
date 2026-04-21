@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-04-20T19:35:12Z",
+  "generated_at_utc": "2026-04-21T03:47:15Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1274,
+      "url": "https://t.me/chillhousetech/1274",
+      "date_utc": "2026-04-20T20:44:10+00:00",
+      "hash": "e408c823e907125ae4012a9b70b3de089845a588c65129e8fe77e53f1c2f436b",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Ну что новая эра в Apple - новый CEO John Ternus (бывший глава железа)",
+      "images": [],
+      "title_en": "",
+      "text_en": "So, a new era at Apple — new CEO John Ternus (ex head of hardware)"
+    },
     {
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
@@ -289,17 +300,6 @@
       "images": [],
       "title_en": "",
       "text_en": "AI editing back in the 2000s"
-    },
-    {
-      "id": 1246,
-      "url": "https://t.me/chillhousetech/1246",
-      "date_utc": "2026-02-19T16:10:19+00:00",
-      "hash": "86ab8209a9be581e6aa2f90e516a53c1ef85fbb2e1211ba8a0675e495a0cc8c6",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Недавно в канале спрашивали \"как там дела у Mirai\". Настало время поделиться. Мы подняли 10M USD Seed Round. \nЧуть подробнее в посте.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Recently in the channel someone asked “so how are things with Mirai.” Time to share. We raised a $10M USD Seed Round.  \nA bit more detail in the post."
     }
   ]
 }
