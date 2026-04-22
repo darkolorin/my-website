@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-04-21T19:38:30Z",
+  "generated_at_utc": "2026-04-22T03:43:57Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1275,
+      "url": "https://t.me/chillhousetech/1275",
+      "date_utc": "2026-04-21T22:46:49+00:00",
+      "hash": "da0934b945bc7cc2beed47c2dbb5c0a0e36964461171a5c9bb90e120cc138126",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Cursor за 60 ярдов?\n Огого",
+      "images": [],
+      "title_en": "",
+      "text_en": "Cursor for 60 yards?\n Damn damn\n\"\"\""
+    },
     {
       "id": 1274,
       "url": "https://t.me/chillhousetech/1274",
@@ -289,17 +300,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Finally something actually sane for finding an investor and contacts. No spreadsheets, digging around, comments under “raise” posts, and other crap. Just a list of funds and partners by categories and stages. Use it and be happy.\nhttps://f4.fund/raise"
-    },
-    {
-      "id": 1247,
-      "url": "https://t.me/chillhousetech/1247",
-      "date_utc": null,
-      "hash": "e3074222db6fa96efc23c7d6ac38900e435a2ffcf1a5608c9985ae913fe6eb29",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "AI editing back in 2000s",
-      "images": [],
-      "title_en": "",
-      "text_en": "AI editing back in the 2000s"
     }
   ]
 }
