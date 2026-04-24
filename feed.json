@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-04-24T08:23:54Z",
+  "generated_at_utc": "2026-04-24T14:08:59Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1279,
+      "url": "https://t.me/chillhousetech/1279",
+      "date_utc": "2026-04-24T09:00:15+00:00",
+      "hash": "9bd0318ddb0ac875f9d743a77ed9cd7663e0239316239dd6e36f850731227bf9",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Забавно вышло. Многие думали как AI демократизирует возможности и как легко стало что-то сделать. Но если может сделать то стало и легко. То вопрос который оказался поважнее: а стоит ли. \nИ этот вопрос намного сложнее. Раньше немногие могли просто написать норм софт командой. То теперь категория проблемы выросла и получается мир айти (или по-западному tech) с приходом AI по-настоящему перешел в взрослую фазу. По сути как автомобилестроение в 60х. Теперь сделать понятно как, но надо ли и как понять надо ли. \nРасслоение еще больше выросло. Думаю похожая ситуация будет в контенте.",
+      "images": [],
+      "title_en": "",
+      "text_en": "It came out funny. A lot of people thought about how AI will democratize capabilities and how easy it’s become to do something. But if it can do it, then it’s also easy. So the question that turned out to be more important: is it even worth it?\n\nAnd that question is way harder. Before, only a few could just write decent software as a team. Now the class of problems has grown, and it turns out the world of IT (or, in the Western way, tech) with AI’s arrival has actually moved into an adult phase. Basically like auto manufacturing in the 60s. Now it’s clear how to make it, but should you, and how do you figure out whether you should.\n\nStratification has grown even more. I think a similar situation will happen with content."
+    },
     {
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
@@ -55,27 +66,27 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "139f0184f63fdaa11ea638650c9be7e6fe463b24c0a246138c71a47762c15d1d",
+      "hash": "3be4bc45d871dc0368f900f11158263916b63ca91ce0b7ef3aa5a97047d4c434",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/bK_FBXynD57THB5vDb8rFdVMsgWgD8m7egunj03cJdMhzI6AOZ0kWBVqXdek8eYp2d8XQh6sUHarAiPBgEd02l5pvQalcwIeBQkAxU1l2OSck0bncU0d_V57MwlzAnzfj_m2Hf9FmapCBvYO6fEh7DIbqtpvdAYef9RpJI75TRA-_LfSF6qxz0dh073jLLUiFqM6tFT_qkdNBh_zI0NOwJ1ZStMyepHEcnWwMUYFx4d6ZSylw7w10QF6ggugfQFWU3r6YWRWV07jHLdWv5d_2fUI57pAC3kpfQOYlpYh2b4-lYRADd5qJNhb4c0CYwX7dLW9mrTY-ZbuIg3oMBTHWQ.jpg"
+        "https://cdn4.telesco.pe/file/C-d_JATXJBgBCFgndCyPrEIS2AdVTekHiUtZBdHbM3gpm5Uf65RAGih4uMV2l1t6E3czCVwt7WQLtAY0RI1p1d2Xu8Rz79ep_kbFeU8mchoPkAIxrjaOjf7swuGadZ8izIWTIMXjBvLwaMnxnmcZk7UWZLilfpOEI_DvEoWDIAEuDB7LIcEx5BH4hXGXaOs2tuh9c1Bh3czCvS3pUxH5azaMDTvG1JA3KIlfBUj4MKtj15YruM2YNMLZHk3t9bjhaJYKu_YPBedrunb7UoF2EyPm6Mim6imN8fl2pk1ctgkbYTGLDPvxh0Vjhu7rV0hyB07LanIInNYMzE3NtD0x9w.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s the mythos then? Well, and I hope they won’t be cutting 4.7."
+      "text_en": "And where’s the mythos? Well, and I hope they won’t cut  \n4.7  \ndown."
     },
     {
       "id": 1272,
       "url": "https://t.me/chillhousetech/1272",
       "date_utc": "2026-04-16T10:54:15+00:00",
-      "hash": "60828c77d72420cd5a6b61e24618ef659e494fdb4da09ff057b45cb222d13e5b",
+      "hash": "2fe87a53ddc015691f1200493b6774a08dc32a93ac17dacb020034553d5d126c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На днях вернулся к ангельскому инвестированию в роли скаута \na16z\n кстати. \nЕсли делаете что-то классное в области:\n- ai frontier research \n- ai infra\n- ai application layer\nБуду рад посмотреть деку или послушать питч. Ну и если все топ, то положить чек и представить партнерам фонда :)",
       "images": [
-        "https://cdn4.telesco.pe/file/TUp0PJIKc_hJFuFblDnHuDEHvpwRTjWfZiaw0LOZRbIWR0M8XG9FHZ5OqDnSIooobuXeKqvWqCpQlqM6R6yImvWqWWqigWVYXW3M_tMGPR4UB--_Ma6ctybZXL_k9H4yyWdsd39eOk5kCGUrhSpRjd20JFUb3LKKvQyb_tsJv6GccwERewmsdhE9Wzbv0yDqlCS9p3kZ7TIuvHEparbfknnNRWHgyBbTnikNx1FUGdJhMhbRU23GDZYlWF0bXGaxJuKnBOJ-gvJyhXhx6G2wV5GKO6-C4STS6gf1MZMTdx1k7u-jbWaC4_GxUx0NWarw6o4da6TU67F7BCyA6RCfGw.jpg"
+        "https://cdn4.telesco.pe/file/Ieww6stgOrBZbLJ-gcFuyGPBdCsczGn9JPozF_L4OPRTeDPz8FBUQ52s9d755IOFFb6_QkBs7w37gYAIbtcbdGZOGlQAdZ-YK4aC9aQOvV_q3daQxHqWbYFWNTt4NiLlxGfbjDK7w07WhOeIP27ZmjyXrKwHfEH_mvJ5SVGjOfCGhfL-l_tJrU_PZFdwaQEsceM3f8At71dM5R3VxqtRvUC_IUWzj0nILoYX5T2XDKlSa0DPY0XBSDf-AguOPXeWPIecoTWOX9W3gpvI4mQkDvJynlnUK61cFQaNM_RVEIorv8Patz04QSZxCvCAcyowvtJybCSq2a7GWSdGio9E8w.jpg"
       ],
       "title_en": "",
-      "text_en": "The other day I got back into angel investing as a scout for\na16z\nbtw.\nIf you’re doing something cool in:\n- ai frontier research\n- ai infra\n- ai application layer\nI’ll be happy to take a look at the deck or hear the pitch. And if everything’s top, then cut a check and introduce you to the fund’s partners :)"
+      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nbtw.  \nIf you’re doing something cool in:  \n- AI frontier research  \n- AI infra  \n- AI application layer  \nHappy to take a look at a deck or listen to a pitch. And if everything’s top, then cut a check and intro you to the fund’s partners :)"
     },
     {
       "id": 1271,
@@ -107,14 +118,14 @@
       "id": 1269,
       "url": "https://t.me/chillhousetech/1269",
       "date_utc": "2026-04-08T16:38:16+00:00",
-      "hash": "ff027e4a510da9f4e3069dbc87e63553128accbd09dcf15bc16466bdf62754d8",
+      "hash": "382036bd258c5991c94cd72de0a533bb49620d0008dfd479d9d2daf759559282",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Meta finally \ncooked.\n Конечно не про кодинг. Да и не везде топ. Но уже что-то.",
       "images": [
-        "https://cdn4.telesco.pe/file/hWZhgRzfRuNENd9FHkfWORWzX0SS2QphvsMOQjV8pPkPUscyYqi78kB46xQV75RGFlgKtD9z4nDJsOodnXosuNgxJQYrebpMZw9Es6-GjHOL0wGNZimOHROhZUA1ZO2uC81KIDuPsMMslUjHhIfNG-y4decDQ87yrCsxEgX8uijcmGUNrp0zoNFOXxII1Keudi7ptSINTaLdhtXpHPrnUbbS-w9MoUhg2CPRvmgc1YEnHr3CVlgXP0kTdgGQ42teD2pF1-S8hX7MxGI6ixF2sBtO682GCvU5loLWWOVUlVBCZfcFykcJZ6gsmrO95p6S1otVktslTMUdjHZnI0uJMw.jpg"
+        "https://cdn4.telesco.pe/file/eNjeRRYlHLxZradlAYyU34Tide39oXUvy31pt3TkZO9soUttbOaQeQLju_oAfqGuQww6w-hqg_XYBe-6XBiv6PmgzPELFBS_0VNeDQJjSZARSIwmAQA-Wodw-PMgZFGhtS6hn-DHHZke7c23T-rHCzEFzDg9j8QlJ1pune0op0szc_VGusxeyHy564jMvQ2vI24Uwe92dkSCNwDBvU-cNgiazdINlEjTCTfJk09ipaXfOFyIGxG2Bl3koFvUtaeQk8f0uBWHTBnBls_ql-LqgP1vv3UmHvIRoV-pw1qG0tJH2L1ZlWTeYbRLP6eiZPr4Y0v8QxTOBJ8ALx0gd70AIw.jpg"
       ],
       "title_en": "",
-      "text_en": "Meta finally\ncooked.\nOf course not about coding. And not top everywhere. But it’s already something."
+      "text_en": "Meta finally\ncooked.\nNot about coding, of course. And not top everywhere. But it’s something now."
     },
     {
       "id": 1268,
@@ -142,15 +153,15 @@
       "id": 1265,
       "url": "https://t.me/chillhousetech/1265",
       "date_utc": "2026-04-05T14:32:30+00:00",
-      "hash": "18de796b6025d396830840b00eb81523a44f705eb2b24c2fd4752afee4ed8741",
+      "hash": "3608e8675501c04ddd038e71035f10745f5886c1ac28ba89f8055fc3cf757f45",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаемся после поездки. Если кому интересно фоточки из Боливии с высоты 5к киньте реакцию какую. А так воскресное. Лучшая реклама Apple.",
       "images": [
-        "https://cdn4.telesco.pe/file/rpb1_PUo0681MNWbVXdwcCSeJtyfam2tJenq4uMYMxd6uBJL1k1jHoA9o9hXAuzYnurhE1bT8LqXx0UBd3pi1zX4j20LuDHPeJ0VOlBmjdgP497tQn2hW68LyyvYDf_3PWYm6rAK6261HYWHfwd_4mga1qgNUtmqSp5cyI2RcZPT3Si0EAHOdJFL5Hv4sOI0Qm9jJsdVLSpk5nx8MIe0AWeaatw6t_wWDi5LL7dCcr8b81n4t2iIdjTpzeRdqj0xKlfoa-Y2KGpWxKoW_AT8myAFyJAiv-CcvD0tqcz_AfHWMXIGSJyYSSyYpEeDkXM38rx1_ZunRvQDqakguqerrQ.jpg",
-        "https://cdn4.telesco.pe/file/dvejt0pMLab_JxGwp6_DgVfnWsXJjvRZdBuVSVqlshqwSoppY4TYt65mRdwhwkl7O5RLa4IfitEDhrZm3ZcaOZB2WSsGszYcVJpNMHOkRoSgn9y5m5UGMb2143u12BT4xjKSdMhWf3-Uw_RMPSb19OAGJ3t__fviA6nXl-kZ3TTFgszcyvfYLq5kE4_wfx5VuLEMl7VaxN89x4p_cnGfVk4FAMvC1H6QhXkZEYeVdhoCN8MLIlpwI_mtbNlRUV_vXBbiuXH4rP8eu10EK9H8ysmkzM1P9skBJQyujTEnw75ZPvFjrHFUo65vHdRv9_aC9JjXpYx_OIQQ-lgiJPTpQA.jpg"
+        "https://cdn4.telesco.pe/file/NMySGQzYjitOj1jm_umQsdGiiy8JP_GbAExx_4ozoo865lzcc2U7N2tkP5s36xQPYE9PuSBY-Xs2B2jZOKgApMqHk7zsYFIbn03xFGDavt3SunRezdnurdCXOD5zrLWDVMhvwH3RUYo6s8y4PFR4Q58bb7i0Gv9SKf17aLf0RcsnWEWFW-bHWeR9iMqa_IT2wDCQ8wcjxI9kEvkVOjI4Xbi6wy2iWL820VqFhpIPqRh7JqMBNwGS1zGaTmfF-QW4nNJbQ99d8YQ6ll765ARy3GVPeBlx9mafnvshi6fE5O_ad3nW9ZR3rKYkBePscu70yZIuLJt4zMExHDauHWsrVA.jpg",
+        "https://cdn4.telesco.pe/file/jZ4wLzk9IlGjekLSMJpdhW6NFS2cBIBzykW-aQqxvrUIFW1YAb2hb4nbe90vRFAZC9PebAvhUjFb3tKbZoJmV9IJJsUWmxay-mOgxe9yMm-AWjPMfhbngKMgFkyHgugyDg2Ut46S_4Vs-7odJjfqED3u93BsTJ_3eJmettftEegGVOLWjWjiZig5NlSJjwc8XzRLY7zl8Nh61NBhc2hMJEUbVpDQlBPyMU2BqE_9TrLNROG-_FBqfhTquq-f9BYz6ThsjX0fKAKoTAsSA_5YSRa4HzD8648efEv12j3kSrFBljvzMo61T59nav-tpd2HcWKUAQECkOObDKDlbLQt1Q.jpg"
       ],
       "title_en": "",
-      "text_en": "Back from the trip. If anyone’s interested in pics from Bolivia from 5k up, drop some kind of reaction. Otherwise, just Sunday stuff. The best Apple ad."
+      "text_en": "Back after the trip. If anyone cares, for photos from Bolivia at 5k up, drop some kind of reaction. Otherwise, Sunday stuff. The best Apple ad."
     },
     {
       "id": 1263,
@@ -217,27 +228,27 @@
       "id": 1258,
       "url": "https://t.me/chillhousetech/1258",
       "date_utc": "2026-03-14T00:12:37+00:00",
-      "hash": "5ded82f830f25eef68b2483d16e6f8abdac938331fb79c860fac13d13018cacc",
+      "hash": "20cf02aa65e0941bdda34bd7f43a26c97d68897b6086e7e3eba16a68d399b3a1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаюсь к новостям. Поездка в долину была продуктивная. Даже писать было некогда особо, но эту новость пропустить было сложно. Все новые и новые модели выходят!",
       "images": [
-        "https://cdn4.telesco.pe/file/tWRqfGzd8Nhi8Hxf_dlZdlEijKkJNtNOMLKt_JFe2NQIQc8cTChMXJW682khDTgthYmxESKDDxJe5k55aE_O6KSR_f4BHYZb2tRh-5IgKKCLDx0DiyyHowNOv_O78-vI04PpGG-mIfvHG_JTbYu20PuwFi12L5zBSp7m_jNgJQ2Q1MCBfuO0NB_64YYfP7DNq9c5wrqXk6txGEibXNyJX9TBK6a5r21WbT0JbJTW07toT4h9R3FdOv4xs4dSUteLfPkG7-8Sxs8PTeymNq2jdlBH9FkajjRaZO_KgkstqoRDcXwwIjK6G6T_CIU_BHKz0WO6ZgfPxGneyDWi8C1Gxg.jpg"
+        "https://cdn4.telesco.pe/file/gB4TVQCb2WnkgrSWiqXHG9hs8JTYMshiJ7v1X0HU6y0endVGVDW5OGBooI1Sfsi8umz3-Q1UnIktpLwDns_RQQwGmZcDF1YXqCifztqopGWgxu5qJHU4HaRXxX2n1jZbfhvENdRyNqb_NmL0q-ZN-RDViasTs10UMF-fXejqQen7wWxDonBa_awk9bsbfwSqPhvFUvoHyQ0HZTKqqghQNYgRUoOKB4QzoYsNF-lQnvC2mQop5w3C7p_MqaLxo-2VxIyZiGsYWdps7f45cNiwUDRL1N3eeTd1blxXJn2aqueUKa9H0oxl80KYjgeeWnPOqacylmBIUt7QeUAt8GRCpw.jpg"
       ],
       "title_en": "",
-      "text_en": "Getting back to the news. The trip to the Valley was productive. Didn’t really have time to write, but this bit of news was hard to skip. More and more new models keep coming out!"
+      "text_en": "Back to the news. The trip to the Valley was productive. Didn’t really have time to write, but this one was hard to miss. More and more new models keep coming out!"
     },
     {
       "id": 1257,
       "url": "https://t.me/chillhousetech/1257",
       "date_utc": "2026-02-28T18:41:18+00:00",
-      "hash": "9e96781f514bb08a0270c3ecac22c29bb296d1f9c7c98667c89e905464b9f5ad",
+      "hash": "d2a81f3b3be69823824466960813da58de89442a4676576696f2ada3c61ae30b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Мы живем в уникальное время, когда просто знаешь что делаешь это уже навык.",
       "images": [
-        "https://cdn4.telesco.pe/file/gLULHPNJbztS-RZx4sK6aIxH65gYk0UWbGtLvNITsPOGAKs0SBBwXJDmzYs11j4ZWksNm_Mk3eBuV7DnEHckIDt1eT0DwhaOlder7bQ7193ANt8hwSOS-AHkYaVLDzOuSYeb4EExT4o8FTVXam6744c96VmyaeqOFdZAN31BZAERK6zUrRg0mk0S0WZBO-uqjY8Eq8AYodSyHcZX_7b_V5XufBUq5u3mDmeMYLDsH1K1-GS3V3Zkuq6lqFNVE47WsFnhgYihbSOJfJeV-KHeegmZalV8ZHHORi3-B2e8fIDnhABR2gpvMm5f5g4VJ6e4CMqSZn6VbLBF4ZBIkJ0D7w.jpg"
+        "https://cdn4.telesco.pe/file/sgQS5c8aycaAxnC_0hw60sUhNExSLQ0Pn22J4UAth72bNml-1UvR_pEVTK9JUyn1sJZzCA8T58o0pNvviPAEtA12TJb34VZx6ISoxYWe_llq3PzkIpo-y42DmuXAUEEUj9rokyCWXYf4ZV-yNPZeQRWo6aW-Is3w86s1y2MbVWY4YwNzP0ZbXhXm07Pr9zkSIngD6XXeyFk0SIOcGStL334XTAiYir50WK78WwzC2TmWhL0LmHMeQN65iy6-t7sxpnaEUy0Tk5yQpWzaHnBscpvLWY6AlLogwoSS-BFZtBTPU8hj69bfRDQqcYJSuYMJ3rUH3p8h2VcKnXAPMwqfzA.jpg"
       ],
       "title_en": "",
-      "text_en": "We live in a unique time where just knowing what you’re doing is already a skill."
+      "text_en": "We live in a unique time, when just knowing what you’re doing is already a skill."
     },
     {
       "id": 1256,
@@ -293,17 +304,6 @@
       "images": [],
       "title_en": "",
       "text_en": "A pretty good overview came out of what big labs like doing these days: namely, looking at big tasks in coding and the execution horizon.  \nMy take is that quality of execution is just as important as the horizon, and one without the other is pointless.  \ntldr: as expected, coding agents are good at what they were trained on, and can’t do anything new. No ideas and no solutions to current problems.  \nMore details"
-    },
-    {
-      "id": 1250,
-      "url": "https://t.me/chillhousetech/1250",
-      "date_utc": "2026-02-23T15:23:00+00:00",
-      "hash": "75e8bf66fc75df48c614111b5b4397dfa1c7d691c6d360fb51edb7f2e212dee2",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Новая вакансия у нас \nhttps://trymirai.com/careers/machine-learning-engineer\nТак же на инференс всегда открыты к новым людям \nhttps://trymirai.com/careers/inference-engineer",
-      "images": [],
-      "title_en": "",
-      "text_en": "New opening with us  \nhttps://trymirai.com/careers/machine-learning-engineer  \nAlso for inference we’re always open to new people  \nhttps://trymirai.com/careers/inference-engineer"
     }
   ]
 }
