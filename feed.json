@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-24T19:14:35Z",
+  "generated_at_utc": "2026-04-25T03:33:49Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -228,24 +228,24 @@
       "id": 1258,
       "url": "https://t.me/chillhousetech/1258",
       "date_utc": "2026-03-14T00:12:37+00:00",
-      "hash": "4118e2168ba7d13218aaa928cd2e6681929ffef821b0ba6c4f85e8543c5ffec5",
+      "hash": "d1017972186fb2952b9cae5537d7be49e4eae35a66f4988a4be270749d1eb81e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаюсь к новостям. Поездка в долину была продуктивная. Даже писать было некогда особо, но эту новость пропустить было сложно. Все новые и новые модели выходят!",
       "images": [
-        "https://cdn4.telesco.pe/file/AQIStaDR0wT0FrLa-WCVVViL5gMwVk9Sk3Z3kImeEK5lIPTgzRbP6-5sNKiy9k2A_fvruOGlGIHoMxdnqurlTE6afx-KSB3DH4nLTjOjU8Yg-iMh7a2jsMKAyGTMwrNMB1_lo23pQgj3ovaiDq8k1r54QRg1ze79_Es_cYcwLaUbvvrGM5IpPxFs-HDBUVhFAWW3hVl5hO3IhtUPnN66Vui2r8Nfd_t5CJRMCwBAqja7bGu9MV5knWVWWMLU1JjwfZ2tuc4t8MMiDc7MQGHPNqF0uBIXsAQKLa5-r8Q5vlFcA4wZLGWfMixWxxnz7TT1AQ-nanlNBbd1ThojSe7KsQ.jpg"
+        "https://cdn4.telesco.pe/file/jtSSjFoaOluTKkN-JM2n8ov9QHP8P4HrySqPMxdtQrs9dKcVLrilby0EIa-LVEZKr4jemDoNDTHzxydfWUkVTn4bBH1Fmx9Kwd2sOibo8I2H29KkOIWVTY92G7KhWiCw5A5zyiLRuN1nJsXfV991D-cCe_Zleer30_PEu5UPVXF3q9_R3sp1PEIjuT85xfzXunevGuufEFa-Pv-dwGZdWdW3F1F4mFY8xI0sVcS71KSGxRfbgSR-4-CsT6duUwa4ZtWtOvnTEKuWYHXE2Z3u3F5UotPQuvX8bqzZcEKamqOxBspQtDyllSmawEIj0rODH9YOroUYI53dGGTuAlhz5Q.jpg"
       ],
       "title_en": "",
-      "text_en": "Back to the news. The trip to the Valley was productive. Barely even had time to write, but this bit of news was hard to skip. More and more new models are coming out!"
+      "text_en": "Back to the news. The trip to the Valley was productive. I barely even had time to write, but this one was hard to miss. More and more new models keep coming out!"
     },
     {
       "id": 1257,
       "url": "https://t.me/chillhousetech/1257",
       "date_utc": "2026-02-28T18:41:18+00:00",
-      "hash": "ac13d659d8a7a6277d5472565b628b96b2fd96142e6c6d9525de34c24f0ab5f2",
+      "hash": "fd6ba817837ee54e685a647438c0c6a99f3ed876f4452a44cb042b27e38fc1df",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Мы живем в уникальное время, когда просто знаешь что делаешь это уже навык.",
       "images": [
-        "https://cdn4.telesco.pe/file/vRLN5OfZ5Drizq53XGLABG_9RJ8u9hQdZM_dWw4LriIv1qx20g4IavqEjCymUT8qFdg47GKmOKh59ScEFWtX3Tegcz8AhQ0dJ5rsJnFkBxs_hyb8tYxJAyGQ18juysNwH3p-hkhdrRW3kjYKVy8ZMnP6_odjiZ6sxzWOCsDyW-6MjsujAMoxcSuFlPecN5i2r8LOTVmcIn_aPIIl0n7FEAT3Qzf8i_FRTLQOReiFPUzIgUX6d93IprDrXH8cp7WA0RTl7SZfXZlRQaBpf1PzuCHl7x8GPjeEgNvomIVMqodyXFW309sysPLapx3oNtfhy_tDc0RAW6be9RyM4WPNUQ.jpg"
+        "https://cdn4.telesco.pe/file/PqEjzgHam79NsyIXHuLigQUegpFqAggF09jAoLLR84uzTk_PYEvOd-l8h6DdEJnng_414sXHXfawESpqV8kDltMx-C9RMIkTtwgF6GHhqfrrGDJ5U8ADjfI1Yb5pqXmClTM-1I44-LUWp6FP4Y9Vel-zT_ZQYBWL_gCHPpge6qsbBW4u0RIBzSnaN6ltJP4XJWEsHPz2isQVKcxqJuZUCOqsnrYaLrOUibqCDeepugSn0sJJwrz2XPYE3cUeuNAr0JyzmI3PP-f_3uN77i2XTIvSIJZu46GWITaPkAbc4-WQMiESo5zd03uCgPBJ2Xy9A1iMD7UDWUN63hQ44oW9ZQ.jpg"
       ],
       "title_en": "",
       "text_en": "We live in a unique time when just knowing what you’re doing is already a skill."
