@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-04-25T19:14:38Z",
+  "generated_at_utc": "2026-04-26T03:57:19Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1280,
+      "url": "https://t.me/chillhousetech/1280",
+      "date_utc": "2026-04-25T23:41:20+00:00",
+      "hash": "2781dba1110ed7308935af776a5868caf1991a469d54ef6038d2014584ae11b2",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Я подписан на \nрассылку Дваркеша\n, который сейчас топ1 подкастер по аи наверное. Так вот он нанимает себе рисерчера в команду, чтобы мол не только задавать вопросы на подкасте, но и отвечать (хз, похоже на понты больше, но тем не менее). 20к баксов призовые конкурса организовал для найма и вывесил вот такие вопросы (перевел чатом гпт с моими правками для лучшего усвоения материала)\n1/ Пару лет назад существовала идея, что прогресс в AI может замедлиться по мере все большего упора на  RL (обучения с подкреплением). Во-первых, потому что с увеличением длины горизонта задач AI должен выполнять работу на протяжении многих дней, прежде чем мы вообще сможем понять, правильно ли он это сделал, а если мы всё ещё в мире наивного policy gradient, то сигнал вознаграждения на FLOP падает.  И уже поскейлили от gpt4 до о3, было бы сложно продолжать в том же темпе. Тем не менее, прогресс AI остаётся быстрым и возможно, даже ускоряется, если верить слухам про Spud или Mythos. В чём дело? Что упустила предыдущая интуиция, которая вела к более длинным таймлайнам? (Можете оспорить саму предпосылку вопроса.) \n2/ Какой самый правдоподобный сценарий, при котором компании, создающие foundation models, начнут реально зарабатывать деньги? Если рассматривать каждую отдельную модель как компанию, её прибыль может окупить стоимость обучения. Но если не тренировать сразу более крупную и дорогую модель, доход перестаёт идти уже через 3 месяца. Так когда вообще начинается прибыль?\nВозможно, в какой-то момент масштабирование выйдет на плато, но если прогресс на фронтире замедляется, то комбинация дистилляции и низких switching costs (а облачные маржи во многом держатся именно на высоких switching costs) делает open source решениям очень легко догонять лаборатории, съедая их маржу.\nТак как же лаборатории в итоге начинают зарабатывать?\n3/ После нового раунда финансирования OpenAI с оценкой в $852 млрд, доля OpenAI Foundation теперь стоит $180 млрд. Сооснователи Anthropic пообещали пожертвовать 80% своего состояния.\nНо у людей нет чёткого понимания, как продуктивно использовать сотни миллиардов (а скоро триллионы) долларов, чтобы «сделать так, чтобы с AI всё было хорошо».\nЕсли бы вы сейчас возглавляли OpenAI Foundation, что конкретно вы бы делали? И когда?\nНедостаточно просто назвать важную причину, нужно объяснить, как именно конвертировать деньги в реальный импакт. Опишите конкретную стратегию.\n4/ Что должны делать страны, которые сейчас не участвуют в цепочке производства AI (полупроводники, энергия, фронтирные модели, робототехника), чтобы не оказаться полностью обойдёнными чуваками которые двигают AI? \nОтветы можно закинуть \nсюда\n (роль ремоут кстати одобряет, не только сф)\nИнтересно вам услышать мои ответы? Но писать 1к слов как он просит наверное не буду кек \n🙂",
+      "images": [],
+      "title_en": "",
+      "text_en": "I’m subscribed to Dwarkesh’s newsletter, who’s probably the top1 AI podcaster right now. So, he’s hiring a researcher for his team so that, like, he can not only ask questions on the podcast but also answer them (idk, sounds more like flexing, but still). He put up $20k in prize money for a hiring contest and posted questions like these (translated with ChatGPT with my edits for better digestion of the material)\n\n1/ A couple years ago there was this idea that AI progress could slow down as the field leans more and more on RL (reinforcement learning). First, because as the task horizon gets longer, the AI has to do work for many days before we can even tell whether it did it right, and if we’re still living in naive policy gradient land, then reward signal per FLOP goes down. And they already scaled from GPT-4 to o3, it’d be hard to keep going at the same pace. And yet AI progress is still fast and maybe even accelerating, if you believe the rumors about Spud or Mythos. What’s going on? What did the earlier intuition miss that led to longer timelines? (You can dispute the premise of the question itself.)\n\n2/ What’s the most plausible scenario where companies building foundation models actually start making money? If you treat each individual model as a company, its profit could pay back the training cost. But if you don’t immediately train a bigger and more expensive model, revenue stops coming after 3 months. So when does profit even begin?\n\nMaybe at some point scaling hits a plateau, but if frontier progress slows, then the combo of distillation and low switching costs (and cloud margins are to a large extent held up precisely by high switching costs) makes it really easy for open source to catch up to labs, eating their margin.\n\nSo how do labs end up making money?\n\n3/ After OpenAI’s new funding round at an $852B valuation, the OpenAI Foundation’s stake is now worth $180B. Anthropic’s cofounders promised to donate 80% of their wealth.\n\nBut people don’t have a clear understanding of how to productively use hundreds of billions (and soon trillions) of dollars to “make it so things go well with AI.”\n\nIf you were running the OpenAI Foundation right now, what specifically would you do? And when?\n\nIt’s not enough to just name an important cause, you have to explain how exactly to convert money into real impact. Describe a concrete strategy.\n\n4/ What should countries do that currently aren’t in the AI production chain (semiconductors, energy, frontier models, robotics) so they don’t end up completely bypassed by the dudes pushing AI forward?\n\nYou can drop answers here (remote role is approved btw, not just SF)\n\nInterested in hearing my answers? But writing 1k words like he asks, I probably won’t, kek\n🙂"
+    },
     {
       "id": 1279,
       "url": "https://t.me/chillhousetech/1279",
@@ -204,14 +215,14 @@
       "id": 1260,
       "url": "https://t.me/chillhousetech/1260",
       "date_utc": "2026-03-17T01:51:54+00:00",
-      "hash": "aaf2385a08250ff6f7dd648f758d0d44170ed1bf3eba9d0b20ad36d9007bc33b",
+      "hash": "a7fce5901f5a9b750129d68e1ec57c4aa78d38fd66f6917da0eec45df14c850d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это AGI тезис похоже отменяется, либо его вообще перестали серьезно форсить. Но тем менее OpenAI идет в прямую конкуренцию с Anthropic с его кодингом и в бизнес/enterprise. Это крайне интересно и кажется говорит о том, что делая все подряд они упустили достаточно много конкурентов вперед (тот же Google). И еще интереснее тот факт, что похоже в срезе фичей для аппки идей у них так и нет. Даже учитывая покупку openclaw и прочих. \nА где же пресловутый ChatGPT AppStore? Хах.",
       "images": [
-        "https://cdn4.telesco.pe/file/QJU6gRt09pWmcwUPZ_JAPG65fhq-EZCCTSRPco0ISJ8EWKcf0cE6bWSXS5VcaSwnR23mtuM_w7cDImOPYnGxz-kaBS3hpCUfD8_KEXfnEnuOIft9SGu_q5hS0kXIHV-0poMsfKIPoC9KzNSd2a35bwoM645DBQq4U7WMxrx5PyGiBdGBJN6AFVodLC9EyQ4na4RShidQa3JVA7RgZhFRLjgeg0G6LQdRIYVn_jh1FcHWyKhLmVAdc-J7lECn6SXwSwJ1VPEisDwqC1EP18RZWawOoaWWjxrGCT10ujmIVG0MR28L9_-Q5ZyM7fHooaBQFU21Lnfgj0WNw0NQ5Km-Hw.jpg"
+        "https://cdn4.telesco.pe/file/vGmIEOPppTUOvuaOOCILWWaMrStaRNagVlInfNWcunipU5Gs3G5A4g39sVkcTOmSftqiWDVvW9vYuxitlKdWR5wSf8O3z3bmD6pvwDpk6jEFdtD4dPD6KEjP5pkCS-ZKwL3QrZpFDm6gnh33qvREq67195fgc4prDEesvTYZP3lH-O8_7kd_G1pURVJT8dEUc5f6tv2zeqG4TKio3ruEDx4pgyZJLzAAIn1j2XOJq5JqUbvB-I1tO-gaPejbSYv6zBct-b_suhhO24J03JCqUGvRz53fApwPpVHdbqiFRsGW3bG5W2rbrjElFR5t487CYRxzkqgWBw87nIi6LLinTg.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, looks like that AGI thesis is getting canceled, or they just stopped seriously pushing it. But still, OpenAI is going straight into head-to-head competition with Anthropic on coding and in business/enterprise. That’s extremely interesting and kinda suggests that by doing everything at once they let a bunch of competitors get ahead (same Google). And even more interesting is the fact that, feature-wise for the app, it seems they still don’t have any ideas. Even with the purchase of openclaw and the rest.\n\nSo where’s that infamous ChatGPT AppStore? Hah."
+      "text_en": "Well, looks like that AGI thesis is getting canceled, or they just stopped pushing it seriously. But still, OpenAI is going head-to-head with Anthropic on coding and in business/enterprise. That’s extremely interesting and kinda suggests that by doing everything at once they let quite a few competitors get ahead (same Google). And even more interesting is the fact that, in terms of app features, it looks like they still don’t have any ideas. Even with the openclaw acquisition and all that.\n\nSo where’s the infamous ChatGPT AppStore? Hah."
     },
     {
       "id": 1259,
@@ -228,27 +239,27 @@
       "id": 1258,
       "url": "https://t.me/chillhousetech/1258",
       "date_utc": "2026-03-14T00:12:37+00:00",
-      "hash": "3e97271968008b833dd4648043989a6bae409511871146f97fc0b1a752986843",
+      "hash": "2e012c9e08bc33c9fadf5616f27f5b4fd7fd133f3e8a38f0848ff63b48c8a26e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаюсь к новостям. Поездка в долину была продуктивная. Даже писать было некогда особо, но эту новость пропустить было сложно. Все новые и новые модели выходят!",
       "images": [
-        "https://cdn4.telesco.pe/file/umZpZPqXFTPZUDL0OF6nuu09GUSWhvuGv3wVDOtbCbwPJ2gatlP10wyDFcdJJpbChHCanZzWPLr-W32YgbID00RaJClo5hWeMKYmMBpOpmL8fCBzt6AFPkifuZ_l73bHaY8FnATYNNw6zMiSuatHSfSFrJxBqdYcGPByx_ip53eW3JuQp1BI71oQYNJnkusY6uUCGB5Uegv_xOvyh6-uhhSzLYInuF0ZzL5MX-G8s_tbODkpqmgDiyCdyY7u8VRdJUoT2CNRAvFXgcBFy9BLsO8i-SZjOe9MPE5xd6UW0-ahRIs29yQaHrn9Q4gj2yQMjN6YpSkm1prsT1tqxUC8lg.jpg"
+        "https://cdn4.telesco.pe/file/XW2lpEUNpmefE4Qmnd82nlfuVliJIdP7Is9V4aB_OOdoQkujCbkmJ8oMuF0a86Ur_t61f_dFgXPjy0Lc7eSn-B8YicIyORD6TrxUZ21DUJ84Htl2FOWoWomTOrsabmuj72IPFIJAGSOsatHx9IuSTvc3ZjqE69OUQv1rIFKthdykF8dzPUCb2IQTyiXPq5OkiUOGep34c6MW_iyISx7Dykb9-seGjXoGF7DztyP_T4IBd_0gZ2XBxoq-clNt_0gVbyMlTGJy4KuE-Pmf2ckT6dncua5lEnwqZw5fSbdm8pkC4PT4K0Ygyq6kDoi7DmQqSozJzjdMcXi3xVecvmjdYw.jpg"
       ],
       "title_en": "",
-      "text_en": "Back to the news. The trip to the Valley was productive. There was barely any time to write, but this bit of news was hard to miss. More and more new models keep coming out!"
+      "text_en": "Back to the news. The trip to the Valley was productive. There was barely any time to write at all, but this one was hard to skip. More and more new models keep coming out!"
     },
     {
       "id": 1257,
       "url": "https://t.me/chillhousetech/1257",
       "date_utc": "2026-02-28T18:41:18+00:00",
-      "hash": "a3581412ba3395edbba15be753f83c642203fc6225a9ae845cfb1c86eeab4057",
+      "hash": "f1dd40d6bf206012589f7bab203e5a419a44be3ffb4be00eb7d54f68ef72551b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Мы живем в уникальное время, когда просто знаешь что делаешь это уже навык.",
       "images": [
-        "https://cdn4.telesco.pe/file/MCtzsgX2YvXyBvRhUB9sLamKB1OyPtwAARpN6vVyDLy_7HWDSjePhPWlMSHPJXgIPuig57ajRez2DVJlO3dGag5atgNczrylltkeesplSQAV51z4Ci7SVXdS0M9w4b9hsMYG9ei8y_Oy7ci2-gIuZhOSpe4SRxAVeabuzaeZdb0vu-WDbU-qExvU888389FQwKrffYtyEGYK5R9AoAveaiEiqKBiYObth_WvB9yeMPwbpVXILNqQGoHLvCkNVfkJuGdarcpuRB6UYkVg_3gYo3QljM_NLuEGuulnEuyoqEYgBkR4lf7Aa5LmjdZO_oI2tIj4ktmDkhxNq2gHHynZiw.jpg"
+        "https://cdn4.telesco.pe/file/HbZ2gV7u50L-6djsN5UG9-oK0xVfsOnNTVpOTwY3Yh9bjgQNuh_GSvDl3NfBIIHcVP69tdwI9gR_SomwPKga7qXDnznxSosFhVsTo9wehp71EhIcof_zich3E3tXWBafhTsgOWyvuf599VDRiSzUwhG9uqAb3BSDShR5CFXsQRJ68gWXME8NkbKz_mVJ-NPKLVIUbpXgZB2Z1P_OQCqrjZhg7y6OhyaPKZOYG5f08DbJs23jCfhuTLCqc68ZLPaaQldERFO5Q5RL-V_MnJGV8y437yPPIwGa2fxPDOtAQf0A0EE7vLzhD0vhT_qfbaj18rLqTP3JMfhCn7R0Fmm1Ig.jpg"
       ],
       "title_en": "",
-      "text_en": "We live in a unique time, when just knowing what you’re doing is already a skill."
+      "text_en": "We live in a unique time when just knowing what you’re doing is already a skill."
     },
     {
       "id": 1256,
@@ -293,17 +304,6 @@
       "images": [],
       "title_en": "",
       "text_en": "One of my theories why openclaw and the rest blew up so hard, besides the fact that they launched good models at the start of the year, is that everyone got to feel like a manager. Everyone wanted to hire themselves an assistant and give them orders."
-    },
-    {
-      "id": 1251,
-      "url": "https://t.me/chillhousetech/1251",
-      "date_utc": "2026-02-24T14:54:28+00:00",
-      "hash": "183aefd5d4e2de07b84d67b0a169c315b59e22cb67e1eef4b494d42dd9d6efea",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Вышел достаточно хороший обзор того, что сейчас любят делать большие лабы: а именно смотреть на большие задачи в кодинге и горизонт исполнения. \nМое мнение что качество исполнения так же важно как и горизонт, и одно без другого не имеет смысла. \ntldr: как и ожидалось кодинг агенты хороши на том на чем их учили, и ничего нового сделать не могут. Идей и решения текущих проблем нет. \nПодробнее",
-      "images": [],
-      "title_en": "",
-      "text_en": "A pretty good overview came out of what big labs like doing these days: namely, looking at big tasks in coding and the execution horizon.  \nMy take is that quality of execution is just as important as the horizon, and one without the other is pointless.  \ntldr: as expected, coding agents are good at what they were trained on, and can’t do anything new. No ideas and no solutions to current problems.  \nMore details"
     }
   ]
 }
