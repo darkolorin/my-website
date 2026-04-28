@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-04-27T19:50:11Z",
+  "generated_at_utc": "2026-04-28T04:07:36Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1281,
+      "url": "https://t.me/chillhousetech/1281",
+      "date_utc": "2026-04-28T01:44:26+00:00",
+      "hash": "c5ab4bbbc2ad795bc3ade1fcef270149db6db7522046c71491911b6b6b93a6fa",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Дайджест «перспективных» стартапов, которые ищет YC этим летом. Ну кстати были у них говорили с партнером и как-то он такой «да ищем молодых амбициозных и все в целом». Ну помимо видимо еще хотят что-то из \nсписка.\n \nОбычные вертикальные аи решения (сомневаюсь что выживет кста, ну если только не сильный энтерпрайз) для личной медицины, агрокультуры даж, всякие corporate brains (так видимо вики внутренняя теперь зовется). \nКак обычно космические датацентры и supply chains. \nНепонятные категории типа «стартапы которые продают очень большим компаниям». \nНу тем не менее как срез рынка полезно почитать.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Digest of “promising” startups YC is looking for this summer. Though btw we talked to a partner of theirs and he was kinda like “yeah we’re looking for young ambitious people and generally that’s it.” Well besides, apparently they also want something from the list.\n\nThe usual vertical AI solutions (doubt it’ll survive tbh, unless it’s strong enterprise) for personal healthcare, even agriculture, all those corporate brains (so that’s what the internal wiki is called now, apparently).\nAs usual, space data centers and supply chains.\nWeird categories like “startups that sell to very big companies.”\nStill, as a market snapshot it’s useful to read."
+    },
     {
       "id": 1280,
       "url": "https://t.me/chillhousetech/1280",
@@ -215,14 +226,14 @@
       "id": 1260,
       "url": "https://t.me/chillhousetech/1260",
       "date_utc": "2026-03-17T01:51:54+00:00",
-      "hash": "704108c3d68612071a42fd1261f85879f49494132c3da56054651455fcce54c2",
+      "hash": "67388eaffd1d1a8cd8bbf0853261cf16345acfcd8512c62e6f1192329e7ffbbe",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это AGI тезис похоже отменяется, либо его вообще перестали серьезно форсить. Но тем менее OpenAI идет в прямую конкуренцию с Anthropic с его кодингом и в бизнес/enterprise. Это крайне интересно и кажется говорит о том, что делая все подряд они упустили достаточно много конкурентов вперед (тот же Google). И еще интереснее тот факт, что похоже в срезе фичей для аппки идей у них так и нет. Даже учитывая покупку openclaw и прочих. \nА где же пресловутый ChatGPT AppStore? Хах.",
       "images": [
-        "https://cdn4.telesco.pe/file/Hv2iIXHFIv6nLuRV0F056b2EH1LJ7mXs98sgUqqB2dPWEDzKaNisvkwlGEn96CcPOq62q0Ih23itVu_0lZr0ffM-JIHh73w7TZg8pSMWYa8JT3I2zhjrma4WHC-KASdcnSlK2TJ6pIrww8ENk6ewIJUEwblOVMjvXWdOvGOdEmJ7hHjwYjsD_boNPPPV_n-LEnSz0gKDh94xH8OQTroN91vFYx0eXZ3UpBkwYpDQc4kOEQ8xV4QzPkfBAtRXHXj1LzlEOvqjQ_iGDYtnreCbHbfphbUIW16p5uJno7Y4Arzco7rb6PO-OvqAjOId0BhDsDZo1UItSDyxkD6VRaIkDQ.jpg"
+        "https://cdn4.telesco.pe/file/qLWsWFp5zsk81Bia_awXGP4x5Haf7NTjpn7zx6dPouzrwQciRph84kdrfurZFUvqR5c98IdYVUaBHOW59DyQ_5dFWo0KrcBP45KBqMgihuy3TGnKhh6Z6fQfz8qVj_9EvmPsZ3rcbpNDsjGgFbYB-uynmA-Bd5npSF5uhKF9PPN2C88VKjRN9CX86obAwMlzII9SAYEJZBzX8DqxrnXTKYIXlCsh73upPMZK3CPH5dOZjwuvtPYYgNDikrh-Wre0cxJL5RNdoIUkpzBASbasezWUuNyXltd_AMoKHd6QQurV2h6NhsEuchOiBrj5ZNH9j1L4048z27FKrJZKIOAcvg.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, looks like that AGI thesis is getting canceled, or they just stopped pushing it seriously. But still, OpenAI is going head-to-head with Anthropic on coding and in business/enterprise. That’s pretty damn interesting and kinda says that by doing everything at once they let quite a few competitors get ahead (Google, for one). And even more interesting is the fact that, judging by the app feature set, they still don’t have any ideas. Even with the openclaw acquisition and the rest.\n\nSo where’s that infamous ChatGPT AppStore? Hah."
+      "text_en": "Well, looks like the AGI thesis is getting canceled, or they just stopped pushing it seriously. But still, OpenAI is going head-to-head with Anthropic on coding and in business/enterprise. That’s extremely interesting and kind of suggests that by doing everything at once they let quite a few competitors get way ahead (same Google). And even more interesting is the fact that, feature-wise for the app, it looks like they still don’t have any ideas. Even with the openclaw acquisition and all that.  \nSo where’s that infamous ChatGPT AppStore? Hah."
     },
     {
       "id": 1259,
@@ -239,27 +250,27 @@
       "id": 1258,
       "url": "https://t.me/chillhousetech/1258",
       "date_utc": "2026-03-14T00:12:37+00:00",
-      "hash": "b9967d57748ff42f9d17966f7d61f73fc58508eee4592d46323d39f4972ceebd",
+      "hash": "42563639c42ed6ec184edfc8523d5bd92ff6ebb124a90e17708b6624d9496e99",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаюсь к новостям. Поездка в долину была продуктивная. Даже писать было некогда особо, но эту новость пропустить было сложно. Все новые и новые модели выходят!",
       "images": [
-        "https://cdn4.telesco.pe/file/pBFPvBmMOOSRDdgduTMU_ynVrPlGJNV3HjCAhL5mcW_z0ad7DHUJNjr4b8dPvVqaoDQrcqjlj6Q9239OacO8e_AK_oim2N6XL6JizypGGS_3Z5E4kqnuUwdzCe-MNvNsvVV-wyNiAwfQneJKeqakoqPypxjp7bCBSUadIo9lLOgKl3QskvkeaYM7IgzkC_uVvFrgkt_lcENXqQ2B0BwNfN1k1sHGraEYmpgm4BDn8T9NfDd2qaBerZ-uepq-eokEqcR8ViFqgFkoBRZPKgLk1GHPdlk6CgA2wqjzWmEYmJnZ0hB7odSMBhwlIAJ2DMo5X8lCwPmvxwQnIzkAJ9PZsQ.jpg"
+        "https://cdn4.telesco.pe/file/S5LlMrQzO5Yxpyx_s6ADDMyEO4_XG_VYlo5H6qWW_zoEpYvXmz9ye3o3tA8GF4IU3FHg2WKV2vh3b0LHlufV25MfA7Xj2GrWsiLC-pvTJOtbxj1-B-uzhwaSIDyCd5iqq9TpFxSZiaKjd4VuPsjbyD27sm58qqy4zFAhSkOl5x65WP1HaOjGz2-_nZqTB5Vk80bWUmdgUox6TmYtKT3XYqIm7geCZ4pinYyg60EEOMPKxx9qj0mpd4cCpd-Ww9IlNwnfSTKa0IHIfzdGdhsoZuc9sWYpSYDEnmVpUGBn-3MTuw9TQZ5aOgyNlmTkqrIQFBoG-ZZ0eorLwKnCD8HwPg.jpg"
       ],
       "title_en": "",
-      "text_en": "Back to the news. The trip to the Valley was productive. Didn’t really have time to write either, but this bit of news was hard to miss. More and more new models keep coming out!"
+      "text_en": "Back to the news. The trip to the Valley was productive. Didn’t really have time to write much, but this piece of news was hard to miss. More and more new models keep coming out!"
     },
     {
       "id": 1257,
       "url": "https://t.me/chillhousetech/1257",
       "date_utc": "2026-02-28T18:41:18+00:00",
-      "hash": "c0f278cf4db01cccf4fe5d97d5b43af62dcd6f94814260c168c5999b802c1ea1",
+      "hash": "571d18c669b678526eb5e3f1f2c62c79ca5c06454feb2fe2ef3395763064b9d3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Мы живем в уникальное время, когда просто знаешь что делаешь это уже навык.",
       "images": [
-        "https://cdn4.telesco.pe/file/gy5i-r-G8H72cwC-SlN2bwqBREc6CUNd2iK9IVTenyVBxCBaVNwhvWHLqjcPEkJ7jLnrhWp-DLppex6g7_VGDD525bIOVxHdNpQ2lJ51jpoxX5rwRnNLuwA_br-eIVhxZLsMOiQgfI8LdBF9W_NSPnC-VJfC8CJgMZ7mum2WA9dkxX1y-DShsPsfRcUh282C9BJBEtVXGzBMlS9vQRa6zKFXi-YS4hLjs9NVVrEkHWUOHfZqXNs6n2iIVZJ2zgP5G_IrPsQ9Ea-zS-SYNjhvOhAs8B2W95tSFUjIkBQx_fExhIK2w-AA5KNRuOhfCeyoKgxp3YM3OWJFUBct75qMVA.jpg"
+        "https://cdn4.telesco.pe/file/MWLC3DIlI2Inu3okMWs9jjTdCZmIjEgVhtoswxeAOQgXJKArAegIBfPJ9FbG98gDSi3KWqPdeMy_9K-JhG-QQHYVwLBSkN2OTPA_rExHuehlTpWv5TMebhfOSnhglOrrlv5C0zN9H7CIDC8hFX1KiskcWBUB3ep8GZuB_TMZFXFfJld8-xCtQarVQrC7N38rcRGliSFPx3nd2yU0sg4JqdXyH5D6rLhdGQyRgIPRD_75xpc40H9qRfnGjBXo6ijIp50GqWUSQ4qVeS2bvwwIoY1ittzD6WSk2BxskSo6W3M71FADBVauosoFQwwe838449rq51JBRwmzo4UaQLEfUA.jpg"
       ],
       "title_en": "",
-      "text_en": "We live in a unique time, where just knowing what you’re doing is already a skill."
+      "text_en": "We live in a unique time, where simply knowing what the hell you’re doing is already a skill."
     },
     {
       "id": 1256,
@@ -293,17 +304,6 @@
       "images": [],
       "title_en": "",
       "text_en": "If anyone missed it, a new doomsday report is out  \nCitrini Research\n\nCitadel critique  \n(this is a critique of that scenario above)\n\nTLDR: some people think all AI agents will replace all of us and the collapse of economies is unavoidable.  \nThe success and spread of AI as a technology may lead not to normal economic growth, but to a structural crisis.  \nOthers are simpler and look at history and current data and say, like, rollout is slow like it always is. Nothing scary, and we’re underestimating everything that’ll get done and that we’ll end up consuming. That’s how it is."
-    },
-    {
-      "id": 1253,
-      "url": "https://t.me/chillhousetech/1253",
-      "date_utc": "2026-02-25T19:49:16+00:00",
-      "hash": "9d1b14df417b5c320db8d574212ef055cce717a5322e634c9fca3186520e08ab",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Одна из моих теорий почему openclaw и прочие так хайпанули, помимо того что модели хорошие в начале года запустили, так это то, что каждый почувствовал себя руководителем. Все же хотели себе нанять ассистента и давать ему указания.",
-      "images": [],
-      "title_en": "",
-      "text_en": "One of my theories why openclaw and the rest blew up so hard, besides the fact that they launched good models at the start of the year, is that everyone got to feel like a manager. Everyone wanted to hire themselves an assistant and give them orders."
     }
   ]
 }
