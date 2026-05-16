@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-16T08:21:13Z",
+  "generated_at_utc": "2026-05-16T14:01:04Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -130,11 +130,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "7169b7e7e2512072001bb309ade0407b661241b510ca040cb97d8c7f71fc8e4c",
+      "hash": "651b74f1d8289d41acdb54b7bd8d16c17ee82ea08b84c64e8e243e4be7a50cff",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/Mixz764ACxA8Mr5R6Knxrd3m3O9kIMwRXYUPRbpZ0HSPc16B13F8z4Z6LLIYPZpmGROZYC_roet1LDwL8uNYF4-ZTYeZ883h636PiOOwbIDXSw5FP2HcaJrcTpp3g-0eugeI5hE0AQiOoXXH6IXVBeyyq3DNZNs8B_6L7eQUG96eprAss2IsMiTtXISD0vbPSfauM6G06hjc-NHzCP4c-Dwi3PcAxDerL1c-S92s4sLR7KwQqpVrBECsPkbpGz4Um2xjkg_BIqKF2Z_twW_Mxkbb1KmsSFfb3tm6-DXD6Pf_h_izZIoAwOcrMD1n1GRt_sGWpyySU1ZDp5rWh2HzRA.jpg"
+        "https://cdn4.telesco.pe/file/gq02jAuret-m-u02aMeExM7Nv-3owaYY70yj_5AkYAmVkNebAPTC-GJkqkYytPB6zoE8jhv1c5Rv8-ld5ptVsJCxOy6GFML5fn842z-YnwywQ3YXa25SrX8Vy6GH5LyS5LOSzGlLMUwi3zvVwmAWXwVRdJvX816wI5U7ZRw_dlticpu3El1pKiS-kxIgLmKxyzI457CquJ3wEWtjqfEP3qFMNKcAw-v7GI3gxBYgfdE0kyfX3PDSWLV8ubmVcKP7KHZSgtXOFmKyfLiLyBNy-z1SNnzf8Tgyr_q63kd8-n6KiU2QTVV0NWyHqfdxMkJIVlluUPGMW5QVp7msZoGVKg.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -143,14 +143,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "063200b2bdb7f1b4ae76621f115086ed28f6ac4ee820ed5ce07c608f981b9dde",
+      "hash": "470f6456e45372de852e0f8e72f201b6e678f4f28d65d7457c0a3e358e5bd437",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/LufOXf0iKMIqAkRtlLUy2Vd1uWB82hz_TSzJdI_4DWgmRlxguJJ6M2U0kK_SWCusk3mW_qVGC8H-fvUnewtrhChDKgS7F1FbyaO3fYF9ao_psHJU0_-2hEOqR7mgiiFT6Y3H9sBJe2iYzEXWPEuMvwpM5LDAAdp99e27ON6PXe-XoVP6vWr99-4IXM-m_mHqBPGo96AwZWHKh3R69vkTANUvvX_HouQ2OgwhLmjWaYxWBeSBEDS71RPdnY6a7DHyAyblruvNl7X1wXimW_aRZuNbTsSFw1rDkQCqOeM306Tk42TnWEd3BSRV9YH-D9q_UA_Eb-F2AVvCKsiNFnR91w.jpg"
+        "https://cdn4.telesco.pe/file/ZGOBU_FNZ6U8wOlz9ePqAxZcUaN7gKQN8Y2LT0pvbZ6nMoAHYFPGWoLuMa8e31d22gEaqdu5Y-4iKlkmxUTwKWFdpCwCWrt20oPTsiyD8ppToWIygUstsso3hFDC4-PS563uweLObTT4CwHyamrHvsnDEd8kExvGYSwaYBda0Gw_1pne-qST3x-MIPOggvS_hwc0CSCTZe1oSrtkdXv4yqITcCh_zspvDkwAZ2QXA98sCYdraavdlqbYiii36Bk6uSJBukEL0oTAMMRVCVRj--x8uW2Kdl2F5DfkRR0LRDZno9TPUD3_uus8obiLSrhDzkFwWBLLTKxjbVqxYDMLmw.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades as text in terms of quality.  \nPaper"
+      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades as text.  \nPaper"
     },
     {
       "id": 1275,
@@ -178,14 +178,14 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "c3927f6a5201755ece9aedd96990fedb3f23e1f5d95a45121cc57a1b2923adbc",
+      "hash": "7be8ddc2989c3349bf1e35ee6f6986e2e5d5727b85a70e3d92d6b2dd487621df",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/VOcGJdvEHoYm7la2xTSRHTTJNIW0_jL1-HU8e_gDNukGaBu-vuAn3rtZ_A6BORrQEYHDVCMc5eif09Che_146ogoSvT5HmPZRBg3O20BHIyxRvUE6lGTko_qw5E8vQGSYUmV3ibQiCwQCS4SR-w3XYCiKnTZW-UPCwkWMoan2MDApvHjFkiTkEw7czHFMuF46AWbKPbYRSSx1XNJYx9T6C1NBDCj3C-aFywb83cu68j30y68RE_Rf24Df_ILdd7Qz9lDk3RPflA8nxwikMkChpGJvHXwOOcFd1xO0HflbWT0u2pj0m1l2Vhi4dbiB6-fUlSZ4V-lB9KO78UqsH8cgA.jpg"
+        "https://cdn4.telesco.pe/file/e7BktoGq_6ggw-baP0hB9LgK0a8Zlho7SfVe2MK5tHB4akOu_2JbBnULDad7dR8ny6j9d0tsrwuzh80Fi7eYt-Ss8itMTMebFrB9V2EEDeZ4PrMkcFFgMtjOyBJLH-I4VfbUfiYm04t-ZIvQ-VXDC2RzHujcdRGM2UIrUp3nkK2EOQMiXseaV4X8-b2M80SF6sZid2549mX3xBjUbSsn5tsd5pglHcsRURZM-_bx0dZ6571ej1Bj0wC5BOnvetXNO7dDMuJo--sNZ7GhIJP_dTpG-gEofHGaaTUXoqMKTHO553wJ7JYz-Ja-4lIpsaNHw6HKPnduxqAu1wAyqKMnrg.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s the mythos then? Well, and I hope they won’t cut\n4.7\neither."
+      "text_en": "And where’s the mythos? And I hope they won’t cut 4.7."
     },
     {
       "id": 1272,
@@ -204,11 +204,11 @@
       "id": 1271,
       "url": "https://t.me/chillhousetech/1271",
       "date_utc": "2026-04-15T17:47:08+00:00",
-      "hash": "7ab033966d28acf5b3aac9854a9d98861941586c885fe086a77c005102225ec3",
+      "hash": "ac31405991bae206ce1a63dfa2560f4359192ac3797d4b8b0f6483856ffa27df",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Нет никакого пузыря вы что. Делали обувь, а теперь продаем видеокарты \n😏",
       "images": [
-        "https://cdn4.telesco.pe/file/lnBlmJ1AB0S4hQoWJJk4Fwy_vWSr_PbN4X28RDkmlP052Oec7MFgg8cAT8DRF3EaKN9xqm4SvSHWBLlxVI2DUDik0H7UtH_9d5duUgEdZcyLma71RjZPFy_H1XNPh73Mv19PnYq2fNQCInMxtt55QM7Hdcj9g2OYHg_naxN0sqmeGeDRRsBdvPky184ioCRkcZ7Jw44YTWbzYiJK1SoX7c5AHInGd46xZHmRdPTR34NfFx5ktToXH1xmjQ3EbDiKH9n3P5TUlWy7H4QsKqUuO8Np1MX9FKfxsYayystp-tLAsggYiO6IjwCEPVn4MQru2QzhZUM3iMBdmBXYMxi00g.jpg"
+        "https://cdn4.telesco.pe/file/BCCCH6f_sGhVssitKGsG_zJocBUJ_Kx9YyQW2AY4Ojjk_JJRzCNkNFc5OM3447wUElbRB_pkHNR2_SDl5NzTIf36viWCQvoF7MVFWetEFXsnRtbTw9w-iA_7F0VY3BaUgWVEQdrrOkFqp1mWrdOzJwJwsNSo5UGnWUt6TZQ_B3Uu2oosar30yE6SiWe4iDqxJgAY5LgI_fZIBBmtw9NMIfJg7613a5SH_N9B424HhucW1EfeS-tx_0aytFC7sJZMbSOEbH_qSvPHANnq4PEACnYKZmmUSavospqtZDGcI77UjmpNC7dD2ccjXCUKXHMrOq0n4LS_s085JtmgDkUWSw.jpg"
       ],
       "title_en": "",
       "text_en": "There’s no bubble at all, what are you talking about. Used to make shoes, now we’re selling video cards  \n😏"
@@ -217,24 +217,24 @@
       "id": 1270,
       "url": "https://t.me/chillhousetech/1270",
       "date_utc": "2026-04-08T19:54:58+00:00",
-      "hash": "12bccd3875d326799b07ba706555fe77c0700d066d952e2a4fc15dffb7f2fa94",
+      "hash": "dc8c39146635e1102ded9afcc5cf642084681a89d02bc0e7be8944604f09bf1e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Из интересного. AI в целом очень сильно влияет на то как мы с вами начинаем делать разные задачи и не только с помощью самого AI. \nС середины 1950х до 2016 года в игру Го играли примерно на одном уровне. Но как только появилась модель которая обыграла самого сильного игрока то ходы которые стали появляться оказались разнообразнее. Другими словами началось активное развитие игры и спорта. При этом многие идеи не те которые использовала модель, а совсем другие. \nНе новая работа,\n но очень прикольная. По сути AI дает больше пространства для абсолютно новых идей о том как можно делать какие-то задачи. Кайф. \nНа графике качество принимаемых решений в игре го.",
       "images": [
-        "https://cdn4.telesco.pe/file/IPqmGCl9XtiRA_GvD1JvqPvjjJLXvmyayEN7i7Hx8rRRIkQYrjr8IX1IagWl25YDxnlC9RL73osUF9LCAAvdvLcJjThGk95ozRRWHf-xaLEhEgHV420Hzw1RLACde_c-IAswSu9u4eLiExTnYTdp4-0SzW9LcoNSG2EmO22eeXXhYQbfa1iYYtKaqTkFMmOf53uvR5tRx0EeHuJQTgFQF1vgmkgvRBzfN92RkuWInqXWts-N0iTI2J78c9AoZit1M_au28QvYgs_oI7auKsw4dssK-_rl0fEAqwthzNyyyCzCV8Z60m5Jnuxyoq5HlKuNGyuGHdVHj_W_cyRnfcw8g.jpg"
+        "https://cdn4.telesco.pe/file/aiyC-tKEIH7FZZB1BRz0y7ZYE3IIxP0mLU_Kmk_WDYe2XZkopekcmfizz-YYsIsc6VYeyVdF9aqcEtv28vof_0CkdvGCtUs984ceg_6n1egk62olz2GD2SYbZus1JPobUnGCdxiOaLa4vl1MUbuSqeVn_23lgLMnEVq-h0n6hXM2fJi9CZSSYqNposzEV4FIguNuncfIbZ8NpImITmXmW-1dGeyiIHTx9IMZmaYJBVXity1n7s0HlTSg44IKTNMjSZBpibav3WwYp2sJTqP1t7LcRH3pIuXnpObs75lLPeYtXMdPpWbgzffO_R3HcYDUvhfHqo053zJ39wxijyxWqw.jpg"
       ],
       "title_en": "",
-      "text_en": "Out of the interesting stuff. AI in general really strongly affects how you and I start doing different tasks, and not just with the help of AI itself.  \nFrom the mid-1950s up to 2016, people played Go at roughly the same level. But as soon as a model showed up that beat the strongest player, the moves that started appearing turned out to be more diverse. In other words, active development of the game and the sport kicked off. And a lot of the ideas weren’t the ones the model used, but completely different ones.  \nNot a new paper, but really damn cool. Basically AI gives more room for absolutely new ideas about how you can do certain tasks. Love it.  \nThe chart shows the quality of decision-making in Go."
+      "text_en": "Out of the interesting stuff. AI in general is really strongly affecting how you and I start doing different tasks, and not just with the help of AI itself.  \nFrom the mid-1950s to 2016 people played Go at roughly the same level. But as soon as a model showed up that beat the strongest player, the moves that started appearing turned out to be more diverse. In other words, active development of the game and the sport kicked off. At the same time, a lot of the ideas aren’t the ones the model used, but completely different ones.  \nNot a new paper,  \nbut very cool. Basically AI gives more room for absolutely new ideas about how you can do some tasks. Bliss.  \nThe chart shows the quality of decision-making in Go."
     },
     {
       "id": 1269,
       "url": "https://t.me/chillhousetech/1269",
       "date_utc": "2026-04-08T16:38:16+00:00",
-      "hash": "1c1037dcd7eea21b070dc7c9290c4eeec03c13a846d3b4c045a0ec61b1645cfe",
+      "hash": "f87476ef089b75547dcadd71cbea7d405fb17233eb36d8ae8bcd173a16b419f9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Meta finally \ncooked.\n Конечно не про кодинг. Да и не везде топ. Но уже что-то.",
       "images": [
-        "https://cdn4.telesco.pe/file/QcFzx52UiRpdZXoi2wi2fLJF5HMAI6Z92tDFA3da7tpGis7GwJsOE56kB6fOTKGfEPiKRyanHPj_DYGNnunBxXmnzDgicEHafk3c2h0mGaVegt2mgqtpzMXsG5LOlKtCz5TMKSJWMpw6_eLjiJFxEEYy3jqr1VnVEDudf2kl-YNJhbKkU_0bOA2UOv8vBHrhC1CjEJcvd6_yY9QkqpgmtzdT1DHZxIGvm6_Ie-ZyNhCS5astlpsNT5u7YTS3_o_R3vDHTuQ1EoqHBY8KnePE5GYvwgPE3R3GEpYTcmVYuj1ZPSfvEHsli9BIM8QtMjNsehcYjAx-Et_Kf9fNX1dWKg.jpg"
+        "https://cdn4.telesco.pe/file/vZ69uDX4W7hh9LbFG3aasYrDUhM82jNM44QMb8dvpW8aIC10I7ibiBmV4u_Z-37yMGEqQgxISpOIjGmDujWbEsx9F12nNJSxWj1CZS6TxWh5lmzhR2Q3KBoNS6ya5ZYjlnXxXmx2hacIxc01-1nxtlaOhrIAd7ecUeSy--FwXib2jh6r3dZ67jGnEl0EtLf0vEWErmU1eT9eQmOuYIG2FqaU3FG2icX0pFNUiriCnXXwXS5nu4a8PwE2z_-i_NEWdGjW4j0S9bbrMI7Ul2mguYjoYyBc0YyS7CqTHn86yvIXsZzZP3YXrxsEy40lQDc-VUuoACcOP6kmd52rjXWOiQ.jpg"
       ],
       "title_en": "",
       "text_en": "Meta finally\ncooked.\nOf course not about coding. And not top everywhere. But it’s something already."
@@ -265,41 +265,41 @@
       "id": 1265,
       "url": "https://t.me/chillhousetech/1265",
       "date_utc": "2026-04-05T14:32:30+00:00",
-      "hash": "65e0094728840fe123dd7291bab1b176273c1b6d084a2d5b4eef0bfef46f3097",
+      "hash": "9b54fffadd441973226604fac98fc8f868698a86d6b2c7929fadff26339c4536",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаемся после поездки. Если кому интересно фоточки из Боливии с высоты 5к киньте реакцию какую. А так воскресное. Лучшая реклама Apple.",
       "images": [
-        "https://cdn4.telesco.pe/file/sfB0g7HIzteOzBBiMvS7J9gydV5cBkj6cIQR4vUMlnfSJTTxJGVoFEzAL4rJL1kJEpkI93V_wq8mn0gBnCbXSUKXpr3tfEdWoNDzrqM3dGbZwzQSkrXJy7G7jmIi5talFjp50sFSVVqSjr8j4eymR1cymR75xMQzCW9KHIv7ZLLMZdDQRxqKVnzf1xOu-rYvZHty-ridZhxXdq2OEZKEk-ReZRskOrEeBW88lppggkJpujevZ0kqsCll0KDjg4R7HPY39wSI2v9LroKL9fLczvL44FsPdpp9wFvgcBaLFgZPpXXHP40VUWcI47fjiK-o_h92AtOZgzR7JKRo6F7WBA.jpg",
-        "https://cdn4.telesco.pe/file/ckQI9rfVP6ocCuB1ypB4ThiZnuoI2sBRtrWTLzMiAFzvg1jBOfuJ9neprV4sAQ3g2VHvLrdK--UV8yEg37sSEMMyOXmV8ZrYJH7AEDdxL9Nk6KaD17XugYnwrTL2divvQ__MOg--uR2NgPnXn6PaZgbYj-uFAsl7lbk92l4ZemRqFWifNx3WOi2sQUjFZwJcj1NGycsLaguxVIe7REmBqnDZ4MH9CilecXXMivRn2O-l3v9OqVgPLLoD9bHQgVjtDCbDKkKBcPD3vrKDd4_qZPBnSSop4Evz3tSq5thLwwJpo8AkOmUxr5DLtHDrvTObqZwhE0ZLqJtDJl0XG2apzA.jpg"
+        "https://cdn4.telesco.pe/file/R6gMztXNkAXuFQ7i88TEg3ztxB5USAawQ6tZNjCryrcegCel5NmflqcSp80R0AMxNrYfdObIp94MIh6DQbQf4TJVvkMuqAWBiEo35zjD0FC-Vj8CfhZkpBrDf_XRnYv5hhvzHNzABDBEYZN3SMBdYvb2oXLX2njr6w0T6YTDg-roKEWQLg85XQVSnR5n7KH3OxLSjCV0ks03gqFgOKXzD_SJFbTqlTqJBtrizICKBaWZ3Okr3LLofB1tPBP9bgJ7e2nEa_5A5hkxQhMRX4HeHlk1ysB3emq9n7-jgGPoK3DOW0TNbUclxOk_DsPhM62AsVfbEOR1oj1Do8y7iUmWIQ.jpg",
+        "https://cdn4.telesco.pe/file/iy_DJImNsBO4XsnfK_9uKXF-dVRCO1vq0TmghU5vkjXtGiGE-lri677GK7FgrpGnHA3uqbFmici5fiE-b4tMikewID8CzvSE-FqUD4OCNPBPNYt7XQC9FI-1seNsH6clFTjTtHvVLFHs9fIDtdnj__-aam_N2eQNt6okQtAa2629FihVbxruwecteXYjwi6Y40uz_RodeX6MJIxnNDifjYdyH2pUdn0_LRdaObKrq_MlCx68TmmIoxCUZQduwu9ofEYpBMmZ6oSW5QPSRwXxRBwLNsfX0ZIit4k8fCliLFx06YCrf8TW_s5_IryKkUr_0PS15_G84V8_C2NEoZdYBw.jpg"
       ],
       "title_en": "",
-      "text_en": "Back from the trip. If anyone’s interested in pics from Bolivia from 5k up, drop some kind of reaction. Otherwise, Sunday stuff. The best Apple ad."
+      "text_en": "Back from the trip. If anyone’s interested in pics from Bolivia from 5k up, drop some kind of reaction. Otherwise it’s just Sunday stuff. The best ad for Apple."
     },
     {
       "id": 1263,
       "url": "https://t.me/chillhousetech/1263",
       "date_utc": "2026-03-27T20:11:32+00:00",
-      "hash": "a8b5eb21235a797dd12f8b07104ebb2e4edd2ef3602eb3b63086d7086ad14398",
+      "hash": "5973e25527713443c9cb3d8f0e4b23fa3c165ebcb0421f30bedb9e6e30fd9edf",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Из прекрасных обсуждений",
       "images": [
-        "https://cdn4.telesco.pe/file/LSYYYiuEEnJ_-4CcgbhpE2-UQ4CWFKuzJzOlRyjGsi0nxjgvvDqboF-o0uUhmxKFfMS7y7zcobU4iMu-m3Nw5qu9u5AQ4rn54VeQR-uepV-fyE8Jwyb1Rnq_aS4ED7qbFmXC4nBd04RxnpDR6ovv0OotMgOqTMtXH48ZmgZ2DCCwL15IGotn7AUA7-RziVHxN9HNx1P8CZSuNcurNI20Iv-5SFXGAJsRSDZH_UxO4ybSaifQ4QpzT_bo8La5bQ9wbi9_5iEnFjqT1N90XOq4ZJTygadu3_7P2Qu1fXBTVxT6KAtY1WuyyVCZrmetOC8PqL0pkegc3rcf14ppykgC5Q.jpg"
+        "https://cdn4.telesco.pe/file/DtFA2ipUsTNVJr4MS1sYmRkA7LhvBuyQ_sV-smXIjmu9TSR83un8ipTRr8poTJ1EQKDEBtxTXNvbJPGywiydYZUFWRx2HGLdV8mqq2pwSpMOn1AjIfm4c4bkPVazTJgkrKtqSn4aCLDpRclZujq_A6hYZrjgjzb0rBOa-YbRLvsoP2QJ4PcDdplXuzKM-0T0LiZrcDn9pAWNL_Rrokl55ZxXxfVi0I3juC9IBNnDzHnTmfWpucQF_1Dr4s-AkYwQDR-V7t_slZaY4neYRNPoorICIwyZgCvjEnbT-zqU-HnsR3q5BrMJfhA2IMNnRoU3hJvKu18K7LdCLueFIyV87A.jpg"
       ],
       "title_en": "",
-      "text_en": "From some lovely discussions"
+      "text_en": "From the wonderful discussions"
     },
     {
       "id": 1262,
       "url": "https://t.me/chillhousetech/1262",
       "date_utc": "2026-03-25T23:54:22+00:00",
-      "hash": "a9c6ac69a8deb8b0940f8789e6653796c22454e63ac2b124594321c9cea1ec9c",
+      "hash": "67e63d5c3518a432a2201b08da46705db8bf65c8474ee2860c5c7ecc521f618e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Напишу свои пять копеек про повальное увлечение AI «штуками, которые конечно же делают меня в сто раз круче и я наконец-то заработаю». \n1/ на сегодняшний день AI инструменты прямое продолжение их владельца, если не хватает знаний то и не хватит с аи. И дело тут не в том, что невозможно получить сайт который раньше не мог сделать, а вопрос какой сайт и что будет в нем. Так вот суть проектов прямое продолжение владельца. И если раньше с командой из 10 разрабов ваш стартап не взлетал, то и сейчас с командой из 10 агентов не взлетит и непонятно где потрачено будет нервов больше. \n2/ аи на сегодняшний день не понятно как интегрировать чтобы получить измеримую пользу. То есть да мы замечаем что вот мол эксперименты пошли быстрее, или подбор параметров. Но это все личная эффективность, а как увеличить эффективность всей компании не ясно. Помните такой мем что один разработчик сделает задачу за 2 часа, и два разработчика сделают ее тоже за 2 часа. Тоже самое и с аи плюс человек. А еще хлеще проблема когда это куча людей и агентов. \n3/ автоматизация == оптимизация. А оптимизируешься ты когда кратно расти стало очень тяжело. И если вдруг вы с помощью аи начали оптимизировать проект с выручкой в 10к в месяц - вы явно копаете не туда. \n4/ аи все еще инструмент который нужно руками вести к цели, что конечно кайф, но ждем мы момента когда этого делать не надо будет и можно доверить задачу от начала до конца без ручного контроля. Думаю в разработке такое частично случится или случилось уже (только в определенных задачах). \n5/ вышел тут \nARC AGI\n 3 и там из прочего смешного появились реплеи того как аи играет в игры. Очень забавно. Интересно как быстро натюнят харнесы и для этого бенча. Ведь суть бенчей это просто победить соперника ибо многим абсолютно пофигу на реальные задачи.",
       "images": [
-        "https://cdn4.telesco.pe/file/Aq85DsrUi-bR0sQPT0sKi79NZLxLfp7MKoCMDHBruXRpVx8o_5RIo4FQ1OFGbIq7lLj2BQ1ssEehT7lr8AsGP4eubmaq3qSUlqm33GQmPgtXuoYVMcFZFls2AieDbrvK-4Ynntgye7BHkEQl5oSo9KazxGjtwe4jQ09l5Mji3t7vvyB0DHSjHcvVH56MJZH2vpD3w32PK_tIaAdCpz3h7MKl4hgtn75sPCiicUk3tO9IzwfaHRaqU60FOMZsWRicaaT6kW2xHDZTkhpGgfLrm-rEaewHqDZcX1bVtPixvXEkqlklBafbVXFYehlwvZ6Vc3Wg1zsrCUa76K-zLE3W6Q.jpg"
+        "https://cdn4.telesco.pe/file/RTvYrvYsZEt5daIdHg4f-yPdcRZRbTL1u8PGspUy5WqDEjf-ObAQssPSQMXVCun5woyIP_cjQ76WRFfuOmyvcgxbfLYgOSiNAODGjhuvcTG2iH3kJ8-8Pz9RY53_yauenYYzL9pKxexaCNg24-hwnCuJBTYvulg2SxOf9cKsEqZ6qSxDjeo63s10wmP0FE8XaEIWfFnlmqQr27AV_p0z2CWLIheD8hJ2jEzLJvA9nmnIoOaw1kOcrMLOo36EJyGIV-Usj3V1IYnNM_wPUXTS1JqkjPO50xXfLuSMc7P8cIKvhatUQMep5zzI7eQ9NJzlO1tUZletrQ1jL8O6CA4JQQ.jpg"
       ],
       "title_en": "",
-      "text_en": "I’ll throw in my two cents about the mass obsession with AI “things that of course make me a hundred times cooler and I’ll finally start earning.”  \n1/ as of today AI tools are a direct extension of their owner; if you don’t have the knowledge, you won’t have it with AI either. And it’s not about it being impossible to get a site you couldn’t make before, the question is what kind of site and what will be in it. So yeah, the essence of projects is a direct extension of the owner. And if before your startup didn’t take off with a team of 10 devs, now it won’t take off with a team of 10 agents either, and it’s unclear where you’ll burn more nerves.  \n2/ AI today is still unclear how to integrate so you get measurable benefit. Like yeah, we notice that experiments got faster, or parameter picking. But that’s all personal efficiency, and how to increase the efficiency of the whole company is not clear. Remember that meme that one developer will do a task in 2 hours, and two developers will also do it in 2 hours. Same thing with AI + a human. And the problem gets even worse when it’s a pile of people and agents.  \n3/ automation == optimization. And you optimize when scaling up by multiples has become really hard. And if вдруг you started optimizing a project with $10k/month revenue using AI — you’re явно digging in the wrong place.  \n4/ AI is still a tool you have to manually steer to the goal, which is конечно кайф, but we’re waiting for the moment when you won’t have to do that and you can trust a task from start to finish without manual control. I think in development that will partially happen or has already happened (only in certain tasks).  \n5/ this one came out,  \nARC AGI  \n3, and among other funny stuff replays appeared of how AI plays games. Pretty hilarious. Wonder how quickly they’ll tune the harnesses for this bench too. Because the whole point of benches is just to beat the opponent since a lot of people don’t give a damn about real tasks."
+      "text_en": "I’ll throw in my two cents about this mass obsession with AI “stuff that of course makes me a hundred times cooler and I’ll finally make money.”  \n1/ as of today AI tools are a direct extension of their owner; if you don’t have the knowledge, you won’t magically have it with AI either. And it’s not about “impossible to get a website you couldn’t build before,” the question is what kind of website and what’s going to be in it. So yeah, the essence of projects is a direct continuation of the owner. And if back then your startup didn’t take off with a team of 10 devs, it won’t take off now with a team of 10 agents either, and it’s unclear where you’ll spend more nerves.  \n2/ AI right now is still unclear how to integrate to get measurable benefit. Like yeah, we notice that experiments got faster, or parameter tuning. But that’s all personal efficiency, and how to increase the efficiency of the whole company is not clear. Remember that meme: one developer will do a task in 2 hours, and two developers will also do it in 2 hours. Same thing with AI plus a human. And it gets even worse when it’s a bunch of people and agents.  \n3/ automation == optimization. And you optimize when scaling by multiples has become really hard. And if вдруг you started “optimizing” a project making 10k a month with AI — you’re clearly digging in the wrong place.  \n4/ AI is still a tool you have to steer by hand toward the goal, which is, sure, кайф, but we’re waiting for the moment when you won’t have to do that and you can trust a task end-to-end without manual control. I think in dev this will partially happen or has already happened (only in certain tasks).  \n5/ ARC AGI 3 came out here, and among other funny stuff they added replays of how AI plays games. Pretty amusing. Curious how fast they’ll tune harnesses for this bench too. Because the whole point of benches is just to beat the opponent, since a lot of people couldn’t care less about real tasks."
     }
   ]
 }
