@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-05-18T10:42:48Z",
+  "generated_at_utc": "2026-05-18T15:57:47Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1291,
+      "url": "https://t.me/chillhousetech/1291",
+      "date_utc": "2026-05-18T11:58:54+00:00",
+      "hash": "3e14e9fd98b2192cc0ac3e1759a6708c11fe39ed8d3da118ac0ee1bc67d19725",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Наблюдения.\nМне каждую неделю приходят примерно 20 проектов/продуктов/команд и рассказывают, что они сделали/планируют делать и так далее. Что обычно замечаю:\n1/ Дек, все материалы, блербы, письма сделаны через AI. Прям видно, что люди не читали, что сами сделали, деки по стопицот страниц, вайбкодинг фронтенды знаете с таким привкусом Claude Design (это когда попросил сделать красиво пожалуйста). И все они ожидают, что ктото в это будет вникать и изучать и более того давать деньги? \n2/ Большая часть проектов не знает о существовании evals. Агент для \"подставить чего-то\" или улучшим вашего агента для \"чего-то\". Но как понять что предлагаемый подход лучше банального \"скормить все chatgpt\" без понятия. Хотя бы посмотрели что ли бенчи и системы оценки.\n3/ Ну даже если эвалов и бенчей совсем нет, тогда за это должны платить. Иначе очень сложно понять чего делать и как оценивать то.\n4/ Очень много \"слопа\", то есть я трачу 2-3 минуты и вижу фактические/численные ошибки в материалах. Например пишут размер рынка и там два числа перемноженных дают неверный результат. И такого просто тонна. Желание читать и разговариать с человеком, который даже не проверил что написал - нет.\n5/ Все просят миллионы, и я не понимаю зачем. Все что сделано было сделано с подпиской 200 баксов в месяц. Зачем вам миллионы?\n6/ Люди не знают базу. Да да, различие между харнесом и моделью, какие метрики что означают, не знают про recall etc. в задачах поиска. О чем вообще можно тогда говорить?\nСкладываются стойкое ощущение, что даже тексты и ответы на вопросы пишут не сами. И это печалит и именно поэтому стало тяжелее что-то сделать если думать не самому, но если своя голова на плечах сейчас лучшее время конечно!",
+      "images": [],
+      "title_en": "",
+      "text_en": "Observations.\nEvery week I get about 20 projects/products/teams coming in and telling me what they did/plan to do and so on. What I usually notice:\n1/ Decks, all the materials, blurbs, emails are made through AI. You can straight up see that people didn’t read what they themselves made, decks are a hundred-fucking pages, vibe-coded frontends—you know, with that Claude Design aftertaste (that’s when you ask it to make it pretty please). And they all expect that someone will dig into this and study it and, what’s more, give them money?\n2/ Most projects don’t know evals even exist. An agent to “plug in some thing” or we’ll improve your agent for “some thing.” But how to understand that the proposed approach is better than the basic “just feed everything to ChatGPT,” no clue. At least go look at benchmarks and scoring systems or something.\n3/ Well even if there are zero evals and benches, then you should be paying for that. Otherwise it’s really hard to understand what to do and how to evaluate any of it.\n4/ A ton of “slop,” meaning I spend 2–3 minutes and see factual/numerical errors in the materials. Like they write market size and two numbers multiplied give the wrong result. And there’s just a ton of that. No desire to read and talk to a person who didn’t even check what they wrote.\n5/ Everyone asks for millions, and I don’t understand why. Everything that was done was done with a $200/month subscription. Why do you need millions?\n6/ People don’t know the basics. Yeah yeah, the difference between a harness and a model, what metrics mean what, don’t know about recall etc. in search tasks. What is there even to talk about then?\nIt adds up to a strong feeling that they don’t even write the texts and answers to questions themselves. And that’s sad, and that’s exactly why it’s gotten harder to do anything if you don’t think for yourself, but if you’ve got your own head on your shoulders then now is the best time, of course!"
+    },
     {
       "id": 1290,
       "url": "https://t.me/chillhousetech/1290",
@@ -141,11 +152,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "aed05ec27afe10ee37624c773011cb4c903c8fc37a99d6b3127bfcabd1c758ff",
+      "hash": "8a7e04736976bcede039be5b1aa85fa059509c7d2905007ab25be7d406bb8f64",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/m4UJ0OaQ-JBLsXaTJeqPSeu5JUrBXJcGdY225ptjXfYuYjbFUB4m4o8B0YAO7p471TiczmjVbGA7TEDz3mxtZwRhi29zJY0lcwVcVih3gs6FJTrSzq51ZCYWwMZObbH2EHLRtCT3fm3FiXvJ4lGD1GD-D3Z0bjkmaEuMeXK-R6ONl-S9FG5QaO5DkS1W2bTzi20OKyMvrN1qntjeqUcNAdbzEmdC72UQNOG_VcQEW-3r3NJS1GA7HylJHnjHMo1UIBoJRO-QyT4s7nQe6yurQsh_luHds6Cp7N_u1_LhTODYVdqkylffU1llYn8mev2NIsgFN6qaS-OlZ8rtsS9sew.jpg"
+        "https://cdn4.telesco.pe/file/Vtm6Qd1l1Qkb8GVtGvoU9pPhfwbq7XmC06ccfAbGRXAkkGM4zO0Q522La8qmzcQXhhjFfbWTr6UacrAIsWdYTs1zxIlwSieg4YanlM0yBA21zZ1Uq1nYH_gD6datw6VWYdmwZY5JwjcRdrxjoK41P_vxmZEiBob74bjcM0DX6m97Tok-oh0cO4uKlErzWYmELorZkSPMjvlBIsjrJZ9ll6X6MQNSUHQoWABs82BthrIUeZvS-_72j2MXlF6sqGZmgt7YsLV1awywSfHSIpJJCVbHAuom1UGXP5GKWkAyHYz_eGvmh64y-AnzzFMaI0z2qXMlwrsGhifUxomaAWkPXA.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -215,40 +226,40 @@
       "id": 1271,
       "url": "https://t.me/chillhousetech/1271",
       "date_utc": "2026-04-15T17:47:08+00:00",
-      "hash": "a7764a14d19d9c92856e47d00fd89f078912f2b2f2641c1c83a242bd7aab19e3",
+      "hash": "dfb130dfb12e321a0bdee69e39d9bdf17d1131c0996dbe9b5c6056070066dd7e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Нет никакого пузыря вы что. Делали обувь, а теперь продаем видеокарты \n😏",
       "images": [
-        "https://cdn4.telesco.pe/file/cDdWQbz-riNE8GaK9bCshyzppU2HH0tVWBk8TdlwUZPK5OceX1DobM3HyMcTRbmxzTjT29P1fvGNsDo8rjvyq8uOT-7yfVKx2c9r9RUMUKX33Yv0HO4cVWLnuYW2ShXbso2zezc-iv0yg9mm99tDIPlQgBYvSq1VzvvmJNX8qbtMZBy3DMsmm3hnlwzHY9YyqiYRz-ZHlVJAGVEtQt1fYCqnAhLFYXRci-VM7JE12-ZZ0LGeVjXHW_qyRz5eJ-4t86XHdL0px_eWhBhuiHPpz9l06WX8-5MGuOQ_I6XIJxDVNKZ218t9W3phEcFp3Xr0IFRUfiSPfH8d68b_v06Fcw.jpg"
+        "https://cdn4.telesco.pe/file/C7g7ZXsue_nyHNC9PZpyDXQBD-fHc0KaGrrC8cpLQKRumJwm--Vw-iySRRCDx_z2WvvrEuIich82G1O9-qqr1G8DJk4UI9HlUV8IVIPfmUjAGTMEaDcHCLSiHlPcWdeLqn7XwMLGt81f9dv8Or-MldOlRihn84e0U8_lA2jF1h8mXczoZNCgJVLTJNEKM6XaFNkXA-IniCL1EYOpUTnFt5N1QxRYwPb9I_0As2hKBX9hztClcEHF52lTop8GdB7onqU7VF9f79ZiSjhnntuyIv86qQCDY7cjeJc8we_ml3OOX5lfCu8wNU2nsJruQTvkzDsQOx2YXE08xuiv-JRUlg.jpg"
       ],
       "title_en": "",
-      "text_en": "There’s no bubble at all, what are you talking about. We used to make shoes, and now we’re selling video cards  \n😏"
+      "text_en": "There’s no bubble, what are you talking about. We used to make shoes, and now we’re selling video cards  \n😏"
     },
     {
       "id": 1270,
       "url": "https://t.me/chillhousetech/1270",
       "date_utc": "2026-04-08T19:54:58+00:00",
-      "hash": "3809a5d1aa94666432dd37f704d90bd78010b0ae5ae673c4b475145ff03190d7",
+      "hash": "63a732f5c38ad2dddb11f026fd5ebf34dac0806795585b07078f99421801b786",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Из интересного. AI в целом очень сильно влияет на то как мы с вами начинаем делать разные задачи и не только с помощью самого AI. \nС середины 1950х до 2016 года в игру Го играли примерно на одном уровне. Но как только появилась модель которая обыграла самого сильного игрока то ходы которые стали появляться оказались разнообразнее. Другими словами началось активное развитие игры и спорта. При этом многие идеи не те которые использовала модель, а совсем другие. \nНе новая работа,\n но очень прикольная. По сути AI дает больше пространства для абсолютно новых идей о том как можно делать какие-то задачи. Кайф. \nНа графике качество принимаемых решений в игре го.",
       "images": [
-        "https://cdn4.telesco.pe/file/t20eLyDIS6KHJ3yNeYZ1X9kUfBqeZ8yoacd46TRhtWTdQ_JusYhUZ5jqBFcQqbsBpl3NL7N-tvrkkILXKzB1m323zfbf_vqL8yDiluXyASLhcagvH1UDzAjZSDI_IOIalelpXHeKPr3PqLOFBQyDThQ8W8-UQY7VaAjTl8DxN_kzh1yjchH3yyAsoeFBCxsm0Znw6TJrqTANosAwCZMAcz8Me7m-oVRCxeWEH5PF3PrcYWRYruK85UDwkAtdv3rXotG8FXdJho2RUuZ62_w_tseEC95V2xvvbuKIb6LnKX7z3IDL_kqo5AKJmRdbeSl5C3AHJPyVnMmfzEfQYUm6wg.jpg"
+        "https://cdn4.telesco.pe/file/rbeUvTfb3leKypu6D00lC8e1xHbROaxyaZnV7oPxTKfWJYUNjcqnwcbf7uuZ11FDQsQmc9zVk1FlPa3bjvuqzQarA_6Cx82NhDDbka0ZUzNJNvpR4h2P2qNGREsVwI4ML2Z9OZkaDsJkij-BqVX3WioKmjOZAkikQWWjLe4Ig3yLLzPZSKVt5EmQUaBmy51iSZc7yhMgRAq8BAYizx4cKWQoco7iXLvpTgQchhvBDn-w2SzfoQv0iUiicg-pQhG39jPvpNlJbEpQL59zOa0yO0_dBiDxT5ps4JvlKp2E8fckiBOPtOAJUAZvjmN2-DwE5uc9O_PSQU6_jf-qYDox-g.jpg"
       ],
       "title_en": "",
-      "text_en": "Out of the interesting stuff. AI in general is really strongly affecting how you and I start doing different tasks, and not only with the help of AI itself.  \nFrom the mid‑1950s to 2016, people played Go at roughly the same level. But as soon as a model showed up that beat the strongest player, the moves that started appearing turned out to be more diverse. In other words, active development of the game and the sport kicked off. And a lot of the ideas weren’t the ones the model used, but completely different ones.  \nNot a new paper, but very cool. Basically, AI gives more space for absolutely new ideas about how you can do certain tasks. Bliss.  \nThe chart shows the quality of decisions made in Go."
+      "text_en": "Of the interesting stuff. AI overall really strongly affects how you and I start doing different tasks, and not only with the help of AI itself.  \nFrom the mid-1950s to 2016, people played Go at roughly the same level. But as soon as a model showed up that beat the strongest player, the moves that started appearing turned out to be more diverse. In other words, active development of the game and the sport kicked off. And a lot of the ideas weren’t the ones the model used, but totally different ones.  \nNot a new paper, but really cool. Basically AI gives more room for absolutely new ideas about how you can do certain tasks. Love it.  \nThe chart shows the quality of the decisions made in Go."
     },
     {
       "id": 1269,
       "url": "https://t.me/chillhousetech/1269",
       "date_utc": "2026-04-08T16:38:16+00:00",
-      "hash": "12d411319bff0626e419c005cf38f342e849731f20cd1a42285733f27f9a73bd",
+      "hash": "b0dcbe7089eef3e67ee3c86b82807862ea2ce009a1c150b2c16e298cf93dc481",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Meta finally \ncooked.\n Конечно не про кодинг. Да и не везде топ. Но уже что-то.",
       "images": [
-        "https://cdn4.telesco.pe/file/aW_ChHW0sevoZR-3alYMl87jUsPdF8sxn1NMUPoCZLHKz80oNYXJJq2rabdbl2WrW4fbrTbMgE9ZakQH0alZkN25g5HM1iVxsH0Z-3BD4u_WAPO9vAL4-ixeRmy-zacMdYM7SUZ_njx0p32ZlrIjrtYPpwmB4Bau70GXbnl-Ju47GhiuM8k__E2n75pPHs2qJcziso7nthM_LQjv-dzUQmJZBrNjWzENl_0ZZS03adKWvvooq5caIPqMNRvcEsBlxz_rEs_aT9qKRybD3BXQFsq_Qz_LP0QTQmxhtBqZ3xfbKsn10Rl-2wjTOmR3w8imaOkwsViUqosszvCotuzWSA.jpg"
+        "https://cdn4.telesco.pe/file/VThQ_1gtWA3BEQO7QPkckHLNg_uHrk0TSl4YqcNjqW_YYjKX5g1NU-il5lWtQ8tW3bqDNkMHm_czRtUrrqRLro8KH_qTzz1tigZioqqT71DtrYNH0qpCno9lFXtDyHnZS2e_crCDiRj5ScU5rcCSoAU0TyvWpO9H9VzPSEM10c0F3fOKCqmJVawNFy2bPvKVLwj9KkNB4pcYX0NbFX3MyqP5K01Za0xWArMRypELHMzOL9Mw7oVRfzUFM-hQHHwhNzfeUSbpk0m86Fwvfns-_rd99xWkhkrUK6v4O8X5_MaBMS4phEszqds0oxCuG0i10vPhWnP1sh21dsjhj5nGFQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Meta finally\ncooked.\nNot about coding, of course. And not top everywhere. But it’s something now."
+      "text_en": "Meta finally cooked.  \nOf course not about coding. And not top everywhere either. But it’s something already."
     },
     {
       "id": 1268,
@@ -276,28 +287,15 @@
       "id": 1265,
       "url": "https://t.me/chillhousetech/1265",
       "date_utc": "2026-04-05T14:32:30+00:00",
-      "hash": "d57ea1b92857633edeb510bcb6042da283250c23bee6e893d30aa16b3fd8d65a",
+      "hash": "b7513200330f512a80ce1e657243eb61e44d21f84be865409ad64b4a8027d09f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Возвращаемся после поездки. Если кому интересно фоточки из Боливии с высоты 5к киньте реакцию какую. А так воскресное. Лучшая реклама Apple.",
       "images": [
-        "https://cdn4.telesco.pe/file/ZmNPVgyKB1FLxvTbm8YoYSrg7VrH3EYqQ_hyrPT9hmAiRxm0GSFVIPSRJKERfxeDEF0ChBCOoqxLIr45rF8G6Yma_NpWMCwg8d-n9b5uohnuY24dRTihJtThycY8-1ymwX0kI1VxR7fRf-fVy4qaQWdcfbAY-vTq0RcKiTNYFxobYcl_Ly03xG8oDdsSnoHW6iIi_6AaIsnYwfdSksS_iGckCsDEQDWExWLGtkaqP0-qMD6GocyK53K89LIjFy-RbP7NOk7eNC4OnohNoOFvjsLCoCIvp6eMM0ORqKO35M1MaTFYqN4mL-tgpkgOwHB0JtmfDnbydDQC5ce4ng706A.jpg",
-        "https://cdn4.telesco.pe/file/Ex3cmGttiLsRD2fzidKoYEX2iyunQMdLOr6cdm36ClWBptEQBdakV2ltuuXzsNoiNvGzPhSBFEaTOU99MqybLFdFzhRxG_cqCZokgan4S2107vNeai-DwreRXARV2r7yum3zG-M7CK60NDxwmFITSZRyReb5u0c2Xe0W9zjBUjSqPtbOmYS94M0bKWBcUvxG8jlvkTDlnu13xGsJUkqlBfxLhz2OTt4cpU8wB76_lwY5X62Dc5c0LlOuvT7zvEB7iakSD9oHyKRiK6XQPD7CREWXKk9G-b7_S2b9hoHm7GKiS1k2Zdv3HXxCtVPFXwjfGdyD-9ywdlKF7f2PTw3-jQ.jpg"
+        "https://cdn4.telesco.pe/file/KURfP768IAs59vPjPoLe-Rj52_UoITwVqmc8t8_H96ZGbS_55EHjeLL1Zw-M0YD9Vtq7QH5JloQvpClvQhi4liywqqnl1H5QY5EIA81HylCJ0_GpEyN62-ODp5WjYYOq669klmG0k8ZzvRMZ6QaUvkrJ332Z2DoohgZQ2ynVZTn3T4IaD30j_cRYEM4MUef12IoGwFuWh9T9SChNqAMduBLG5Gde_BEJDqxPOfLlyh-dlFQnWIGop1vm1umIzEKQyWfRsn_GOfYGfqwhQKurZK7_eVEuCc2daPj5ed47qOgWcj5T2cQQUFRCGzLw-Tem5H6Fj4GgoO5Uh2suINKIsg.jpg",
+        "https://cdn4.telesco.pe/file/o5IWjQPHu8cMER0b3IPVJ8zC3dM0P38UPShpvxRg0k2VpMOfBlR01f-HCsZ4WHgDD33lhBSfu09JJJ-mGjQ83sww5sWWnCFaHsnJCsJ2k-Yy5RCdD8u_uyWYQCHaKUOLrcvdOXUgbHHXqvySi5Nh08ylVl_dU46UJqC2q15TbpDELCMp3te-MWqexO33w0x1rPgF4s5gSKyy6i-f9G7d6xpOxPagH-ZZbG1ew0JhrZM30l9dI90PuIP9xn3oyhifRtpm9qLdbS8FeXBah14BQ9eDyGwpR09L8IbrgxFySqph6uIHnZ3ZzzLCANOpEBIiu2oFfd_q2DKd7A_jbspwwQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Back after the trip. If anyone’s interested in pics from Bolivia from 5k up, drop some kind of reaction. Otherwise, just Sunday stuff. The best Apple ad."
-    },
-    {
-      "id": 1263,
-      "url": "https://t.me/chillhousetech/1263",
-      "date_utc": "2026-03-27T20:11:32+00:00",
-      "hash": "dabdf55360e58dc131c4cbd967b43fbd59bba2502e8f147b163005a1a8ea0b00",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Из прекрасных обсуждений",
-      "images": [
-        "https://cdn4.telesco.pe/file/v7SUUv0YFhxflar5NVXnwzR5ER0lzxRQqxQVi1EsMhgGKCNywbUTsGUzV_NS6RUKTb5zNmmR7KxL0ONQcgjXGTGoHRlQXJzujv7IA8SVGHOZwhuE3lkU9fuEK5bWoTf77g8KmV_JHUy3rqhAIyW6WCQLEsizM0rcjntHzZw5q_3C-yFmkELIkmomUoNeaxK5WVHClFLVIsdqLqbx7jLjHXNVTpH0rhbGFRr5jBPORrUmdf3WSG6DsWJi80GWuEm3gH1EGBEFIDzwin9kBVqN-FR4jRkcT4sJyxLgbR2hROa-WDA_Q-sb0gzuSCvwvAu6dxe-ymFhpMQJia_THQ4mkA.jpg"
-      ],
-      "title_en": "",
-      "text_en": "From the wonderful discussions"
+      "text_en": "Back after the trip. If anyone’s interested, for pics from Bolivia from 5k up drop some kind of reaction. Otherwise, just Sunday stuff. The best Apple ad."
     }
   ]
 }
