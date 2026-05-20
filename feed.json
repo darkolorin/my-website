@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-20T09:55:22Z",
+  "generated_at_utc": "2026-05-20T15:57:42Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -176,11 +176,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "062c17d1d9d37af6e00aadf2dd24e103d7a1b1e6789880bd4fa7a803cfc181a3",
+      "hash": "0bed7f8bbd4c6bccb9c793ea7ba284873d6ec11601d1c6a9ba378976339054e2",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/Fd-sII13qVq-qtSM7o1YTk7jBYwfxpJQKX0PY16_v9GYm4D8Bu0dTbcbAMtlvMNTLW1JKqUZSDTRkva0Fr-6gZQX975Iw52CtavPR5u_Udn36dsUWp9wmxiliBG4SRBN3u6cYmVhbVOkD5WnSWGi6yLFnByEgcroSua0QnsjLtxRNpIa1tcIpXPhsxE5cqZ23bqy-AkeXk9Y_XsY-5mb2o3IunobpxkouijSfo3xyICQ_4-gEIeH4J_SkDpX0k5jUbAavOdCpl9Jex2fO1vr2Ef2V7hTLbM2V5loNyGF1sVXjDIWoBaVnXHqxylM5C719sW3QcLocK6jxciSydlnUg.jpg"
+        "https://cdn4.telesco.pe/file/Dr3CDCyDKh5O_HhgvWpZoInJ5kGY7bn79sYzpCK49qI9hjBSh31jWK8-KjTIbzD_bLsXChG0J9PnXwRG_SX5nrjSNXdyN8KTo1RAJMnKXCM1RKpOoYldddFZUatvpkdPmGzh3VXvOPZgdAp1HEgSAbiUD9eQ1KoXRRFOCLXa1k3L0Q2belm8O6eslOb-u2LxF-8bM3JIU20jtdIhpouSARNo_mMyM5i3J6eb-zms_jGb1JxUP_FKG2yrDbnhtTNgs72Gwt6S1H6C1h3bjdGFlt6Wx3HQrIPe1QaVcsPoVo-_l_RAbj-MdDFCN54MjBiUMnqpYhaDTxwDzOMw1dbutA.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -224,63 +224,63 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "5e18dc13e49405bfe4f98e6dde61535b3da0c379582054ec03eb87d4ec132612",
+      "hash": "23f600190fbe716b278227ab130b33ffddd484fdd55de7c159dcb196669abb7d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/il9_OBvWUjb0WkTP8NEtJVKdh8MaRdQKQ8URtN63dGmO8TXUF1IRqwTQcgA3b8imoV8XTVqnHYfuygif5eFRVO-PI4oFnc9pvBbcG5PtxhirD444ascvz8xiO33Iq30XOURaohIi1VFEPjseiGKM6j5sCUoVa63RL6g2mHKqeLq9t93opINc-pMyqDzYV3ndzctwDHkfCWnxtlit8e0AxwwHawXfnSYvDijOc_s-s0ZvWfHjg8f4dMrzhcdsIpcPPWnAgMCze9AVJkWHWghO4rJRRNs3conUOERXzjhjherphBm61a632b4l8_wy8ty_wknwMQSqYxeTuV4R42qUhQ.jpg"
+        "https://cdn4.telesco.pe/file/mM7odSgGn7kE3yz_lrsZdohVyCjwnoGSpBO-Y3Ec2CUhJk4h1VTFhOKzLyKgX5wwt2P_s0WzSQ3JtW9EmVODa94qvB6Mr-Mm7XGGeWXQWtFqSv-Fg2qHwYkv5RoVLCkRNK8guDPDdGOdyGJ7JhR_Av9bWp6c2peZwvp-aEii2UndPojzfTju5nlFRxhWE_Bo6ADhSCCUcSxfYQh78GKfWsOZwZwyQ-1_wrfaR-c9sduKkNI6soYSvd1Hncuf3DIYUwebltLYX6CdcT3351t21XSwxVL_SC_VwGlupwO-GTB-SwWI6GD81D60c6m4448ZsYuSPunBknsZCC1AFWeTbQ.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s the mythos? Well, and I hope they won’t cut 4.7."
+      "text_en": "And where’s mythos? Well, and I hope they won’t cut\n4.7\n."
     },
     {
       "id": 1272,
       "url": "https://t.me/chillhousetech/1272",
       "date_utc": "2026-04-16T10:54:15+00:00",
-      "hash": "c8656dbd6b96599ef84de4bcb4c1f0880957a2890caea8d342bf54ac91556cfd",
+      "hash": "f56b0004489e06cc704913c38c8b4351d5c0e30346851a3ed091a3b0a1f88767",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На днях вернулся к ангельскому инвестированию в роли скаута \na16z\n кстати. \nЕсли делаете что-то классное в области:\n- ai frontier research \n- ai infra\n- ai application layer\nБуду рад посмотреть деку или послушать питч. Ну и если все топ, то положить чек и представить партнерам фонда :)",
       "images": [
-        "https://cdn4.telesco.pe/file/IRV9ac-yMy15wffIJm_zQaRx8_8SasN7XZDL8_rQKy4Fq3SHVLDtJgmxjrp0BFq2Gtw_Rb32_Z5KYoKz_a61xgzTu7R7ODlGtPxir1YBRUhSCDXW6qJRi88aUDf1rLXfltn883bYmLPVclCVX74ryiHMQwSuFWc0AVFhuUkIffUCOIv8Ru-a-BOv0DP1xK7qHUqJGJe_s3l9wnEbDRVKU7SAvPzYFksqNJNphg4vSStubmi2MrNORg5LLris6PPmtfl7oojwtpo5CfVLduO7YFVHXWzAHafyMjz4coZ8kL960Nsjm5wsYq-fOIFMm3z0vkEzvJQe6F9UojlVuahX5A.jpg"
+        "https://cdn4.telesco.pe/file/cEOkBs6WolseOacR30el8flqTTO8oF0_l2Xtu8uxFoOIp-t9Ub-KnJ0Up79gOgHtNAGu5jdY-M41EMZVThvWf8WdcJ1HsS0nZ3AUk_zIYl7t94Ar0-rB5XEo9w3Q2wBKIR2xmA69F_vYsXsR_MeRdVYar4f6UrKycKOEohtsLNaA79Mpooa5bpoxkU2bBxg0VDtO1FjQA-rOr5uMrov91iVJfYwnrwTSr0rEQxPOnAeCigw_1M8JAG9BbwnSN3lIKgR0Yf3GvZ1oQqamuY28B9uFk8Vb1HTZOAZpy6C_Vina9_JZyk_tVMP5JHSHyIotPRaPyDlHh5NXErXJWgrXPA.jpg"
       ],
       "title_en": "",
-      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nby the way.  \nIf you’re building something cool in:  \n- ai frontier research  \n- ai infra  \n- ai application layer  \nHappy to take a look at the deck or listen to a pitch. And if everything’s top, then write a check and intro you to the fund’s partners :)"
+      "text_en": "Came back to angel investing the other day, in a scout role for a16z, by the way.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nHappy to take a look at the deck or listen to the pitch. And if everything’s top, then write a check and intro you to the fund partners :)"
     },
     {
       "id": 1271,
       "url": "https://t.me/chillhousetech/1271",
       "date_utc": "2026-04-15T17:47:08+00:00",
-      "hash": "3f40e4a41a03c28e3bf16350d1b6e811e1db0bf95e460026d30e54b87cc2f988",
+      "hash": "4a28490bec78c5806ebe4ac870b8dc6cffb95143c539d628432decdec12605bb",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Нет никакого пузыря вы что. Делали обувь, а теперь продаем видеокарты \n😏",
       "images": [
-        "https://cdn4.telesco.pe/file/uBAXY-xSslKbvSAS_SXyYNaBWNxooaGtyt2pv2IWunlgNxn29x5B7ISoR6WKZAXXxFYdxHP0GdrM5wSpnv60tzvRF6WlV_GjI6Ms0YTjy-sBYw-Txsi_vWlzDufoV2gP0wKiAE-U-y2Ela07cfAjb1f5ASggq9VAkVtslv3ALmAda2nXWDZSQOcT5EkM3nU8mh41SE75gLv8XhDIQyL0dCxgjdwla5vYuTxgArJjNMLWEgLa00J3Ru-8rMdFHpYWWJPD9VlxviL4ZO10MtTls3TsN-K1q2HRzFJL8Mkjoxdl7L3mQ9JbWpRVozpeAKsv3fD10gQyMWDMpJhXqoyfIQ.jpg"
+        "https://cdn4.telesco.pe/file/aXIhEXgFymL5vNEDSF_TH7JqkCw6IYlFxHKKb07m7pptfBTIOA1zxUhvues2ASPkj4MqHxUNX1HMa0SVUAV_ekl811lOITALvY3PuVNyeomtwXfZlNOtoBOeGnqxl4FqHq2A0DexpdDQTgx38gxMQt6HGxNXl_zWQ47gIlk8hcYN7eTAaIrNz19_ej24uVB1mRDZZDv3vcAKwqAnBzuYItFfs5dmsMSkLc4wiDMWxKxqDGZynSr5D540sXM7u6RZqr27lfo7IEqBXo66SAhhZgt1dOmH0Inp8sET5WTuhxTwLYdsBbGlTqe2ychvGdZptYrYpVzGgzDd_zimS-iRWw.jpg"
       ],
       "title_en": "",
-      "text_en": "There’s no bubble at all, what are you talking about. Used to make shoes, now we sell video cards  \n😏"
+      "text_en": "There’s no bubble, are you kidding. We used to make shoes, now we’re selling GPUs  \n😏"
     },
     {
       "id": 1270,
       "url": "https://t.me/chillhousetech/1270",
       "date_utc": "2026-04-08T19:54:58+00:00",
-      "hash": "1b29cbf7791f2a69b93db6562cacc57913c7c85a9ca56516b289e3a4cc5b4ec5",
+      "hash": "a4c76102047283c8a0830c485302493b0293b669fe26e12aab1701cdbe6d8820",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Из интересного. AI в целом очень сильно влияет на то как мы с вами начинаем делать разные задачи и не только с помощью самого AI. \nС середины 1950х до 2016 года в игру Го играли примерно на одном уровне. Но как только появилась модель которая обыграла самого сильного игрока то ходы которые стали появляться оказались разнообразнее. Другими словами началось активное развитие игры и спорта. При этом многие идеи не те которые использовала модель, а совсем другие. \nНе новая работа,\n но очень прикольная. По сути AI дает больше пространства для абсолютно новых идей о том как можно делать какие-то задачи. Кайф. \nНа графике качество принимаемых решений в игре го.",
       "images": [
-        "https://cdn4.telesco.pe/file/hw0QKg5RvGY5dpF1eKdVXOlqw6xV9WM7QnN5K7eWgDZmT8kkv5xF3XDY7JiTV3AF9EKP3rOpoyI7gacYQoQ65vhxV1gTRCXLl7qcVrv0zet-rio8KKgY8dwP-67-bXuB_x6moqMRJj9skE5m-WKyuLhZqZNxVpdZV3uvF9Rs0OE4ZQfjB9oS5B8-Oakw2bTzL2Ymrd5OoUyomRwepkuyZTIy08pYA5zlN9wsXafrsM4oqflV1qE-DwhdOUN5LY84Zjvo8BbXaJYMEj4xhqXnTPdcSf4wpk1w-jpMT1G2TxDIMAI4Ae37ilLBQ7k9qbE2oEdc6QIdBFkHik_u-DIiXQ.jpg"
+        "https://cdn4.telesco.pe/file/TZJ-YQ0ecfU4FqiunjSDd0mYn1cNJ46X238V8hfCZSsSXbPxxU8mUJmnyVFDf8BRJT2W_BBIb8fFYxWAHwcfRIjj2Pcnk36INLIYaY68v6eJYri7tJFzYaK24RjuWxE4aPTBFcUyWtwd97Mof7lEg9OQHN0GcXMDR1B1BcHrzZ6RjrG0yDrOJ4Ylg-EqfwHwGK0NmEWmLdEm6ZMJFZOFKGWweKDi1zWpU_f8iiY0OBuyhZLgy8kUR56mqsJC2A3MVckumMuaBAp-h4qbWU7-NnjHMC2gfxNpvp3hyZxpaauZ56nlLozBaauwMnXXiFtfovyShZfJNaVOA0Vmxc30Ow.jpg"
       ],
       "title_en": "",
-      "text_en": "Of the interesting stuff. AI in general is massively affecting how you and I start doing different tasks, and not only with the help of AI itself.  \nFrom the mid-1950s to 2016, Go was played at roughly the same level. But as soon as a model appeared that beat the strongest player, the moves that started showing up turned out to be more diverse. In other words, the game and the sport kicked into active development. And a lot of the ideas weren’t the ones the model used, but completely different ones.  \nNot a new piece of work,  \nbut very cool. Basically AI gives more room for absolutely new ideas about how you can do certain tasks. Bliss.  \nThe chart shows the quality of decision-making in Go."
+      "text_en": "From the interesting stuff. AI in general really strongly affects how you and I start doing different tasks, and not only with the help of AI itself.  \nFrom the mid-1950s to 2016 people played Go at roughly the same level. But as soon as a model showed up that beat the strongest player, the moves that started appearing turned out to be more diverse. In other words, the game and the sport kicked into active development. And a lot of the ideas weren’t the ones the model used, but completely different ones.  \nNot a new paper,  \nbut really damn cool. Basically AI gives more room for absolutely new ideas about how you can do certain tasks. Bliss.  \nThe graph shows the quality of decision-making in Go."
     },
     {
       "id": 1269,
       "url": "https://t.me/chillhousetech/1269",
       "date_utc": "2026-04-08T16:38:16+00:00",
-      "hash": "6cc09d8d552cf3e9682c20ece7e8f2c099d8d4ed8129d0a6903937aa64f2a9eb",
+      "hash": "b3f2a1a7db2f47f16036570ea42479cfa409552d889010a94e79f87787252e00",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Meta finally \ncooked.\n Конечно не про кодинг. Да и не везде топ. Но уже что-то.",
       "images": [
-        "https://cdn4.telesco.pe/file/W78X_veyJy1f2V469ooz3q6dQrzCbUcT_HVAn4D4cJNDn7XxVmpc0oWg5xMZi1R9C-pX5ZsOEsuvRA6ooEOQpbBf2vzuQ7qgA_oR_fhHy8MaLb2qiElQVmgoGXKhiMdMPaR7YW8dofEDqeVa_ucR2mUYEs1kegr-BIv2O_nsAjQH7tein3jDid4wcx51-jSeBGD7l9cFbUAFjqr8-APk0wI-m2fDjZRbRtXtCfoie4YYlK2D2Dr6PpezzeX2ubYdR1Bxwg2WBhVe8Wb9NbyNBelx-w7z2mLyXuSGmYK9tlvx67CVOIozXBCP7ept1o25504c_EWhZhfIfTnX9omL_Q.jpg"
+        "https://cdn4.telesco.pe/file/OqpSZYw4CthcnPtLdaMyzw6u4NyZL00i_CuS4nVxfEb3NQqK5g-Odc2ZrxqJmbLI2VKNjZsPCelGejveZSiIb6EWA4FsZEz9kcCtrAqbTpz7IRMv1USp6I-yqTgZc-Dov1G_VNr2Ih88DCadFhIS4dZTReQaFSc6-8HEyrI5byYWmP75x1jbDWjfm624rwbz674mnRfEVsMgF5Q8eKR1K3mytIst1bUfRyYXocf3QBWni2jsEzLg4XGUsxx1thGqZZ9PnnQTPI372Hy6WDA71UlSA4leJdgu__kcBW_Ce7L9lKX59RsHLZ24hX1VeW0wir0cBsecuKkHEh4KhulW9w.jpg"
       ],
       "title_en": "",
       "text_en": "Meta finally\ncooked.\nOf course not about coding. And not top everywhere. But it’s something already."
