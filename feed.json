@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-05-21T10:04:31Z",
+  "generated_at_utc": "2026-05-21T15:52:41Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1295,
+      "url": "https://t.me/chillhousetech/1295",
+      "date_utc": "2026-05-21T12:37:17+00:00",
+      "hash": "8758565a8665c020dabd1e701ead2da8203de7428e7e55b3f172027b6cf64850",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Такая мысль закралась. А вам не кажется, что харнесс это технический долг, ведь там есть системы которые опираются на конкретные промты. То есть по факту мы надеемся что определенным образом сформулированная фраза даст лучший результат. Но это же меняется с каждой версией модели.\nПолучается, даже если модель поменялась (даже если вам квантованную вдруг подложили в API или сменили версию инференса) у вас может все разъехатся? Выходит промты и чем их больше это своего рода техннический долг и причем приличный. Поддерживать то, что не понимаешь так себе задача. В том смысле, что не имея знаний о том, что модель делает хорошо и какие данные долили сделать промты будет тяжко. \nВообще мое мнение, если модель обучили хорошенько на определенных задач влияние промта будет не такое большое. Но с другой стороны Cloudflare репортит после экспериментов на Mythos что мол харнесс наше все. Где правда не ясно, но что мне точно понятно, что делать харнессы на века без своей модели это выстрел себе в ногу.",
+      "images": [],
+      "title_en": "",
+      "text_en": "A thought crept in. Doesn’t it seem to you that a harness is technical debt, since there are systems there that rely on specific prompts. Like, in practice we’re hoping that a phrase worded in a certain way will give a better result. But that changes with every model version.\n\nSo even if the model changed (even if they suddenly slipped a quantized one into your API or switched the inference version) everything can drift apart on you? Turns out prompts—and the more of them you have—are a kind of technical debt, and a hefty one at that. Maintaining something you don’t understand is a so-so task. In the sense that without knowing what the model does well and what data they poured in, making prompts is gonna be rough.\n\nOverall my take: if the model was trained properly on certain tasks, the prompt’s influence won’t be that big. But on the other hand Cloudflare reports after experiments on Mythos that, like, harness is our everything. Where the truth is isn’t clear, but what’s definitely clear to me is: building “forever” harnesses without your own model is shooting yourself in the foot."
+    },
     {
       "id": 1294,
       "url": "https://t.me/chillhousetech/1294",
@@ -187,14 +198,14 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "0bed7f8bbd4c6bccb9c793ea7ba284873d6ec11601d1c6a9ba378976339054e2",
+      "hash": "abca7781268699ca716b4054b1f511f18314f567a51998e6d247b714e1a734d9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/Dr3CDCyDKh5O_HhgvWpZoInJ5kGY7bn79sYzpCK49qI9hjBSh31jWK8-KjTIbzD_bLsXChG0J9PnXwRG_SX5nrjSNXdyN8KTo1RAJMnKXCM1RKpOoYldddFZUatvpkdPmGzh3VXvOPZgdAp1HEgSAbiUD9eQ1KoXRRFOCLXa1k3L0Q2belm8O6eslOb-u2LxF-8bM3JIU20jtdIhpouSARNo_mMyM5i3J6eb-zms_jGb1JxUP_FKG2yrDbnhtTNgs72Gwt6S1H6C1h3bjdGFlt6Wx3HQrIPe1QaVcsPoVo-_l_RAbj-MdDFCN54MjBiUMnqpYhaDTxwDzOMw1dbutA.jpg"
+        "https://cdn4.telesco.pe/file/jv8ObyapfqnVw2D7C_HRB-WhZLG3vHFHmRFRPepcIIoFZ2HNBr9xQPP5Fh8POE3Q3OSxIzVm0VWtfJ3yKuu9ur8MvzikwMG5OJHsJtW0Kzo7MC-Zf0oz67wxuMLJTF6irYEfBdoj5NBUE6GKMJtDhZI6_9YRKYPPcSg0v7yGiW1PkPzfCpjb20uJYb_E61duGo61B5ZcJ_cWcMNnEHQzVKE7Rxlkvl9H7mt7R1GAJOpfPwDym0JVNxw3QBTTaCpQHFPf4EOZyBVYfJAFx-C2vE3Ixjpb9PoMkD5swBbiP7mdAMvJaoNEdLaPc3vwCyHcn8iw5ncx_YrdLqY2VqFo7w.jpg"
       ],
       "title_en": "",
-      "text_en": "Well  \nlet’s try"
+      "text_en": "Well.  \nLet’s try."
     },
     {
       "id": 1276,
@@ -235,66 +246,53 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "20df6923888da536539949dab0b1f11edebf0154ceeefff0b62dfc694ed2af89",
+      "hash": "5b8a4ce7e842fe920a16225f2d6f2ab8cd85619f967cb42fdbdf9379d3940d13",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/e4pqCoL06_i50V5xMrqzyhpTs9uzIdTQvP1vP_aFAb6QIA9gJLJCTeHQHVsolfkbHtKjfpGZ_taG1Zwr3FNcdNqaqR-UYycufOP4OXtujLLU1nU1MUmB87TTrL7QnyBHzUDxwsDqMXFBp_iabtBFnSa9YlxvnYvaDvYOrjVhmBalTSt-w6sEasU7t4vqpvIEaPn5NMz3d0RVcB1ZdwrphvvLbNxe462ci3zHWPkUWIOSIer9fk2427_xZKKFEpoPZWojnAsmQ7Qw0V8M-H9OdS85TvPWKN_F8117MWnZaXH-CaxwFo5MYKiUaNMSicEbcXtDM_D7glVoT2LVVGaorw.jpg"
+        "https://cdn4.telesco.pe/file/Y2NU11ZZG3IFHVTlcOPEgst7-WI_fUvRyqGNtB57Sf-FdZqnJz8-d2qNTpkGQNaC8PwWh3d-IXLqBtPRj24H0vsabkOz9uk5FfRakykx_YPWnVpbFiglLUggAzRSxrpZqPmoijTJ5bXRSmPs8ZN7WYiv8ck3Ut4uhkQXqY3xfdXt6dsVpxWztM-ExHoL4kr4EJaIUS5EUsuBSY6HMR7QtO_xy7rmvSTqh8PoA1A95rENMy3NwJBx8Hp4qfh5UadfAG7vRV00RouBjQb-rTuR9g5sCYbpmpHG6I8TsKXyBWFHQg_wR5w9NcGUHos7tR2K52ODhHz008L90c2t9kZlow.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s mythos then? Well, and I hope they won’t nerf 4.7."
+      "text_en": "And where’s the mythos then? Well, and I hope they won’t cut 4.7."
     },
     {
       "id": 1272,
       "url": "https://t.me/chillhousetech/1272",
       "date_utc": "2026-04-16T10:54:15+00:00",
-      "hash": "45f3d231044039abc320b7b248f101152c45fd2f261ce318e1f613176b86535d",
+      "hash": "ffe9f613d194cb8933388752f3620c6df3ff322a2e1743c290a569fbccc40a81",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На днях вернулся к ангельскому инвестированию в роли скаута \na16z\n кстати. \nЕсли делаете что-то классное в области:\n- ai frontier research \n- ai infra\n- ai application layer\nБуду рад посмотреть деку или послушать питч. Ну и если все топ, то положить чек и представить партнерам фонда :)",
       "images": [
-        "https://cdn4.telesco.pe/file/mE-GgjgCcioJSGRkKaeewlEximg3h6oBVquDwH2DM9nezU-wN_eKYqQCwKYNKgkbQc8sERYevh-DQ6pk92ZaPObDChvwGEJIxCDZ9lNxTmpBmm_pVqxRzZV7bya7J5hScx42hf_wkW0mWsdx3JOdH_xBBy8Ps_3F6CK3N_Mj87qvEHLfrAKFt-TWHCOr_Re1uGi8pAc4D_oz4ziribzKvTZs-h2Bo3FvCDCZpHXapWl2I9kfYruQw6hMHHJlGGyxD3SdCSjMGaz0Z4vgncLJ0oWzke9SYk8i9GY-qYeXLf0bSCKB4LeappTjj1rheDWBnYVxGrywBBumCMs9KAfGdQ.jpg"
+        "https://cdn4.telesco.pe/file/Evb23jKrxOIza0tD0SL25XdbQtEKneYYroowAUppwmTtii95AGNfALW0b6t7y8UZPhL8gpaOIB9L5dLLEjX3xOskBJRFHX46sD2H-QnGMv6ID75x8hD_3PJPPJa5t0d9UpwLpzVrGW5ZkaPCwr1P9nmnbOUvHfG7LfPVNmco4D7iZTIiwk1eIedO1xGHeYDr9ikHrHw6eTyJaoXxDIU_QkqZ3iusDiqa2Tx1Ks-Yo_RP_7zf0mSrQ_MXhxbfXtJ5ddESdY4Kt_QnGVtWXPpD4uRDw5TJd1X8Dg1EVvqoPizb03jntFi2x-THq580rFZaS9p-58Ak9Tg4b9DphRQ1uw.jpg"
       ],
       "title_en": "",
-      "text_en": "The other day I got back into angel investing as a scout for  \na16z,  \nby the way.  \nIf you’re building something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nHappy to take a look at a deck or listen to a pitch. And if everything’s top, then write a check and introduce you to the fund’s partners :)"
+      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nby the way.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nI’d be happy to take a look at a deck or listen to a pitch. And if it’s all top, then write a check and intro you to the fund’s partners :)"
     },
     {
       "id": 1271,
       "url": "https://t.me/chillhousetech/1271",
       "date_utc": "2026-04-15T17:47:08+00:00",
-      "hash": "570f4bce0232fa2f247bcf07fa5fa8590b7f9936e50cb262f82b70832f248250",
+      "hash": "af780fa8b04fba67153b0e16704395d3d240ef33d65a1ba706225d76de65d66f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Нет никакого пузыря вы что. Делали обувь, а теперь продаем видеокарты \n😏",
       "images": [
-        "https://cdn4.telesco.pe/file/saOU35yRBvJilRgMRbjajmW7rslYE2lhNuRjpOI5n0XBtUKrq0NilxHAD3RdUP_lz2MW5rARaw3iXrJlTZoFn2GIXXPh0zxBduwOJj6VWnqDNvaWShTiwI7IuIjDcbxAIRCqNII_DL3qnUljGG9v63Vaw5DyZZqEHDK73SlO_lfgbIBv2mrjRDEzt8c2fXYyvXePFI9Pmq1EMcV32NI910sVmlJx7Xcmun3JW6SfHp30MBAcYU0pcR3B6LI_dI1goq_3wI13BP4PwSVmpBXRtBTlq8KjIqCZZYYWIlyDiuVb1K6cWpgow2kwNBJIgDl33QU8nVvQBCzewECC6610vA.jpg"
+        "https://cdn4.telesco.pe/file/XGkZCyDZQHEqpLceDZ7vLN6x6zS_vdD2tbkafGn05Z312QcX-JCYrIsWghtCSp1hOcn8R69VI5QXiAbggGUeO88rE-KVesr-SyArOiB0u_ReHTc0Yd2cg5et0D9dk9xbstX0eFef3ZRSEP_UDhsNKoYPM2g0eNLaSNqtgE8TB6iW78_sn4eAmSBZDpYN_1ERsSd_7QJx822KzMcUPGZkrFXNgEGI3N51y_nDPjz1MLZTJ7R30ykHNcxgNIqwA_Z2lKvcc6lkMxbcJIqeuo2rWebtmIygYXGOgCDJ8p9bEtxHly14qYMn9eVw1Um8tDBtmxVBuYxMEFXNSLNvDH0vzQ.jpg"
       ],
       "title_en": "",
-      "text_en": "There’s no bubble, what are you even talking about. We used to make shoes, and now we’re selling video cards  \n😏"
+      "text_en": "There’s no bubble, what are you talking about. We used to make shoes, and now we’re selling video cards  \n😏"
     },
     {
       "id": 1270,
       "url": "https://t.me/chillhousetech/1270",
       "date_utc": "2026-04-08T19:54:58+00:00",
-      "hash": "9c8d51707b85b0cede68dab0de22ba8317194283aaec54454aaa42146cd043b1",
+      "hash": "267a093ea97f2c5a4ac03540814f8efd4c9e6aed7c56e187dca81c504ad3f08b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Из интересного. AI в целом очень сильно влияет на то как мы с вами начинаем делать разные задачи и не только с помощью самого AI. \nС середины 1950х до 2016 года в игру Го играли примерно на одном уровне. Но как только появилась модель которая обыграла самого сильного игрока то ходы которые стали появляться оказались разнообразнее. Другими словами началось активное развитие игры и спорта. При этом многие идеи не те которые использовала модель, а совсем другие. \nНе новая работа,\n но очень прикольная. По сути AI дает больше пространства для абсолютно новых идей о том как можно делать какие-то задачи. Кайф. \nНа графике качество принимаемых решений в игре го.",
       "images": [
-        "https://cdn4.telesco.pe/file/CvqMGXug6IzoMECf77_XWqN6QwZ1X2ZINYR1ejeBvwa6iYyGik8Ji0C_dfY08nOS1MVmWZJ1G87zkIuFGk4ifHyVMjkdclHND8shyGzhfjV6MwG_sOFYGx62EYaeBd3HuNbNouQ-SNe9IqxMMUy_MvIun8QH8BJ3CktSw3BGj-k_wyMiDNKcQj7QCvq5TMdVelRiPKs2vPNWW2qwMVwIUiPQf9E1kKg8aVoH8BbQSK8elnqB7HQiJ6NuUyDYW1SnX9tjdmV__0c7lNuhgr5zjOdQ7ZZE8tnM_dfGxyoZlav9HUfubF_6FjDDBTQnITRQt3U9HkSyeWGf-_K90KAjhw.jpg"
+        "https://cdn4.telesco.pe/file/Di9oN53pfO-eJDZIz-fEqHCfEWUPzLeclBgr8C1LKN_T2Ql-msJCYb1v0K1ZxUXrNPG9pirUpLwvk4s5Zn3HyP1zhPiQH6p_gkvRZsJU5m2norspE28L_BYYWwX1oKrl5hqyNBeCHGcB3P9vXGuoluxzoddDu2N-_aI-qkGb-8Dn7uokpW8k56t0Lw9tAO3wHY4wYljIG1YeWElf1Id1Xu22U6tFu8IkzbEgwrUYJQ_reZrXfgRAUSbXLE5d2yzwHkxKDDe50Su-tjv4Njnv4Lv36xzHqGTA6TobtUDJXOZzVP-uNRd7RDUSqHXu_Z0FIUpURoWs8cupzdHL3uKedg.jpg"
       ],
       "title_en": "",
-      "text_en": "Out of the interesting stuff. AI in general is impacting a lot how you and I start doing various tasks, and not only with the help of AI itself.  \nFrom the mid‑1950s to 2016, people played Go at roughly the same level. But as soon as a model showed up that beat the strongest player, the moves that started appearing became more diverse. In other words, active development of the game and the sport kicked off. And a lot of the ideas weren’t the ones the model used, but completely different ones.  \nNot a new paper,  \nbut really damn cool. Basically AI gives more room for absolutely new ideas about how you can do certain tasks. Pure кайф.  \nThe chart shows the quality of decision‑making in Go."
-    },
-    {
-      "id": 1269,
-      "url": "https://t.me/chillhousetech/1269",
-      "date_utc": "2026-04-08T16:38:16+00:00",
-      "hash": "f899249f794e8161c08d2d580e449135ae8044ffdc0e7f383b3d8ddd02c52c9b",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Meta finally \ncooked.\n Конечно не про кодинг. Да и не везде топ. Но уже что-то.",
-      "images": [
-        "https://cdn4.telesco.pe/file/FeN3WlO1qZhorAlwr3xzkPKp1j4Dcv1Yy5BcfZAMqk4rbtBHfiq_IWA7NetWrlPdjtPNDBMp7ZgSSLlVYks40M0cabMGsEup1NKW93X9b1uc9j30JoDjicYmifGZS1ckPLlyLVlh6N-0tQSDfxVUL0RRJEGVHQ2ETiDrxItR_KQlQyGz7-JL2iPROl0stxqie0CQLp1OYO8EiP2QUyJdb0OxXQYlw802KeOhCve4HtelyGy84BrI-suwR2FxlkXivkTnC4u2zq0SvIOA8yFMW2AyTPszv9ml0touTYgHpWgWqOn_kJdNYnW8EuQaKEjsisntCpaz1OjDENx4w-PQXg.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Meta finally\ncooked.\nOf course not about coding. And not top everywhere. But it’s something already."
+      "text_en": "Of the interesting stuff. AI in general really strongly affects how you and I start doing different tasks, and not only with the help of AI itself.  \nFrom the mid-1950s to 2016, people played Go at roughly the same level. But as soon as a model showed up that beat the strongest player, the moves that started appearing turned out to be more diverse. In other words, active development of the game and the sport kicked off. And a lot of the ideas weren’t the ones the model used, but completely different ones.  \nNot new work,  \nbut really damn cool. Basically AI gives more room for absolutely new ideas about how you can do certain tasks. Love it.  \nThe chart shows the quality of decisions made in Go."
     }
   ]
 }
