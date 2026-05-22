@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-05-22T04:37:09Z",
+  "generated_at_utc": "2026-05-22T09:51:14Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1296,
+      "url": "https://t.me/chillhousetech/1296",
+      "date_utc": "2026-05-22T08:35:10+00:00",
+      "hash": "8fb0d700969790ae818a5a8f0a9d4792550a524801e151f0aea16c934db2d895",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Промо тайм. Меня попросили недавно, что мол даже с твоим отношением к вайбкодингу, что бы ты порекомендовал. Конечно же сходить и подумать своей головой перед тем как делать, но вот если уж прям надо, то пожалуй мои хорошие друзья делают курс по этой теме. Краткая инфа ниже:\nКурс Vibecon (мне показали программу, покатит, ведь мы не ждем там курс линала или теорвера). \nЧто понравилось:\n• 3 недели, 5 встреч, не растягивают по времени\n• нормальный сетап: cursor + claude code + next.js + wispr flow\n• программу пересобирают под каждый поток (потому что всё устаревает буквально за месяц, и это правда), а для учеников потом есть доступ ко всем обновлениям\nПо итогу. Если вы и так сами умеете учиться с ChatGPT, то это не для вас. Но если по какой-то причине так и не используйте Claude Code, то хорошая возможность начать\n🗓\n Старт: 26 мая\n🔗\n \nСайт с подробностями\nЕщё у них есть короткий тест, чтобы понять насколько ты сейчас \"прокачан в AI\". Кому интересно замерить себя – \nбот с квизом",
+      "images": [],
+      "title_en": "",
+      "text_en": "Promo time. I got asked recently, like, even with your attitude to vibe coding, what would you recommend. Obviously: go and use your own brain before doing anything, but if you really gotta, then my good friends are making a course on the topic. Quick info below:\nVibecon course (they showed me the syllabus, it’ll do, since we’re not expecting a linear algebra or probability theory course there).\nWhat I liked:\n• 3 weeks, 5 sessions, not dragged out\n• solid setup: cursor + claude code + next.js + wispr flow\n• they rebuild the program for every cohort (because everything gets outdated literally in a month, and that’s true), and then students get access to all the updates\n\nBottom line. If you already know how to learn on your own with ChatGPT, this isn’t for you. But if for some reason you still aren’t using Claude Code, it’s a good chance to start\n🗓\nStart: May 26\n🔗\n\nSite with details\nThey’ve also got a short test to see how “AI-pumped” you are right now. If you’re curious to measure yourself —\na bot with a quiz"
+    },
     {
       "id": 1295,
       "url": "https://t.me/chillhousetech/1295",
@@ -211,14 +222,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "f246739afee573910f695eb2ff4ca91d3e67451ea3d4fedfd8ce0217239fe909",
+      "hash": "8b9446dd5c34dc8d23116790dcf4a46dad79adfb4a5d9b25e9010a79ab182a27",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/eguhDZv9_Ulw68vQpYBUN8HJUIPsm_FLaVHleMdk1SAP78JPVh_A6H8JN3XI6vvvMheNhX4Gc38cMR0rkv_RkSgQwhru_fQs7pbCCNVcw87H--PELCCS-dB_RU3NLPs5y3Hdyd6aWQ_t3f9DXPJHr-JMafY8ZpCkDgz5-b63a_tApGp6QTnQp3CWYZiKzxhkFLk56L5hRnwwIuOFzIJ-xwmwKSsBVqTd8GGdhFKrvY9PuO8qdMHulTA1azAEvmcqodsHd1QkE0CmO_Iv0eoG6NJA-uqrulRhTVMvPt3Imfmd0yKsDSpx4oKBgCXIyGN3KiMjacPPacLx0bp9aEJSfQ.jpg"
+        "https://cdn4.telesco.pe/file/W1IXzQDclhL-VYtErX4SysBenxrDYPScQKSSz_R0phnQe3-vDMIg2e5pniBMW7w68iLIUJc_ld_dwnbbzbNYp4qBGcBsx9yEAXo1iLVH6nDzS2CfYcJRmVwUcp17umUigUrDft5_auYFxGQKgwcQfDbcUgqfp_keD3l3xX-p8yCsq7uXPYkKNr77VATTW85fpTxJRPQt1Gzq8DYkQVAjQB6GeNmDEhBoFulHIULISk7WgMVNB3nHMLXZfDYv_vbay2hswPBABrjv_qhARB52VQGLr4WLq4I6OhDp3XV2OWbkuUePR_1oaryZO5C8wA1tGBSAJUcUeiRANdmqgDoT2Q.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades as text in quality.  \nPaper"
+      "text_en": "AGI is coming for us. With each iteration of working with a regular document, your document degrades as text in quality.  \nPaper"
     },
     {
       "id": 1275,
@@ -246,53 +257,40 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "97018973de27ed84dce869bf84cd8536d54eaa565ff815999b22bdd684858636",
+      "hash": "1fc90382bc0cf8f66e707f4abbf1895e8561df7924225732878f52d177f071dc",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/P8IFcwYUul2US5DWXDeyPuvHIpxeFroG4VYFsvmXZGRr1b79FREUW2VDe8KxtMdUUubhtMTipLs_tuHj8mZk-FO8VjZlaSix53GkkMMQc4xs3n3FjUj8644AKMPBvteYd8aE91xQhj9xMp03rOc-l-ceyco0hIJ6k1Kmix6y8_zegRVONgx1Y2pK7-nhTSdE_BPMwsQ-KoRJLdPoKK1KNUpwAx1awqjM9woOIIv7rjldcVNQL58Org2lOxvtvrIZCQeVVJ0Ua1YXmjpPwVyzFHFflw1RWB2AzJzNyX9r4mtV7kivRtonCY3bUGrxgSIQFCughAbRSopiulFb1O3aPA.jpg"
+        "https://cdn4.telesco.pe/file/graPc3dGCw59FNABc2U86myeK9qKhgYqbDUvN8IARYpq_SKeS0QsrBzEKNb3D7EpVKLQCwcsBHHHdZjYkP9VRA5AHdHbnaUDAqhk_6eIQXo3RWixu4yLyCiKoUBNBXgp4RpRuXlEP14SivoabxSJbA_okF-rDzN2ba189Lvzttb5bBJQpnj-orscgakimZNPJlYkUwyntpux37YMBHAmP5DWBZRlXnkO3gMFr0A1KNQ4FviWp9ALJB4A82HkgTyE_MNx6QOq6Pe5oBxt1TLS8fGcjP_fg9ISeZ7wuGuKPWMkzlriamROApHddh9nO7QtkQTc_JRx6ikpnls9B7hOpA.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s the mythos then? Well, and I hope they won’t cut 4.7."
+      "text_en": "And where’s the mythos? Well, and I hope they won’t cut  \n4.7\n."
     },
     {
       "id": 1272,
       "url": "https://t.me/chillhousetech/1272",
       "date_utc": "2026-04-16T10:54:15+00:00",
-      "hash": "35ac35c87b6fb66012f3f3ee119400527d292cea1024389e1b148d736e1a9461",
+      "hash": "9db0f3612644a39fbd6795d677874f361359109795abcf097bc1d76275faa2de",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На днях вернулся к ангельскому инвестированию в роли скаута \na16z\n кстати. \nЕсли делаете что-то классное в области:\n- ai frontier research \n- ai infra\n- ai application layer\nБуду рад посмотреть деку или послушать питч. Ну и если все топ, то положить чек и представить партнерам фонда :)",
       "images": [
-        "https://cdn4.telesco.pe/file/XmiBG9AzvsPYsy8CdMa8QVJlsrcl88KP-cZ22i_ABMsgReaKrBQzn4v5ehLLIzdDUcDkUQHNHEaBaS5k-zVxZbUQKpZy4MfpcswQkCPzVD94O1oa5tb1_LMtDEsv7ej4-XF5vjQFhVXKvlfawe0wxKaqdNTYBM43ypH7xeJfTZzHUUMqEGcjyI-lhisfyXEGMSNPEuHFp9uA48nS9vr-mI1o60KYHJvhJmNjIQlDT5RjMulxdbcQWxBI0jd82sLqasI_sOfpiZ_ij56uI_sY-dZFzxSK1L158r0gNwcbvr8EIOQXm_5j3jeyRxAg5wkLGQXT3Y2RoPzyajMzI394cQ.jpg"
+        "https://cdn4.telesco.pe/file/LYSDmUuKOysoAxJ9Xud_YL1BLRvR8CM6ZMdJ0STy4zlWv9vtcIhso2idB77dyzNHHt6RP96npV4szLSY52Szma54Vf4BJ17FLUdbzEGy9Lpa2rhB9GFm_qArAQZsWlvLZC9KFiH3S3Uj2cdpiiJSouSeATyBZTn-arAZDHGdOeeEMMh9H-89WbPBVDd8UVS9CqYG-m4DlWPLzRVZTiK8TAA2BOoQ41WCiq6RFqpGwspBdmvVQprOjQ3pOhg3xxJAco_csnxAgyspcbc5bLh-UkrEImqnIhNAGHuWrKRZDjBw7JBU2nQ-Lt0ZSsPU7Nh8291uDIOI1pilM9paPtweBg.jpg"
       ],
       "title_en": "",
-      "text_en": "Came back to angel investing the other day, in the scout role at  \na16z  \nbtw.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nI’ll be happy to take a look at the deck or listen to the pitch. And if everything’s top, then write a check and intro you to the fund’s partners :)"
+      "text_en": "The other day I got back into angel investing as an a16z scout, btw.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nI’ll be happy to take a look at the deck or listen to a pitch. And if it’s all top-tier, then cut a check and intro you to the fund’s partners :)"
     },
     {
       "id": 1271,
       "url": "https://t.me/chillhousetech/1271",
       "date_utc": "2026-04-15T17:47:08+00:00",
-      "hash": "4d6bd1653c82f465ebe8ccac1f0697dbcd151bcc14a391251b0db731d20b4423",
+      "hash": "1953c7bb214ad129adb205a4a7be2bcf5d752f80a0e66fb84271f53b5c978d83",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Нет никакого пузыря вы что. Делали обувь, а теперь продаем видеокарты \n😏",
       "images": [
-        "https://cdn4.telesco.pe/file/RvuaTu7oOqmkt_mY0WVNWLHD9Ocntxz5Kr2C1713TG7tJVus3-cHnlBq5Q_7PG3XVjA8D8ZgRoKIEnjyefjstHwetGYUuPIlTxjga0_ggoiqABkPBo-j4H3scWjD5U3X52M_pGiB_lxvfw3IvIc9JPzSX8UCS7ujSpvKrbAJav12UwFKBHkbI_9mtVqpaFGQw62lfih_tOofg7cVeVVjdh-P0qWiBQIcEcc-DA69J4D6FDIaNl6JboMhlx7NNow6hIWiMcSj5ZOec4VEBtyVAHFEdU5p5fYhWryWr7ulBfe34q7KCpli5-rXe5GnPA2ZpcQL4HkgTKFIGPOPknU5Qw.jpg"
+        "https://cdn4.telesco.pe/file/ekilRoqEU-548xVHKqBhR2ZdaNhWGFkeQ-Vm5OBlJiRKhnjgYnA-0DWuQyac7gyNk2HRTnVmPtC2FZtG_HYT7wmW3t5eKJVnoHuW7TNj0LKE0FSMpn0-nIg1saRIu4I6I_l4BamSJWunDzQKXSbztLWbYHOQ4cVGiKOETfHehLaslKTroKhoWcUx3_jxlkNGFCthEV6IQwm9pEFTbINIQqwoOzj9jz01doZf-Nfkolfn5DI2M2cxBmYc4z_kwqx1J_7g60f3QcEQ64cT62Z8SMvv8YB7oBcST9lxYFIsc-inhd5y9g1--3eWNtpS4WkScytZ5VtvZ79kDlumeLMhnA.jpg"
       ],
       "title_en": "",
-      "text_en": "There’s no bubble at all, what are you even talking about. We used to make shoes, and now we’re selling video cards  \n😏"
-    },
-    {
-      "id": 1270,
-      "url": "https://t.me/chillhousetech/1270",
-      "date_utc": "2026-04-08T19:54:58+00:00",
-      "hash": "bb4a2fa934f578a4e5453e277eb80a69b7a077063fa56bd83e3dffb8408f8202",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Из интересного. AI в целом очень сильно влияет на то как мы с вами начинаем делать разные задачи и не только с помощью самого AI. \nС середины 1950х до 2016 года в игру Го играли примерно на одном уровне. Но как только появилась модель которая обыграла самого сильного игрока то ходы которые стали появляться оказались разнообразнее. Другими словами началось активное развитие игры и спорта. При этом многие идеи не те которые использовала модель, а совсем другие. \nНе новая работа,\n но очень прикольная. По сути AI дает больше пространства для абсолютно новых идей о том как можно делать какие-то задачи. Кайф. \nНа графике качество принимаемых решений в игре го.",
-      "images": [
-        "https://cdn4.telesco.pe/file/dZ02x09v5t8qJnsGa17vAqcdxVmCgGFv7Ns7XhpVUImH3DuCHQNj7suKDhjgLdGd8F__PIkpNmEEL85ILQJLzJJQNxSxc6aPtfv9sGgRVCPLMGpTiT_8ik2UQSwAp_bBzoNdKMAHBFzOtHZGvt8pvqRDgeaOUc8wPf2B_9EcKHSXIyJG3IepaA7wgT3aAM9cJuABCyCAoVqmq4J-C6S5pKfrVpBBkYTLftoN2xSvFI3LiOtZwoT0fnOoE9ia2bXOewzhZFCsy0sjtBLAUnRQEAOjXPi8jajP8nMMbzmWvEl-00PtUQOg3r1R1-4CbLbKHMecseKVuVMjJtQE9uR6WQ.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Out of the interesting stuff. AI in general is really massively affecting how you and I start doing different tasks, and not just with the help of AI itself.  \nFrom the mid-1950s to 2016, people played Go at roughly the same level. But as soon as a model showed up that beat the strongest player, the moves that started appearing turned out to be more diverse. In other words, active development of the game and the sport kicked off. And a lot of the ideas weren’t the ones the model used, but totally different ones.  \nNot a new paper, but really damn cool. Basically, AI gives more room for absolutely new ideas about how you can do certain tasks. Love it.  \nThe chart shows the quality of decisions made in Go."
+      "text_en": "There’s no bubble at all, what are you talking about. We used to make shoes, and now we’re selling video cards  \n😏"
     }
   ]
 }
