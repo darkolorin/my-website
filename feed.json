@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-23T19:39:10Z",
+  "generated_at_utc": "2026-05-24T04:41:25Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -40,14 +40,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "09cef8bd6682e0a993536694e71bd4cd222e3713dbd95034ccf47c22a093e680",
+      "hash": "43c97bc4b9b29097c47dd729791b9315f3c23d507da288e0278c32592116ceb0",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/EgA8O0FH0Ge3cewmUheU_OTBkSzlhjsRtbVbKKxvpAzCpGhuDolHPSR3t5Ibj4Ozj_ast0XN0SxW0yNVQ6Gn1Sa3SjiaVfhUWwrbgYLWaixPppNkRs1c7533vFpVl-eEwHRWg06IG-ZhK6TsMcJQAR9mR9i_oKLfBbIh_CBtakJO7BAwiFVNY9ykq0unp-BP8E1CdNGg_wcgcnlwWWkJPHf27CStjkML7oNsZ_tMf3yu6XQ-C94mCjDAI7rZ071hBXAJvNrC5QNJeo3ngeR5nU3Px6ksu46M4jKAtzmDeIdK65iri6K4B20aYsLc2XNUZxOAAngKfhAxSV7zSWn0Qw.jpg"
+        "https://cdn4.telesco.pe/file/EP6RQ9gX4Ask0GOSbybCLDN2_oG-WEn24r16raY68-WJT-YnnkZsfOU39iumvmnMJrcI7PdJnD5dOJT2_ujnMR97S8P4Sxyzb-eYCFMronXGjaub62u9IhywlCkXBHHTz6okwzGI0qVe7Lp-P7OQt-Ji5_b89oIwgsAnNzH27ecX8z4F7GNNgnQPOgfWGMCu2Nay9VrepTECodKJa2zKyXhplGQki48AHRepH0NsDTXB7Osz2C3mSE-Csv1HNGv679_7APOWoD7GqommcBcQNZefzTNHANbYakiutDaN8YnefkHrVqDUfvC5pg-kyqUbv1B2CRu_SDUuWmKl7Ymhsg.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough video cards for everyone. For absolutely everyone."
+      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
     },
     {
       "id": 1292,
@@ -222,14 +222,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "82bb04d1df37ac60c1d06b771cec025ebe654958f2bcc4259121e6eff2f4dcdb",
+      "hash": "4a5e3d8c9dd38f89c1e198c5f43a9c42c98a0d6b03e1f366e6ef719af858fe22",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/SMhurLoBefWKffSWvuBXQGLA2lDE878TjnU1ZoFeymXGYXX-02EFqKIo3jJbBAahNvj5VlSMm4ZfE3Bie0K7w84YSwR5rAYiOycyP8m1OUa09ndTMYbBcH0X1Cnlp9pFLI5z_eU0Niw_zQ-i4sQnAihl-av85fN58KooZ8Btdttkkhdh4ZQ9Ick-00goZgOucYoQ4pCBp1EhvURAwnNjKWTxxMHU1kNLjCcHLAOLuURlcslXfnYp0VnMIojwhpkdg4Ij0QlV6gV2FsuIuXktwGfg3qDzfxhSNrfgKri-xR5GFvz3_RK7y3crrZAzyKq9saTHXXXxPmrtSXvkgDxALg.jpg"
+        "https://cdn4.telesco.pe/file/OPsnJxUYkANLHNpCnEPmgZd0iGnJOWPP_uxI5IusoW35vV6BjdFssoQJJopoiKJ6WZwqODwQ3KSoBZvVE1GXYwL5I_MmSM_ltuFCJzMiKlTyEtwmocudRmIoHypatoQxQC23hN1xoZUkAEliAR1dhNM8C9qWbq9myGUTttc_iQFLx4AkdNuPppV7pREUxohhllNELQM4HkoEirOxufMm2f38NRRW-NxjMFQXa4OGDO4te1YaZ0RjdRhGRBAIKtqQw_7w4BTM8iA7F76d3K4qBZbl3NZs9RfvXUwI6VIiSphtU6vGSZ2he2EO5LrBas2kDEk-FZFnXsQXwXxRkjS_ag.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With each iteration of working with a regular document, your document degrades as text quality.  \nPaper"
+      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades in text quality.  \nPaper"
     },
     {
       "id": 1275,
@@ -257,40 +257,40 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "e3f170ff1f29c02548b1ebd48be0417e6a1a4554e47666a88709e95436559068",
+      "hash": "6abdd4e3807cc28d12b52e1bc88a3663829a178b823065538c5b8f1f636fea4a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/i4ozidAWWSEd0dpncqhMYVggGihKpUQ4WA7StYThYTWCnc8XydVeZYoaf5F5D3YO4x7RIqDhyIeZj928RWt1VbKRxKo6j7Kih6qjqk7z7SKWpGetVSccsyxr4PLC11DnA023EfY8QKPDjuPDcO5Cmlc1bp6SP7RHQMzfM0YHHkyVayQdQnRcn7bhmCDR_SnexRzAizTY41nNdVRKVUQRxXUfjfbbtTqXu4oGIoD7GYBeybj7hIvGM8Mux4MGdaFuQ5zFNEAC89Km0XY24-U253k2mO5GifjLY0U6luDU1s74f4zBSvAGKJz8ntzBjERDQTU0lxhl8TMQTcq3uWFi9Q.jpg"
+        "https://cdn4.telesco.pe/file/o4JtYDhOsrZRed3g9BawRVkkgvlm7bvokzn2XS4SBKBLBi07pqZxyq8whDmxhnadCazTUnpOzAeU3s-n8XnHSDAdr0mqoIj9R7mKFy0HD7cuzyfExJAnB97GLXH-vWXVhx5Ubtp3x4S5-QTvcAkUO4aty1h6STCaEptaFfnGclYpHeAGSG-LdP6lU5BGHdj4j_CzWXPLWUZakIA5-D9_aTpq0t84Y9Boa3MnKViiLKu_FW_K8WwZJ0IiOoXg31gDow3B0QiL_X_NTwsEj5Rfc99neqsvk4LUL9n_yZBnamv3J2-nRLFi7OaDG5zxDRcwcIGEQEeGMTDkbCVBuUvKDA.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s the mythos? Well, and I hope they won’t cut up 4.7."
+      "text_en": "And where’s mythos then? Well, and I hope  \n4.7  \nwon’t get cut."
     },
     {
       "id": 1272,
       "url": "https://t.me/chillhousetech/1272",
       "date_utc": "2026-04-16T10:54:15+00:00",
-      "hash": "5b12fd175d6ae0b432a0b07813dce923b30c4885144313c85444e8a2dc8aa3ce",
+      "hash": "67c77f1c23a388d0d379b52f9eacc0f44fbf2c58d96589e1c10ed37f6269b2ed",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На днях вернулся к ангельскому инвестированию в роли скаута \na16z\n кстати. \nЕсли делаете что-то классное в области:\n- ai frontier research \n- ai infra\n- ai application layer\nБуду рад посмотреть деку или послушать питч. Ну и если все топ, то положить чек и представить партнерам фонда :)",
       "images": [
-        "https://cdn4.telesco.pe/file/mPau-BZS8305uvQnzySn5Pwz7BhAH0yMw15tQLgT1XT0-BHaegJfvp7-IyypPHdlFpLPNH-ure5Yub8jAfpnO-IQBP0J8CDCnbXAdnsLoCw96BGL-lweIZ5SFKFQSNjDPNrEhd_1ad1iMVMmwtga82EvpsY5q-AQ6qXn8f7B9GKgT13ukOPqWjlpFpvKrY9IMb8ACgTlDgThGj-d3Mal9mXgHQB23UeuI-XguAYyH___sLBJeZd33lluIlhzAyozs8zIzM2H3-oy0pJ10xhktMHuQn0gbRLz4UYfONQEktO8UrkpWON2TGi0y2PQUUgQvUOEjQqaKCkMTA0nrVvrJw.jpg"
+        "https://cdn4.telesco.pe/file/BxFxfH__0BXmUon-XTo5hKU6c3EqVOH3K7uicfLjRdZbQ8TkKaNKI7IVhiH6_9UWv_qQteAMSifUYp1C6SQgirxwGa_cj5S4pzxJUEsxiDILD1PdDK0CEXsgmZptNy7NHI7Anwrkws6NhF84jR3T2joaJlYI07BC2Mvb5O-qW0Zi0rwbsffRxq4wsH5nYkt76x-qySlT6tnS-BpqTm9bI-i5QIw9VwruM1sMRmGH_xc0WTwUcnbBNldadZou7kxkBOtuRWdqTNnVZmcvVDzoX2KRMX2Lbe5SFvR0ga_VvN7LeERl4TrMBMeD2WPp5Mo98s-9hC8tngoqXmxpiQvKQg.jpg"
       ],
       "title_en": "",
-      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nbtw.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nI’d be happy to take a look at a deck or listen to a pitch. And if everything’s top, then cut a check and intro you to the fund’s partners :)"
+      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nbtw.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nI’ll be happy to take a look at a deck or listen to a pitch. And if everything’s top, then write a check and intro you to the fund’s partners :)"
     },
     {
       "id": 1271,
       "url": "https://t.me/chillhousetech/1271",
       "date_utc": "2026-04-15T17:47:08+00:00",
-      "hash": "f4600c72f91f2ebaff27199d36f4783af22bbb05d8badbc6e8f6667bba50340d",
+      "hash": "36949738e5062adab354a94edda391470fa9eb2b8dcc9f72d299cfb11738b393",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Нет никакого пузыря вы что. Делали обувь, а теперь продаем видеокарты \n😏",
       "images": [
-        "https://cdn4.telesco.pe/file/aC93X_V_Ye6MNqRlN-AAv85ez5zNSd-ZKnQqej1GsSKANXNQlsNnp_6eT7v69qrDW8zUlL_zaKyywuQGmT_JVF2yzuUJ2dgHLQslcmyLTy2xWKRuCh7PHUMbYTXyakHDxgQAAFMxxzHKYm9ayZ-eBgm2QHI1ZjjNYeWgA6RvKwMtgCFEuPm37Mdtq7V5XfIS6spJIhgopfFAMJSy9iixCubfIpCZ_1J6KipWwBF7rSLQNk8w8nSW1Oabu2_THrpIi0NGa7mMQ8E8WRy8r8kRrvBu4rVVL7aPYKc0Nadp_-inY0E5LkzBoszfaxSUtY-7q9Slj54V0PTrpApqcs_bsw.jpg"
+        "https://cdn4.telesco.pe/file/ndCoU2Oms9H9y2La_tTiJdEviKK-MjCqvov5A5mVQEulJ7QdRz00skYl80f6unA3ML5c60V3eK6KFtTCfduoaVLLBv6NlrdzycR0yLFv13Dpm0perjD3JzulqSk4MMfrwfc0at9sUtVf2B9jh5E_MFiafBAaYA3ezQC48A0VF9Q0wYpbzA71w_yVsHRhkBnwcvgq75MuPE_g_KKBZ2JHPKP7aykK7b9u-P5kgiRrx6SC908ka0w2OpYz024QXOI_x4X0T5n2wxthsjncWt3JbvdtAMjP3hBd1r8KYOLUIZtw7yz2VhsRVG3rqmy6-_KnVCq87YUMoeIPrrbj7vzv-Q.jpg"
       ],
       "title_en": "",
-      "text_en": "There’s no bubble at all, what are you talking about. Used to make shoes, now we’re selling GPUs  \n😏"
+      "text_en": "There’s no bubble, what are you talking about. We used to make shoes, and now we’re selling video cards  \n😏"
     }
   ]
 }
