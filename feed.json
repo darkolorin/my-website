@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-25T10:49:09Z",
+  "generated_at_utc": "2026-05-25T15:30:00Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -209,11 +209,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "23171359c54ba7dd8201551714e559f47ada477dfdb6ea9022b419f43abc5581",
+      "hash": "55a6b8cd7fa2e6914418f1709b29848479ca2f739458138ad0208e731dbbb251",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/f0h9JBsrnEGT9hjfTQ7z4qvdzJtM6EZtdkozoPN1hguddjgvt_Qg0xxeyTVo43sVdjEDP7yzCsgt9fSQaZlb_GO461G42b8KlKqVUv-UEfkV4Dak2yDBHYnMRtDwVi8Lh0rNGJ6AaelOdPqzz6gElDAzMNX9lbpZ20DgXqnh4BrKT7918WTD0BHjFHhLEVjRGQQ8akHBRPBqQzJFNWcRCdcMYhDLGaTpu6YhWu9I9-xeYXukBp2eeFs8BlF23am3FpD6_pW0v6r2ylX5TjsNU354EmI-MACiP9NdBx84BpXrvUBTNSuhjz151fQKMSfLvp5tlo9iiXupuk-s-I8opg.jpg"
+        "https://cdn4.telesco.pe/file/Eo3Sj1nw9iaXejBdl5FPA9_q8KvqqRyAnJS6OIPsmc9oH8GpCkgeejV6ULZjH1FGlI6XXb_tPucldDD101HX6ANtP0MzSyp_o2EJWDbM4Z-JAXJYIQAuJAzbaJXcmYKd55rP9CwQe7SyuLJJjTk2xvxU9fDjS6QrgIJYQVB_qlLQi5ubbPJv7GTcz8XztVTiZEdi-4PVFcAymfekxCXoZyzFS62ZG9sgk1I8nEEKhBEQjY9J0OM0gm7DFSD3bHuQ7c3SaA8t0g7Bxf-DGTPhiMzPF5au37d6i9Ht-FqUBwAeSpdCuXb06pFcpRIeD7MhDQYmxn56j1nprFcqKoL0ZA.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -222,14 +222,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "b3c3956540174029a739cca94abd563fd9e21e9825d31c6a7fd5ed4ebebee7f4",
+      "hash": "4aaa081dcf57fbc9bc2887347d0d92407538ba6888162fa76b24c5a655983a1c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/sYCI-upxGmoC9rzHggoxfd7VVwrvzjSB3pOeyzsrUgD650g9fJ1_N7gj_SM2IFZ2qknhi_JnHJKEGz25cq2o-hpEDdpPCH_i25hzcNgb6CnUz9o_fchJB9hFWIrpyUdc2oN-nvIVPnOUJVGNYge22fzksvSkCiSJOlcUvS6eYt8H-8KS4pFHl0KuUfFR9_DpKc305D3f4NiVLMbAv9OzEamv4vJFx1kew2NpiGfwV25mccGIR2Ch0xO2y-orpV9Fvo7mYHLhxfVODgL2-k1qKbFtAIT1SkMbmJkzaqNxeEwAWsWZZDYHIyZtacAZbsN2sEPgXT0YCwtfn5vLlaskRA.jpg"
+        "https://cdn4.telesco.pe/file/DRq35exOUchuk-D38Jq85vZ7pJiUMPES0u3A1W23Sj_e70HygU0V9XuPBZ4LYADBirXR-DcCHbYCiVnX_1zV18b3lOZtvxIkuCibWjlqwVe7WJXrPC7gu8f1x_Zjwp0qfzpJNAFo35ULOQsFRSYuGpQ-NCrhEI0YPoVFrb2N9ehTOfBqd6RdsFkq5dxFRKLoZusUsKs7lOf7QFcyeaitTv6IZNk4FqUGvLXWtKE6X_18tajfr4g53aJ82WEeIXMCMNVnsGHuVjuwPly29jHjTPdFVs40HubArSpG3dfWu9VSi2ZetXMZksiDp8PxVNpbsB1CubFG9bU49l0WESGnyA.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With each iteration of working with an ordinary document, your document degrades as text in quality.  \nPaper"
+      "text_en": "AGI is coming for us. With every iteration of working with a normal document, your document degrades in text quality.  \nPaper"
     },
     {
       "id": 1275,
@@ -257,40 +257,40 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "06c731b68480bdfbaf8d95961c6c13473b419c7df0b781b028db4e2516e87751",
+      "hash": "e7486c9cef725d7923a69fc2857b04444c23df957e972943d69f29fa08d01456",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/iPJqIIh2qH5gf_t3jnD4pGBuGa7hKscQyncZE8Ctr5TDtzg70gA563b_gG_pG-_v2TfVY_jGR6v1J1GnVNZMcHK2xX_KiDfGJr5QPMUxVF73vfFXkMKgziUKEif4wz9Q3vK7G-3bCGfhOvw_Rg9nWhKlpdBmHBCveADwUWgetmyBUhZf11wjEnYol47pctwdKutDs3fSnqeVbCWY2ljptwMOJVA6HfvFQATrPIWfgkmykB8xor_dR0pMQYR7jaWQHZryaDBWdHaEdYiepQbvJITSHxwRFbEaL4MQIwm9zahOjBcz2G6dzfauy2QhFGRLxGYI1_aTwAUCUjBsYNyY4A.jpg"
+        "https://cdn4.telesco.pe/file/cS33BESqdTqyr364hszq2UglY0EO8GXhmmxK6OftZi6SDzj6BUMq7G27KYNlXkfRRrl9wJGgAD_M-kE2bU-FSRRfmSsiIcjgWplzfPuxtrxNmztAVuzs35iONfB4sBr-1xWOojr-GbhKxrvQSgawWDeIBvNFWjeCp3-t5dwk_7BJ642xTRxJvC1C1JJDAqdGWYn3MsAq2OFzfNiUTISM64Tg7Ml19EhB72JM_i1adwUgiKx4BtIZinpYV0CdKtT7qgNqTXtjCG77Cnb2Ot2FIM-zAoDECmoausBfBDHjCer5Es-6EeBANCt52McsmTn_fObz_4qjcfnABwgvuxuqfA.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s mythos? Well, and I hope they won’t cut\n4.7\neither."
+      "text_en": "And where’s the mythos? Well, and I hope they won’t cut\n4.7\n."
     },
     {
       "id": 1272,
       "url": "https://t.me/chillhousetech/1272",
       "date_utc": "2026-04-16T10:54:15+00:00",
-      "hash": "dd38fa38d889873a3624810951ff43e0b1317539bbb31a211bf00f7c9c5a96e2",
+      "hash": "275e1deffbf3ad3846e6007441bdf9c2d51ea6bf46285f2a21bd9b13f95c2b07",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На днях вернулся к ангельскому инвестированию в роли скаута \na16z\n кстати. \nЕсли делаете что-то классное в области:\n- ai frontier research \n- ai infra\n- ai application layer\nБуду рад посмотреть деку или послушать питч. Ну и если все топ, то положить чек и представить партнерам фонда :)",
       "images": [
-        "https://cdn4.telesco.pe/file/VtMNB7UOS2rfich_gr4TEHRrOVz_pQ8nMNDM6qx7vDaNLJxlce5UvL0uNcPJglLdy6RGSeSrfR4p4EFeWa5eUbIy5pG7jfpdMlbuLv2k_ZgJha7TvYA8dB0nvbL9mO1ixePmYEGuCfGk3u1z5WvCcFdf90GHEYn0xNBQzE1quAqSQhpmISbtyND0fco8IdSjirLQYTKIOnnLz5oSgwM8VWFp70_pgsrG-iSr1vGeP9QGJCcX184gWpYrO3vNyHK9fsZZdVOLd6_FhGP75gsjt8ojYsjXS8trZRrFvDH_Dk3jckE1tmh7icZfTv_bh80DqXRr_QZodyXpU-Iy0pproQ.jpg"
+        "https://cdn4.telesco.pe/file/X2QeHS35U3VjmAmsul9SbDEKQWlNT1Anb3DnMLkdosobjp6aBdTHkPt4frvllJOkFxKRdoi4CxrOkscSaVoPoHgcmmLexVZ3zKodGNjsJcRWmcDOMw7qDh9OSVcoW2UiF62AzlL5ZeHNX9LjL9JZV9Hw7RoZBJOfuS9476MuBOdXYektya7odI4xytWu-sQrtOk5rhau5SHunvlKZ0cAAHrrrFyxUL6vAmQ9-N4I1K4rU4ENI5DGVzclxAKkuXjNB29_dNmHXcA30PdSfC6vZZrqhmOyO6vHCzJFt_3i_ROBZn6ZA77M4fc12xOO91CYZv5cHmMaqQMd6cLatiMG-w.jpg"
       ],
       "title_en": "",
-      "text_en": "Came back to angel investing the other day, as a scout for  \na16z  \nbtw.  \nIf you’re building something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nHappy to take a look at a deck or hear a pitch. And if everything’s top, then cut a check and intro you to the fund partners :)"
+      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nbtw.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nI’ll be happy to take a look at the deck or listen to a pitch. And if everything’s top, then write a check and intro you to the fund partners :)"
     },
     {
       "id": 1271,
       "url": "https://t.me/chillhousetech/1271",
       "date_utc": "2026-04-15T17:47:08+00:00",
-      "hash": "144f6ed902329b6127051de4fc9bb33a8bd34b255a875fc4db46f3645cb03777",
+      "hash": "da09394667cbb3371d3afccc614c2ee5fa11962664b238dd93b9017eb49bea1c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Нет никакого пузыря вы что. Делали обувь, а теперь продаем видеокарты \n😏",
       "images": [
-        "https://cdn4.telesco.pe/file/KnykmQNw1meW9dKRwyBVQHXkG6UTyUK45hZ6IjXcZwViNnu4w9rpldVTbUSFunXKFsZc_KaF4c4-h34gWRibJMNFmrrb_l5jBM5azhN_G3UUc5q3x0RZweh1MjKzEPMv8kYjuITb9cs8Qu8jmW3cWQfs_MrDoXTwoalaXSVQaggLhhgMkHa_V2hga09apWCJjm2xwQheqN1iHKP2kwwA6RSZ-Vghtir0TC4Fr8x5L-ywEkxywMuDbrL6tKTTd7zNtdC5IU_zmXsCg7X5YdcDTQ192MU6FM-Yn7qeI4C5iirr-bX352K3HudYHWwTmCwHP-n17rL-Lsv_zx4bLAa4bg.jpg"
+        "https://cdn4.telesco.pe/file/arP41FOFZokNlm_oG4_WphgUoYswTD-GsbladoH-tmFbHsN4siLhvhJsQ1MNOlwkGij90HUhtKGj2rUmzVsz3oJCbJx_lzzOhpaGsKq5BrbkMNpqgKUP7FyCPRDQDDniEJZvX0UilK2aS0p8d6bXN37-fGQXRHcSHmF-FKrWtHWlUZKiM2Pft1C46nJ4b1aEm-eQjORF652SZldnBTKHEKgDea45kHoSERo7kyXe1W_1t9PcVHsoJC2fk5WjE6XJSYTSlgtvdBwfO4qrRHN2Las7b6AvhsDjNXWWxTPkaLJgucZj5UVEGpJ4ceORC6Z96qiHFrYy49xT0oc0P7v9Lw.jpg"
       ],
       "title_en": "",
-      "text_en": "There’s no bubble at all, what are you talking about. Used to make shoes, now we’re selling video cards  \n😏"
+      "text_en": "There’s no bubble, what are you talking about. Used to make shoes, now we’re selling video cards  \n😏"
     }
   ]
 }
