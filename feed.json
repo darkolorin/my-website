@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-05-26T10:19:32Z",
+  "generated_at_utc": "2026-05-26T16:10:33Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1297,
+      "url": "https://t.me/chillhousetech/1297",
+      "date_utc": "2026-05-26T14:24:13+00:00",
+      "hash": "6c1dce2e1eadb2a33ee40246fb297552671896e91d7176a451b05c14dcc8f089",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Все реклама слишком долго висит. Я и забыл что последний пост такой. \nВернем рубрику прочитано, но не до конца понято. \n1/ наткнулся в рамках вайбкодинга так сказать, хотя я сам не практикую особо, но занятно как люди которые вкладывают в это сотни часов потом сами думают а зачем. Есть забавное наблюдение ребят. \nБольшая статья\n, но рекомендую тем кто занят этим.\n2/ дваркеш стал похож на студента и зовет преподов, на этот раз про \nчип дизайн\n3/ в любой непонятной дискуссии советую эту \nстатью\n4/ чуть чуть про игры и про \nигровой баланс\n, а то катки сливаю и злюсь  \n5/ мы релизнули новый сайт кстати \nTrymirai.com\n - дайте критики\n6/ про продакт менеджемент, \nрекомендую\n (в эпоху аи)",
+      "images": [],
+      "title_en": "",
+      "text_en": "All the ads have been hanging there for way too long. I even forgot the last post was like that.  \nLet’s bring back the read-but-not-fully-understood column.  \n1/ stumbled on this in the course of vibe-coding, so to speak. I don’t really practice it myself, but it’s funny how people who dump hundreds of hours into it later think “wait, why though.” The guys have a funny observation.  \nA big article, but I recommend it to those who are into this.  \n2/ dvarkesh has started looking like a student and is calling in professors; this time it’s about chip design  \n3/ in any confusing discussion I recommend this article  \n4/ a tiny bit about games and about game balance, because I’m throwing matches and getting pissed  \n5/ we shipped a new site btw Trymirai.com — give me criticism  \n6/ about product management, recommend (in the age of AI)"
+    },
     {
       "id": 1296,
       "url": "https://t.me/chillhousetech/1296",
@@ -209,11 +220,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "55a6b8cd7fa2e6914418f1709b29848479ca2f739458138ad0208e731dbbb251",
+      "hash": "2b90924f5fb4fa8910a7a80a95c2d7d79009a433148a2e8b550916cd29e732d6",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/Eo3Sj1nw9iaXejBdl5FPA9_q8KvqqRyAnJS6OIPsmc9oH8GpCkgeejV6ULZjH1FGlI6XXb_tPucldDD101HX6ANtP0MzSyp_o2EJWDbM4Z-JAXJYIQAuJAzbaJXcmYKd55rP9CwQe7SyuLJJjTk2xvxU9fDjS6QrgIJYQVB_qlLQi5ubbPJv7GTcz8XztVTiZEdi-4PVFcAymfekxCXoZyzFS62ZG9sgk1I8nEEKhBEQjY9J0OM0gm7DFSD3bHuQ7c3SaA8t0g7Bxf-DGTPhiMzPF5au37d6i9Ht-FqUBwAeSpdCuXb06pFcpRIeD7MhDQYmxn56j1nprFcqKoL0ZA.jpg"
+        "https://cdn4.telesco.pe/file/qUYExWJUvatMzT-nK7pY-QkB0Rke6ARUyb7vmEcO-HTBjpfZxas0zDP2-CDvzPxDu0qi-4Fxo7MzN50R7gdMb_WztUdZGEeGTlZ3L_0cqI0Td_VJ0xUS1rCQfObwbuTvQmuBnyIpIheHxITaTlDoGb2oogrpUo0rSGF6voA6TgpMv3jXE-NbGnaHPZKUx61N9tu3UJe5lAOoVp9I7vgCSGJwsLjoYNmLB58XREPbY5lOJxbEUzlV8zVK1J3_bZ1TwcxrmYOT9jA7Ur_7IyZiA_OODblwTqBziGJ-mpYWoLRjsRTZH2WN4IxHdGaUJPvoIXeQdRjqkRPL9pSzv43DBQ.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -222,14 +233,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "da38bf5473bc9ae57d67013d68895ebcad2c0666e92c448ecebe1a5752082b58",
+      "hash": "07667b13e7718329508ba16a66217186042e2c6dc5d373470f2e32084e042532",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/E4JE23R_McdNvHRhay3lbLTJHlwGH5zCtrhvkQQ8Pgq8RBYG58zvSSmtuJWJAcyIx-dA4YTLqbUjzm39REdnV6JlyApjAsI773MSLrebxpl06FtdDTXBvMD1VRuXvhDUM65tUoXwcs1oRitC3eI1S1xtES3lxeCDz_ipu8nCDCFV8sdc5215ixUwFSfJdG3tnKE94rebGn8qPVENh2jvSrtRzI8UvtO8FIpv-iO-ilBY5UXiUNBDLeUIN51q-prdpmr0AKn5V_SdhwA38cG2zzJE8HghWsswS793yagvJ1a--wz5av2-lukqn6SlfINPTCE-MHGrLFK8S4Sf23nGcg.jpg"
+        "https://cdn4.telesco.pe/file/CUvd-33duADizFhllFLk0fKKL516-mJvq8P7Bg5cZog8F_IF8t1XOBnyqK8OeVPKB3l-BtFJOapu9BzRwwfqxmR5NHCUR_kwTWYuIlS5ytuUoR0gnqODPzzRbH7-Fewg_CdYi8O7yLMElOhPyms6tjnbE9oy-hNVdYgOAlu573e6DcJLFMZfaDVqTeAERnGPYU_WODHNrr7-i4HZN6FY7FKstxZ4IEbStG74B5pC240HMBjlwCCpzkiKRjVOepJS0C1IwXKTxSJwgQnWEMzeBbD1yNg6dw_E0BtD6Uzer0CfE6StaTjv3Ej1wlfphNT_wLhzcf1MhjEKxVinbQeuTQ.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades in text quality.  \nPaper"
+      "text_en": "AGI is coming for us. With every iteration of working with a normal document your document degrades as text.\nPaper"
     },
     {
       "id": 1275,
@@ -257,40 +268,27 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "eeafa07e2103f51d41e1184a2a162c69ff4e0b29f35de557974f2d6290f3edef",
+      "hash": "0b7ea5b26c2ba5c78ccef170bb69de9fcdddd42e90b047fbdd94da6abf1a12b1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/BBUf60-oFGICDJRnaMPvIbTehzsPCqNVHpPnXK41PWreAnIvfFGaQsRliJcG5bqUyKq_Zt8gdp3YwD1LEClKuLe03kTsig7HiSrgLwoeyB05fMsql_Z3K9hPryFNnVE9WDGe75iV7rGSXeHvSJPh8BwF6_H4M4vb_1jEvOX9gTCPS3mP3ee3NGNIZ2xPPmHxWBhazJr_1wU-_SC_mKiSbRIoehnbfTzxqY0IONH21ZX6AHWCw_l31FdFuLB9LnPk9cNNyUGKkKUN6nIiZxeRQJ2RtiDAqPuRdTl3KngsyjYAyna8rktA1n-eQ8GGX7dTQOq1IGn44LMIMisCVlE5jg.jpg"
+        "https://cdn4.telesco.pe/file/lfteHqmcawEfx20HvdoxpZRJxKpKEKN82lLsII0mbcjd5Gi2CQUgIjiT8WfFW6adwYTOkMno-kaN3d6uPbesXYQzSzu4BITZfVKmGY3O7d7-rW8i5mjzEtUx-vALnauqXd8b05k7knMtvFLw4WbxYqw8yHQiJW0Jj-9NpWJ0ng4FbS7yBmy1zPoI9yMzzrgZllwfnWq8X23z5s48bHi79JeL6zmd1XCNbmPD-MzksLJNHYmY1zPeYhOkd4XSxA3YKN7QWYCBnZKG0vPs4T0voAcw4DyllP0en0lTPH2_RsMgnAm_qRpqldyYJnTyZ7NnKeiufdc29fnhsEAxuEgvBg.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s the mythos? Well, and I hope they won’t cut 4.7."
+      "text_en": "And where’s the mythos then? Well, and I hope they won’t start cutting 4.7."
     },
     {
       "id": 1272,
       "url": "https://t.me/chillhousetech/1272",
       "date_utc": "2026-04-16T10:54:15+00:00",
-      "hash": "73b44e6b80e9ce29353018cb9a42b82bec9d7a2f39d3770066ceed59cc55ca6b",
+      "hash": "478c755e28b9985a4308434b5f94192724c7e027a9f555a09e5fc3f65a0f6401",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На днях вернулся к ангельскому инвестированию в роли скаута \na16z\n кстати. \nЕсли делаете что-то классное в области:\n- ai frontier research \n- ai infra\n- ai application layer\nБуду рад посмотреть деку или послушать питч. Ну и если все топ, то положить чек и представить партнерам фонда :)",
       "images": [
-        "https://cdn4.telesco.pe/file/pEBg0HfgQGp4zM2jGQ7Y9UhtO9LEzL1blMm2Ds0yencWJtLHaKYwcdC28OZoQa_ljYLiE5bWZzw8NxaUMEzcCaCiZU89hfKRI23SmQQSWZu1AX4sbQisWYmGWR6n5ATRBenB-iFJVZ05wYkEYaeajsdSOv1WsJ22Eh8ChVnsEq5oa0JtcqEkd2RhBYuueBVo1uTV1Q85Mf4krgeoSdPJLY95OJwNQ-yQsvRzADSJRlMXkZr1j1MY_VvTKZQD0hMl5_fSVP8VP4_WsDaPWZjXOI9KDN8ArX2dukwjd1PzFL1snLXH8_BxzAGiLdJhIheK4fyt39Q1-sHFvewFVaIzaA.jpg"
+        "https://cdn4.telesco.pe/file/o1YtOVJ5gGWgJAlnlbeqSV9GfXEdgR-pu7LZj_g0CBjrAbXBC8j5X6XVcD4GhrJRd8S1eKhy_ceTKh2n8t3e4nRXQmgumqW_l65uuByF4NQ_9LVC84AIW_nnlYZ1tMa6evOzf4RW9KJ3rKeqMcJrj3rdHj73D5kkNQCHBwn6G8YcXIubiXupEmnr9s64CksueMhbqrweR5Z9NuaO9Z6P62P0OYS_GQG2_wW2PGT-n9FvJJitahYZXAmRuxMXEeUu0laU84OkBGb7fmqsv1Aha0D-EzqvE2pzrGYLdCCvH3bbr2Cq46z5-I4LgqdjuvIsu3LmwLacvk225X-IbctY6g.jpg"
       ],
       "title_en": "",
-      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nbtw.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nHappy to take a look at the deck or listen to the pitch. And if everything’s top, then write a check and intro you to the fund partners :)"
-    },
-    {
-      "id": 1271,
-      "url": "https://t.me/chillhousetech/1271",
-      "date_utc": "2026-04-15T17:47:08+00:00",
-      "hash": "cc076923f543be96dd69c98284ace96690e3fb8758fcbc888234cfc709038daa",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Нет никакого пузыря вы что. Делали обувь, а теперь продаем видеокарты \n😏",
-      "images": [
-        "https://cdn4.telesco.pe/file/HC9S61v37NN-hxfjqn6CHtbMxeS58Kpc09jZD7Nzc16gdxzokIBfJ9qxvsqUiKsD_U8Iy5H7jytTDKvR-RdvSacmzBltqGVSdYnnojFNFSrv0q_L3d3q5A7cM1sLelOs5sSXiaQdPnnac6F3cK2Fr78tUGtQfQyL8F2VL28wCX-E9-DshRMeU7Pw1YCWosGruIRDVkl35GGoMF-JemYjLEMvO-O16LxbUXzIcbR9a4_SrI9Z6HgCXC-EfSiM3ycI9bMopj3vkYm3W9cIvwJx0-NbNR432-fnPG9MVCPUB7KduKosug7ge2JihSsN7JQCEJNt7MkVYxXtYc-dpSls-Q.jpg"
-      ],
-      "title_en": "",
-      "text_en": "There’s no bubble, what are you talking about. Used to make shoes, now we’re selling video cards  \n😏"
+      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nby the way.  \nIf you’re doing something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nHappy to take a look at a deck or listen to a pitch. And if everything’s top, then write a check and intro you to the fund’s partners :)"
     }
   ]
 }
