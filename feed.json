@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-27T10:21:05Z",
+  "generated_at_utc": "2026-05-27T16:14:09Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -220,11 +220,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "2b90924f5fb4fa8910a7a80a95c2d7d79009a433148a2e8b550916cd29e732d6",
+      "hash": "a853634798bc9fa09acd88134b89900d877073c8e90095c87a9bd03614be377b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/qUYExWJUvatMzT-nK7pY-QkB0Rke6ARUyb7vmEcO-HTBjpfZxas0zDP2-CDvzPxDu0qi-4Fxo7MzN50R7gdMb_WztUdZGEeGTlZ3L_0cqI0Td_VJ0xUS1rCQfObwbuTvQmuBnyIpIheHxITaTlDoGb2oogrpUo0rSGF6voA6TgpMv3jXE-NbGnaHPZKUx61N9tu3UJe5lAOoVp9I7vgCSGJwsLjoYNmLB58XREPbY5lOJxbEUzlV8zVK1J3_bZ1TwcxrmYOT9jA7Ur_7IyZiA_OODblwTqBziGJ-mpYWoLRjsRTZH2WN4IxHdGaUJPvoIXeQdRjqkRPL9pSzv43DBQ.jpg"
+        "https://cdn4.telesco.pe/file/mx-hKMQqcYEazHU_jRc4JOn6QluYun4odniSf0RnoGVTH4FSjyuu6YDbbUvPYUfcL1QIvshi-LYj8lpNPYux_a7U1Us3GjDFsk239nFCjZuzoxW8u8iUlI5MzRpu58inxNg6Q151zfJWN13YaSQyJ_jefF0aKTYcsvAzaKnmvy0fAca9brD7KrVm-1gJr3ch3CAVPaN_xeXylprmwSRWYzHRPEJN5BIKtas151DfJy6XFZdr7l_cRrY38qihwpLYkh0G_aWISIoja5WvwqWszJJczgVZt8h5f8lqCupTH2uZ_MlNJMSK3zNVtLSN-2LB0EHZETRP5TXQ_U_HVZamCg.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -233,14 +233,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "099b38cd345d6a3d89419bfdcf743325f5765784310fed59f1a1b63942459a0e",
+      "hash": "2afa79f2b1a8cb9ed0bfa4af0b3f573a70981f481a8e1d42c848649f573b04c7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/GM0PjLVkiEoxDVejnvQ7g0SPc4uKcVMeBhWSx_I3xQUT1R7Y6kJ6WjVeWYYbNyz6HCYC28Ui_N1FUUsu4Hn-low9ParYbchP-n9WvJ0eY9WM9913WSBZICF1ItVz4abem8M2zdFW51Piv5Hni1vb19PiF4xExuYPFPCsUwKQjHTrXEVWvNIyelA8fXbeX1YZ8a2xSgSCvvHLLZD5H8VaZ5usQpS5GieUC_zjG75MOP05qZPS-bvjD50KvEQlt8PT0KMf47KHzw7EkaVjxujgHBrVHYm3dTHJqx-lFblKdekaE-lUsovnmwxNBfP45y7BtFhF4xu74UR_y4Ra7JnBNQ.jpg"
+        "https://cdn4.telesco.pe/file/V1Yfq6h9izGz5Qt58jAPVQYRG219h1aUCZ9F2ds8eOACdy624tZlZksrQ4SABF5WaKEmw6DwXfi5rSi9Jg8Xpcq_P2HB-q7_nAycbyB5jQClRYGAboNzVkrAbpPQ7ZuoI40r3E37D-zxh1VORxlHWGXzY6nxllkBk_kukK3-vF-G4-HL_sq88dhRa4lqWvuCQslRxbP4qxmzhPgTM-9vHF-tythLIQjjPRTSSXw0I3Fcex2pcKxf1rizYXQ6-srrcPNriHu5aGkRh6Zmg1bnD_GkepshMbvo9-yNNbwxn6jA2KNTczWpHMPJew2SlDfjarZjXvAQlL9gBiOCtRiGgg.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades in text quality.  \nPaper"
+      "text_en": "AGI is coming for us. With each iteration of working with a regular document, your document degrades as text in quality.  \nPaper"
     },
     {
       "id": 1275,
@@ -268,27 +268,27 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "7c58153ef52786227ae0da22122bf2282a81bc2133d96a1551ed7787d8342838",
+      "hash": "dee07c9573dcb50859fda5bbc74b8dd93182925fe25ebb0aaf178dfe7e88db9e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/VznJdfUG6KmdB57orvLHBxTX8B3JhACqQVPsd78ccjn7uB4XhumWPpuMuqsWimRPbBkuj_guLQFPP6LgdzlYEK3FebA9hF2DlpmAa7J2tp38v4Fqz78SVxumz2BzPh42FCNa_wXiyDEotYjJBblwxEcg0eyMTLB8Gl4rVBzNfj51KDPasXNHOKyj1ZgMjwgG-5hkUrRFFvPCk22q9xoru4xUXEzpXoCC-DVyCq8TmaQar8ychLSFr5E78lGniGi1SBDW0xfjuFBbV-s4FlfDROvdKMoxDdrf9rF4mpHQSvyvwIdhrLsb19WjCnhCZJLJTyVPDjPQTee7tKYbhucL7w.jpg"
+        "https://cdn4.telesco.pe/file/q2CZ_jcFu3yLDE4GK4a5Dc2cQV1MoXqgZRjU5MhQD_d7AIrUs6lsbfaNa-6yP9zw_vqO2mktj5UQRd7HxvO5ujAabUlgzbgMmBqcTBC7uHe3zM4U4uJsgzmFb3nsXyr7V3xsiMLvzRp0Sq-O_laJDoUzX9SMixdsN7Fm1YsQ-XSxnz4d-iMFQp3UvRDZgN8WCM4J-Wi8SwRIZTHLRREvssYJOWmjf3uOQhWkA7Y6lSZu0HCnLBdv3mQLYqkwEtKn0LAsliku8xToiRNt5V4wkVNDr4LqJJL74hRWUuzLcpGx_nuJGc3EFnt2ashiBxHMfRnQcCtBRpanAGc_29aJCQ.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s the mythos? Well, and I hope they won’t cut 4.7."
+      "text_en": "And where’s mythos then? And I hope they won’t cut 4.7."
     },
     {
       "id": 1272,
       "url": "https://t.me/chillhousetech/1272",
       "date_utc": "2026-04-16T10:54:15+00:00",
-      "hash": "e80f61382c7c258ff2e6a9e71e8dc81b55fd665e0f93b9eb25c1c579ece71630",
+      "hash": "50133cb89e2a97e62516f67318cd1f60f20e131e5f05d1fa31345d13530bee13",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На днях вернулся к ангельскому инвестированию в роли скаута \na16z\n кстати. \nЕсли делаете что-то классное в области:\n- ai frontier research \n- ai infra\n- ai application layer\nБуду рад посмотреть деку или послушать питч. Ну и если все топ, то положить чек и представить партнерам фонда :)",
       "images": [
-        "https://cdn4.telesco.pe/file/pYcO6AgIV5icNusL2ZhBQgicqjxD2LSRXFmR5MKgOHHh7OjnRf3J-ZSDB6kFB9utKqu2gKE-j2DsCtBKbllLX-153AMiUkBLRrLajKrNGI1bBktSWWtsDLgO7veCUNnKR1qxbNj1DSY7gftK3mBYAs5gWscrHg8lxEu_D7hAfCeOMITT0DCT2TQKBmv4iAAUi5xFYnk-Eabv1CryOsDE9Rv6U5JSB887TCl5h1p9m_Zo1cpZAmLqkenjMMZOS5iIp1347p3hmNiya3Fn--8h4T_x2eXyACizy5lzEVRo6udLlSPQG8OllvrCYeCzZeh_RFS3rq9Gp2mntBYSPS3_Mw.jpg"
+        "https://cdn4.telesco.pe/file/RqgZjsd5uYJII9FL3VGgfZRPICULItMO2Z4EDv_VRNvSJTiRQ67Lek81AlkK6ikyUCnFg26LYcqVGYN2Gy6SuB2UvS1kX3LXbODnAJMDYcgM9sk_HCxWc_x9zSCUatZVMwA3A1FOYsGh0SPn-QeQ-0W6CeXFivClFV7HSOr8qdQE3pwOz-1VFXlgwAyRz7yrFM-j4dkADflIviUsjQXCkwBApl4FOpakQ7v5SJ_-pX0zZXEVoIMP72KnFLlMeooX2Ei584BbzdbIkZ5qQlelwbqpk4gf8LmE5z1rM-yOlXssa9Uv8Sfcv9RJJqUhkXW2XLBYNkPPcAPz_-ihz2XjZQ.jpg"
       ],
       "title_en": "",
-      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nby the way.  \nIf you’re building something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nHappy to take a look at a deck or hear a pitch. And if everything’s top, then write a check and intro you to the fund’s partners :)"
+      "text_en": "The other day I got back into angel investing as a scout for  \na16z  \nbtw.  \nIf you’re building something cool in:\n- ai frontier research  \n- ai infra  \n- ai application layer  \nI’ll be happy to take a look at the deck or hear the pitch. And if everything’s top-notch, then cut a check and intro you to the fund partners :)"
     }
   ]
 }
