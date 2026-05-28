@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-28T10:34:37Z",
+  "generated_at_utc": "2026-05-28T16:35:20Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -231,11 +231,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "80b25128fbcd1127bbe60ecbb75aaae73e44b9a519bc637570feb86f3cc9018d",
+      "hash": "bc5a343abb79260aa693d9f89445ba8d80e0c70b821b6eede25cf358ce73854f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/r7xAUNuLk-LNyE14NnDSLf9rGiAuIVruU4HPf3SaIBHSlo-ZFKA6Rp3djPaKvfT6jhleh8Y2wLuCPJN1N_quyOxFzWkQptHiCJhmiGMlmOOaY_--poAHKdQeLF2wHqDiPAX4jZt87Jpi47mSkWrCtnd_rSeHDWRMomG5cztQW1Y33zG9Lx_aLZMkHaElP1REq-UaFyK-QGzcBJXIIpng-T93opUiqL-cCGkAH7f6aJWN2uzyqonX37Nlqd3mRCcMrXspfFBPhC1li5efkRrYUg1JhBmqRb2DYcOWdvIG37dph6ENmY_tZCrQ6FYyQzcq47rzFWAdNjBmWDxZFbIH7g.jpg"
+        "https://cdn4.telesco.pe/file/nQQXYGFOwt5ID7mgh34QeZTbgJz63ph_jYYu0_uOZG4T5EoSNK5TIzIro7OmdTUprZvepxYonP3VPvEdOfLLJjmRTJM756pukF1dTtt9JkGvDTgeWnnXFO9Dcn6iZL4R4v3hmuZxUfnt54ExLguWKNpG9U8lsA9bImndIgRnkLrLHQNerq6vpVJLVpw707MB6hkO7rOb1xxeV5NHtRZMh2Eo51eJsBDJDCIzL7XF4Qhk0izU6lo4nXc1pQSXAuI_AcjefQAtGNCtUd-na1y5utCwvYmrophpFn1ac-iYyTWL-Qq2CHM4FNrxk_BOsy12bZKwm2Q5HDrRrCnJCfG90A.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -244,14 +244,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "d28d5a496c086a2e85bf68b06c7eab1316a0455e477408130a0601f5611d6a29",
+      "hash": "ce42b3509ba4ea30a91c469fed864210c19b00dddd9c610d8ce36a8bdef6c7f3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/rVrRdHTjA3BJ_9_Yz7L8_Pme2oHOJ52q-SXD8U3Yq6baZoDfJb82ZrYSiZJ7Smw4r0Gy-ibDQGVxHdyILmbxnO-Y_EUbOZKAj9TUW_1xc_eVDull8Y9MlaCT0o4qGmeUkctHuq8yv2WUihTAQi2Wr3miuiRCSOP7OhtgkGk6BE_AqTkYzXnHSlS608zTqXMl7YlTsEDhLy9amYS5_rwS--NexO7bYJjLVrKgNzdKPD7oExQjF-a1epP9HgIJrM7UJKFjKtQUZPcO5qinrdGlKj-t7JUAdCnkCUg1hcLc9wOf31Jb181BMKzx41a01vZxgRWfGe9cX_Kmwih2GLdoUA.jpg"
+        "https://cdn4.telesco.pe/file/NN25Ym-RJUOdenS4_NA-C9Xk743wRpQzw4uROKLqlLgQgBdhQ3jr9Q8i_2pvtDClag4ua2SXQdNcsygv3OkjewuXobhjcYpTtsuaLPJzl-QOFMfSLuFXYNoLoNwg4sfGquu7hC9N7_uMMY7pwhNzbeE2la28d1yaQcbtLndRChK80tFjqHaFvZb4S798t6I90AdTaCpsmzZ1YFnFEe_YHVbDJEd34_KLs5gGGTJCzedynL1PonhOJDd9EMqUgJVXH5418E4B-EV1UfsPFfXc8TUb_eog_-wfyMSxgafsCwcAD0TEasDgLLPnkKlnB8gUQSPmKPgkUwyyKCfiZMcbYg.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades as text in quality.  \nPaper"
+      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades in text quality.  \nPaper"
     },
     {
       "id": 1275,
@@ -279,14 +279,14 @@
       "id": 1273,
       "url": "https://t.me/chillhousetech/1273",
       "date_utc": "2026-04-16T14:37:30+00:00",
-      "hash": "c59306308052f3dfe2d84965d6d856e3e53e8a40e8e9c64ba8007ee43189b1ec",
+      "hash": "216f683738694218786e29d7e51787c2d44252bcb529e521929d8ae170a9d5a3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "А где же mythos? Ну и надеюсь \n4.7\n резать не будут.",
       "images": [
-        "https://cdn4.telesco.pe/file/Iv3PkEFACV0yyomSAbWgXakh1PT-2up_I8oqTSe_5nbTmOL-SbHvxuwtLUtOQuxs8zTq810dMzx7SU1lY3LO7G3ZR0SvCztRZpMR_qCRfmbS-zpMA5ailLc4tnaSmNSmXdmGNPPYRR3tDLyWsmaF3F8keQfMUL8nBCej5klEzUWLbYbQHXWGRz96tiK606y8W7H7XXXe0cPtMY-pKQKvrsrGbiw_X8yZsfyQbwWxluL4kCE7kJLB9832_o17O604BuB2eAHMcK9e8IZExa9uY0vX3ZxiDE8FLbVv0oCKAiD5DwkfAHr-5JI-mT4mV1fFmbs5Y61aU7C3noqDCIVd7Q.jpg"
+        "https://cdn4.telesco.pe/file/pbJDd2ZB98RYEgkibYxZ9uFH9nO3Bo32qViXPT7KJOZ9YbtN8WEz2GduLGTL23Q9VKyvCl8zWVOzRJ90nvZds4vXZJj3-H4UNWOC-5F_ivwub9d4U3xGKsD44AvtDWPRWbOtRByYMlCsr8YHhkx1_SMi4wn0zA_NOfmFE3zIDTsn8eXE-OqOIMgmTv0-RxpVoo27yurZKjINIMOKRuwbXWoWZXxAR--uYNJsU8pAExmfOycJde3N0rlIhJFlTGK7XFkZRMSeMC6HwNmcmlADh-qQBXD49W_7fG5qqTupSUlGYXPSy73QxFpvJer5OiFa0RQ_p0gau6SpNGaOiSP-Og.jpg"
       ],
       "title_en": "",
-      "text_en": "And where’s the mythos then? Well, and I hope they won’t cut 4.7."
+      "text_en": "And where’s mythos then? Well, and I hope they won’t cut down 4.7."
     }
   ]
 }
