@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-29T16:09:13Z",
+  "generated_at_utc": "2026-05-29T20:39:49Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,11 +7,11 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "9b0418c2e21c8ac46553e658783797f3477e9f162648526cdd7649a420ef3d92",
+      "hash": "023325589aa1f4fee012065432ffade4841259229b8a7a281cba99837abc152e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/sbJ9PT_cOj62w2WKJoasrFATeBsGakr84qYnN82RrWV3aFxfaQ7Z4MbmpJisFtsHVxhNrXqZPLOh8GQoAOqyI_LvZ_b5_NqiseCLCaHkm7-rOGvU4w4p0BE2-JDx-AxjkLdbl7fBy74nI4_2TykimNl4_PSHgO-eNEEJ6_am1K0ZRSaPiFO6sxwbJmK6FRwoyyJp1TZ8C76O-ze9Mc6hzLBTNBNKMjnE90CH8aBuAW9fJtVQBswVXquVFWaIpQeOlE3MjwM8sbNp8CRgsP1kP7GhI-U7esnzO2HqWGYbtcTsbLvzFR77jCjJAm2iO0NMfdTj2zovpdIKDPWEzefTBQ.jpg"
+        "https://cdn4.telesco.pe/file/qHBK5nr5S35GGrJSYhmjmGJh11j8muuTXP9CvCChmU_dzsYVRT84VpPZaEk26Dn2BOtUA1tbgZL9eNEN0SxnU19CQfip2cZWp974KUrCIUVjaf4Htvd_-pummvhZ9suGDBunMMMs-E4l20nLr-eymVoakqucQiNhf1OR4vKMIOSyI6U1O6PaL6POaZQZuygUURZdY0WGtRfTfL5t8CZcjpkpbDaJZFT5O2t6x6dkmtQgQ0KobqGEVx-AfXQjKUV5CG80i6ZrW9uDioSuejYlz7Um6uFubDXFtT0I-Mmqtryylz8_yfMpuEvdlyQfT-fRZn1lnK9NpK22xBYxwV-KYg.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok, sold"
@@ -75,14 +75,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "4cb02c1b25dabd8b4ed070fab83a8515732e6dbff683be71661dac49a5c8b70f",
+      "hash": "9492f0966d223f2f03f528e4febce6da390d472602e4f1806a6d463e8b7587b7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/j_ZDxh2iyHrUMXUVqSKh9815McE1_oAijSQjQ3MYsERG24TGBPg47E0jg88fRyYcFA__rnDCKLZe2YA1AEFZyFQxx-MKnEWhjHiaFR5rRga3CV5_mBxY2AWiGEGj6neBE9afcYVNqoUFLeKbYCatnzEB3nyQziUOT94EFx68YfeTWK7bcKy8siv1CTDMgx6ZnxX587ICUbN5NOabV1a1ixUYg0y84Vnxckl1WsvkSsAGH-KgiRJns6manya9F-sy9eA0_8dCK0RTRlMc8rDnF2nQoDn_MQLoCbSyEo3dr7k8nxHgNPNbtGQDyyVgmAsIT2UixmrMl-o_GyChpCBMMw.jpg"
+        "https://cdn4.telesco.pe/file/JNOEhJLRGKabqM3NOS7tdCDKkR2xBcIXU7kFuO_JH_dGcMhHPe6dDmu5b5Y1WEUDBrdEA3CnfMpHkjD9SR1UJENE5G-nTH5JQMM_fUZSQCpbLj-rT0_KXBzAFMyTUUiOAVqzgYKsn4R_BbNfyJjrZ0SWgQ1GWTXqwF_-FMCPvn4kY0_BK04599EOKs0iu9zg3JUC_ijVI8wuQjozIGJ9yqqDxd1UOgbKfBAXlNnwkyANGrYgOD6F_SjUA8_HopuNUx_BMO1fdTuEAHjqsVP51GPAgD_itQ5LiRRn63j00i7YLuZAJS6KO_TBO0vsalzDo70NwrsRN3mntgXr_Hagow.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like, for everyone."
+      "text_en": "Feels like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
     },
     {
       "id": 1292,
@@ -176,14 +176,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "a5415b5f9ce4bbd34c87cef77a711c00cd769fcd2d27d28a7f7ccdaa6e85e77c",
+      "hash": "8c59e4934e6432a894351b6078b1d8ddefe003013de43c4587cd25dff97ad7cb",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/BTyV7GE0aeuniC1tcSALF19xjkO2gufD8xzhlBx9koRO3ZBYxtsWI61Cl3CvRExvNrlPqsU9zyNNnGodpGU-Kv5GOhuEgAk_GvTrEbPiQNRl4ED_dMQx6VbvqS2KwgRDhCCR34j9PpLRxcSj00LOFqMakHJPBDAamc1fOE3zMpXeaxE8Y4YpD50XrNqpZWqZg2DdMwfD_JcJQPBsCGMMmbvxrdkHTnw8GUhI0qFaW290w7-WvZmLhGpk8vpvjUxYxxTVWlTRNIHK17gATIL_3JIHObmrr270YYj723Nyz7DlcpLU9YL7t2zB_-8vVe1z-gQIqQFZReXaWFQfTLasag.jpg"
+        "https://cdn4.telesco.pe/file/AzIVpwF6HvonKRoxAsqbQRwQspfCb-xDChoBh8EYWAlCB5SZNWgqcBFjLrwi-31kjT9VY--Bik_gxrvc1wrUlerbwoZ8UrEG-N1EC0F8b9HtOALmaVcO1zbX6BPGbkfx0ZXpzYJKNBQwIIvAllrmpHBFddZu_wrloU8mbCtycItRcI5uNMAKeDhPntwhDQOdj1SNfnoOY8-qPUrksOQ84xiQAD0Z4uWgW3GuAC0pF87WfiYOYrnSCMXOEKEr_-Xz1wEsobMuSYh1rDXt3ebvQcq_fr-RtVR1yi7KYWpaiWPOxzDk7k5kRwvJHeWXTE9Ifw2lQWVNWxdyllIVODkmxQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but seriously. I think that overall, between the AI & software industries you basically need to put a conditional absorption sign. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
+      "text_en": "Well, but seriously. I think that overall, between the AI & software industries you need to put a kind of “absorption” sign. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
     },
     {
       "id": 1283,
@@ -244,27 +244,27 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "469539df8afe2ee460dedff3ba6be8c3733eba0947c25c86d452610cf0e4aad9",
+      "hash": "ab0bc10844fe9429c3105b2146be8567c4df1130032190019857c5072ff0c698",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/vBTDAD9B7q1h0enLxOCQsZLOijVtV4DEcvUFkneINoxrvsePyq_cMIrjqv83uU_Vq7P4o2dVlfQQ3hXjRpVYF6d354wTGoJTrDKkpZMQsIieZ4jFzbpt1jk50dKlKoOCx_EQMlc6P0-MDZOjmwLt1rPppb9IYGwtxeDMuudT6RTzYJOrDv3hrc2LsvHwjmz2vuY27_W_WlZ_isAN4kNzxgL6w-6dJnZbFapcGyIbpURJFaSpCC_Nmvtn6VMVTSgbb912gQGvrIhLK91rUgiDPtxsJUuRyxpFacIPrHOxsCVH2hOiUi80FIqOeO2h32_H90KuBxO_zHZXk6kxbgCsCw.jpg"
+        "https://cdn4.telesco.pe/file/M1bgP4ryfkVmalPqeuPKOkzxDMg1y9voZliJ2wLoMt2xWhGwBLX26LKm6g0Mo0aSYmJwt8x8IGqzOqlrG4JD53X5-DoK1EEH5Ks3CM5oVVh_Jh5NmhIungRks1gi7i68ZeiCQcCOZuDf8xQPGTOHj-KiVO4dz3v7Hac6hEjfZqBg-_7ADMrOtDzLoM3epc2ObqO4yjE_zvInktinoBo0OpIV8fi_mP5VeVqZmTPUiBXmxJd1itAD-nlm6Nrjg9iisxPp9eVL7DFErqNIrNe8X_HZBs18af3to1beAocqGGf_vZ8lwNWjlnNTWvCYgWjTUvjVMnxaaoGGsV4oOJsoEA.jpg"
       ],
       "title_en": "",
-      "text_en": "Well  \nlet’s try"
+      "text_en": "Well  \nlet’s  \ntry"
     },
     {
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "b4d1f7fdbfd2b538c2177709004b43ebc6e2ce13223ce3e1fdc3f29a68f9b49b",
+      "hash": "a8d8a41a464c544a9607167060436725721d90972c638ebe43320d1a48677aaf",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/uBrfyuidkllarNULEgtVRyeCY3RB8yCqv40yLyRBhLPh7kvIhZnAUIpn-MBAloWj-vDhkt-lMsTbBSu58prDJa6HBdoRH0I7K6Zqsxj08LjyI7B02A94Cnysnwifz40rIxm_OBwMri0-8xISpMb7COo9KDbvh1n35XJ92psv43W6adPWYNIN88y0zeSZIfjc_6cXr-yOYr1xaZAQx5AE54_Pp8ATX5J8L9zM5oelRaPYiVGKXFKkuNncOJi_Oy2lLQwVz7K3Y0bOA5Zde4zYn3Sece217JRqiBaV-KnosLnxAbZNQTeqt0qpoQI5XCyhfjVdAfQ5GO2qWixiOYOdqg.jpg"
+        "https://cdn4.telesco.pe/file/SnsTjkFQuIl3vjcxfmgFCr0orilTNdsNbLfiid1vxyPoxHujONRIWulP7wGKxG_amaAhx820ZQWUR3xC5GUIAu4D0dvjRA9oLEHmwP3tFSiYPWyjB5-4CWL668ombj84ZekL17yeLlRnm6ZqUcXKkJTwpwOwuGcCsXYIofHYn_KsSDdScASALjky3nYEo9uFui2ldSNZnH-hozPfwgW5HzkaX7WAglFH_HTIK3juFaI0aVxqUV32OQrV_qAaXT2gtAtNdL0gWv4efudW5jCHuAIayvSnK3IKVWp7FBo6Ktl_faxdXJXcxpVYp_AB8KTmo8Hq3jIspZXKE6H73WWLCw.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With each iteration of working with a normal document, your document degrades in text quality.  \nPaper"
+      "text_en": "AGI is coming for us. With every iteration of working with a normal document, your document degrades as text.  \nPaper"
     },
     {
       "id": 1275,
