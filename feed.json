@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-05-30T08:41:34Z",
+  "generated_at_utc": "2026-05-30T14:05:55Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1301,
+      "url": "https://t.me/chillhousetech/1301",
+      "date_utc": "2026-05-30T13:14:41+00:00",
+      "hash": "daf6cced90b67633d8ba76eae004b6dfef20fe0a37fede1ef0a18628c662b0f1",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
+      "images": [
+        "https://cdn4.telesco.pe/file/tq5QUJR_0qu9zOj2xB5gmJp4RazHdTudJIxrFfjFZavzqtaYjHW6AVIVCIPmEZo2mFUXdwLv9D-RkP6EbOFSbR4q88fGyit3Blh7C8uCxgfBfEoe822WzK36dbQPAcipWIudTucmL3qywOOaNfFPr7CsPS0GNfYOeKgjcnNKvNnsAVf35rWMOC4_0aBalgpmMp1wYFz8TrZwUIQ22RnOgviK5uJxgtm0LP8DViP3TKf3uXZEojnoDiYeo1paLI5a-hK2NJ-HurQsQ_JNilunbn_AjBBfhoEd7CexZMRV19TCmsTNb4ptlgoZ5SZJw_LmRvOvbgUECBXBZfwk9vlkDg.jpg"
+      ],
+      "title_en": "",
+      "text_en": "When you confidently pitch your idea to a seasoned VC"
+    },
     {
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
@@ -244,27 +257,27 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "01c65238b0daf114017f70b7199cc035b0699c313757edaa5a3161bf53da3a96",
+      "hash": "c241d01c66f8fec579df3eb9729296c35bddabe6b7f64af3fd87d8048e7fb53b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/uGJLa9cYJCDltiPM6QNA3Y3m5ZWoZ51WK-rwOhEljpb2s9M2hCnpSu97BfAlP3gh0Bwmniws4O52gQbj151ZnnI9e7BOu5FBF9GHapUHFhslV_1hsbTl9_tAAeRuN6wvembEXBMNWoew-v3xh8-BcVVYkmMcfpo2s70ZckcjG5RSCsLdi8sevAp79TUwy69sCICezPav0RIUftkvgdDBNFY7gwhMcdQncJG1WwZ_MMnhWTv6iZIKDTwl7RnnA3a1sZ15ZDWjPBIlwNzZK3JrLGSWqiH5reYM8jiXFwIDk5euOAlZgswt6s6zi6ht0-ikdykBUoIKiYLU_eAMZFuqbQ.jpg"
+        "https://cdn4.telesco.pe/file/hfJcUHMrc02lWCMHdnheAhGeqcReuKzprtVNisde14Rea8z1Qm8eAMQ07oNH21SlXt4bBuA6fCaE7mmBEJuBqIvdb9B-fEOjj6xH--CkCDB-ciplOrF44M2V_umO2o-CKOHgQvLPb5j7vH6LrM5BjwZB-TDspVGpEqD7dSa3E-NpyNyeZEZnazZnpJUDfTYk4hS0RrmvEo6JBJIV3YcmnPRqxOywz7xHoy0wT8TJgsL4FdT150AX0vgXjPv_Ky4Letn0lc_TLn8zoo2p3KxZRr_DuEk5FiRJ3JpMMs5buhpfNNk0ZTQYt_bLqZIgfVywui3nsffd9uxlk-e06Ls7BA.jpg"
       ],
       "title_en": "",
-      "text_en": "Well  \nlet’s try"
+      "text_en": "Well  \nlet’s  \ntry"
     },
     {
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "b8a7602f02e55603e201682b756a9e5b5ee018445717e97da676558e13400fb4",
+      "hash": "2379367ff05038ed60ae69cdb329d3d137d10a7625ae55202dce34efb8ced5ee",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/C0UWAqxxmN9oMCV8RrSsJ7DlRgPVs_Ll3PW1akXozEBPXgBkDAxuU4fPC28huxANOxZXF0g2D6s4_uEDPNsXc4yEnN0vMwLZDaY0ccd0pxNmiaKC6ucqC8dlvM6fVwR-oS_Dja2xxYpnMMIfsSzVBPuPz13aj7y0HsETdhPki8b05-yscddRmwUKpJssn9-zIQFbf5mNL0x3-ZcDXP9uP0hTXG7JRoRXkm22KujLaiD-I0hA9xDGR3L_gCua_iM-3rXDfuLJNUR6fLeo3Amt82tWoCwIOIzWyYiJC4qN9G3XF_Sks2kItr8OvFKsCny7QoJRvqKzQt5eNuzeTPUzBA.jpg"
+        "https://cdn4.telesco.pe/file/N95Ug5eR9zD1u1URupZL9FaLoqxCksmJqUmqpRaaQY4avtIvdLYDckIKZrBZaoGpE60rG84Ow18DY1BQufiR79LenmKo5WPM879IPowEGIoW2r5ZgiHOCaDwWJrBeSpMtofF53TZXwtLVfC-AwnO-HDrtxRBFZecRit2kwq2NHQfJPl9GeChG1qLTciOfckAf349UukC1I4psDhiO_vfzxirEtrVfv6GOMgy61W2A_PX7BcMxf_xb-sUOHeKWO-bUuiqwlPPV0EBSTeQdmAtcNlSiPASb_Ao7vfaJT4Fh6o4P8bKItH1qtSRbya7Bl8gnFjauFKRqw73nTzZGRm6hg.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades as text quality-wise.  \nPaper"
+      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades as text.  \nPaper"
     },
     {
       "id": 1275,
@@ -276,17 +289,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Cursor for 60 yards?\n Damn damn\n\"\"\""
-    },
-    {
-      "id": 1274,
-      "url": "https://t.me/chillhousetech/1274",
-      "date_utc": "2026-04-20T20:44:10+00:00",
-      "hash": "e408c823e907125ae4012a9b70b3de089845a588c65129e8fe77e53f1c2f436b",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну что новая эра в Apple - новый CEO John Ternus (бывший глава железа)",
-      "images": [],
-      "title_en": "",
-      "text_en": "So, a new era at Apple — new CEO John Ternus (ex head of hardware)"
     }
   ]
 }
