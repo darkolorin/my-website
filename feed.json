@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-01T21:45:19Z",
+  "generated_at_utc": "2026-06-02T05:01:16Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -257,11 +257,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "9de232cb042b5ba4a7cebe033a4716be0cea13b23ce038c24d509aabbf84e40a",
+      "hash": "492fca28e1afc58749701f9afad4b565f6a2b5a57befc8624773a71efa16f438",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/XNf8wetEbXEDc3t4nHarFrz5TfRu46-Tn3xDipUbm0lXBlg8sXw-EB8EeldNWF9E6QULvUwyVzkUsdTj2PKaQWCa3eoEZ6n4DhD7-XmgHtU6phKO51zL6ufLbGd6jeRuamfwTwasrwA_8BJFH0g8bFOeSSj3FZW2d7zW4Xv0ZWWZQnb4DSYLVPCV0RbZ9Esck-jESv7m-KII5FakVH2YK5yFlJNWxj_E5heEXbscs6b7Dy7yKWgWSIV4WcuskiT8dg565GxuSFBcO8L1liKzRrjqz69iD_yzeZO9-C5ydf87tgnkRe1YE-2GmmWOkyjBKRkiIOO9eV6va26vIvAs4w.jpg"
+        "https://cdn4.telesco.pe/file/r5M08izWYV6d7QgHa8QiveywD1Nyn_mPpQPzEOdG9obdmuSZQFhz_veH71WPhv3rGamnMSq0rOrmI56w0gXz6a3p8kql1czbKHAr920hWj08iLlA9r1BkWgVjGDME8GMJT3LVekrH9SRJR-QIaJWQyiFxfAji4M6TAL37q1AKWPIonM1fAmn_KWxLGY-j8bQL_Jab2EU8_LJhR5bTGteZH1HQ16r_VTpBjwx8LEQrZn-0V-CfX-LfanBOO-5Tm-CMZb4YHZ9Jwu2jyB2EBvODSVu4c9pnM9IUfl5Gu9ur-ArasPguqUBFXDVOq_-AfJlzBV4nM55ZOm-AzmKeXeYJA.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -270,14 +270,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "11861f330816872cefc468373bee162bcc5e715ccdb84fd86d961a2d8d1f9bd9",
+      "hash": "9dc2b085cba63ce9cc399c1c10c1f5840c5692aa48608731ac8f536ce3f07b2d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/hZqRcwPVTPsbyIhyiSLdS3iLB4adTCC8jhvw__7qnRwn0AfRggkCPrtfyUH2qiT1Lwm9K__CieXZ_wgwEKut_mB7ffLy2krwF0JkdJiCIX3Q-xCfL2MDrpgeS9nEXnKB8Ir3UoQukkOqYR2XTjT8vLJ8LYmVx0vwt29w1pUeBnYtRsiPIzQdgQS08tescNLRv1jjogs-Qnvb1rvhqSh9-eXiS--QynMin6e4iH1E2pVpJWUMHQUqBtYdJNgTVKWxXlv8Ed_hg6BlwwMxiPfge8yizDoAVXUUakCly3gdHW9D3XeFMeiKUpgR88aIkqOHw1R_DqzLqoGpnfm8Ejc17w.jpg"
+        "https://cdn4.telesco.pe/file/a6a_jqOyVWUxMY-PTjwvxtOVXxZZz9pe1kTTiXLnM3PQV0hG5kBzyfMo9Nyy4zuTLTiIIt6t6zXi84cs4GAMuNhw_elog79n_e288wmDT7Kdrla1l4Pv7m6ZJLPfgJ593g5_c_rzYv_xAgpd-N-zUx576yQe5itZbDG9fx_j3uAosrECpfzhGVDLHelZRKg424thuHzGpWgiA0fTQ0EycqDEVkTzDfZym5mT2CadtjqVm5RqlSXkh82Lz4iS_eaT9HyNvN_WMpJxxOeFQBJb841h_LYC_cCbP2OzI2M_FDmpw3IeY2AJku1sG_hy0OALrmdZYocnC-4txRenbrzYGw.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades as text.  \nPaper"
+      "text_en": "AGI is coming for us. With each iteration of working with a regular document, your document degrades as a piece of text.  \nPaper"
     },
     {
       "id": 1275,
