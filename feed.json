@@ -1,33 +1,44 @@
 {
-  "generated_at_utc": "2026-06-03T11:23:46Z",
+  "generated_at_utc": "2026-06-03T17:19:13Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
     {
+      "id": 1302,
+      "url": "https://t.me/chillhousetech/1302",
+      "date_utc": "2026-06-03T12:04:21+00:00",
+      "hash": "2074c3c5deea1d506e7cf3b93ae3bc751008a654ff9af94f1d2c3da1af7b1f23",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Наброшу в копилку про фронтир лабы. Часто в интернетах любят рассуждать про Open Weight Models. Мол скоро вот вот они догонят и всегда поджимают. Что думается мне после общения с разными людьми и какие проблемы я вижу:\n• проблема таланта, как нанять команду делать небольшую или открытую модель, если норм рисерч талант в антропике получает 10м в год (реальные цифры), и это тебе еще надо compute и все такое\n• допустим ты готов инвестировать в обучение людей годик другой, но тогда догонять будешь очень долго - как решить? ну надо поднимать сотку другую сразу и чилить, иначе я не очень понимаю в чем конкуретное преимущество в оффере\n• но допустим ты привлекаешь апсайдом, тогда ходит такое мнение что \"мол фронтир модели это 90% рынка в деньгах\", откуда брать данные на обучение и  RL, то есть буквально все покупают только \"самое лучшее\" (готовы давать рычноную премию к \"модель чуть получше\" - 20% больше платить или даже в 2 раза)\n• условный Opus в 10 раз дороже китайских моделей и все его покупают\n• в такой ситуации конкуренция усложняется еще тем, что процесс дистилляции начинают прикрывать тем самым что есть закрытые модели для индустрий и даже специальные деплой команды, которые эти модели в закрытом режиме интегрируют (см мифос, и математические модели openai). Или другими словами задистилить модель в claude code будет легко, но вот ту которая работает в банке - никак.\nВсе это напоминает типичную олигополию и места для OSS думаю со временем не будет за исключением определенных вертикалей или решений. Думаю что китайцы делают все открытым чтобы хотя немного данных иметь и привлекать людей. Других причин настоящих не вижу.\nАх да децентрализованный инфернес чушь.",
+      "images": [],
+      "title_en": "",
+      "text_en": "I’ll toss something into the stash about frontier labs. Online people love to yap about Open Weight Models. Like they’re about to catch up any minute now and are always breathing down their necks. What I think after talking to different folks, and what problems I see:\n\n• the talent problem: how do you hire a team to build a small or open model if a solid research talent at Anthropic is pulling $10M a year (real numbers), and you still need compute and all that stuff  \n• say you’re ready to invest in training people for a year or two, but then you’ll be catching up forever — how do you solve that? well you need to raise a hundred mil or two right away and chill, otherwise I don’t really get what the competitive advantage in the offer is  \n• but say you do lure people with upside, then there’s this opinion going around that “frontier models are 90% of the market in money”, where do you get data for training and RL from, i.e. literally everyone only buys “the best” (they’re ready to pay a market premium for “a model that’s a bit better” — pay 20% more or even 2x)  \n• a условный Opus is 10x more expensive than Chinese models and everyone buys it  \n• in this situation competition gets even harder because they start covering up the distillation process with the fact that there are closed models for industries and even special deploy teams that integrate those models in closed mode (see Mythos, and OpenAI’s math models). Or in other words: distilling a model into Claude Code will be easy, but the one that runs in a bank — no way.\n\nAll this looks like a typical oligopoly and I think there won’t be room for OSS over time except for certain verticals or solutions. I think the Chinese make everything open just to have at least some data and attract people. I don’t see any other real reasons.\n\nOh and decentralized inference is bullshit."
+    },
+    {
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "c0a597ad8bcc37480419314015ab9293e5c225dc0901fc078b6b6f7ae875a387",
+      "hash": "5d5c7505339304727064ce8f585f3fbee61120211c0489690a32208f0bf6e266",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/iCTif0Ae1GvyZNiQ4TGMiJUAX0OVmbMx7qyIq_xuX-sMfAkmehR9dVtS-jz8_3-2U4Sybat6-FsDGREtm6chZ9jh87uY4TFtEQUzCu8djh-MN-0CGVJEg2CLrWHDMppIiJXAUm43hy9A50vnyQIxLJNpHGLK55YAPyTCGgI2ufmZPH00Jt9xHskxTrR7FjXw9CRYMcOWYA-KoxauHgKaNNzmOgILx9R5ep0q3ASNm4szuVM2T9OCNwXzn9ewoDj8nCGN3H0pwawKcxS0-ZWkmTdkZFuUX0gyMMC0sNQVnAexHxxpLC30ZAFoMzvXwY6J-B_JJ8EODUeTzT9tneTUiQ.jpg"
+        "https://cdn4.telesco.pe/file/E0nXPQmyps8Tzzbsol3oPbT4f5AO7GMI5DmPmboAfNdbPYYtxVcKafqrvzXXE5t5bdHIHOspqSDdDY1k9Jkz0gL4DdMfYn8wqYKAFff_Jq1i_AuUpBDN8YWQ0NHADQTfiCnreMYp2JyX50gQoUEMRn8xVs6vWtXXptowrEUtsR6laNLBthwP5fbqgDKa_ihYCCRDUCtw5HsRkm5P0Ex2LNDLKQunpEiAxpwoDyjpSlx30DOsCQZYBjddinVMRsKuKBukH55R7vadDfTVap2C4r_TgOBarD8q17ic3dq9Mpi8_Va7Sy2nLdwlGD_hDH6mqQJIpOG3x0QVcxzckpOCnQ.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’re confidently pitching your idea to a seasoned VC"
+      "text_en": "When you confidently pitch your idea to a seasoned VC"
     },
     {
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "71671e92c64c48eb8a3ec44f44584c6363695777321ea27f9013ee48ccebbbe0",
+      "hash": "3a43e0af0e3b39486fb40be8a92d71e5ebe066077c04be82d29151fd654a9a91",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/QCRWuaTAFeZXco_zmtjTLIRv01EJXTykvvq-_9n5px8dt8ULyOcBUvinnn5eQuqv1FWOh7e7BXwcQoB9bMKBge4SVG1c4YFgXQEYkyAFwYzIeynTVMCD3QsUDU7ll5XlNp6FNXT-bfuKUSbxOHiHoA4d0r3EIgT1bE3zHl6lEnuBe1-5Hkck0G2crTKfgeVaT8a7iAG_6JV32XO0-4KOK_K3p7lRGocV1nYA80hcjCOPU1wn-0D00-kVWWhdpfsPfOWZVgNWP46zJ91tEqAQIo1zoIcFpWTupGrWB5ddflA5Z8bXN-ZoWZsfvdWqzxebQjOc9WqRi-X-I2B-DSfP4Q.jpg"
+        "https://cdn4.telesco.pe/file/EXk9tz-o0oHx8EvuUKIdwbRJgEf6Rmzq_QUEvpssRtaamuP-FXMULllTclZnGXmR7WiC11r9hUwx88kf46mj-iskJbtfISkRKWCC4HWUvsWuv1uvhHlxgk-1bUTnDGhZ1BAKkE-wAQsCBLqAajBOrKE2BHA1V77x8fyy0lfpvhbxI-tp5HhAMaqgI0oh6oe4fHV_aSfNcf7QOVLNq6Pz-ffUESpIk4k1dbBYKLIKmnUoDFIbysPfeTMc9J1XSe1BxZiNAdwfkOr_MLMFh9pFWSWIv9PXFB7Fjq6tIt2WZrBHOjX9cazYo9N1_nh02jVLcVFFCf7LQFbs9rt9pzUeuw.jpg"
       ],
       "title_en": "",
-      "text_en": "Ok ok sold"
+      "text_en": "Ok ok, sold"
     },
     {
       "id": 1299,
@@ -189,14 +200,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "e5cb6dc85bea93a083603445aafefa08c70cf01ab8af4c334fff7b237cf464e3",
+      "hash": "d9c598324e97f717c123d2bc0d7c5e471d6203564b593f351fbfb979ac96b556",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/JrG4J0lYWfToJ-VNn03BAmNqQpLA0I68alz8RXFse6UXn5qqkbPov6ecOuleJVX7VtNekx3fp23RHYqfYsNA8Y860WM1sXMVijjnvTrE2dTKFO9hvfRXFnnMP-RmTKyT2MjPDTcraWaHt8xsQJJ5Hxy-y-TTAeeJVZYXY5e000DIgzU2TCMqHbc-Asq6PInbTc_ZCnODINEjKJcb_qp3W_c3ZC_EOAyC7uo3Ac10tnbrPQ9ZsVhl6vc0NvgtnQjCri79oE1WRAiptin493Uza7GanL-F7w5Xu3P-6vV0LH69mNXsCGihcIsbe-3_WmHhusOG0m17j4XWTsHLy0HA_g.jpg"
+        "https://cdn4.telesco.pe/file/BMQMGjBlnmVcWVfJ8ufOh-VHFy9ZDnpRIg9zajvvAuDRR1dCLAzOR_Agk6u0Ix9kylPCofPO1NXezKg_dSowD96XVPHCA3qqQF7BsXG5rIFKKFDZMJX4aiOxuBnnuvwvCy-IMc8iD2iADtXuJtt4JcrpaFwe8ILq5bjFzdPeNjSmd1Ydxw2GTc8wjjh-wb9CTWEL1-ZyZNU983QrxOWrf_MKH3MGrEge6H8tSAUCgW3T6UuvudEqA_wR35slmlrHprMCyB6jrxJDn18Yhd01peVBg7iHJct44ib271SqM1h2NqBw8yfP7l-0BhgDxPQqRUzKpTytu9gDGnJgrynmGw.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you need to put a kind of “is being absorbed by” sign. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
+      "text_en": "But seriously. I think that, in general, between the AI & software industries you can basically put a conditional “equals/swallowed-by” sign. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the tldr after talking to big funds and companies."
     },
     {
       "id": 1283,
@@ -257,11 +268,11 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "e838fbf7558a5ef97b5d999bd892d4c78531f323baab744c1bd83b7b464889d4",
+      "hash": "d9f0b26bbf857bbc0fc2dcf2c49c95cc6e81b29a0e8de971fb15c5f80a6b27ed",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/vN2X_cwI5q-BF3pFjWq7dyQLUurPInhVaguywtFbE__VFeBuGllgvkLpkfR0dBEMiduVNk3tNjCIEVK8rqAKZhASrYOU-PL4wh6mPZmjmO7K733mTWE0LCrfOBFYPjZhnoOnnEDXNyHELfq_yx0GZUti3KsxnSlUKu7LSBRLpAjv-539Zgre47XDCsnqlx73H-2HcGeSHSlDnUuYKI2JrolZ1LQu-dtMkFgS30IKgjxv3vvs3d3WVnXPeJqPb4qwrf17CfLiHWulUk8nv-vP-YhwjWgQCp--t7NJqX8oIzb-mW54D9V44uDGcFP8xQmlG8bVuMBk5vDBEss90atJVg.jpg"
+        "https://cdn4.telesco.pe/file/MzE6rD4vScH5aRgpSjVZYHuAA5F3-dITUbJfkrWbSHU2Q7mbIW-89q2P4tYOZGEE5oyHgtcvxboqGn6wa_h7FPkVTAFQMltY9Qi5OxhbsIXfdbneI5UmU4ACeAnjNlxfwFwAocj2B3xXQRvZW7NLpONFbLv6eTy_1uoqrxlphlK3J6AV3AO-l04rXg1wQ3wKiplRjU-wEaW5k_cKQTtVxwuZ-CcZOHkKUDM4ixFOqBEdsl--jXM4GtJ9IVUFzSuxH0Cj6e4z6H_Qjtz2RBEkrNl-qkL0dURIx8-MfkQDaAC70-xjEdAcMAkDjqzKufQ34sfwC1RSXzHAC1nqWiofdg.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
@@ -270,25 +281,14 @@
       "id": 1276,
       "url": "https://t.me/chillhousetech/1276",
       "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "f69bfce07e1daae18edc3769529325e3ba75342b13aa440291ef076aef8c0698",
+      "hash": "87ca923eb0d02202d963e89b60d35bc8c54739f664a50d343486a64d2d5a2d33",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
       "images": [
-        "https://cdn4.telesco.pe/file/UIVUnrHECyYKW669BVKiG5muVlbzl63JSI0j6ULirW-3SORIgpd2a-Es9ybGt1qg0QdLyPo_oWdYx7PrJ-Y7JOh6PKMHBbEc7EBHzCxI_FVUJ1PGCiPtRDHRtYKqq3HXd9eEu-pG7lTqmAN8ROeJe7ygKPs6TGEauqpxYtBwMIxYrPFfXWv2RU-CIrSc3oS-9GoTdqyGgu1G2jVzucGyftR1Aqm7bnsRjTgZ1OrR4RqutIPBEB-439f9RIzz2GhEooEbEiVgCCnUfjCqR63l6g-Ss75nmuAD4oTXhd-OZnvDH4i9slM3rjKhZTlQPJpnmTawV2DCAYjh7HFB7192qQ.jpg"
+        "https://cdn4.telesco.pe/file/tIWO4QUwoKK7WzVt143FA-UN3Ivprbobwjgdul29rQ2TMihqbbEZVT5_oYg4zvELi05iQ0E_Rur1AQFK0DgaOZ-e8Wcv6WMSNKahim7rceOINt3SfQ0lF90UY1kxb9nnPq2f6acKMXYjifVEB2anT1puDzbZDcfiRYNlfxKmAI_LGg2hkiBvWaSbZ0rT22ckkQ8f7RgjDQ4uJ4tlQ-FlWAZBMYswfDHbG78fo641Wh0TBJgqOuqW1ejJ_u1-HswfbiDzz9JsFSgcq6ri2F3dqezrEvXZZfgp9rRk7oSt5QE_DnPayfdnzE4cou1aXFl_qjsizr4aDpO3gpqYezjvoQ.jpg"
       ],
       "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a normal document, your document degrades in terms of text quality.  \nPaper"
-    },
-    {
-      "id": 1275,
-      "url": "https://t.me/chillhousetech/1275",
-      "date_utc": "2026-04-21T22:46:49+00:00",
-      "hash": "da0934b945bc7cc2beed47c2dbb5c0a0e36964461171a5c9bb90e120cc138126",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Cursor за 60 ярдов?\n Огого",
-      "images": [],
-      "title_en": "",
-      "text_en": "Cursor for 60 yards?\n Damn damn\n\"\"\""
+      "text_en": "AGI is coming for us. With each iteration of working with a regular document, your document degrades in text quality.  \nPaper"
     }
   ]
 }
