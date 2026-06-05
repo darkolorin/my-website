@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-06-04T20:25:42Z",
+  "generated_at_utc": "2026-06-05T04:48:08Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1303,
+      "url": "https://t.me/chillhousetech/1303",
+      "date_utc": "2026-06-04T21:36:34+00:00",
+      "hash": "0a625d91baf5d373bf5c1bd43777336ff85f5ead36aeea16f9d3ac21c8da2052",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "На заметку пользователям Claude. Но вообще очень \nвзвешенная статья вышла\n. Крайне не похоже, что Дарио ее смотрел. \nWithout that judgment, Claude is a capable assistant, but not a system that could drive AI progress on its own.\nIt is genuinely unclear whether today’s training methods and architectures could unlock that capacity.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Note to Claude users. But overall a really measured article came out. Extremely unlikely that Dario even looked at it.  \nWithout that judgment, Claude is a capable assistant, but not a system that could drive AI progress on its own.  \nIt is genuinely unclear whether today’s training methods and architectures could unlock that capacity."
+    },
     {
       "id": 1302,
       "url": "https://t.me/chillhousetech/1302",
@@ -268,27 +279,14 @@
       "id": 1278,
       "url": "https://t.me/chillhousetech/1278",
       "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "27b0a8717453b0dd1574d60cfa3534f07a5b898c559b335a25bef5d65af781d3",
+      "hash": "d74418f8e63711fbe2f51265750a89a7f2189e81ea693f54e80973c756657842",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну \nпопробуем",
       "images": [
-        "https://cdn4.telesco.pe/file/WLZmoyMfOH9Xbe2mLezkPV5poggSWnfZDfh2xkzuRp2FnCk-YuKXzGLoUD_Um2mKM9OL13bmBpKo7syebLKoL2bxUKebk5wgOuEYnRGMVNcipPjcYQGlhKgPdkOy7XfklTQx1j7ENOCauT6h-y_NS_tYPobfeZoFKdxG1vdJT5qeJYNiHThjcWNSKvJDERmH-nI7bh3DJmZaKTlhU0tdjLLCIeWNqhfuWOecL4VLSgJppGnkzCgthN4EsvizvkGJZWMbqIjlcdjwU4DiYVL9i4BaZ0L1mJT5t-DUcsMVKZhPQUOVcCNkg9mKhEFgK8mzX4U-BnyO9BjOmMUVDA7ZnQ.jpg"
+        "https://cdn4.telesco.pe/file/H4N9Wi6HmK1aKCsj3ih0PDwDTn9YbI4bMDLmiJYmooOc7uFiq-d0CawKu6cq1rvFsLjnrYBmiLEZU10Th_JVoydUV55z2WU9GodznfbOt2G1LGJTuSTf-rWGsz5pt3OEUPqzoPLL2P5yKUprbrTpK9ZDpeUp3OsY55VhsazwhBJDFYN2vI9sDyJfV-j6kAWMJV4cIO9BDrPLJ30UnbW9fsu02AFAnmKEXDeViVckWA0H1OWwezOE9f5umIdPEODy1b8ON5JlivqhqvzCnLAnzam-7DFsV-3SPU_D52DWtTE4z8jjl6PMUaGO6ukmLStbuXuCTaest4SKIlFewMF14w.jpg"
       ],
       "title_en": "",
       "text_en": "Well  \nlet’s try"
-    },
-    {
-      "id": 1276,
-      "url": "https://t.me/chillhousetech/1276",
-      "date_utc": "2026-04-22T14:43:39+00:00",
-      "hash": "22caaa6e017529883e06d7d84b35ed3c7d496c112fc96086f6ee446858ba53d2",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "AGI идет к нам. С каждой итерацией работы с обычным документом ваш документ деградирует в качестве текста. \nPaper",
-      "images": [
-        "https://cdn4.telesco.pe/file/PNBWXW1G3pyE0idVSWHr_DD4PARPMJzstFMUbjrNBuzcPhFcaVVySglFZhnsTUEVaxtuNiZ9_a6qxnV0Z_-76E5M5pqCh8IdaKCUlnsIRmwl5qJgBSxjTBbER1mvfqs3-7t17HrsEZH6BlzC1ZEfCRUBnsvnrkfENjcDcQafvSEshJXv1oTx66us6JJU4oG98A433-q9Wg2DwO7-tCnv592NRARa2d3U3tmBet2zZ2XYCV5SJ2kQyXFx697IkqXIwdmA27DgGe8edPYmeoGUD3wqXQk6592OpuXx1i7XvvdpHaR_oT86YAQPjNa0pO1EU63J2bVmisCwFNPWdGxA3w.jpg"
-      ],
-      "title_en": "",
-      "text_en": "AGI is coming for us. With every iteration of working with a regular document, your document degrades as text quality-wise.  \nPaper"
     }
   ]
 }
