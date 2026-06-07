@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-06-07T09:37:09Z",
+  "generated_at_utc": "2026-06-07T14:21:00Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1304,
+      "url": "https://t.me/chillhousetech/1304",
+      "date_utc": "2026-06-07T11:05:41+00:00",
+      "hash": "d87a6703cf3032d5b7a6c5159b91f669909208d087d9e2214a2c84d134031f16",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Заметил такую штуку за «успешными инвесторами и предпринимателями». Очень часто пишут советы мол: не цепляйся за ошибки слишком долго, умей проходить их или не пытайся реализовать сто идей сразу, вкладывайся в что-то одно и держи фокус. Ну вы поняли, вот эти стандартные рельсы. И следом обычно я созваниваюсь с этим человеком, у которого один из последних постов именно такой и спрашиваю че как дела. И он делает сто идей сразу, ему пофиг на людей, главное идея и так далее. Или другими словами полностью противоречит тому, что сам пишет и другим советует. Встречали?",
+      "images": [],
+      "title_en": "",
+      "text_en": "Noticed this thing with “successful investors and entrepreneurs.” They very often dish out advice like: don’t cling to mistakes for too long, learn to move past them; or don’t try to execute a hundred ideas at once, invest in one thing and keep focus. You know, those standard rails. And then usually I hop on a call with that person—whose one of the latest posts is exactly that—and ask how things are. And he’s doing a hundred ideas at once, he doesn’t give a damn about people, the idea is what matters, and so on. Or in other words, he completely contradicts what he writes and what he advises everyone else. Seen that?"
+    },
     {
       "id": 1303,
       "url": "https://t.me/chillhousetech/1303",
@@ -29,11 +40,11 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "dcdf14d08edf345953145baefb92804e9e6a88a947955cc1f61144d6fdf43fc8",
+      "hash": "9f50eb29f5c3ce6c0528cc42bc8547a40da368e70f775852045519695e38515d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/V7TJfpqCVZd5WWoLZHlo0MGsHNrKEsF-nXapQrT3id3OZ9sjpZLBx4u1-eLgrFmYTF43srrg_QAYNyXkTOaW1Yfbtez2uz4QCHSvewhYZf0TInTgvDJOX7ID7doaiYEFnI8Jf0er6vSeDvJtnFahG5d3pb_P3K3urM3vFG8D5ZYVpj_aGFuuzd2is62iHo_qopaIrl3USHEW1jWJ-OYpHiQaVkkmbZQeJ9zvmuXnd2j9_sC4S16drG-mN_A3uHjXwxhi60-4I66opsaftUlgJrZyUJFpQ0p233Cft2eu3O75iL-YA-m9_JjK8FzX5B9YkFRAMo0Nhvgb5_jC4oMXyg.jpg"
+        "https://cdn4.telesco.pe/file/dh1MUkrQp7qbYtRM93OOx7RDVdN7YAY-YSP-jbipRTkHtP7Pz2SYGurA0-S6XUwV-wfOmdGsJe34WIInLx11s_Luz_pnc5LL76PGKYjNQ2eFGMukl3puupay8_OLXo8tIhsPo92QaQfWDrlosnzQbELw_cPLiO9Xjn5uMRf6hROdQzWWOchuw8vr1nTWlIdKr2HQHYO8yegEwr0Aj-qKMiMV-kOEufDf_t4zo7NpjSH85afia5zgE4JczaH46fqaw5iMQiCYbp6zH9Zu6ai4FcM5ydJ5sjff8R8DF0DzNRZrA4rAq17qU-OEpvItopKaML-7azW_Aon5aUF3kqdnZg.jpg"
       ],
       "title_en": "",
       "text_en": "When you confidently pitch your idea to a seasoned VC"
@@ -211,14 +222,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "188729f558cc9b29249d93c3abd01c24de9653a6d39254c541dc448d13064b2d",
+      "hash": "f7726f15b57b89fe79d14be286b97332faee1d2d923757f57bc3a33094139cf8",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/WTwBWgmnMbL39MIkbHdSF2YZI7P7ct_AEy-FQgOEk4J_MFFvmMSHGjxyfFYWv_KFWqLe1QUbjesmTw496UUhy0rjQC7Jrte_FIUmxINKRB7M73Fjs4o2kjfR088J0GZs9340WZ60iemh4Ks2i_ecpMVXPNZZXDXHSy3YxeZCI7nBShxWoWXrm0AzN1A5_7RR-9r_gQqqKA8PyzfQV_9Eqn0v7i5kfnJWwywTD7R7j5XSEvxWhnx6n5ylfziO5MFWgxiDFQpICLxWZJxYiVyWJhVeQzAAqMCuCJIJA2D1RKEFuT0YrUYe52UUiMDH_uOk3MCkbsi5UOK4VV5Ko6ZQuQ.jpg"
+        "https://cdn4.telesco.pe/file/MQ7rHtJSwScU47SZCYbz-QtBDh6j3lcLpDcoRQVIcpc0H_gJBMEhOHYzPLraBDC7pUVjVdzlVjTnbB-AYAgvHVJqJBgPDSpl7Ev-8ZeVHbYPPgHVtlABsVA51Ywgy5IVhj_M_tCpGshRdhYtYFTsikShwV--mZlg_uvtGUAuFX3hKMThNSufst2bOfT6m3UehVPXxuVtUxXW3mjax9bdwbgesTkMCc-8rJgOX5rnBdGiu40cRdk8aKqxT6ce-C0Mp0LELMe3GXR1QhFtMZSYRf8SWJmRgxPPV0whGJNBQ2olWcHJbfgGrqBmeGoeufxVcoBaZ_QdowFPiZ2sc0rf_A.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you can put a kind of absorption sign. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
+      "text_en": "Well, but if we’re being serious. I think that overall between the AI & software industries you basically need to put a conditional “swallowed by” sign. All software is AI. A tech startup can’t not use AI today. That’s how it is. That kind of tldr after talking with big funds and companies."
     },
     {
       "id": 1283,
@@ -274,19 +285,6 @@
       "images": [],
       "title_en": "",
       "text_en": "It came out funny. A lot of people thought about how AI will democratize capabilities and how easy it’s become to do something. But if it can do it, then it’s also easy. So the question that turned out to be more important: is it even worth it?\n\nAnd that question is way harder. Before, only a few could just write decent software as a team. Now the class of problems has grown, and it turns out the world of IT (or, in the Western way, tech) with AI’s arrival has actually moved into an adult phase. Basically like auto manufacturing in the 60s. Now it’s clear how to make it, but should you, and how do you figure out whether you should.\n\nStratification has grown even more. I think a similar situation will happen with content."
-    },
-    {
-      "id": 1278,
-      "url": "https://t.me/chillhousetech/1278",
-      "date_utc": "2026-04-23T18:05:08+00:00",
-      "hash": "df979d203c688efeb77844ae6652f361702410bbb376d5efbf39640e934cec86",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну \nпопробуем",
-      "images": [
-        "https://cdn4.telesco.pe/file/HIBo22zXV1WtOeXWQQaseZrbwKyT2F2oQ6m0UV0ZeBJgtnfMF2RgnjchPHjUgdXLRSDIrFTOZds_T_KSpKtdBQd9ieMKb3zEGte7LX-tnZIyzgRgPjuhHwwVoZslY7_P4zLIiHodchBUZJVoOy5S_ByXYqzeaF24nd_XaNHUCaVtAoWKzAMEeRPGuyifuuCuATA21IfuVqbTzYT182wHvXsPxlMBW4f8pAeU4jRvuqRpAG-eKmu_IXIdWQEKD_es71vIcOi4qqmqEPK1pvMyNHy0XPU9aui6uo_Vj4WxI_1IC7rPDbvzuGi3DWVcfBK4tUps7TlqaB8PBlNhEKy3FQ.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Well  \nlet’s try"
     }
   ]
 }
