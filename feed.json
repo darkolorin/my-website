@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-12T05:04:13Z",
+  "generated_at_utc": "2026-06-12T10:41:19Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -51,11 +51,11 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "68cb80e66a4503367357412e8050154dc4298ddce09cbdd10ab888630f5cc35c",
+      "hash": "c4bb8495c0fd580911b55786f5647d01b026fd603d03589df6bfbf4904c8577f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/L5jjf91w2owYv5IJpsYNGHsdcoW3tORDSEbnzNG-0LMXRfYk5p2XZsSTsEQdJCtSwceoiY1fC1dMcZkwnIZsRdwZKJsmZVhirFIgdp4oOy4g8J3ijrsXhM7UWF3tQTADeDZlFg4RpyLFtMhGFFXYjUOumR_9h5jipoGYaTfGH1R4mBsUAYWgFLqmhe6wAnVXqwbj2zr4qR8tLBetCHS9HaymdQXhZk5Kf766XaKtkhrP63sYmK61Qv_ftz6wb-6wp9fLAvOWkPzWNN2twfZq9lmPRNiVblUonbg81XTX9qtJ7CLU8l_vbuVjEiCL4Hn2kkFV3rlyF6Rfyps-kS8fNg.jpg"
+        "https://cdn4.telesco.pe/file/NxrrbEfi95EZCzikfMVqd6uxHHlpdth1W7QOYgD2oUt6JNwkiVlnYGxgWJvj2TAUcfRkB8V1RrB_9rS4tyaWnZhuLPW9hy_LxUmCYSLiP6smnSkZ2aIvgOqejSa7MEmE7UW_Pa32GvWmsv9R2Xyxq_trx0tJlzihdVp20C0ScWn0bkF-ofCdVAgEH_KNWVuWstZloSMS8QbbCssk4jiDIbAgQDHr2XewFOD30mXMQ-UNBGyFHlonVohqN-DQKTnqf5VNSBJVeceexeAodUKQh6PDWnPLVgS79VV1CvXFWT0Yy0sbm5ZQ3g6lr4RGcWMgwygVsn247obakYJSZD0pPA.jpg"
       ],
       "title_en": "",
       "text_en": "When you confidently pitch your idea to a seasoned VC"
@@ -233,14 +233,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "bd534b33858949a1b2de0a42b38e14f62dafd54a4d1a3b86cd085219ebb84a86",
+      "hash": "4f8e21e3fed66658a38996e52e9f5ffd0939a8da8759fa5756d824516d55576a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/XwOKRoioxQJUpY-YjxWIZKP4N635W0i8MaY4eOMJur8vbvINWbcxIYOyv3F01zFQ0vsU4JGkr8oWUkHkKHcTEctzoBj4Ze5TBof4IpKv5IJHUFXYsKsBctG9Ur_1ieubw9iDB-_NT8gtLT2xGDsT4ToN2eZ2Qo07cRJqTYBreIGzK3c_bomaT3xnW9ZSjQiWizvoblFi4zS-9sbs-E6OfDBfDIp9M6FixVzUMq5jzNHYuqVUpJbi-9_212t-c46bwrQZHYVjR-OsJ9tqyi2KSroZbuA0NbJD2sqWpR0N_i8r_yyqBX8xAeQYhzfLB9Wd3vWNdFe0Fq0DSw3LISy8PA.jpg"
+        "https://cdn4.telesco.pe/file/CbkDUYr1WqhyFGwwDH8jkJGpBxGGRxMM9og2CRJD9zgZ_Juq-Fi3w6zlJJtzaSl4nKzAMVznLC0QQZKMPBBduF1OyfyTWyKnorRT3TeMBqvLzeyj_X-U6NrJNu1Yi3oWi2jnvSHfiwhGt5-UMtMA5y8bHSSUa1dd_34N_4kcIeoNHJpnjnJRowlCFmN8gPGUkdYPo8Xw-tVq9RFn78p85b4-CKmnLktDNXz2dRuAf_jyfiwuz-0PJl4tYwdjv3LUASTzfMLHTfzoM3m-66lgek_TAH6y4ECO54sbgwGHS8iyBeR4g12z0hUj21buuoWZZFXt-WaZoq3bkRzASinM9w.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you can basically put a conditional “is being swallowed by” sign. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
+      "text_en": "Well, if we’re being serious. I think that, overall, between the AI & software industries you basically need to put a conditional “absorption” sign. All software is AI. A tech startup today can’t *not* use AI. That’s how it is. That’s the tldr after talking to big funds and companies."
     },
     {
       "id": 1283,
