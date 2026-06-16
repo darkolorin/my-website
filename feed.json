@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-16T17:21:45Z",
+  "generated_at_utc": "2026-06-16T21:21:20Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -233,14 +233,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "5bb022be7882b0ac21033e62201143dff4ad3ef40d617ab31216a9e63284055a",
+      "hash": "97cf6c592be85676259b7dc1f40b81bafc2ebe316ff8d8de8cd791ed1ab10971",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/jf6I50ObeRRyAalYYq1RtWB1_lucjFr-fAzsGoGo0Ah0BpKMnY2maQS6UxSokDs-MMZKLNKjB2KuAvaIj2nGtEr2Vx4PZQxJv-tyBYz6q3b0sfFatGBPADRNJsNyaeE2CQxwPJtbLFzJUVUBbba_XJZTRxhdu5cJXcLNNvN1UUzzYf7XKKmxAgl4J1d4OMg1THQwwUvpqc91tINVRh3lbr52L_UzI-RWC18r07WaP3LoB2w92wV5MMaveLi8-kPaJn1iRWS2OXlmq1Bm-utRtW_VQ2pbTYpQ5lDTN7Ditux52jQLXIndtY2l1fs98Wp3ZokM2XScU6F3NnA0GkxsZw.jpg"
+        "https://cdn4.telesco.pe/file/oFZ9wnzTnNrDBkL0n0bNv60fPx3Se8rnEUngMTTjLQIv1ANVozi8eVUDvSTzemd9tkeKatOJKW_5BpPy5EKvNCN3FlNXh_yJCLVr3Z9lwmESQ2PWEjMNEJFBHumG5rH8cqgXSevQngIS1YGR_3ZnkrgQ4Bl6no72-58jpcKhHXGZwIkl0rcYzHtTOhCf8cu761-1hSZNjo0BXZSsxmX1qXquNx0CASxl5EpR3B2AeAwn2dfdcIB0ptqPj7eANBhaymDtPcm76Drh7sDIzIBQHzGbW28gSjovUwMjFoj8RXBtlL0yE8lulwUk0N8w2UOFGUqfZequdz4ARW3u-x0gxg.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but seriously. I think that overall between the AI & software industries you basically need to put a conditional “gets absorbed by” sign. All software is AI. A startup in tech today can’t *not* use AI. That’s how it is. That kind of tldr after talking with big funds and companies."
+      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you can basically put a conditional “absorption” sign. All software is AI. A tech startup can’t not use AI today. That’s how it is. That’s the tldr after talking with big funds and companies."
     },
     {
       "id": 1283,
