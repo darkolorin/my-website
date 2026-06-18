@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-18T10:48:51Z",
+  "generated_at_utc": "2026-06-18T15:54:09Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -64,14 +64,14 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "0766287c3d87eda33c1980c578edf02f2ff1838c3325e4c20704f63acdc89743",
+      "hash": "cf49ff679f5b26af3d36db17bc4ff3cea23369c7d76107867215ae249caf1a6d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/t9osRACkjRE5_j6ePypYjmc1YfPg-x7tTY6T3sC7HUfBQ-KGvN36PetH13y_U_1QahLHh79Kv01Mi_NZKXwSv51-_b7bB_meDUNXFIeI4euDS2Dy22RC0drNa6pEnhBPrsriAdX7YyV19ScdJET-GEC_EpzlS-aCMWfdf7TqJHN1uGNNrp-9ahF3BM0E1lauYIEEcmHxP6RjWbRPXr4kcHID1HzCuzJl3AG-RbU4wKEmiMqt3AUpqi_AaC6fJauxbhATGLbIH8d8-N7fK0LEZ1M2EdwGfYaLLZJn_xEKaCgYb4O11iGtfn5XCjWC_Po6mnV07wM1Awmkac_OwjLAxQ.jpg"
+        "https://cdn4.telesco.pe/file/PUgd_9S32hk3R66fi3kDrGmndRYB9OrNdmAK3Yz39ZcCIEn5abHqhKmv2NdJ1hMGHsSNuA-eqk3WR_FeB7EvqVA2Gf46JNmDGzjMKcmrO_Fb8SOY8Au6Xry9ad-3g07CR0-RWwDcdB_UlsWKJtUvByL5Mq3HH1zs4uEBlWJBz5V2AQRmHSX-VRVvWtyxuxICRGb6EvCJmSInyxRgo1rn40MAK-XyIKXhQHEsK1bGm9wJdfHzMuXrv93TI-lVCS4VIFheajLfAZkJBL8t_2pDtQTdNwWbVvs6-7hSgha1MdA34h80hwlG1XVbfcWEhJx9udiAMdmZWwmr-ObP5R2ewA.jpg"
       ],
       "title_en": "",
-      "text_en": "Ok ok, sold"
+      "text_en": "Ok ok sold"
     },
     {
       "id": 1299,
@@ -132,14 +132,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "3db8dad2e903c23fe29556052e2d1710aa3fe8b52fdbe398483855273a4863df",
+      "hash": "3564790d28ff515b1bbdcbf816e767c66be990b15fdb21a76ab08ca9e3add34c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/bcuN9oHjKF1OkGl_08CjwlifRdMpuF79ntvvHv7jr06267Hspqh8HgOsr_Dh_s9BFbbxfMSXs0HGimDW3w9uwO01hx8LvgArUmjx4LdAGwRmDlsP1Vc-AAgOx-ahp7H6bqaqN4lzX7encbXQANGGsK_Sj79xxgHeZi1etxP9OmjPCQlVIpo6IDWCKLJJfI4Mf_b4Fz8_2-ChzbKDiBTG85Nh8R48wtFrNTMSuR6Tv0s8kF5OLo9fjpWgcBu7rQKX1eRc7njbVYTAliRW_PNnZ9u_bfFlZwglgAGCEq_YFWmbSKv0Q0Ug8A-zTGVggM4_UlTTfvrvhFK-C0MvD4mz5Q.jpg"
+        "https://cdn4.telesco.pe/file/r3mUn1Y4MW48c95BfSIBQGXMmopqUkQJNMxwQD9FPKCGbzVcrRtA2WFHA4WK0vy0OhvCuWwkrXy63XF3M0Xo9ZX098XFmaqQSmA4i0lKLI_tOLGCR440FI73M9H_GYHLXiDUt7L8ABfI4i_n43QX2yG7_lcIDyVU3NIqLjpzqIshdj_7GdWRV12gZTSlgqxMD-W01u4OW52jy119_y6n3J5GBZ4tw11f5yR-wRntt4ek2xhQGSN8yA6ULYTLaNzDYeDzFxHVeC4QrqiVXyh8I8nVZ6bWHZvr1H-cVs3Lrx7GBVG9xboZTJ1AO_2e6orZ68WGhyHe-r8sLWcJbAlabQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like, for everyone."
+      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for everyone."
     },
     {
       "id": 1292,
@@ -233,14 +233,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "4dcd9c8cdaa8d194f31e71515406fd3fe1ba5b5a2d0cc1f421838f49db7e10d4",
+      "hash": "a430656a187afc938cde0d1f15645d930c52856535e2cf9947f7edcf3ffeee2b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/Ik6awGoIOY99z6wGjzCWtViMOf9H_ERUN-JujxcpaD6yvP9ahAjqV3jktkvDFG2YgchzsQFZdlF50Om8h4dwWjoZWEyv0BV7p5Zuoqfz8_Ei_VR9ub3cDZS8ZIdrP_rwSmtoxzdB7ifJW4zv9pmtYv6sCq55AsTE15bvy_gl9ie5eQ9xu9osHndFgypGcm_XwwMZ7i7eMmJAgFKe881a-NV1aA0iUp1QH4a2UV60ok6uT4ZX3Uco7fc-X2tkSZkNC0urEYRJwkFuPZpJVnQYaZyJz0YqQrobBa02MtrqMqypllqQZM3T5gv0NQB-Ts3xZO9iskUMPRb-YqdXjPij0Q.jpg"
+        "https://cdn4.telesco.pe/file/hVpJT6Mi6hvwE9TOHHXxd7Vx6wEFvI4gAj2ZRmEgf8oOQQMDZLrzIY9iKZSpwF4cYg4UkoCIISsPp66jwrCh24WBQPVJPMJBPloXSa_FVS24Ex6g9YGiUAefeLwTpeDFQjjp7U20NuX0v5dpoMeEGmH2W8F8yb6zdG59NMx6rYc4tiHuEfQulfQW3ku80bG0zVPGcP203WylUNO74BnlxnEW06_o5UUuv4PXQ8efG59sYqssxbfOIJP70cr-grrIEVVV61Ma0dMbTfVQwkskYx16OlGgPfnykd03xkuUWQUgmY8c_WiNpHsbVMIVrF-ogrpolsw51yNqYbNL8A81og.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but seriously. I think that overall between the AI & software industries you should put a kind of absorption sign. All software is AI. A startup in tech today can’t not use AI. That’s how it is. That’s the TL;DR after talking with big funds and companies."
+      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you need to put a kind of absorption sign. All software is AI. A startup in tech today can’t not use AI. That’s how it is. That’s the tldr after talking to big funds and companies."
     },
     {
       "id": 1283,
