@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-22T12:26:53Z",
+  "generated_at_utc": "2026-06-22T21:14:38Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,14 +7,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "aeea74bc89445d9cfc24e1a9d3c1b0a0f43512f16e0c8e47d2383ea1e5b7dec4",
+      "hash": "1309f4c207c994f1dea0fdffa553553b6a3456aa77b5eaf60b0a9f3a708bbdf5",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/EehimLMfH59sID1Ii2iJPoWJWVBUOfRrTsneQVtIT3HkOeU2a-HCvOSejemlslUBNlyV_D9JebIIGtA56YX0h_Ea5-FzSZfeq3sl9m1fxqSZwQh29Q2ozTn81COLtvZLwB--CCl8Ojzx4IB87tVsfB1wvYabVD4a2-uKCIelR3Vg2gbfSQBHrfe0VgGrU_HK5MxsCw9gxii3JYOF7nxjynhtvCgH8ZZr5HlXXIHNQe_Pe3f1ImwZXFyaMOB3dkXovFK63jCCfpO4DK4mZmn-fPgLMwgDNB0t_r1orIlpKFTHb9ZWFM3nFvxe0P_fFaWTLCxh69rqbz82VA78LWnPkA.jpg"
+        "https://cdn4.telesco.pe/file/SAIgxt9nLeoPh_u02uOuD0S_15g6fWSYAXwlK9dAZxs1S3eoxe7_ttz1vYl7GDrdZuojFBBUHdm3q-1Dmgub1i_JrkW2VsTMyRMS78tTAk4SItXsWJ9mawt63kR6U4YFq5VLcBrrkAlBjZa8zFLKlu_pGskQvwF-LN0_E1YXRG7-AK2F6yuxGVZthsAYyI2ZRb1132PZNQsTaWbkHCHoAoVv8bvqJV1tIEKbrJ6CixpjIrfllFnRHTTv0AupUgjSPLq_AEJw-02VqEw009fukzZEwKT5R4vehG8uHPTEK1_MOqzno7OFVcl6jfrbFzGQvQwui0uGd3nt_tSCo7Ihog.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in too:\n- they banned fable from Anthropic, there’s some kind of мутные stuff there tbh and politics\n- they bought Intercom for 3.6 yards\n- they bought Cursor for good, all-stock for 60 yards (so is that the most expensive startup acquisition? Whatever)\nAnd meanwhile here’s a nice picture about organic launches without marketing and dumping money in and traffic and all that crap"
+      "text_en": "There was a lot of work. But then some news rolled in too:\n- Anthropic banned fable, there’s some kind of mess there honestly, and politics\n- they bought Intercom for 3.6B\n- they bought Cursor for good, for stock worth 60B (so the most expensive startup buyout? Whatever)\nAnd meanwhile, a nice picture about organic launches without marketing and without dumping money into ads and traffic landings"
     },
     {
       "id": 1305,
@@ -77,11 +77,11 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "3e0dce0db03c187a5bd58d0780b8dbf7440f0aa48bbe5fc590e5e598fbc724e7",
+      "hash": "0e5871b3156160be2c9d4e17e0f745388d1f655085b907937c49e76e2f03bed2",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/uM5-3SHpB4hEC7qGqMCx_xxfZ5RUiEc7o3qA8oT6Gen2SegfiWmowk5SJJIoM2WD0X4pO9bgX61XNLHF7F7xa0wfvoWcq3V7g-sSaFNucwTeOrlOUP1IeM69_b06nGp51a1-q7uNt4_KIne8sFpa2bcaxHZ5Z5jxADxk0mtUfK8UXSAHnHWrDAZVzbii3UR8xuBixtfszrrglmXc22K6ScQMPIRmfd9NnEWURa0mlq0xbsfB08BJIr6bQDT8D0ZJYTG6y2i5f3FMhdM7X6iL7Q0ZhwVf-RJHW_4sRGTG_38iZtqpoOAA5kR6OU_Ze76bhsIodfIusEa0vzBsh16KqA.jpg"
+        "https://cdn4.telesco.pe/file/KKh8n1F21YSssgT69BdKQhXYW_wiJIJ67yzxomAqmsyFzTcFzamHB7-cz5MDWHgBB_qf8ivBVkdEqmER0gquqGnmsEuDPht4G3Hp_YsA62QTwEL_DqQTAFnmKLeW_SBawa9FrCyDOWtMuJvUDAERWCG4m-7cvYnFFkF7kB4AvBoHE_moaBtTBz_JWirT7g5YpdFVI1sbjtnAodmmmc2pID3xJMIjhu7nF2cNArQy62WCdIaoqCme4RT8APlUtCYelVsK5xr9opM-fommJEmaoHbVKCaniZjc69x950f8-ZzYDzGsCdqRMCzyH_xI2tLIEDSfTzWq1cU50Be3wCRvYg.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok, sold"
@@ -145,14 +145,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "fcb917611e4d670752b47bc1ed7492afac9fcd6dcdebac9a065284839831a4ef",
+      "hash": "40505ef982b5bf3c0128a45ea6b532e21f39ac4ad2f18f4cb6cd01a26b7df424",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/LNYEmvtPuwZP76l9poNn9C7rHE-D1y-TJJW5F_1HALxQ9FGJTaO9s6r8iGgvGM_i48pYsRvOLIGY-iKkhWoJhL4APBd3gdC3uTGMTY63uWfDhEACUuWiLhDg9xBw-4kU23XEMyvzxW89nbeTFfxknK9rojJ3eBd4zsM08DUq5Sfemzv3Eeoy-GOzaCu5k1B4YWwDnCd_0hRveVXmxpfeoFh2RL556YxFEj-hq9L41Ilebwb_-HC-JJZIlHw32yzJ4JaCQK9QZ3j-nCb-0irI7Hd7LqD4bCE6r51zT5ChE3dverfIxpjvIyQ8e0c2BtOeMkGTsarrA1Snzpc7pMsttQ.jpg"
+        "https://cdn4.telesco.pe/file/S5qSO1kH2n8cf4AH9erScF6K2o9yE_RhvAUFjA332Ick1lo3mhVLo586gaMTnOoQJSOiaVYxrZHOhENZ5_0ZjHcaUNNUmeP9GIqfhhuki3PvqKykC4LKBsAdVOeKsUiphyqS3T9yTNOLUfR-t4Nh-GAM8IjlizqeZINIbBIM00Ys4lBmri6w6zXxH6L6I_floZF-ySK9untmFxMWmW-v7a460gxj5CHSSH7KApATvG-oOqg61ef87pIUxrqBhCyzmd2TIgM4UbpNejYrLFnYcXnqObi-MLwkqwPLlB9Qu3LF9btNw32n7r9E4ZAHgIGXK_Rz2Ku6QcMp3BGcC_gUHQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Feels like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
+      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
     },
     {
       "id": 1292,
@@ -246,14 +246,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "900e89dc6f7a141a9fd5555c8a24f794501a900cb50ffe66fcde441e27439a13",
+      "hash": "15d36820bb93c12c73afe7ae2cb505564213383b7a68bc149e3905e40e151525",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/q4i1brOiR8rGMr2yT8m7dEoEfLg_wtW58JMEyxph2IOMYtPpf_r0R1iMzMYWs-p6cXkobiA1dvZkNTEo-Y07PisDMIjcxcNdjXiWf3A6ZAkbIgCSfntQFO4DsHXEEffu8x3MeWcoHKwr4EaXlWEe2SbacL5rtpuk0C-gWhykKKCLVYoIxUkmwd_l5mGnb9LPe3QEq8qFCVJZS-CVSIEVcxw3NLX7b6q2naSUmEM38PtRV9f0Rh_PRknC67MfB7Mr_uox5ZddJW645ukMzS8ahdzufumhzlwFOwUvzGsl_b4AGMufw7WU68tMTLbAziyWA1VaLv70lQUTXtnFA12Qhg.jpg"
+        "https://cdn4.telesco.pe/file/cOGRE4GzDoPF9b3yIbhFXcpkMui8Gh5vGlit-ffhRa4g-uP8gdsp_pEVUc0WX3d--vcU7pJr_pypmJMK5IArV3uoVR852JZ4pyODVjFsRUKvWpBpja4xa2MDgreRN2VKm2YbnGTsfZcujKn6CSZaIbBvt_5_O08ESdKYyPheRwkZJ6IP-HPSobeh6oUxq4H1xnC_79-PNeux0v26XRhqPOiUIL5tyBUN6FfFrb5_drZvG4gF3HbZ7fw2uFoGGL2M_Ho96A0r5HAzqHFcqROnSRhK_X-nU_HdkFeB5uoOiSe2bAy6uXTBGlhRZGzsPIgBQwU-3xnOE8o6E0oWEqAi7w.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, if we’re being serious. I think that, overall, you might as well put a условный “swallowed by” sign between the AI & software industries. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
+      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you need to put a kind of “absorption” sign. All software is AI. A startup in tech today just can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
     },
     {
       "id": 1283,
