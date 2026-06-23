@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-23T15:25:34Z",
+  "generated_at_utc": "2026-06-23T20:23:00Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,14 +7,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "1309f4c207c994f1dea0fdffa553553b6a3456aa77b5eaf60b0a9f3a708bbdf5",
+      "hash": "57e26f6dfd795e800b31fa8da3d937724d43c269a2a4a4eb5efa675ef9aee9b0",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/SAIgxt9nLeoPh_u02uOuD0S_15g6fWSYAXwlK9dAZxs1S3eoxe7_ttz1vYl7GDrdZuojFBBUHdm3q-1Dmgub1i_JrkW2VsTMyRMS78tTAk4SItXsWJ9mawt63kR6U4YFq5VLcBrrkAlBjZa8zFLKlu_pGskQvwF-LN0_E1YXRG7-AK2F6yuxGVZthsAYyI2ZRb1132PZNQsTaWbkHCHoAoVv8bvqJV1tIEKbrJ6CixpjIrfllFnRHTTv0AupUgjSPLq_AEJw-02VqEw009fukzZEwKT5R4vehG8uHPTEK1_MOqzno7OFVcl6jfrbFzGQvQwui0uGd3nt_tSCo7Ihog.jpg"
+        "https://cdn4.telesco.pe/file/rq1xv7VNnUXvHEjFa2I320ZzRcVgo-IiL0MQi2UyohE17OSlvDROwKi6j3aShq87kSAc-fcGaIYeH4VCdxE0ogRY2ea16UXcrqrHAxcehUnsU2l-O3HtaYLTyKSW5bq6H01a7Yug95hN_RylpBWQw7jaHR4TIXj4LI6hWNjDH79nS2O-LwoG4NIxCOYDJV06kozK5wGP4eES5IzrEoxJ2pdpTy7cWb8PocBWIXPAg66gvqYDOQH-8BOxqC7wCH8S1OJ2V9UeLDI3qQY0pxz-FTgYt96V_LVuVCyvdSy8ah0dqw5dXwe-iCjguVvsFjka3Dh5Ez6XDRuF-P5bHZfXJw.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in too:\n- Anthropic banned fable, there’s some kind of mess there honestly, and politics\n- they bought Intercom for 3.6B\n- they bought Cursor for good, for stock worth 60B (so the most expensive startup buyout? Whatever)\nAnd meanwhile, a nice picture about organic launches without marketing and without dumping money into ads and traffic landings"
+      "text_en": "There was a lot of work. But then some news rolled in:\n- they banned fable from Anthropic, there’s some kind of crap there honestly, and politics\n- they bought Intercom for 3.6 yards\n- they bought Cursor outright for stock worth 60 yards (so is that the most expensive startup acquisition? Whatever)\nAnd meanwhile there’s a nice pic about organic launches without marketing and without pouring money in, and traffic and all that stuff"
     },
     {
       "id": 1305,
@@ -246,14 +246,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "ccd4a67f56b0a640bebd5aaa260ae0a3806b6ced40bb3eeafb72537511cf4eb7",
+      "hash": "f1f982cdbaafa7f3ad607207282d11a7f824dad96ae6468d09b03f7c76fc8be8",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/nappMGAWkqem-23rK3YsnaGFDJ7OznoRg5fBXNQu1_T8kTwgtVpw4cyfIC7jSt7Q_HDR6T6zYc4F5HVKxFS23Cq_BqDpcVNX5N4vkZfR5-Ua5rpBfdWH-7xyamNaV2iFAZDrEMjn25WByT-Wvruv4N03YhuLGpeZcIkHu20dsit1VD0Zf7lf-2uJHWyi8d7sYDAY_8sfMEH7FJ8kl4yY17BkPm_an_YbWs8n-kuw06mKTfSUoBTbVlPbxiULbC3b7VmspcXIIupSDKZGEXDt2xCpjR158NJFJsYrIJGvFL0kiY3Jkz45t_AZkVYt7uwbA4b0W7mzD4Dmi6l9xF7QwQ.jpg"
+        "https://cdn4.telesco.pe/file/Lq8AEuun_tVrw-tXlHDI7huvBOlN7TX2Bf3WZ0ht-U4WyCgsFOM7Efi5ekDvvJpMhScZEE92Xv1u3nY8NB2bOrAjak_Xv4Sx-GYIOol6uS31kwl5hWxkeAlH9PKFiuXNU0F8exYFnbSlV5x9oOugXo90AwLgizjxI6co_-Akk1RzfbitPc991tRP5sjg6eqWt8OAziYX44_0fwE9GlBpLOWJXN-la3U11R2yODU17qbVIcSqqoAETiFfIyFtvGQXKOsKJiOiX6G7Eow9I27G_no5MXy76_QX-7ky_DVeW6pxvHj5AvQE9IxR3t4lYcQDroCHW_gpyOd9aY9VztSobQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but if we’re being serious. I think that, overall, between the AI & software industries you can basically put a conditional “gets absorbed into” sign. All software is AI. A tech startup can’t not use AI today. That’s how it is. That’s the tldr after talking with big funds and companies."
+      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you basically need to put a conditional “absorption” sign. All software is AI. A startup in tech today can’t not use AI. That’s how it is. That’s the tldr after talking to big funds and companies."
     },
     {
       "id": 1283,
