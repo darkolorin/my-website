@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-06-24T09:52:01Z",
+  "generated_at_utc": "2026-06-24T15:09:00Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1308,
+      "url": "https://t.me/chillhousetech/1308",
+      "date_utc": "2026-06-24T10:29:33+00:00",
+      "hash": "fe9655d18e15e1ee5e2bd144f429f2769646a680f6099ae1d3825a2e5e796e97",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Немного наблюдений. Про «поиск работы». Регулярно натыкаюсь на русскоязычные посты ака «я крутой, но такие дела, ищу работу». Попробую со стороны нанимающего высказать свои пять копеек:\n- если кто-то очень крутой, прям безумно вау и все вот такие метафоры в комментах «ты вау», то какого извините хрена ищешь работу? Должны быть причины и если есть неконтролируемые обстоятельства именно с них я бы начал\n- все эти странные чисто наши присказки: моя суперсила, лучше всего я умею видеть «прибыль/системность/собирать смыслы и превращать их в релизы И так далее» это про что? Никогда не понимал все эти абстрактные описания. Представьте что футболист своему агенту говорит «я вижу философию команды и умею понять как собрать волю в кулак и играть». Так блин все такие. Дайте что-то, что можно пощупать \n- первое я сделаю это пойду возьму референсы, если позиция выше линейной, а в описании ровно про это и тогда мне все ваши «поиски смыслов и умение собрать системы» пофигу\n- бывает по-разному в жизни, но всетаки необходимо свою крутость привести к измеримому руслу либо через референсы либо через метрики\n- исключите свои вайбкодинг поделки пожалуйста, они показывают ваше полное не понимание рынка чаще чем наоборот \nИ я ни разу от кого-то на рынке сша, где типа конкуренция похлеще не видел постов в стиле «я супер крут, но дайте денег ищу работу». У меня в голове как-то эти две вещи плохо сходятся. И наверное поэтому так тут не делают. Edited: на позиции выше линейной. \nМои рекомендации, после просмотра тонны резюме и чтения постов и реального поиска людей к себе:\n- пишите честно что делали и сделали, не украшайте, если ваша позиция не линейная\n- фокус конечно же на том что важно в отклике \n- уберите все суперсилы, нытье, ситуацию в жизни и долгую историю, это отбивает желание говорить (мы ведь незнакомы)\n- показать желание важнее всего\n- укажите кто вас может порекомендовать",
+      "images": [],
+      "title_en": "",
+      "text_en": "A few observations. About “job hunting.” I regularly stumble on Russian-language posts like “I’m awesome, but yeah, such is life, looking for a job.” I’ll try to toss in my two cents from the hiring side:\n\n- if someone is sooo awesome, like insanely wow, and the comments are all these metaphors like “you’re wow,” then why the hell are you, sorry, looking for a job? There have to be reasons, and if there are uncontrollable circumstances, that’s exactly where I’d start\n- all these weird, purely-ours sayings: my superpower, what I do best is see “profit/systemness/collect meanings and turn them into releases AND so on” — what is that even about? Never understood all these abstract descriptions. Imagine a footballer telling his agent “I see the team’s philosophy and I can figure out how to steel my resolve and play.” Well damn, everyone’s like that. Give me something I can actually touch\n- the first thing I’ll do is go grab references, if the role is above line-level, and the description is exactly about that, and then I don’t give a crap about all your “searching for meaning and ability to assemble systems”\n- life happens in different ways, sure, but you still need to bring your awesomeness into something measurable — either via references or via metrics\n- please cut out your vibe-coding craft projects, they show your total lack of understanding of the market more often than the opposite\n\nAnd I’ve never once seen posts on the US market, where supposedly the competition is tougher, in the style of “I’m super awesome, but give me money, I’m looking for a job.” In my head those two things just don’t fit together very well. And probably that’s why they don’t do it here. Edited: for roles above line-level.\n\nMy recommendations, after looking through a ton of resumes and reading posts and actually searching for people for my team:\n\n- write honestly what you did and what you got done, don’t decorate it, if your position isn’t line-level\n- focus, obviously, on what matters in the application\n- remove all the superpowers, whining, life situation, and the long story — it kills any desire to talk (we’re strangers, after all)\n- showing desire matters most\n- specify who can recommend you"
+    },
     {
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
@@ -77,11 +88,11 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "26d816886a6eca6f88e20b2d0151afa22a4aa8295c9639b8690234f2eda14c10",
+      "hash": "c88a6f5a5f9714a5ab37fa54440774ad4c417e640da3717245da9d4a76218f06",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/qOIx-InbHDj7UL5QYfPnr9iAjAjFMUK--32ieUBcvQTpSFCEy-lVQeFbjMJf-5ms4s71XfbhlPsgdSEixRdvzKI9GeoNVAVpPryGEb7vzzdh6sQm0jMGkKEZL2V_Kl57O1hKrSWp9Ch1qcRO2mYK--V3wWdgcFNsP5ceZXYy650eewEfxXIi9Aiab51gBfczaGRpDrpdPnlUOntvGDXWcNoEatIuAR_AMSqQJiumQHMuEgocqH8QTqyhPtuQAOPWl0UP9KEqOVkO5j6ib_5eD_iDd3GBkaXQkWGCV_MAsGShKiM8rFqnVkuO2MTnwHaPuZZNiA4ipoMCSGg56mTgJw.jpg"
+        "https://cdn4.telesco.pe/file/v_q3FttvcjGTblqXIZeU3PTXMUKGlditkl1fd3UyS36dbwxEh8iMaI-OChYTYGhCXzJ-RDrNl9r1Ny8koxyalTDTLpUcVQv8fy4xc-kEu-6PRmr6aa0ncW0zXOfWLkYy_U138EqVUOSvx77D1zfM-6KE3m8ZuLeWydobvaUpNFD7LOY4-tyMe_9ocACtSwo9hGf21Fn47yAy-BtUf0WJiCQQScvRMqSNBB0ygGFdDTzYjSyYIhbKzYbo1IIAruIaUHkp8O67NZOEmYck9phUkKik2cl_qiyqmrYT3M04a2oQU2bHYnHsXnTMKga8h5lwdnl-_uZ5E6nnAt_lqrbhdg.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok, sold"
@@ -145,14 +156,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "3f4db322ad9067ad5413c01e40efd0b87d83df0f04afb48415564c7e42e77a2b",
+      "hash": "b52231d6696a603aa68a123a736af132dd6c0b81bc65b7f6252a3238e01d9869",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/TP4acLi98A6v9izx58zJMg3ngPxVD83iqAxOsHVESEr-OSSYJDE--w7IHzydt5cOyiKGtGVtI4ZH9hMOB9LQPZBADmtLC1IVmo-OEU3rugm0fGw6xgnyf7TQYR_1psc_z33-uIKWiZY01Iuq8yTAVRyhEA2T3ttUP1WfTEgJ4L9Zzf692KqbXrKV3iPMks6qkCHePkMv4oGShPtets0AIq4gBUk8kwEe8yKKaXDbI4KsEqXNvvvtQKg4iqehs5dgmxheo-wISy_L6QQldgHHbjX00t2tGS5MjCmwgHp0Gk2qd-QURg01x_iJcnTU2Q-HtozrVL-xwH5Tv-yBmPTq_g.jpg"
+        "https://cdn4.telesco.pe/file/rQBwyIvl3ab1pEGMNs52SAPSUgncPYsJvDRRVad169GTmc4MWtpBH0PYFoS9b8Sh3CA69pPtuP1zLtGEE97BsS41MHIVbuS8P-9iFv_1wgnVGIBUccNc2UEe1AwJILbpSXLVrSgZ-A9P12U7Y8hlwvJGsFXvALum_SBBH-fwkGTu3WIqTFYCWpYICSiSs43Lwp0FHMPrFbkBZaLKYf30W6jcZp1y9BC23IfxKD1--mZWa01bMJ_3xJaPiy00GpD5xqTiNnMUqn8ahMOCeYWQGz5fr01qhVDZ5eVytNCyZaGoFNx_FHvLmFvboHD_FwlqA2ZYupRAmFXhE91TZZU2yg.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
+      "text_en": "Feels like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
     },
     {
       "id": 1292,
@@ -246,14 +257,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "8342ee7279de098e7185ab35212cc632e5f296724a6335676142ef0d0b4139c9",
+      "hash": "b383c9e66792429cde89dfe4e3034d67ebb4855a0ee3a41c9e58b3d3f8b66eeb",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/pqg7UyYp-ssLFkAXus83Mfg5LGitzMf8Kc6KxAk858WqxOCy8GxQsQ9F6az1yUu-qJ4Gxb1PHA3xMDRLBKXkFz8niUb3Ou8Uux-gVbVmuZtUmohCf_ErEZ-SZCcHWJUysmom4qon5sqoDmYExs5RMP8_grGId_45D-Qu1SgF3gqIqcwdlyv16mRWpi4FGB7N__hzWI6f3oxYTTKbmiOwqaNBhAPNx_10w_YRYnNd8dJ6iRYFYqBpru95EgEQDEuf28nSvoV79c-DMIqVMu3kAD735zovlf1IuW1LqTn_jBwqUCgDKXhdcp4fjzjKFtZIG6uE1kzGje4I23MvyyDKPA.jpg"
+        "https://cdn4.telesco.pe/file/BAntMYhbgW8t4T1Q6zwhEbZAysySKcmLLRUZh46SEx638n7LsXCv4c0YFuSO20nzmOnIQLBdfTO7eELkW76bCvBo-1Xc9J_7emZTR-xK2dkeD964ztPIwrAu35N3RgHMoHMWm2N8jGAofqI6UZdqwIWNAgpQNLrxcopfdC2n8B7l8-9_JPa9sfBfavjRogd0iIoA-TnL63aPMmzwXgsOR6CMGFfeCyaW4j0DrUo4D_KNwkIuJvabKfkIgvi3vZm2rRD-gsxfw0I2k4bVfZu1bWjWUu4X1YZ97rBsoGK2iTH4Bwxxlh9CUPumEfES_RsUQUITNXbReoTSTLjhTODJ-A.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you can basically put a conditional “is swallowed by” sign. All software is AI. A tech startup can’t not use AI today. That’s how it is. That’s the tldr after talking with big funds and companies."
+      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you need to put a kind of “equals/gets absorbed” sign. All software is AI. A startup in tech today can’t not use ai. That’s how it is. That’s the tldr after talking with big funds and companies."
     },
     {
       "id": 1283,
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "I’m always kinda amazed by the dudes who write “like, through our service a gazillion websites or apps or decks got created,” so that means we’re riding high.  \nTechCrunch writes that the number of apps in the store is growing at an unprecedented pace.  \nAnd I’d be asking a different question — how many of those apps have users over the long haul. And will anyone keep using all this going forward."
-    },
-    {
-      "id": 1281,
-      "url": "https://t.me/chillhousetech/1281",
-      "date_utc": "2026-04-28T01:44:26+00:00",
-      "hash": "c5ab4bbbc2ad795bc3ade1fcef270149db6db7522046c71491911b6b6b93a6fa",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Дайджест «перспективных» стартапов, которые ищет YC этим летом. Ну кстати были у них говорили с партнером и как-то он такой «да ищем молодых амбициозных и все в целом». Ну помимо видимо еще хотят что-то из \nсписка.\n \nОбычные вертикальные аи решения (сомневаюсь что выживет кста, ну если только не сильный энтерпрайз) для личной медицины, агрокультуры даж, всякие corporate brains (так видимо вики внутренняя теперь зовется). \nКак обычно космические датацентры и supply chains. \nНепонятные категории типа «стартапы которые продают очень большим компаниям». \nНу тем не менее как срез рынка полезно почитать.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Digest of “promising” startups YC is looking for this summer. Though btw we talked to a partner of theirs and he was kinda like “yeah we’re looking for young ambitious people and generally that’s it.” Well besides, apparently they also want something from the list.\n\nThe usual vertical AI solutions (doubt it’ll survive tbh, unless it’s strong enterprise) for personal healthcare, even agriculture, all those corporate brains (so that’s what the internal wiki is called now, apparently).\nAs usual, space data centers and supply chains.\nWeird categories like “startups that sell to very big companies.”\nStill, as a market snapshot it’s useful to read."
     }
   ]
 }
