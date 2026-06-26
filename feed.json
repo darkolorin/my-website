@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-06-25T20:23:24Z",
+  "generated_at_utc": "2026-06-26T04:41:16Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1309,
+      "url": "https://t.me/chillhousetech/1309",
+      "date_utc": "2026-06-25T23:23:44+00:00",
+      "hash": "cbe06d2ebbcd12c27c821fe94ab2c05868c7c22ee07ac0158cfe5dd91077b2d5",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Айяйяй",
+      "images": [
+        "https://cdn4.telesco.pe/file/udLKVF6jS1wiysPGjIYuDv7W3WApPrkzUqN-NOFGZHChvsisYHRE48bwI6hHIQK85lRxiQ1KVEdMN_w6UrKTymyy7DNZyAc0YzroQU1hMKpQ0Pan3dTeBBz19YxkYnOAhcS5XyZNC-kHKmSPGPBKuUVjM77FF1Rf53AOyzvBDUXnraJqQ7RpDCdRIUxmTyYc0OH6TNKRzmrN4_nnIvGddL8HmW3DCxWoJ_q4h3hqOvzcFAvgBHPMCrqnpIruAX_eHCbM4bwJPP3ngK-bP1fO-bnOEkGetFrMIzxiK0AXmWTrKqvO5W5T0GaLjEw4ZlnY7mHfCcMcMpCS_TKIQU6wqA.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Tsk-tsk-tsk"
+    },
     {
       "id": 1308,
       "url": "https://t.me/chillhousetech/1308",
@@ -257,14 +270,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "b177ecaf3da6672224c1a5cc6cf3555b2d407a3b64932ce8aaded83233e58400",
+      "hash": "006726f73cf59c2a12dff7fc3ce9717b60c46bd6a57a13972d577620600edc06",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/ZDMMZGft5JN2XKT2A2lOKxic2KFju7ZnJPPFWhlziOes9DB_2QgsLvMGTCMXXUIiByFQGOdWjxHT9Hf_Toh3i2dQiagBbcEpyN8B0ohXKNrt_fJ3Sx77Ki_XNEC18ntJA-uC0PU7diHDVHxYJ09MKGVIi3nvYdi-5viMbrea2Pb8UpL3G7tU53_isUrX6WEciFQWge3rPRGd8ZC4_2q_Y9MfI_WLAK1DYdrOu1Y4Z-4eUJ_GxWns1wjJiMI2fUl2zocd3EZp1BYpB7pO4ilmy-UHxVTj-gdNOTAyYpuLp5XAposP_oZToOCZK1tf7MIFH2FuTYT9uCP1RYlitIUg5w.jpg"
+        "https://cdn4.telesco.pe/file/nfjV27644ekjbwLGUwanQGhUz0hOTVr9yxkxhLy1f3899ROhGn-Snj98wzvei_BoA-7kPuXOA7rOLMFnv8LRKp7yxjstw9wH-7s5lgsxi3rbZDCA7oNxINxGr2o5l7IQRM1ZUayHY0iRFFh9y-1b_m9lezlYzK9ueVwxqL1G4xd47SxYMjkvgqkE53VcXij7ZfiMxU-FtYVD1aRFPrSEdXpvfN5DePGyd8Xzg0_a0XkiBb8cB_gPIUNvRJH8xRy8VlK92xIeWJQw-I8gxXJAjLv5KxivbaEfJcheYDA3Ga_TWooMUU6dQSIWQPpJjWyTlmZNHxHe8TEyDPeNJ36qYA.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you need to put a kind of “absorption” sign. All software is AI. A tech startup today just can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
+      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you need to put a kind of “absorption” sign. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the kind of tldr after talking with big funds and companies."
     },
     {
       "id": 1283,
@@ -276,17 +289,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Anthropic  \n$44B ARR"
-    },
-    {
-      "id": 1282,
-      "url": "https://t.me/chillhousetech/1282",
-      "date_utc": "2026-04-28T15:57:04+00:00",
-      "hash": "c049cead2a06a1da2f32617e4b575761bd1a3e79bde4590ce46a5da1863742f2",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Удивляюсь конечно челам, которые пишут «мол через наш сервис создано стопицот сайтов или приложений или деков» значит мы на коне. \nTechCrunch\n пишет что количество аппов в сторе растет невиданными темпами. \nА я бы задался другим вопросом - сколько из этих аппов имеют пользователей на дистанции. И будут ли пользоваться всем этим дальше.",
-      "images": [],
-      "title_en": "",
-      "text_en": "I’m always kinda amazed by the dudes who write “like, through our service a gazillion websites or apps or decks got created,” so that means we’re riding high.  \nTechCrunch writes that the number of apps in the store is growing at an unprecedented pace.  \nAnd I’d be asking a different question — how many of those apps have users over the long haul. And will anyone keep using all this going forward."
     }
   ]
 }
