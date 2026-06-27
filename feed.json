@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-06-27T14:07:45Z",
+  "generated_at_utc": "2026-06-27T19:46:50Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1310,
+      "url": "https://t.me/chillhousetech/1310",
+      "date_utc": "2026-06-27T17:21:22+00:00",
+      "hash": "b3e3882fc5f2493f1285cdf63658b8c373c3b880b9cba3788f206e9b007189d4",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Помните спрашивали про децентрализованный инференс и все такое. Так сказать пища для размышления:\n- вот так выглядит нормальный \nстек\n, как думаете реально заставить игроков поставить так сказать?\n- в чем принципиальное отличие от обычной клауд инфры с OSs моделями? (OpenRouter?)\n- ах да инференс сам по себе должен идти вместе с другими тоннами фичей\n- если модели мелкие что их может хостить обычный чувак, то это значит их можно запускать локально, а значит бесплатно \n- ну и да, кто блин обеспечивает SLA, поддержку, да что угодно важное для бизнеса? Правильно - никто. \nИ давайте никогда не пользоваться тем, где есть слово «утилити токен», нас же жизнь чему-то научила. \nНо наверное поиграться кому-то может интересно.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Remember how you asked about decentralized inference and all that. So, food for thought:\n- this is what a normal\nstack\nlooks like, what do you think, is it реально to make players install this, so to speak?\n- what’s the fundamental difference from regular cloud infra with OSS models? (OpenRouter?)\n- oh right, inference on its own is supposed to come bundled with tons of other features\n- if the models are small enough that some regular dude can host them, that means you can run them locally, meaning for free\n- and yeah, who the hell provides the SLA, support, or anything important for a business? Right — nobody.\nAnd let’s never use anything that has the words “utility token” in it, life’s taught us something, hasn’t it.\nBut I guess for some people it might be fun to play around with."
+    },
     {
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
@@ -31,14 +42,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "b47691bd68941d5c4f5916895954eab3f6d3128bc3d99fe695ebfdc84255ddc8",
+      "hash": "867f043487821b9d7d63176de6447fcd731447ac049c2dfe6bf47b48d15dbba7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/jqZSA23LRJnHyrcQBrbX4oUa8By3B3pf5GNQhfiKMemFtxMpJ66zzt3q-YScjt6DARfGxmXEgNqSfBaeXYweht03Hm6j1fcldgFt05uhT5buhmjxpp169QC_wdxwYOivftMcE9l6TpigkA0CiL1knR67Sd0vRw-uJ3n7AOX_4rDPx9atHuG76Ssq92P17j-WEuEoEV_k_p6YGP-rzA95SJt____IpURgpgYz4zk7BQWFfbYIb65MzNRDl2pXd_rUZheES8IGLHKmRauWbmeOxtQKa5khrgDMRKepg5eAoU-pbaBz2wJMWDxes8jk3w891_WEyLxMK1QbMnISf0FM_g.jpg"
+        "https://cdn4.telesco.pe/file/TgD4uQ49Q_xUFIhW2xo0Lwi3NAqEWnVEnO24Qj86g6CaBCni-ZyItwpvbHDc6f9nHqT7GHfG2l9TiBciZ1Zt1iSpCzEnK21FrcpU0Sxj_9gpm1p8NFEhYMMxBvGW5tjLGh11sKdjWOOV0R0t9PmfKLrOqowIrRFxl6ORFvzyG5KyMdBx5dMLxF1H3o-ze1Wa0aW_m-K1fDizZqJoZ-wYGPmp9f8IDmq2ptXto8hflXAnLLhgENYPNxHukNemvDh8X9nTtaLsRwAZZlqJXkFnBRKaQwDBqsQ5Q7fiqeXeDMPmfHWKkcVdlMuP8_PFmXdBQHN23TwtwxrP8pMsbYfpug.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in too:\n- fable got banned by Anthropic, there’s some kind of murky crap there tbh and politics\n- Intercom got bought for 3.6B\n- Cursor got bought out for good, for stock worth 60B (so that’s the most expensive startup acquisition? Although whatever)\nAnd meanwhile, a nice pic about organic launches without marketing and pouring money in and traffic and all that stuff"
+      "text_en": "There was a lot of work. But then the news rolled in too:\n- Anthropic banned fable, there’s some kind of crap there tbh and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, for stock worth 60 bil (so that’s the most expensive startup acquisition? Whatever)\nMeanwhile, a nice picture about organic launches without marketing and without pumping and trafficflooding"
     },
     {
       "id": 1305,
@@ -270,25 +281,14 @@
       "id": 1284,
       "url": "https://t.me/chillhousetech/1284",
       "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "52c658b8bbfc130bb9f2ed4a1173f8dac01b9d89ba386f6a00c72a2c05a004fa",
+      "hash": "3d9e47bc8915e30fc65b7bd85aeef966c097e9d79138684da07035cd32da0d6f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
       "images": [
-        "https://cdn4.telesco.pe/file/BlDe3cvemBgzcsR2kPjfixeBgJElm_RurXDT2LopNC3DArsy8e5QKxDHSh1Fpml1Blt6KshPlvYFqhAijFhOWXGtMFM8qssNGayC7F1Y3PeL_Wvy1Aw3am4-DCycgDyXIcWv9ac_-NY3j-Uuy_XkMgyMMoZw9eCVoAHHDeaWADPfQLodU1FDVDL9NgQwGFdVhsvJfrPouTDmBCWUOjjLSKMYYQG7BuFp0iY6NGzWoumzzXlC6KnY4McCO1f2S6gW7nk8i_zwiZlPcdo9eSuXhlTO8UzEgiorSrPLb_1A9IDMvQ8-LXOmKFP6CXx16uYXPEZ2On6VyrrJYKmqNJCX7A.jpg"
+        "https://cdn4.telesco.pe/file/LTBLOqMzs1ybadYA1zreZm7wQSfYxMErvOJZyspvscbQ22s3sYBFyffRS-IVoQ2a9sp8_iZnp3KoQaWs1gNSxjK8rlpHC6eD0cSVsrSI1jn0Bx9W8q8Df-pHiwAmeqStnjPxsU0M0t6JpqZMcl3AXPEqMXEHJCsHnAWlV2hIMcvmTTCqHNFdCEMG7F-ndBxT9zZgxH47Vsu06y8-RSJ9iIdFFI4IE2CQRHFAWRcIzgiZ8PHrkUMIPqFgK11sGT9ACBvrVy5F1GL9EGXPqEk59Brf4AGWcpBSK50A16rmf2qXDzYdkWMIP20fi4ZzzXYKqEUwQKm5U2Xs8BmRAEyF5A.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, if we’re being serious. I think, overall, between the AI & software industries you can basically put a conditional absorption sign. All software is AI. A startup in tech today can’t *not* use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
-    },
-    {
-      "id": 1283,
-      "url": "https://t.me/chillhousetech/1283",
-      "date_utc": "2026-05-01T14:41:14+00:00",
-      "hash": "20c8e58405c8575173c84c299d6bc06c7a36d6475262cbad3714492df9bffb89",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Anthropic \n44B ARR",
-      "images": [],
-      "title_en": "",
-      "text_en": "Anthropic  \n$44B ARR"
+      "text_en": "Well, but seriously. I think that overall between the AI & software industries you can put a conditional “equals/gets absorbed” sign. All software is AI. A tech startup today can’t not use AI. That’s how it is. That’s the tldr after talking with big funds and companies."
     }
   ]
 }
