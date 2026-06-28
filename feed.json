@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-06-28T14:17:30Z",
+  "generated_at_utc": "2026-06-28T19:46:53Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1311,
+      "url": "https://t.me/chillhousetech/1311",
+      "date_utc": "2026-06-28T17:24:33+00:00",
+      "hash": "2822d79055ea4707d8f81cd7036076f5a71f11e117030cff6c492ba1ca75fd45",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Свежий тренд в долине. Вдруг (интересно почему же) многие осознали, что затраты на токены антропика и опенаи слишком высокие и может можно как-то уменьшить. И у гениальных людей появилась идея заделать тонну стартапов по посттрейну сеток на данных компании итд. Подняли \n200м\n даже (конечно напишут красиво обо всем и вся что будет там как продукт). \nВ целом идея неплохая для Энтерпрайза. При наличии хорошей команды можно повторить на любом рынке или около того. Интересно вообще ведет себя рынок перед AIs IPO.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Fresh trend in the Valley. Suddenly (wonder why) a lot of people realized that token costs for Anthropic and OpenAI are too high and maybe you can somehow cut them down. And the geniuses got the idea to crank out a ton of startups doing post-training of models on company data etc. They even raised 200m (of course they’ll write it up nicely about everything and anything that’s supposedly going to be there “as a product”). \n\nOverall the idea isn’t bad for Enterprise. With a good team you can replay it in pretty much any market or something close to that. Curious how the market behaves in general ahead of the AIs’ IPO."
+    },
     {
       "id": 1310,
       "url": "https://t.me/chillhousetech/1310",
@@ -42,14 +53,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "867f043487821b9d7d63176de6447fcd731447ac049c2dfe6bf47b48d15dbba7",
+      "hash": "ed00856e678723421a625d329f19935ae338590c59f71344b86f3a46084ac66d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/TgD4uQ49Q_xUFIhW2xo0Lwi3NAqEWnVEnO24Qj86g6CaBCni-ZyItwpvbHDc6f9nHqT7GHfG2l9TiBciZ1Zt1iSpCzEnK21FrcpU0Sxj_9gpm1p8NFEhYMMxBvGW5tjLGh11sKdjWOOV0R0t9PmfKLrOqowIrRFxl6ORFvzyG5KyMdBx5dMLxF1H3o-ze1Wa0aW_m-K1fDizZqJoZ-wYGPmp9f8IDmq2ptXto8hflXAnLLhgENYPNxHukNemvDh8X9nTtaLsRwAZZlqJXkFnBRKaQwDBqsQ5Q7fiqeXeDMPmfHWKkcVdlMuP8_PFmXdBQHN23TwtwxrP8pMsbYfpug.jpg"
+        "https://cdn4.telesco.pe/file/mtlRwR6uB0J96YhyRl8UDMLSXquAOevVcO538Lb1b2hH0_ojZdJyKmQ-1v09iwJDLy_ko7fmD5kb_cVViEgWTtD-GlwLvofb-yWtHTTabBTuzJuAIP7rjDGlj6bv5ApWFhsiWWGPCPn__aeHE9SfGo7lKmvJbqQEXjjsU8rcTfzNhcWouvLnKmuALxvR7wfGEiIGz4Y2_d5ieNtgRBP2JdcCNkJiwtPhkWlX9VgoUraYYgMJ7be4P-EGGiGH61sFG-qlFLXhSEPJeb0A6wN5oBqCR4UQ7mL8D4PrNRUs3UDFGkL6gDqeBGw9fJfnzHJEnOgYy16BbLFxl7GdY3di_Q.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then the news rolled in too:\n- Anthropic banned fable, there’s some kind of crap there tbh and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, for stock worth 60 bil (so that’s the most expensive startup acquisition? Whatever)\nMeanwhile, a nice picture about organic launches without marketing and without pumping and trafficflooding"
+      "text_en": "There was a lot of work. But then some news rolled in too:\n- Anthropic banned fable, there’s some kind of crap there honestly and politics\n- they bought Intercom for 3.6 yards\n- they bought Cursor for good, all-stock for 60 yards (so it’s the most expensive startup acquisition? Though whatever)\nAnd meanwhile there’s a nice pic about organic launches without marketing and paid pours and traffic and all that fluff"
     },
     {
       "id": 1305,
@@ -276,19 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "AI. My two cents on the macro.  \nFor the last half year I’ve been pretty deep in the тусовка, sometimes even around the people who decide stuff and build the industry — including funds, and big model makers. So, a few observations.  \ntldr: the cycle is wrapping up. Better not build startups right now.\n\nWhat we’ve got:\n1/ infra. Here it’s simple: the ones printing money are building the most expensive place where that money will work. Overall the hardware re-leasing model is super low-margin. But when you’ve got ads behind you (where margins are insane), you can invest. Capacity is wildly short, honestly. Even finding a rack is hard (like, getting a b200 node for a year).\n\n2/ most venture money is poured into the big labs. The logic is simple. Training models is very expensive, like very expensive. Mistakes, accordingly, are also very expensive. We pour money where the chance of a mistake is minimal. None of the big labs do frontier research as their main focus. They scale what already works. Top up RL, data, and so on. Plus every lab is trying to get as close to the user as possible (Anthropic is going prosumer, like Microsoft once did — to me that’s the best comparison).\n\n3/ researcher comp can hit $10–50M a year, because not many people have seen how to train a 1–10T model. That knowledge costs a lot. Because mistakes cost a lot — see llama4. Hence VCs hope maybe they’ll make something useful, but also they’re the only ones whose chance of making something is above zero. Hence $100M seed rounds. And yeah, if anything you can sell them back to the places that make models (since hardly anyone can do it).\n\n4/ given the size of the checks, you get a situation where an average startup needs to show insane outcomes, because why give $10M and get back $20M when the numbers over there are 10x higher. Moreover, AI startups have this cute property: most companies have very low revenue retention. Meaning the typical cycle is roughly: a customer takes all AI services to try (all competitors as a bundle) and picks 1 or even zero, deciding to build their own. Your revenue in posts grows, but everyone understands that in a year you’re fucked. This is a real situation. Notice how lovable and co went quiet. Yeah, because the growth changed and it’s not enough anymore. And investors initially gave you a crazy valuation.\n\n4/ and here the only solution is brewing. Grow revenue on paper ultra-fast and try to unload previous-round investors onto new ones — or better, onto retail — i.e., IPO. And that’s a dangerous game. And for those raising at $2–10–50B valuations there isn’t much choice. And at those stages it’s already harder to sell so everyone’s happy.\n\n5/ given that big lab revenue is heavily subsidized, an IPO will unload investors, but the market will look at it all and say “weeeeell not that great a business,” which will create a cooldown. And where do they pull money from, right — the riskiest segment, i.e. early-stage venture. And the odds that consolidation kicks off only went up. The big will get even bigger, and the small won’t have a chance (see pts 3–4).\n\nSo there’s this meme going around the Valley that Ilya Sutskever’s SSI is a hedge fund. Because he knows exactly what’s going on on the ground, and he’ll definitely be able to make money on all of this. Such is life."
-    },
-    {
-      "id": 1284,
-      "url": "https://t.me/chillhousetech/1284",
-      "date_utc": "2026-05-03T22:47:27+00:00",
-      "hash": "f6ab6e67d4d024ccbe04c682e4054fa2de1aa6aa1c9993b30bbea1216fec7ee6",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну а если серьезно. Думаю, что в целом между AI & software индустриями нужно поставить условный знак поглощения. Весь софт это AI. Стартап в tech не может не использовать ai на сегодня. Такие вот дела. Такой tldr после общения с крупными фондами и компаниями.",
-      "images": [
-        "https://cdn4.telesco.pe/file/pzcLABLG_bptfQ9tdVFLLw84w_b7am1EOtrSV8CaHWp_aqG8AVBtv-sBXQmNT6g6vuIquIXuBVWjJirIstG_noXAo-QNqbvzv6gCjU8vJPP7P36BKnvvVg3p3XnnhHelD7fIovGXZDQtJ7E-Jv6UxxJw_ncQqS4nCLRwZ6YVN1Z3FMv8si3rcVnslfFjgaGnUrAfo_qUwXu5JNESnWDytUYPzymbYBiov5ZMKPnPHRUOt9xnA6eRYtD9zsSqzofSopJZVr6dZiuHdOLwnGAn07ikO_NpQyDNk3j3eH4_pa4AlO8LR9SVe-xTlLB8xW5g19fTKeuX5NymRYoK1uaArw.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Well, but seriously. I think that, overall, between the AI & software industries you can basically put a conditional “gets absorbed by” sign. All software is AI. A tech startup today just can’t not use ai. That’s how it is. That’s the tldr after talking with big funds and companies."
     }
   ]
 }
