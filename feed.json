@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-06-30T20:20:00Z",
+  "generated_at_utc": "2026-07-01T04:54:40Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1312,
+      "url": "https://t.me/chillhousetech/1312",
+      "date_utc": "2026-06-30T23:57:54+00:00",
+      "hash": "f130a5dc29488924b70b4f4f733e2696a35d74226434b83c0be3a22d5674fafd",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "О, fable \nвозвращают",
+      "images": [],
+      "title_en": "",
+      "text_en": "Oh, Fable  \nthey’re bringing it back"
+    },
     {
       "id": 1311,
       "url": "https://t.me/chillhousetech/1311",
@@ -29,11 +40,11 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "151469bce997871763a6b9ee0abc33089f3e64f550f4afcd6987b9728ebc8e64",
+      "hash": "10abeb175e7b3fdc2f7b452541aec813f4fd20546d28cb88278829a3d294fec7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/gzQyLi1mIt2FciABj4cePfas0xlsrqX9pj07NSRFzWfpW7VOAyHyZxDxKPxbMUYQSDn5F_7QKp3kJLoTLGWWeDM-3Hybp3chYtK4VP2aIz8BCHAC1AQy7SIjnn7E2dYtZWo8wATGekLwCtJXfL-JP5A2xL5B3gN8OtTOODQRSNC-wswjMMFHJnAifVvg_4P7CeHRuThPsPaVyNqvRDO4Ycr3zOmWtN6pfp0QUyxwakD7qpxOsyJbG28Nnwog_qNW2ggb0kAQGYn4VRd7EN5PCSHV-vi5h80_0gCTzrJ7MV2AQTFu6ziiRAOmV8OzVuEFiqhYe0cgCbxACG7Bda9xQw.jpg"
+        "https://cdn4.telesco.pe/file/lWPvvkvlpPCRg821sjp_Vm_vu3sJFV2mj8vPdRdt-hJtNaHiLpepF6YSnNkWGVi6NygmwZNiOHszSVmCivdtsRcTHyIfUzyiD4K012TIN7H-nPBtdEMtYedrnr-neEBql3qWgur-fYwJE5VKmyHapueSizg23Wg_PeklKDZOsgrcRV7GeJ2LqDmznpNeYP0qKkrHR4fvYTJlaqFjnV6_1E5qfdt1IILzTNZu_633H5ca1UCMVutJTE7S3tSYEXF1M7mbWGs9qfNJbKzufnEBogJzitBbshqecRETI_AmYzbicvxZJAZGqQhB5rqTtW-_VHefpFb_4_n7fiHTPe_MIQ.jpg"
       ],
       "title_en": "",
       "text_en": "Tsk-tsk-tsk"
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "A list of so-called neolabs, where the focus isn’t revenue, but research or something like that. Valuation at around a yard and it’s not clear what’s next. Curious to dig into.\n\nStolen\nfrom an investor at Menlo"
-    },
-    {
-      "id": 1285,
-      "url": "https://t.me/chillhousetech/1285",
-      "date_utc": "2026-05-06T10:51:34+00:00",
-      "hash": "b94b042037feec84022f479b7866d76d0d3fd1dcbae3fb056b19d5e72e4998df",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "AI. Мои пять копеек в макро. \nПоследние пол года активно в тусовке, даже иногда среди тех, кто решает и делает индустрию включая фонды, и big model makers. Так вот несколько наблюдений. \ntldr: идет завершение цикла. Стартапы лучше сейчас не делать. \nЧто имеем:\n1/ инфра. Тут все просто, те кто печатает деньги строят самое дорогое, где эти деньги будут работать. В целом модель пересдачи железа очень низкомаржинальная. Но когда у тебя за плечами реклама (где маржа дикая) то можно вкладывать. Мощностей не хватает дико так то. Даже стойку найти тяжело (ну типа ноду b200 на год). \n2/ большая часть венчурных денег залита в большие лабы. Логика простая. Модели стоит обучать очень дорого, ну очень дорого. Ошибки соотв тоже очень дорогие. Мы заливаем туда, где шанс что будет ошибка минимальный. Все большие лабы не проводят frontier research как основное направление. Они скейлят то, что уже работает. Доливают RL, данные и так далее. Плюс каждая лаба стремится как можно ближе к пользователю (Anthropic идет в prosumer, как когда-то микрософт, мне кажется самое удачное сравнение). \n3/ зарплаты рисерчеров могут достигать 10-50м в год, потому что мало кто видел как тренить 1-10T модель. Эти знания стоят дофига. Так как ошибки стоят дофига - см llama4. Отсюда у венчуров есть надежда что вдруг они что-то полезное сделают, но и они единственные кто имеют шанс выше нуля что-то сделать. Оттуда раунды по 100м на Сиде. И да их если что обратно продать можно туда где модели делают (мало кто умеет ведь). \n4/ учитывая размер вложений выходит ситуация в которой среднему  стартапу нужно показывать невероятные оценки ибо какой смысл давать 10м и возвращать 20м, когда там все цифры в 10 раз выше. Более того у аи стартапов есть классное свойство. Большая часть компаний имеют очень низкий ретеншен выручки. Это значит что типичный цикл примерно такой: клиент берет все аи сервисы попробовать (всех конкурентов пачкой) и выбирает 1 или даже ноль, решая сделать свое. Ваша выручка в постах растет, но все вы понимаете что через год жопа. Это реальная ситуация. Заметили как lovable и ко утихли. А потому что рост стал другим и его уже недостаточно. А инвесторы изначально выдали тебе дикую оценку. \n4/ и тут назревает единственное решение. Архибыстро растить выручку на бумаге и пытаться разгрузить инвесторов прошлого раунда об новых или лучше об розницу - это IPO. А это опасная игра. И у тех кто поднимает по оценке 2-10-50 ярдов выбора особо нет. А на таких стадиях продаться уже тяжелее чтобы все были довольны. \n5/ учитывая что выручка больших лабов сильно субсидирована, IPO разгрузит инвесторов, но рынок посмотрит на это все и скажет «нуууу не такой и классный бизнес» это создаст охлаждение. А где бабки уберут, правильно в самом рисковом сегменте, то есть венчуре ранней стадии. Ну и шанс того, что пойдет консолидация только вырос. Большие станут еще больше, а мелкие без шансов (см п 3-4). \nОттуда в долине ходит мем, что SSI Ильи Суцкевера это хэдж фонд. Ведь он точно знает ситуацию на местах и точно на всем этом сможет заработать. Такие дела.",
-      "images": [],
-      "title_en": "",
-      "text_en": "AI. My two cents on the macro.  \nFor the last half year I’ve been pretty deep in the тусовка, sometimes even around the people who decide stuff and build the industry — including funds, and big model makers. So, a few observations.  \ntldr: the cycle is wrapping up. Better not build startups right now.\n\nWhat we’ve got:\n1/ infra. Here it’s simple: the ones printing money are building the most expensive place where that money will work. Overall the hardware re-leasing model is super low-margin. But when you’ve got ads behind you (where margins are insane), you can invest. Capacity is wildly short, honestly. Even finding a rack is hard (like, getting a b200 node for a year).\n\n2/ most venture money is poured into the big labs. The logic is simple. Training models is very expensive, like very expensive. Mistakes, accordingly, are also very expensive. We pour money where the chance of a mistake is minimal. None of the big labs do frontier research as their main focus. They scale what already works. Top up RL, data, and so on. Plus every lab is trying to get as close to the user as possible (Anthropic is going prosumer, like Microsoft once did — to me that’s the best comparison).\n\n3/ researcher comp can hit $10–50M a year, because not many people have seen how to train a 1–10T model. That knowledge costs a lot. Because mistakes cost a lot — see llama4. Hence VCs hope maybe they’ll make something useful, but also they’re the only ones whose chance of making something is above zero. Hence $100M seed rounds. And yeah, if anything you can sell them back to the places that make models (since hardly anyone can do it).\n\n4/ given the size of the checks, you get a situation where an average startup needs to show insane outcomes, because why give $10M and get back $20M when the numbers over there are 10x higher. Moreover, AI startups have this cute property: most companies have very low revenue retention. Meaning the typical cycle is roughly: a customer takes all AI services to try (all competitors as a bundle) and picks 1 or even zero, deciding to build their own. Your revenue in posts grows, but everyone understands that in a year you’re fucked. This is a real situation. Notice how lovable and co went quiet. Yeah, because the growth changed and it’s not enough anymore. And investors initially gave you a crazy valuation.\n\n4/ and here the only solution is brewing. Grow revenue on paper ultra-fast and try to unload previous-round investors onto new ones — or better, onto retail — i.e., IPO. And that’s a dangerous game. And for those raising at $2–10–50B valuations there isn’t much choice. And at those stages it’s already harder to sell so everyone’s happy.\n\n5/ given that big lab revenue is heavily subsidized, an IPO will unload investors, but the market will look at it all and say “weeeeell not that great a business,” which will create a cooldown. And where do they pull money from, right — the riskiest segment, i.e. early-stage venture. And the odds that consolidation kicks off only went up. The big will get even bigger, and the small won’t have a chance (see pts 3–4).\n\nSo there’s this meme going around the Valley that Ilya Sutskever’s SSI is a hedge fund. Because he knows exactly what’s going on on the ground, and he’ll definitely be able to make money on all of this. Such is life."
     }
   ]
 }
