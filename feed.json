@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-07-07T04:18:12Z",
+  "generated_at_utc": "2026-07-07T10:01:34Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1314,
+      "url": "https://t.me/chillhousetech/1314",
+      "date_utc": "2026-07-07T07:59:22+00:00",
+      "hash": "ed1c4e78e35b3f98fd1fc5eefbd8916461c1dce5c6b954e7bb6219abeb752366",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "У кофаундера thinking machines Lilian Weng всегда интересные \nпосты\n. На этот раз про то как делать харнесы или обвязки/среду для работы моделей для решения определенных задач. \nЯ бы сказал, что очень важный пункт, который очень часто отсутствует у «на коленке» харнесов это вот такая штука:\nThe design should be deliberately simple and generic to enable generalization, likely with reference to existing software engineering practices to benefit from prertaining knowlege.\nНу и мой take что мы будем редизайнить современные OS вокруг вечно работающего в фоне AI (то есть инференс должен как бы крутиться вечно в фоне).",
+      "images": [],
+      "title_en": "",
+      "text_en": "Lilian Weng, the cofounder of thinking machines, always has interesting posts.  \nThis time it’s about how to build harnesses, or the wiring/scaffolding/environment for running models to solve specific tasks.  \nI’d say a really important point that’s very often missing in “duct-taped” harnesses is this thing:\n\nThe design should be deliberately simple and generic to enable generalization, likely with reference to existing software engineering practices to benefit from prertaining knowlege.\n\nAnd my take is that we’ll be redesigning modern OSes around an AI that’s always running in the background (i.e., inference should basically be spinning forever in the background)."
+    },
     {
       "id": 1313,
       "url": "https://t.me/chillhousetech/1313",
@@ -132,11 +143,11 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "4c97c08f068e3212225f0347f67b0627c549fb7d1c5a18fbf54c2cba89be3234",
+      "hash": "331804360b1f27a597e0e9dd88b4b94a7f37e5c3822b7a3e2348b7b3000123b5",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/oc87zzVq02Dz0RhIFbBCYYdTsrz7r8hBJMxd7B5WinE0k6Z1Quf5chrPbviP28x-4G4oekchvfqG79t2ngVGsA2OAGlvgHZPYdQfdIamjaqmaFJlXGYFEUkjCyGIkkEUj61SCEqhBK1DND2dsNJr1o0g6vkvY9WCjtlGBv6TpYC_qbRT-d8xwolerhoa3Quoocck3zgZ9zybPZm-Dup4vc1HMYbqDJsTIxJQ8_7i1qM8LtWwmJCKOPvmj9pRFrM05giIX459hg276pcw2Pikxdl0EK-knLZ3pVLa2ISpmWaHRF3xUophvo-YqFNiMoW4zmcLlJIm4JjLhfZvAo_G3w.jpg"
+        "https://cdn4.telesco.pe/file/nZeWKe4uYx2GjkFELQbiuy522M_4zgukJ75Vaff0xFaBDHPdRqv71NCaNsIMljOy-PL4HMgJCMGUABdsBcN71pOTLToTjSNgf8d49Us20HIYNoAk9qED15bLfnIS5kJr6QV8WuHvdidkzSZbCu5EfMAPy04cp0vDm14eETTDwW1JYDjeTQ_e-T8P-L1gE1IzN0aXyDsL08yrrc_MvNAUxgbHAFHjpwHD-FHQGaP14bMfDoj1SB1khesiWVUg5d5wgI_1CwqmnldE2Z97buHu0MHjgsHshMn-pvR_8UAPxJqYuaaQsST39o2LZSdCny227BsawnJS0oCOcCQs2dA-ng.jpg"
       ],
       "title_en": "",
       "text_en": "When you confidently pitch your idea to a seasoned VC"
@@ -145,14 +156,14 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "8a364ec62e1caddc0cf89f27dd7e8b06b0302d9da84ca4352cf0973610176ce7",
+      "hash": "8d66bf5171b34db4026020ba2f9b24cdff728b7a392993d31fbdef6264f7f520",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/twohWx-GruTbHm7A-ITzN--FHw1opnxV1t4M1HFhRTleRYOmFFsyBfJk4ObaBkLCfhBiO7ZJ5FPvJvLAjFSUEjyeW-VzOk9uNIOUksN5crJonM-PNtLhb-ZYCNZZoKyqUPSvzefI4gpk9dapenA2DZUCuqjzxHMunepMXjeUamcppX0IDiCNhqxqvypWQyLnUaCOziQAqDdIPr0eowujPPNquWjL_73EWhFy1KZ6JhkArHvGegaQQcNHX3nrdHbwCxxzsAnxeiKtBpuIyoYZUKrBkCSB3qVUI9Ir0EdjOdvrt_BZorF_iVKGw_PnEyQeqWAR9sJneDL-K7zAQDaTDw.jpg"
+        "https://cdn4.telesco.pe/file/RkEOPZsBznThNnHrkUHd6PNmuxFqPnSVcR-O7EREb0XQvXchYxJBpt39hiQD4WVv1Rui9l9Hv7P2WxwDuGIjaRPSszRkiN8dCJmUu-20H-SDivu-Oy4hF5hQJJX-ncQr5k8WL0gNk6U8_ctPcnOAZL_wyHHtv02XNxZIpJ3BZHsxJyDYsiZxhDOPpvqE5xAoF3bm9jRBl4uAEkM-WRlEx-_9lWEdOiHiIR6svqjbZU7wtD59wqEOvFdRqaNWAhzGdeyIreO0OzjVqdiLH5scxCiNPqUYlj7dpyAoSB99TMeWpJ081lZI944lCFONb-DS6S5NXjZ9ewlGNaHXstyDzw.jpg"
       ],
       "title_en": "",
-      "text_en": "Ok ok, sold"
+      "text_en": "Ok ok sold"
     },
     {
       "id": 1299,
@@ -213,14 +224,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "46c3215ba603a9e9463e5e605ab392e1fd40302e6992b37384f8a6e69e99f7bb",
+      "hash": "c5c7a5f75319dfad4a52c9f5265f05bfb0642da5d962d0342ff56b0f5aeeb298",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/vj2veS-Lt-OrX19JV2n1g2UoJkCSB_4256ocOFOXGHLVp8sTDvHCjDI0Y5wWxfIw1dQEsCuU_mYUM-M2J5m_zqsUBWKyekUpWanc8SGdS-4whVVyUCHjbGSC23uNowcjvVXF0HoW13Gk9P4zlNvq4aOfE5Db0J5wkAzo2U9tDMqS1V4LKeasajueXWlNjABv6naIVspSrVX1qPnEnYanjFpBa0LBhAo-mag1Ai3lWhyr2NKvi-uhB_kuj4axWOd3U4Wpg_XLz9lxXbuXfV2Ryaju2qZDGqDOQT1C6PnX0OkEXohyebiSy7xug8Rg_5DHHXEHT0gTs2szx-75QTYPqA.jpg"
+        "https://cdn4.telesco.pe/file/Afl5_XIx9bjGkfxT_apySqkZpgj0t356o8x2FWTi2GJ12-yC5n1yrK-oG1mCLEJDyjIcTx59gNH3RoBaC4jp9x-R-bsZ-kf_k2MkHgkMOG4s3KN3fA87xkhzR5ruv89hUaaBBL45gETeO9voOqrLGsw44zpulmR4rDEanzFZzATP6ewb7W7UmQxPlZvoWnU9VPFTTGQ9hCD0zzEDpfVNkfXWfxQqluyageBCM64tcpO9jvMJNJQXI74xZkfapo3VzzEU0t5hgwYBQ6b6Bvj4FvnUIfyRPFq7wGeVAdbsqJ4i48ttAcRaFwUQ_Na5lDwHlPAFJT7co6jZp7le_0Q3KA.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like. For literally everyone."
+      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
     },
     {
       "id": 1292,
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Well finally it’s clear\nwhat\nthey gave two yards to thinking machines for.\nInteractive models. In short, a little model that listens to you in real time and immediately, in the background, figures out what needs to be done. It changes its behavior while you’re talking to it.\nNice that at least someone is getting away from this pathetic chat interface. Finally.\nVideo"
-    },
-    {
-      "id": 1287,
-      "url": "https://t.me/chillhousetech/1287",
-      "date_utc": "2026-05-07T18:21:33+00:00",
-      "hash": "ca610a8894234b93888716914203eb68e7b8c7a52fedce4045d2855ff8dacd8b",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Пост, кого иногда читаю в телеге, не реклама:\n1/ \nрандом канал чувака\n, который поясняет за матан, наткнулся в тиктоке, вспоминаю молодость  \n2/ \nСлава\n просто постит всякое, что я редко где вижу. Знакомы сто лет. \n3/ и еще один \nСлава\n, и тоже давно знакомы, про AI \n4/ когда-то всерьез хотел пойти в квант хэдж фонд, но пронесло, тем не менее интересно почитать от крутых ребят оттуда \nчто да как \n5/ а в сиолошной меня забанили потому что мол я не поклоняюсь OpenAI kekw\nА вы что читаете из непопулярного?",
-      "images": [],
-      "title_en": "",
-      "text_en": "Posts from the people I sometimes read on Telegram, not an ad:\n1/\nsome random dude’s channel\nwho explains math analysis, ran into it on TikTok, feeling young again\n2/\nSlava\njust posts whatever, stuff I barely ever see elsewhere. Been знакомы for a hundred years.\n3/ and one more\nSlava\nand we’ve also known each other forever, about AI\n4/ at one point I seriously wanted to go into a quant hedge fund, but it passed me by, still it’s interesting to read what the cool guys from there say\nwhat’s what and how\n5/ and in the CEOshnaya I got banned because like I supposedly don’t worship OpenAI kekw\nAnd what do you read that’s not popular?"
     }
   ]
 }
