@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-07-09T04:19:28Z",
+  "generated_at_utc": "2026-07-09T09:58:05Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1315,
+      "url": "https://t.me/chillhousetech/1315",
+      "date_utc": "2026-07-09T07:49:47+00:00",
+      "hash": "ca1865ac709df6f3b4046d2e7ef4c96d4b8bca01c2fa65d2fa5473fcf3f5f836",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Ну что ж, вот и наш первый релиз на \nархив\n. \nwe achieve a 4.37-fold speedup over autoregressive decoding, and outperform a highly optimized DFlash baseline by 24.7%\nЭто спекулятивный декодинг. SOTA(ну на qwen3.6 точно). Бьем все, что есть известного в паблике (ну dflash). Супер важная тема для быстрого инференса на устройстве, особенно когда понимаешь задачу.\nGitHub\nHF\nПоддержка в нашем инференс движке скоро доедет",
+      "images": [],
+      "title_en": "",
+      "text_en": "Well then, here’s our first release to the archive.  \nWe achieve a 4.37-fold speedup over autoregressive decoding, and outperform a highly optimized DFlash baseline by 24.7%  \nThis is speculative decoding. SOTA (well, on qwen3.6 for sure). We beat everything known in public (well, dflash). A super important topic for fast on-device inference, especially when you actually understand the task.  \nGitHub  \nHF  \nSupport in our inference engine will roll in soon enough"
+    },
     {
       "id": 1314,
       "url": "https://t.me/chillhousetech/1314",
@@ -143,11 +154,11 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "d806cb4f84bfa1dd6746bfceceed1b61177cefef4d646b1fc556448d80156a6e",
+      "hash": "1349c31975078423d03c77cf163530eb634c2fc30dce40d6f86c1bb3cd874bb1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/HYl-U3um_bBLZBW4yO8OecCCREhRTm8EGWE5Iv2FfnPeSYqYhZLd7eSUubUA9flLQQABjSxDYUfiRFivLJrQml1DVz9bW13roxHOjK7u-ttcOq_DgufFO9Mo42Lt_6Ly6afpchMJG6ggakMiOWZofH-dhJl-za28zBtCUawYCU9uO6KcrAF2GZuxf0V8_iV9uFZmgHJMxOk3Pv1Qcf93cPjvD2uFvsA7LMtM1nsOvi4-v23RcY9SQXGAsr7IxLtD0mW6VJYoQ3yVG6Rzo6uycSZR8sdqGNl-YczYbIHV839azxtERi96ygcSpgZIouItCn3xbHCNbfEj0H8GWEUyVA.jpg"
+        "https://cdn4.telesco.pe/file/LrUc0iI24y6-qsEFdj5_jImC8mmM9bh9DC2S8NUlgtT-nkg4qVJPdVM6XUfrKg17DUxu4Lmw8g3hsF6o0qHM72f2TWpHhBGBfnWavdqKxqZccdN5VeeHhnBhgVQg6K-QDeWcc3Gz1EYdwcwSiNOfqsPR-u_tpaEGOd6zACaK5E1PzDjzS2-mNTsjKs-_LHPr_0B6s1bzz0LCPmKFi2j9pA7DBYWefSyVUE8gtJ247oGENDFGnkm9XmpDTlCmpXX-4JmlK8BVKPgo5YwWYYUhzhJxaWh2OQ_16-W5hbRy4FLWKc4BYYPmz1fsUBPPwETY04E_SDg49CQ3Ns3AyFwH6Q.jpg"
       ],
       "title_en": "",
       "text_en": "When you confidently pitch your idea to a seasoned VC"
@@ -156,11 +167,11 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "85cc2be0d7f56389801f97f6fad934ef6c13312f48c45b7e965e08f6a5961e1d",
+      "hash": "b8d76ab5780cc8453768598c2dcab2d63418a99272c01c8420a23b1e150ad032",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/D27Vew_sMSyBoq6HunTWc6IYH7QmgsbRzjaCGvYtq7aMnhLSxmtqmlw45MjEYcgWDVO-Lfw4CQvDECtAWHuNbR08ktaQFfURYz_OydqfO_QME48zVYT2llF47LqTYAJDkid90VfdjHyfbXHnsWJZv41k6DMetZW2Ie4JQLnCifAQYpUmyPhUjZKJPgdGjO3cnwiKwJx_2guxWAOkSVT7PvARufV0YKYhQVxVqUueKBfLG2gLzyZrAE0mbqFwPqxeL8Z5CYv_OKeJFvr43PHVgZS0ZZBeZNEnVlXUKK-TdwlM35Vf0Sd5TMjhUMHgX0GGeK1KXnbhOnj1Pn5LG6rLCw.jpg"
+        "https://cdn4.telesco.pe/file/D_qqYwQCRM5xH3YW6BoLmVYbFZt4SLIUH9HkEqiClUTfHhAmpUp4-PZDCdB0zIVyAAMIzpkQ4flmQBk30Ju7ukbQaBjeUDOyz2m5DoBeDQV0-GZzz6RBoZL9tOxkS7yy6OSoXxkFhnrYJfhoN__tC-9tuPzomd_uDfNh5-mEGBhDh2INsrpiyIqycstT8vqAoOSVUfhep7zwcMp3VHktGBVSenzaGDgy4V47Y7Oc2aKthhoVoMBnPvbmEH7GSu1kNSrz_LEHXs46AKGNncW_UURNMmTF7iKmiaViQrXTBEWWkdDOfq7svLSm6oEzTULx9N0JmDXq3Ep91U_pcY52tw.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok, sold"
@@ -224,14 +235,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "3f03ed8c0ff8be500ffb04b5a58daa18f3c3f25bac1511bbe037eaf75b31d382",
+      "hash": "2f098d46d3fe6cce8cdb67f672896ce587cf41e51935aa3f927b7f1ad08dbf41",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/AFrD9ap-yCJpuiZMrqTsGy4YDKtbtRPQcDdD_o-E5MrqoOwQQM_y9JZ9cq0muRFjuRNPfmoQXfdHeMtEqlgQDAzSzFRNomsZl13bxv2iYMh6LexvQmVRxthtJLNBEbb-57fOawXSfNBA7oR0Wgo4eyor4N3cg_j7sIpr-FZskfshkLm_jaj9zZ6xMmMM6lwd1RaW6jCFJf9bYCiE0UoIPJtecQSDusXsmytRtiyBfXnANhfyof_jPL1tt2YsbXuACGkBhdXHkyMMQ5r4QVW2zlj9M9MyDIV2t-0vTG2Ftia4uiosUcbdFCVA9RI6g2yZ1RfZqAqLySg0fAdcRJH4EQ.jpg"
+        "https://cdn4.telesco.pe/file/h3vkw-siXAjr8KAkbdN35GsCJoC91gz-jAmlNTp3PW5777kNsOUkKUQNBJdk_WS2OGI1bYMZxxmu_ZdDj63WtcirqjTsoO9HruLbzbL3jMqBh8jFvak8rYm4cQu60j7xCS2VWepDMEbKu7QLJUqC9tBLBKceeaFXmeHYenq00ogZvVtOMyd5ASYv3xGXHSD4RTGscgbZyKYC1qARIiws0Nrs8l8XTVU3etPHrHIcxyFJast79PZOyZKk5RwamUwH0cYhGc6tLGX-YgFg63ax_F9fiYwW1qPMWgiMcu5ryEs1uqcJSUNfDQ_35V6h7WZPT7DxJSqIqeccylHxrr0vOQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like, for everyone."
+      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
     },
     {
       "id": 1292,
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "If you saw somewhere some info, clickbait, an interview about how to make your first cash in venture. With a project or an idea. Then please check these three points and don’t listen to air stirrers.\n\nThey’ll give you money for your idea or team or product if:\n1/ you have a track record, meaning previous results that are known in the industry\n2/ you have metrics (measurable traction) at the moment you’re raising money and they’re too good to pass up (there’s also the option to show a wow effect — tech — but that’s rare)\n3/ you have a network of rich or badass people who trust you and will give you money\n\nThat’s it. There are no other ways to raise cash. Decks, descriptions, advisor advice and all that — that’s already the next step.\n\nNext, all else being equal (obviously we remove track record): they’ll give money to someone young under 30, better 25, because it’s easier for them to risk their lifestyle and time.\n\nNext, the easiest places to raise money:\n1/ in the US\n2/ Europe/England\n3/ everything else\n4/ China/Korea if you know the language\n\nDoing a startup is one of the least likely ways to earn money for a living. You’ll more likely kill your nerves. But at the same time, probably the most interesting activity, full of action and opportunities."
-    },
-    {
-      "id": 1288,
-      "url": "https://t.me/chillhousetech/1288",
-      "date_utc": "2026-05-11T20:52:42+00:00",
-      "hash": "5005d78521cdb8d8595ff40955b0acdcca5921565fcf1e36a1080adaaacbcb16",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну наконец-то понятно \nна что\n дали два ярда thinking machines \nInteractive models. Если кратко моделька которая вас слушает в риал тайме и сразу там в фоне решает че надо сделать. Сама меняет поведение пока вы с ней говорите. \nРадует что хоть кто-то уходит из этого убогого чат интерфейса. Наконец-то. \nВидео",
-      "images": [],
-      "title_en": "",
-      "text_en": "Well finally it’s clear\nwhat\nthey gave two yards to thinking machines for.\nInteractive models. In short, a little model that listens to you in real time and immediately, in the background, figures out what needs to be done. It changes its behavior while you’re talking to it.\nNice that at least someone is getting away from this pathetic chat interface. Finally.\nVideo"
     }
   ]
 }
