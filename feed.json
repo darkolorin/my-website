@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-07-20T09:35:07Z",
+  "generated_at_utc": "2026-07-20T14:34:24Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1316,
+      "url": "https://t.me/chillhousetech/1316",
+      "date_utc": "2026-07-20T09:36:20+00:00",
+      "hash": "f7307b5048b03068c0c71f09a99cdbc5a709ec6133d98ce8909f31122730f53f",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Тут вышли Kimi k3 и вот сейчас выходит новый Qwen 3.8 max, который тоже будет ака «fable class model». В интернетах будет туча отзывов, мол смотрите модель умеет все что умеют большие лабы. Попробуем чуть чуть под другим углом посмотреть. Так как релизы очень важные, но смысл иной. \nЗа долгие годы мы увидели, что китайцы догоняют западные модели. В основном скупают трейсы и данные «типа дистиллят». Надо понимать что дистилляция сама по себе это не тупо копировать, это для rl как бы холодный старт решает. Поэтому это важно конечно «воровать» данные, но не решает сильно. Далее ребята очень хороши в архитектуре и обучении на старых видяхах и кластерах. Это круто. Плюс open source (тут \nдиректор\n по политике OpenAI, он кстати реально политик, началь писать в тви и обосрался знатно, я такого бреда от такого ранга людей не видел в интернете давно, как будто чел в интернете вообще не сидел ни разу, а пишет что в инете с детства, почитайте сами ибо это интересно). Но важно понимать, что основной эффект этих релизов это публичная информация о том, что многие задачи можно довести до очень высокого уровня и качества просто сделав хороший rl. См frontend arena. Там Kimi k3 рвет всех и вся включая sol & fable. То есть не обязательно брать архидорогую новую топ модель и платить тонну денег, если тебе нужно только решать определенный тип задач. Другими слова стартапы как thinking machines & \nengram.ai\n ровно это и делают. Типа приходи дорогой энтерпрайз и мы все для вас сделаем. И теперь это поняли все бизнесы в мире. Здоровая конкуренция наконец-то!\nТакие дела.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Kimi k3 dropped, and now a new Qwen 3.8 max is dropping too, which will also be aka a “fable class model.” The internet will be flooded with reviews like, look, the model can do everything the big labs can. Let’s try looking at it from a slightly different angle. Because the releases are very important, but the point is different.\n\nOver many years we’ve seen the Chinese catching up to Western models. Mostly by buying up traces and data “kinda like distillate.” You have to understand that distillation by itself isn’t just dumb copying, it’s like for RL it solves the cold start. So yeah it matters to “steal” data, but it doesn’t solve much on its own. Next, the guys are really good at architecture and training on old GPUs and clusters. That’s cool. Plus open source (here the OpenAI policy director, btw he’s literally a politician, started writing on Twi and spectacularly shit the bed, I haven’t seen this level of nonsense from people of that rank on the internet in ages, like the dude has never been online even once, and he writes that he’s been on the net since childhood, go read it yourself because it’s interesting). But it’s important to understand that the main effect of these releases is public information that a lot of tasks can be pushed to a very high level and quality just by doing good RL. See frontend arena. There Kimi k3 wrecks everyone and everything including sol & fable. Meaning you don’t have to take some arch-expensive new top model and pay a ton of money if you only need to solve a certain type of tasks. In other words startups like thinking machines & engram.ai are doing exactly that. Like come here, dear enterprise, and we’ll do everything for you. And now every business in the world has understood this. Healthy competition, finally!\n\nSuch is life."
+    },
     {
       "id": 1315,
       "url": "https://t.me/chillhousetech/1315",
@@ -97,14 +108,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "fb157a1e9f63ae9ae31a5788007555a37ba2c789a969777510696a14af0a2569",
+      "hash": "95a12d1d42755b2cffd2c374a55e28833aa8c43bb486897bdbc1789232cefb8e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/KRhs0C24dSheiUFMOoIvIplol2joE-oYCdEOJ8yvMCfFktSdysrglNUN_C-Cnb_IAj-8j5EZefQHIt7pEU82fVQdExK5RHk8YeVoh1BiHRmlSZblUbEl_ISzYPeIdAeZ0J3rVJwolNRn9nyeZ1TkBArfbZVRVvAgVDwuN0PRA3o2RfhU7QTQaOuLJ7bjgnYO6XEYMvlhPAZxeE5h9xWP1hMjf5axFL4LVVH4RueeC6CFzwYR5-ZR6lNzP_jcBiADSsZ-vnYS_vTgOdmkkI6_5UzhO8GUqBI9fCS4fYOggadFMMKft5yGD2pQNqHtLf3RRamIYdWzA55xQZSkVeAJFw.jpg"
+        "https://cdn4.telesco.pe/file/PTxUppgW2s7X7N7U2r-c7XHYR6R6eDtPplsCP0krI1BE7d8_9ecbnTmjKUujTnotC01U1myuoqyo50fWsjNFPC5MJV1BqutBmq7JfWmCHuMOjSeJtLzSXrqczXutYS4a0XgEJ2YGmQJl52hzvOjJktULsPqOmcOeE0mu6ecF2vlXbw6B7r4n2JNBsyrZAAQuhvWeEPHrFi2WOeXJQiH4bXcjBczUA1ssO8ug0sXHwYTta8deY0nSdY6mxzCKA-dVkUsrbl6so9vYzfS27Kmus5-p9vL5J4B_AAYBXGVzWr0eEZQVVtRe1VTYDi5Ix-FJFDC_2xReYN3CKhTOMYsdAg.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then the news rolled in too:\n- Anthropic banned fable, there’s some kind of murky crap there honestly and politics\n- bought Intercom for 3.6 bil\n- bought Cursor outright for stock worth 60 bil (so the most expensive startup acquisition? Though whatever)\nMeanwhile, here’s a nice picture about organic launches without marketing and without pouring money in and traffic-boosting stuff"
+      "text_en": "There was a lot of work. But then some news rolled in:\n- fable got banned by Anthropic, there’s some kind of murky crap there if we’re being honest, and politics\n- they bought Intercom for 3.6B\n- they bought Cursor for good, in stock for 60B (so is that the most expensive startup acquisition? Whatever)\nAnd meanwhile a nice picture about organic launches without marketing and pouring money in and traffic-candy"
     },
     {
       "id": 1305,
@@ -235,14 +246,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "b99dd7b1ce6ff82feecda1151241e2e942dfaca367bae28b93c3a4dab78bda35",
+      "hash": "6be7e06cecfcc44f3bcccca5ab5d3257f096b46180c2a3edc2cfca9e9984cca3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/FbpC9K1xRuayfAFajkN_i9omtmSCwr1CfOiMiZ7OJVRNrzIC5IyoAduD3JwH2JdEqbmf7dZ2v1pvK0dOficAgQG836KJPKWSVayoGDhforuMU1c1Ato7SZ9wBDq25jbpThhcnpKNV12n2-2lw4FxptxxDz1OeQVvMVWtKW1ajacodNVZQQ83incUhbHTt9y9_FlrWjoNZKa8CbygV5U4yKgDDusvQ0SIflH_JWgk51DDW8oDSR84mNczuF641DVOafYi69pORsXroFruAoDiaNz6KVu7-fKay-C9qw-faz0C_NJlwZXRxMSTkX2IhdI-BTrZejW7n48VbgtS4I-T4Q.jpg"
+        "https://cdn4.telesco.pe/file/fHvs_-16tf8fRf687dO2zsldUxeQL02yppJHMHmMj0cQ8L-YKwrslu0-XNp35EWH0KcBr-OCJ5MvmCab77P6Pk0AZ9wwfbAP8t5UEWtM-w1bEvQynkzvmYUI2BDcQJnQb0QUN-t3jJUym1bfUVYvi3KJUJQm4vcbRZfLaoC6SMXCTYPUuzI2ptNyUa3PPtpMG-PpXcjVlMsqnbhnjYTTuNcs_2tK5paemajdczU76W5t-aUpoBrK0RDqHlYwzyYt0dvOZ6gXiymCYTBSohbRrCcFua2SyC3DXtETEZMPAJCkBt5cahBRtsnUcpeAB_cCY8unKQQjfWRqlIg-S_I8OQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for absolutely everyone."
+      "text_en": "Feels like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like, for literally everyone."
     },
     {
       "id": 1292,
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "It seems to me the key mistake a lot of people make — both founders and funds/investors — is this positioning like: achieving something means getting into YC, speedrunning, taking money from a top fund.  \nThat’s a distortion. And it seems to me people focus on that more than on what they, damn it, are actually doing.  \nBecause the main thing is to take money from top guys (who of course were almost all top at some point ages ago, when getting money from them was harder, because they had little money)."
-    },
-    {
-      "id": 1289,
-      "url": "https://t.me/chillhousetech/1289",
-      "date_utc": "2026-05-14T09:55:15+00:00",
-      "hash": "a44fd461ce8b9756c514c1ca6fe74d3f542f5ea0491f76b38cf80a9966082377",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Если вы увидели где-то информацию, завлекалово, интервью о том как поднять свои первые бабки в венчуре. С проектом там или идеей. То пожалуйста проверьте эти три пункта и не слушайте перемешивателей воздуха. \nВам дадут денег на вашу идею или команду или продукт если:\n1/ у вас есть трек рекорд, то есть предыдущие результаты которые известны в индустрии\n2/ у вас есть метрики(измеримый трекшен) на момент привлечения денег и они слишком крутые, чтобы пройти мимо (есть еще возможность показать вау эффект - технологию, но это редкость)\n3/ у вас есть нетворк богатых или крутых людей, которые вам доверяют и дадут денег \nВсе. Других способов поднять бабки нет. Деки, описания, советы адвайзеров и прочее это все уже следующий шаг. \nДалее при прочих равных(очевидно трек рекорд убираем): деньги дадут молодому до 30, лучше 25 потому что ему легче рисковать образом жизни и временем. \nДалее легче всего поднять деньги:\n1/ в сша\n2/ Европа/Англия\n3/ все остальное \n4/ Китай/корея если вы знаете язык\nДелать стартап это один из самых маловероятных способов заработать денег на жизнь. Скорее убьете нервы. Но при этом, наверное, самая интересная деятельность полная активности и возможностей.",
-      "images": [],
-      "title_en": "",
-      "text_en": "If you saw somewhere some info, clickbait, an interview about how to make your first cash in venture. With a project or an idea. Then please check these three points and don’t listen to air stirrers.\n\nThey’ll give you money for your idea or team or product if:\n1/ you have a track record, meaning previous results that are known in the industry\n2/ you have metrics (measurable traction) at the moment you’re raising money and they’re too good to pass up (there’s also the option to show a wow effect — tech — but that’s rare)\n3/ you have a network of rich or badass people who trust you and will give you money\n\nThat’s it. There are no other ways to raise cash. Decks, descriptions, advisor advice and all that — that’s already the next step.\n\nNext, all else being equal (obviously we remove track record): they’ll give money to someone young under 30, better 25, because it’s easier for them to risk their lifestyle and time.\n\nNext, the easiest places to raise money:\n1/ in the US\n2/ Europe/England\n3/ everything else\n4/ China/Korea if you know the language\n\nDoing a startup is one of the least likely ways to earn money for a living. You’ll more likely kill your nerves. But at the same time, probably the most interesting activity, full of action and opportunities."
     }
   ]
 }
