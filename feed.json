@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-07-27T10:10:09Z",
+  "generated_at_utc": "2026-07-27T15:14:46Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1318,
+      "url": "https://t.me/chillhousetech/1318",
+      "date_utc": "2026-07-27T11:10:02+00:00",
+      "hash": "a7e72953a533d36e52d18449297c7f8543fce4371ff77581fd000ab936ed0f9a",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "По теме нетворка. В целом все просто. Если с вами не хотят говорить значит вы делаете что-то, что другому человеку не интересно. Объяснять, убеждать, обижаться просто бесполезно. \nВ долине это легко и быстро заметить. Да и в целом это нормально. Второй способ находить людей - иметь трек рекорд, про который людям интересно узнать (оттуда корпоративная работа в хорошей компании является прекрасным стартом). \nВсе блин. Других способов нет. Теплые интро не работают, если вы делаете «что никому не интересно» или нет трек рекорда. Признаться конечно себе сложно в этом.",
+      "images": [],
+      "title_en": "",
+      "text_en": "On networking. Overall it’s all simple. If they don’t want to talk to you, it means you’re doing something that isn’t interesting to the other person. Explaining, persuading, getting offended is just useless.  \nIn the Valley it’s easy and quick to notice. And in general that’s normal. The second way to find people is to have a track record people are interested to hear about (that’s why corporate work at a good company is a great старт).  \nThat’s it, fuck. There are no other ways. Warm intros don’t work if you’re doing “something nobody cares about” or you don’t have a track record. Admitting that to yourself is, of course, hard."
+    },
     {
       "id": 1317,
       "url": "https://t.me/chillhousetech/1317",
@@ -257,11 +268,11 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "f753acc0338180fc66285ff06f62eecfdfce5b5e8b4273b949227bf185068707",
+      "hash": "dc236b443e488836e96328d775dc6fc82d018655bb168ee1a931bd29667308d5",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/hQkIA8vFluAboKwahBjeqbN5PbcHDd0riKEAUiKicBv8SzhT_TFQrEFGpiyuCBh8JamveO_phlQ5hs61k2SvX2i_nJssJyez3rJFS4f_w45j5kaCNQWygQXG6ABxuruxhjRH77WK-mpMfhrq8vRFRQ3bgaGRrSaBbK7AcjrtC6fAP47MlX3f5cPdCAkm1gvX-fIzGv_oLpE58tq_GImuIu8IWt0jgbNcgEOCNhhmukcGOoaXHrFlHbDgDnYCkEU_nnfxHZXIYzHXsebq0ON_oXnKtYKLAORksLtazXVEBLS_vu6EHsObjKpjlmoucDD32x89TrwfDbK-HwmSN4hnYA.jpg"
+        "https://cdn4.telesco.pe/file/iOXhYOUsRvIPHA78QxslVcksaGNCuE9185OsCqanp_U7nfR554rwLLgwDA0jE5FTaQyy5JT14o_rzoJnV4yCx7-BTaZ4_NIQgzmiG3DBpIDvPMu4ddmIs8aB4ycHfheD-au9Dyk6CWGQbpwi6slqDoQnChPsvVOUOB5rk8rX2vTBRmQx23gERPEiIhRbtlTno-YZVhUreT1U25aN9_aruMb3SnBaAlStDHV1X_AFJLlqNcjrm3twTF02xQqc5SXKYpxVOGt9NZWWQNtrNn_-P2yLOemi0r2hwg-Zz9dZukSW_tRRFVCkGT_NwsnFgkfvnkNYEV8-DqiqQP_XSoSAzw.jpg"
       ],
       "title_en": "",
       "text_en": "Feels like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for everyone."
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Elon didn’t win the lawsuit against Sam. Well anyway, I don’t think the goal was to win in the first place. But if it was, then it’s clownery, pure and simple."
-    },
-    {
-      "id": 1291,
-      "url": "https://t.me/chillhousetech/1291",
-      "date_utc": "2026-05-18T11:58:54+00:00",
-      "hash": "3e14e9fd98b2192cc0ac3e1759a6708c11fe39ed8d3da118ac0ee1bc67d19725",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Наблюдения.\nМне каждую неделю приходят примерно 20 проектов/продуктов/команд и рассказывают, что они сделали/планируют делать и так далее. Что обычно замечаю:\n1/ Дек, все материалы, блербы, письма сделаны через AI. Прям видно, что люди не читали, что сами сделали, деки по стопицот страниц, вайбкодинг фронтенды знаете с таким привкусом Claude Design (это когда попросил сделать красиво пожалуйста). И все они ожидают, что ктото в это будет вникать и изучать и более того давать деньги? \n2/ Большая часть проектов не знает о существовании evals. Агент для \"подставить чего-то\" или улучшим вашего агента для \"чего-то\". Но как понять что предлагаемый подход лучше банального \"скормить все chatgpt\" без понятия. Хотя бы посмотрели что ли бенчи и системы оценки.\n3/ Ну даже если эвалов и бенчей совсем нет, тогда за это должны платить. Иначе очень сложно понять чего делать и как оценивать то.\n4/ Очень много \"слопа\", то есть я трачу 2-3 минуты и вижу фактические/численные ошибки в материалах. Например пишут размер рынка и там два числа перемноженных дают неверный результат. И такого просто тонна. Желание читать и разговариать с человеком, который даже не проверил что написал - нет.\n5/ Все просят миллионы, и я не понимаю зачем. Все что сделано было сделано с подпиской 200 баксов в месяц. Зачем вам миллионы?\n6/ Люди не знают базу. Да да, различие между харнесом и моделью, какие метрики что означают, не знают про recall etc. в задачах поиска. О чем вообще можно тогда говорить?\nСкладываются стойкое ощущение, что даже тексты и ответы на вопросы пишут не сами. И это печалит и именно поэтому стало тяжелее что-то сделать если думать не самому, но если своя голова на плечах сейчас лучшее время конечно!",
-      "images": [],
-      "title_en": "",
-      "text_en": "Observations.\nEvery week I get about 20 projects/products/teams coming in and telling me what they did/plan to do and so on. What I usually notice:\n1/ Decks, all the materials, blurbs, emails are made through AI. You can straight up see that people didn’t read what they themselves made, decks are a hundred-fucking pages, vibe-coded frontends—you know, with that Claude Design aftertaste (that’s when you ask it to make it pretty please). And they all expect that someone will dig into this and study it and, what’s more, give them money?\n2/ Most projects don’t know evals even exist. An agent to “plug in some thing” or we’ll improve your agent for “some thing.” But how to understand that the proposed approach is better than the basic “just feed everything to ChatGPT,” no clue. At least go look at benchmarks and scoring systems or something.\n3/ Well even if there are zero evals and benches, then you should be paying for that. Otherwise it’s really hard to understand what to do and how to evaluate any of it.\n4/ A ton of “slop,” meaning I spend 2–3 minutes and see factual/numerical errors in the materials. Like they write market size and two numbers multiplied give the wrong result. And there’s just a ton of that. No desire to read and talk to a person who didn’t even check what they wrote.\n5/ Everyone asks for millions, and I don’t understand why. Everything that was done was done with a $200/month subscription. Why do you need millions?\n6/ People don’t know the basics. Yeah yeah, the difference between a harness and a model, what metrics mean what, don’t know about recall etc. in search tasks. What is there even to talk about then?\nIt adds up to a strong feeling that they don’t even write the texts and answers to questions themselves. And that’s sad, and that’s exactly why it’s gotten harder to do anything if you don’t think for yourself, but if you’ve got your own head on your shoulders then now is the best time, of course!"
     }
   ]
 }
