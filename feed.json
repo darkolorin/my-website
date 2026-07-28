@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-28T03:36:57Z",
+  "generated_at_utc": "2026-07-28T09:04:56Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -200,11 +200,11 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "cac65c15c942600a89474833d17db95c9fbafb3d1f99636e0504a9ba96ec12ec",
+      "hash": "cd1ba96eaed9520b372c4c2055ce9c87aec872e2dad1a34c82c19c3edcee47b4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/EkgnbdLkyvAR9W1WTt1fGP5DNGpn6Qa_w5ow8vNdt1H8RFyKXaoZV7XZV6biImXH6rsLpKV1Zxml7rrf_vahbOyIV3xWZzIO9mBQ-83sht20XZFVnHArLN-w4xu76Nq7ly2PLclPmbv3ucv8EJ69GiB9uqt6FN2NT_RaBMPHBRFDGWPCmISkhM1SgqkDvmqDj8kYap67ivsK46EygK7Vh6kUUUTdLKQCdjhftbABCDLo8gsGXKqmov5xOQwJHR2ijq7xTOI-nInxoP5WaPYVVlMXXminEkmHUY31feagfHZ_hSVs6X2g5826h1eVRtqLluRfelZi3YvKruR1Lcd5fg.jpg"
+        "https://cdn4.telesco.pe/file/WQSRu165gbXaj5I51oS1DLXoQ7frJfF5Cw-nIlVKCPR6MdirEwdADYYOdZYabLkfHQ8a1m4JmdaiHglIoa-0_2xmo49lg2nMHKWyHb_inBxWkenbJrxBMPBxhRDA6VvU9IOqk9BiWQv_QrKW0pqXLReH65_hUxUFZjnCBKyhpMmV3BInllpe82wgrqJTVgQwciB9m6J0ORE38EyK-fXqHt8rrwbVpK0o9SUkOPzb_Qhyvt2ExCcAHbM3xjgsYf59FgHgThvAf7JHdECS9Yph4Rjg0B-U3Jhqro0DGYNt1gxZwAzTgPvA3l4NkU68f49IpRpHHNPb43m7xIFJCNuGWA.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok sold"
@@ -268,14 +268,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "8b6b29cd1e67ea8daaca80b084d5af88d9324f5f13db1948c250dade128cc044",
+      "hash": "fa87e545c577a2d1bdc5266b30273443cccc4f0091f8a8d3276dcc2a1bda7426",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/BC6ntWyS1X6efvCkfK45lZjd9LWGoE5v7wieDd5IiqG4hbqHfnzpNEAI5JdFsSkq0QlD9W37aXswefuetQMNNYNODx0is7-FUdgyonwf18-AkGgUiRfnwZ82MbqWS4MkaNmCO0AjisWa6TsHwfrWaXyAn2KaLiSO46BX4uzcFED5CZIqsB0KkUr7oxcjoV0TM8_WLpubydHyJL0IBiTwILclNvuagqFgnjIVyz3T5ZKOA9vdUKr6D6x_IQWjqEpXx3RvxVS3V0BNbTlzocHfZkNvRrg2DUte8c4Ax79On5mP7LbdKSbMgy-FZSFw_b0B5GqcifTVA58YkOS2gn_3GA.jpg"
+        "https://cdn4.telesco.pe/file/BaxsnH0Tq9NysHjG3Qd8MRvK9CuSzc78CIV_0Chi0EbcSaP3Z0g3R7B7TDIYhz11E484J2RC3Ht492yOu1nWHlTI_oilPe9CPaLay3olwPUWPDt2Mx9Ft6e8mdYynktDLZvbmrsNUiBLCCfXCpDQuUZt1UhLqGbNwNHstb3o2AThjhSAuQ38gvoo16EE5oH3PKlfEbQlm-nrmV6ZwNLwtkF3tkMc7rizFYF3f2abEj37MPYc3nO7G_oKIBd2m2fgPkHlHQ9JQp2WVxQhsv19pYPweBTGLeaZdQI85AOoacqm9FZ1s3H19Zfy70RNYnmcAr9y9z4PzoNovJZIgWO8sA.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs. For anyone. Like, for absolutely everyone."
+      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs. Like. For everyone."
     },
     {
       "id": 1292,
