@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-30T08:50:49Z",
+  "generated_at_utc": "2026-07-30T14:32:42Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -130,14 +130,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "cd21902b597faee35da8734d059436d1cbce65d426d5781d267576e2e65af76f",
+      "hash": "7bd806f6b83c531b7c395363ffee7cf1eb1b3886ce45ab4a0bc0ccde91c81c90",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/giWi84gfS6oLGB56ymfyqVNVzW6S9AaKO6ybmQjhEj2-YnE3kNF1Ky2BWdgVHe0RDwbAlxzP3O6D8H-NOAzkAxUsJf7KXcN5krYvTcrbcmn9E3zT37YRPl4BPo-OXap6OOZ-jmDO5eoY2PLqespZqajNJRrsi8_sDbfJRraAktbrtfp22F4dMpCxFO4n8sWtYk4Wvl21Jqo90dGKiIXJuewMSAml5HOpkqXr5u8twKwWWSe3JkbL5wUH17lgGljHBOSPkR76ie4zGzzaF1egQTab4KEZPgySDRJipLAW-Rg5J5Y2aDEq6aiIOkJc-G8RFrD-x2EQ26Bexoip53gwJQ.jpg"
+        "https://cdn4.telesco.pe/file/CUjeBZq5aO4QG7QGQqLOfJeVJC6p7IQAZK1WBpaoub6BGqIaskW59n97qvAqOhta5lRWTmbpJSCkaTjcmBeiaviwmQW8GjAw2SkEzyJO-c9DsKeYh7STMjaCqpPtNn7ugF5k3ctEAb1wMek80azL1qU8sZ8kwpolY2sbpHOpLS1-frTEnBSHfFzDmR9mPCdMqax_E9iQFnAL6ZO4RP9ZJMEJ86aAcoQs8vchhwPQGqv7oQilOZHTai2EjDMKTTI6RVt_RZalb0lmzuni2-kaKV2Cjo_5Gru2uGXkn0CoNCjtDpUQDs0jDh--sTP6L9Zk5Te_K8SE68Hdfed-Z7r-BQ.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in:\n- fable got banned by Anthropic, there’s some kind of murk there honestly, and politics\n- Intercom got bought for 3.6 bil\n- Cursor got bought out for good, in stock for 60 bil (so is that the most expensive startup acquisition? Though whatever)\nAnd meanwhile here’s a nice pic about organic launches without marketing and pouring money in and all that traffic BS"
+      "text_en": "There was a lot of work. But then some news rolled in too:\n- fable got banned by Anthropic, there’s some kind of мутняк there tbh and politics\n- Intercom got bought for 3.6 bil\n- Cursor got bought outright for stock worth 60 bil (so the most expensive startup acquisition? Though whatever)\nAnd meanwhile there’s a nice pic about organic launches without marketing and without pouring money in and traffic and all that stuff"
     },
     {
       "id": 1305,
@@ -268,11 +268,11 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "e5de5f9e0269a87bf263dfc23af43324d9a754695186fc128ad4771733370736",
+      "hash": "8a51abd11606c6ba5f380ace3dd1afd13d78a09080f7cb3a279daf9d6646ab90",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/XxOW_5FICN1Ak5U20-M7zE9HIKs5k3OHUKu3fX65QEZAVjEVtJMFraN2pw22h7K7Rf8CIglcn0FRWvaBUB1kEn6x0OyMAYS95JFYL4o-nJM4HXhvI4BqHf9uGARzRzUNC67zA8BKo3DEv6HwcdzQWZT9JVCB5pr_hw0cq7BC3GNZAsWCQa0r7TKXbBVqS9571riry8lt9LDnwW7aaEfor5eZ8bmsMqmw6KUwOaOXAsL2gxCN_DMYuOjeAJEiiJlFJvPU0XCmy5h5Hk3NwbPjNfwv4GXE0h1w9bShyutFBfz1lNfqZpDWBgtgY9QWZ8dXaQAtDkxItmhBUjXxTQK-Lw.jpg"
+        "https://cdn4.telesco.pe/file/fEXZ46zegsCXL_qjLl8L7w9aVU3cyZbIwLvy3rfSuHakB1q7tipBPimEdf-PJ18Lg-V1gDelITztRRp6PG6mpu5HWDgvR_TNZBrn8gTrEMlRYz97mjaoBNGBXZTFv6tovPTV9xq1hYWUxeQus1YFFoIOgOV8ejne1arz9qHB5-umOUHJO0dfxOl_4TvROUxmvc4RWLBiV_IxuuCpZhsHVSbTa_gVrz0jsz2M0uD3tz-WXeGabH2lMpQJGkolEZcrQTBEbAFqpZiwCGSbgOrJLJeMcZM07Z62gt_KZw64jThkT5KYyZtXd8UiIbvgZm-JGqDdIBNkPmadFKPuYoItIA.jpg"
       ],
       "title_en": "",
       "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough GPUs for everyone. Like, for everyone."
