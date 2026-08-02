@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-08-02T08:37:57Z",
+  "generated_at_utc": "2026-08-02T13:55:11Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1319,
+      "url": "https://t.me/chillhousetech/1319",
+      "date_utc": "2026-08-02T10:50:11+00:00",
+      "hash": "e2597011f3e0a3a032ea96284fb2a93ed1cddcbde1cd4b5f38b9b5b6e9bfebf4",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Давно, не делал. Когда-то в канале было, в начале времен. Вообщем AMA или ask me anything (спроси что угодно). Закидывайте в комментах. Постараюсь по возможности ответить. \nВоскресное.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Haven’t done this in a while. Used to be on the channel once, back in the beginning of time. Anyway, AMA or ask me anything (ask whatever). Drop it in the comments. I’ll try to answer when I can.  \nSunday stuff."
+    },
     {
       "id": 1318,
       "url": "https://t.me/chillhousetech/1318",
@@ -130,14 +141,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "abea80dda092d3ad028d31c1c122162eef1ac00307681ea722948c0f2908e171",
+      "hash": "cc6c7e9650ba21f7d38d0e41cfc0e5c6619c8e16611fabd657da4536ad09c65e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/mFGRdUiPkQtPRv4p9mO83txTyzjTnGq343IVdzf3wvP8FFXRgGJgsG1zlD_2vyJ5OiO0QumIa4KqzANvBIoHBvV9foU9eKYEPtOnW8GAxUH0j3eMd4nmwweZWam3Le-P99hGJXCaQIPLAJ8EyVC9SnXwSKlknNUko-N_rEgT2HG2XRLPdhnCwj4IZffcdwsg9a3ghDntYqu7__tOIklcHCwlzAt3f18DLIt58HF1MmrsqrEJN-wOaOw7RCtpcI6KkzX5wFwBcuUrQpdK157tjvf5epUcpP-F-1eMXL5MBWnb_-ChUgvdSgF2V92GxF47LgMu3_a9y0D1RLdJKsJORg.jpg"
+        "https://cdn4.telesco.pe/file/klu1m_g_aTSKOeWGOMvHFos94I5g8E6vumHsO0UPxhXkAarNlqAn0SrtCp0YgzABUMn_tlUvfJlKhWouFQzJ_RuNkvx_v82Aly5hBUPQwVnvarEFBQL9fVJZ-8RXTJQzPP3F7pCM1MsRDw8jlWj3Sz2EVAum-HV-0kfaLYDnqhpphHL2l4-ku30L3cuJmMJ9VUdGmJzG14xXsZWoeOSH0QsUc7sNs9KJWvmP71NklipKfCrCKCpwSwnJHY_4hvUo3PXJ6qIub6EOGgob7-BdC2y09ZJId-zQbIcCmsNQM0vrShcDKKvgEBN-NMeVzus9MTW7r0pmbzVWQRe2Srwa3g.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in too:\n- they banned Fable from Anthropic, there’s some kind of мутный mess there tbh, and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, for stock worth 60 bil (so is that the most expensive startup acquisition? Whatever)\nAnd meanwhile there’s a nice pic about organic launches without marketing and pumping and traffic-flooding and Traflo(?)"
+      "text_en": "There was a lot of work. But then some news rolled in too:\n- they banned fable from Anthropic, there’s some kind of muck there tbh and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, for stock worth 60 bil (so, the most expensive startup acquisition? Though whatever)\nAnd meanwhile here’s a good pic about organic launches without marketing and pumping and “traflom”"
     },
     {
       "id": 1305,
@@ -268,25 +279,14 @@
       "id": 1293,
       "url": "https://t.me/chillhousetech/1293",
       "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "1e4c1c2069f88afde1f5ab2dc64beb94470aa8c0f03ce3141137ff48d9595d47",
+      "hash": "3e14379f6c1ad68bcf7e2ddbc87324891e6dd2f0545af012eab23492a6ff12ee",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
       "images": [
-        "https://cdn4.telesco.pe/file/DG7qGuw4KSdLEE8pXFtLRghEvW9ZrpR3XLjHkA1nVGf5-MMLt77jzWGOEqhwtvkL816X9RTQB7N0YVXC57XSx89L0lXFQQBCAYSEhjBRKjre3Vwbds3tHLYymZK34KllkdfvZAY8KndNIafViuuGkxUVsf3nPwRd-QER4ttr0tukumqHLWy6Gzp809hNomd3v8W9soNAfP8KksJLXMekRtLTfwhBQLT_NIu9ZsYNZv9cNYJajbLpmKEUk1AIu7rz_oPQeNrDyhlWLvwpLOZ-QblD-nkMZS3tzehUY6LPBUoSdnsXbJI7bzhvwqSOJo7szxV_YbBUJlcaP6bGvC8P5Q.jpg"
+        "https://cdn4.telesco.pe/file/HYM4i9-HjERSOIK_qyRJjG42QYAF288TB4Cuf1AM2d5o0tCH0nP_HAPfW77NYboVPU-7nPbw-lYqlPmSD-nhk7SaTYGCjlhKmn_XZ52tuxJq_V3AbgpRcSet6h-A09gTsuXeM015qVQaUXZXyVgQ0GIdVJkcooLh65f1xdgBXZ-fIYReJ0Stl6ND-zftG0-7-9SuPmqMmfQ6OpM1E-2SvxasqA7re5WdnS8gp-Fe3KcDHHs9hHPKKuO3zEWXi9zY9VsIoZacnFyW-Hvp6s6tkHptPGXTo_rw1TkJHol3nQIShuFwYOz_HysG2rSI6FOBPhXCfu5Z4qVflsJv_8YZag.jpg"
       ],
       "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conference is, of course, the realization that there aren’t enough video cards for everyone. Like, for absolutely everyone."
-    },
-    {
-      "id": 1292,
-      "url": "https://t.me/chillhousetech/1292",
-      "date_utc": "2026-05-18T18:00:04+00:00",
-      "hash": "ada1fd60b821d53ea63d5f7ef99e6ee2ad8afd54b46643248f863ac3bb763e2f",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Илон не выиграл суд против Сэма. Ну вообщем, думаю и цели выигрывать не было. Но если была, то это клоунада чистой воды.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Elon didn’t win the lawsuit against Sam. Well anyway, I don’t think the goal was to win in the first place. But if it was, then it’s clownery, pure and simple."
+      "text_en": "Seems like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like. For everyone."
     }
   ]
 }
