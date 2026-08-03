@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-08-03T15:17:01Z",
+  "generated_at_utc": "2026-08-03T19:59:07Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1320,
+      "url": "https://t.me/chillhousetech/1320",
+      "date_utc": "2026-08-03T19:45:25+00:00",
+      "hash": "ea7b1f684f4ac3ad87f7052eb7fa9e4752c01edfa3595f6629b947c1b01df2ae",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Наблюдения последних недель. \n1/ есть два лагеря о том, как достичь AGI - это у нас rsi (recursive self improvement) и world models. Первый представляют Anthropic & OpenAI. Второй Google DeepMind. И из-за того что лидер дипмайнда не верит в то, что опенаи получается надо и то и другое делать и поэтому так все медленно. Короче корпоративное опоздание. Но чья ставка сыграет не ясно никому. \n2/ в Китай возвращаются те, кто работают в топ местах в сша. Основная идея: они верят что смогут так же как в свое время сша осуществить «китайскую мечту», а именно получить мультипликаторы к оценке их компаний в разы больше. Другими словами нас ждет китайское господство в аи. Я бы сказал, что это более чем вероятно. Учитывая количество усилий и веры. И супер талантов. \n3/ в математике назревает кризис. Многие PhD будут мягко говоря обесценены. И я считаю произойдет в целом большая реструктуризация мира наука. Ибо аи сможет буквально открывать и решать 50% текущих задач. И все еще «совсем новых» смыслов пока не видать. И я думаю, что проблема с поиском нового такая же как проблема с написанием резонирующего текста. Потому что в теории относительности важна не сколько теория, сколько идея. Дальше так сказать можно добежать уже как-то. \n4/ найм это ад. Рядовой рисерчер в Anthropic (и других топ лабах) получает 10м+ за 4 года. Жизнь боль.  \n5/ многие компании с трудом осознали, что масштабирование зависит от их возможности тренировать свои модели. Harvey, Cursor (не смогли и сдались чтобы делать в другом месте) и другие\n6/ оказалось квантовые вычисления очень быстро развиваются и там много всего интересного особенно в области квантовых нейросетей (лолкек), писать про это?\nКакие у вас новости?",
+      "images": [],
+      "title_en": "",
+      "text_en": "Observations from the last few weeks.  \n1/ there are two camps on how to reach AGI — we’ve got rsi (recursive self improvement) and world models. The first is represented by Anthropic & OpenAI. The second by Google DeepMind. And because the DeepMind leader doesn’t believe OpenAI is pulling it off, you supposedly need to do both, and that’s why everything is so slow. Basically a corporate delay. But whose bet will hit is unclear to literally anyone.  \n2/ people are returning to China — the ones working at top places in the US. Main idea: they believe they’ll be able, like the US back in the day, to pull off the “Chinese dream,” namely get valuation multiples for their companies that are several times higher. In other words we’re in for Chinese dominance in AI. I’d say that’s more than likely. Given the amount of effort and faith. And super talents.  \n3/ a crisis is brewing in math. Many PhDs are, to put it mildly, going to get devalued. And I think there’ll be a big restructuring of the whole science world in general. Because AI will be able to literally discover and solve 50% of current problems. And there still aren’t any “totally new” meanings in sight. And I think the problem of finding something new is the same as the problem of writing text that resonates. Because in relativity theory what matters is not so much the theory as the idea. After that you can, so to speak, run the rest of the way somehow.  \n4/ hiring is hell. A regular researcher at Anthropic (and other top labs) gets 10m+ over 4 years. Life is pain.  \n5/ a lot of companies have barely realized that scaling depends on their ability to train their own models. Harvey, Cursor (couldn’t and gave up to do it somewhere else) and others  \n6/ turns out quantum computing is developing really fast and there’s a lot of interesting stuff there especially in the area of quantum neural nets (lolkek), should I write about it?  \nWhat’s your news?"
+    },
     {
       "id": 1319,
       "url": "https://t.me/chillhousetech/1319",
@@ -117,11 +128,11 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "eaa337f48d65817aa2013319a08904a8d449a3ae1de45f49a4b3ef57dd0cb78e",
+      "hash": "635c18f4e0725fa305ef4675c6ebc1a04d8a987f3b32b6179c7a529e1a88de50",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/GCGcf1pZZH7hAlV1wH-KutgtXBrb7cDIXDKGjMFYSF3Dp02jsSgDOdA70xLEE3dKtnAFs7OFebOcFaKh-8UXz5ptLDjgkbXwyVNCicpl2gZ51OqEsYa8kYKWlx9s92O-Zw-xoawueBAmBr28PhYqjtqE_VFt3ljP58bd3U-RVGv2vsLl4ZVIRUdt3T2ifoZdPXnvcjGen6zjvZGnoXnH7xy1DwHPr0b8ZPq6v__xtekHnXBU6glL-WGFlfAg5IY6QAu_Q6X1clLew02FYPw5v35WqTtN4NgVwZAzIXLx9Av6VnbNq9SDsiSDeSRcT5UJD1T-zVw5U7PsP-X_YnESLw.jpg"
+        "https://cdn4.telesco.pe/file/pmgUmipDHj_d8VtOeWl4xwtAV1-2Mkjl9C4G_G9-o7jDJYx3IDq2AeVj0b9KRwnAR85pZed-QQUiK4GdleenMHVyu99UXbvv1RHRjY9eDcOJr-pQhkqy8rpKPnCWPob0wuOnGOSd_NiEcofp7hgebEGFXYLJmHTKund_8oT37kOR-loWxnGa0j8VLNMrtUUSdCq_W99Oyj59u17F-00uRhLeqLNsVfjmmKJXj6zhw6EgLtUTthT3bRAVzXzUs6knOzetDyV7hiM-YR6L7Cm2c_2Il0LD9F567Q5hxJfk678lLgdXedM7A85au658IgektvtMwJyKUccICr6iqJXORg.jpg"
       ],
       "title_en": "",
       "text_en": "Tsk-tsk-tsk"
@@ -274,19 +285,6 @@
       "images": [],
       "title_en": "",
       "text_en": "A few bits of news and comments:\n1/ OpenAI  \nwent and  \nsolved one of Erdős’s problems. This is straight-up good. Very good. I haven’t had time to dig into the solution yet, hope someone posts a normal overview (not from the people who were giving quotes for the OpenAI blog). But overall, a lot of folks were saying they’d go after Erdős problems specifically. Since the task is basically combinatorial, and I wrote at some point that in this kind of task where you have to make complex deep hypotheses about structures, there will be a lot of breakthroughs. Hell yes! A real assistant. Wonder how many tasks like that there are.  \n2/ On math: I *highly* recommend this article on Substack. Also, if enough people subscribe, maybe I’ll start mirroring longreads there. The article is about how math creates new ways of knowing, and you won’t discover them by brute force. Or that proofs aren’t the goal of math. Very long text—if you can’t be bothered, read it with an LLM.  \n3/ Anthropic pays xAI a billion a month for compute. Nice.  \n4/ Karpathy moved to the pretrain team over there, where they pay Elon a billion for compute. Obviously for the money.  \n5/ they say Claude mythos is coming soon"
-    },
-    {
-      "id": 1293,
-      "url": "https://t.me/chillhousetech/1293",
-      "date_utc": "2026-05-19T21:19:12+00:00",
-      "hash": "cc1958338950dd93521113c48501415fa91b4764d3c1f427f73e66a288ebbd27",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Думается что самый полезный анонс на конфе гугла это конечно же осознание, что видеокарт не хватает всем. Вообще всем.",
-      "images": [
-        "https://cdn4.telesco.pe/file/c9LeNWLoBFh-Sellt1vJZH0uAAHxkOFCg0um4n4PZZiCBg7urn-fL4-5bEeuevfkVVHNR_nrSJj9jxfUacAE3jWKZ49wl6io08ui10vJA5Q_oYoXr6aKgVH1SQgoWizmotaaODpMCdP9v5S32S4P8L4EY00B3o9YnZr5e4ubMgv6OUnbay28HOas-76fpRWMwc8iaF9FGrbxjbNmiMarPxAymm1Orff-gwLBeTYCrDnONgIMvQw1jiqOMSpM1qd3iAakTQn0NhLfuX8EtIt84pGWfWw0l8NZG1QJ1q-Uw3zavWXCpHXb4m0IeTL52I4TdzkBrAj8gUSCqoP02Z4JdA.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Seems like the most useful announcement at Google’s conf is, of course, the realization that there aren’t enough GPUs for everyone. Like, for everyone."
     }
   ]
 }
