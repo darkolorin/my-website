@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-05T14:33:38Z",
+  "generated_at_utc": "2026-08-05T19:55:30Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -128,14 +128,14 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "f2b4936b3b24004e4e8a63b0f7e48567b66178b223ca57b88542d1e0bf483468",
+      "hash": "ae0ff24d430b5f4b21d6a26233c9d7d5def7f3ca22541d9a567454fb6b7ccb89",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/QhzHotTl41kDhV5jOUFh_lYq9R9ilqq95tESS0zd9_qvrmFc0dGKKiHrhYD0jdt6PWffLoCQba6IW5kF_ox2uwx8Hroz5gGZgcHhN8vZ3mKga64h6vtSVPSDSjLLEUVZtEmPYqKbkYm1Zn-NW2P9OF-QtvkOIP_ROps3ps9h4AGIFMX1I4W2myxuEZHcbopyPZBhpIgekKbj58dkIPIJcZFrHURPucSI_rY8yWnwNjPryqucwV_l0801Z-hgId_JxgL_Ff8qsh7cTOKvMcs29cJAO7UPVn1LvwqYY8nzZ1atNWD2WggYw_rqPK3OOn3v7hvHXfNLZn_Nl0kynJF7Zg.jpg"
+        "https://cdn4.telesco.pe/file/MJ5ZyTrhfh_sK-oHuUs50xiQUCe7AAZQ82A74DmhYZGOZs0Qs-BC2sEwdCe2UsQLS0zwe9_WF7v6zM64m_jJBmLLaHc_X2EoGo3eJ3kmVx_LbskRL8oY19j2Y3mkrCo9V7TloBrexALM0ZQtTQJTyS0Bwh-FT04y0TOWOrc6m6t2Wl0YuGO3d5muUIsbGOZFG1djLb9PAwO16zAgtgsuTA-Je6rrWiT1lHFhjyyj6_bJS4-LVZz723R8IrZAuwy5NYYDIKYyO8JuWCHcQ9x27xbF7o6eXJ9VFeqDKYTsVw86_GMPf8eQR9tz61vMAvynyiQFJ6qPpj6g4RBz0Z-gOg.jpg"
       ],
       "title_en": "",
-      "text_en": "Tsk-tsk-tsk"
+      "text_en": "Tut-tut-tut"
     },
     {
       "id": 1308,
@@ -222,11 +222,11 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "5483883ffe14efc460139e4a0e2fdc8afcfd7ba03f55bcf5d9dc48c2e75bef78",
+      "hash": "64787ef95fecda6b75f3dd0b9377b255271ef26cd09c9d75e080495b5d38dbd6",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/cXRdMKyHpn3oMEl8oAjLGLfqJxnQhM7M-Au3oDquTGaW06fHLZVLYsI4lJJuylqFa02DLZD0hPrT7Y_iSmxGvzeCRzkAkaF0d93sfwGkizlqIAviGGxjCWhLC7NRIIAhJMeZFBAerJhAuOhU_V9xKqFJVtze_vYumrW50YFDYUhFkXmEga5gqHdaseum2sTFQuqNMTcb4n7NL8Co88RA6TN46HhAfwjpI5vOExPU8ZfEQ__t_yz0vciCk8UfCd3t-QyaUv0yn_X_xdB4CnKsj9k7HM42T2b03CLRPY9ML69ZvnmwrVNFCfnfjApfdzsP0JK2OqqnapUYZCAfrnPbiA.jpg"
+        "https://cdn4.telesco.pe/file/ZFhaIPUuHrnJqHEW8rDDHTH1tVNG5D1PWyG9IEiQjrKW9CwdPeYZJiLV79b54vqEmLdx924JVYguSQXOCgCZ9irFdaEkHFoVosPhIr_yc1BC-hVdm2c1I_n1uylmRCBuLgD_y8MqW_EDeOu5IG12nkTAJWGmm4ZEfLaeqyfuilDc5sx6mMAZC1Gavua2X7y7Rrlq3uK__aXjWCxSURxE__rD7fEfB4dXA88nT1ZiKL_j_mUPSLgfOyOXXt6SDJZhTbIhXqZ_f64mSKm1jIrya5TN0r8irqMO6ZWFlPS1O9N6AvigvG8QKhBi59Pe-R1MqccPlVVdCnKmsElBejlvZQ.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok, sold"
