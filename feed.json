@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T02:22:05Z",
+  "generated_at_utc": "2026-08-08T07:16:36Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -222,11 +222,11 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "ef69ac8917137c5a20970238ec13f9a23ca2cab3dd161126119536a323e1c179",
+      "hash": "23fc09fda939546e202e99e6e5a439df331ed30e0b2e34e4ab1a621bbd2a4cf6",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/GfZzYkXWZ2mjCWuPSw-BgWgEKScjHlf0YdPhruiFTmPLMTNYxwvdqLW_62ZSmYJZ6gLdxaKxnjFnqJmJIlmIdNVr7W_cc151S4Gk2z0ulgdXxO-TIvMqvShO9X4SlCDrXYraH-Pfr3QNwOmV005EtptJrkr4JCfbnfbSmfmVxDJdKozNalC5hmzlhdZnsScaNHTVNna0D-bc3agkyPxz5SsPLvy0YmX_lAqu8sg4AAuHCljNYpi9QivjHUt6C46jIIRH99aAbBYjozPf0sLrNuV0JBF3Dpl9DLU4O4xt2VFf4a6Zq3dD6bls_sCxuxsaIQppfcmtzuNZsfIy0CbFTw.jpg"
+        "https://cdn4.telesco.pe/file/ar5QlaLYjf9c2ShT26zlK6npayfRpLi0gB67upLXkWArMIvElpxFZz4B7G6oJcS-Zp1N7ET1vsIpWvtx7RUM3nVm7bHkuuskt1hOsbU5x1hf7IxeUxZyu5xoqboqb9zSzF8tcQu7nwFD_X9i-Fu-Av1_tDf5a1PkNKj306JDa7aHu_NJm9Rfyv8LRqqYBgT1UZXvXaGNe_wVmUWEoF9ttX2wijqc4WSAY2DZ8eShE0oXv5YJvfXHyzCaXWyrRuuZ6uRO2PxUAjem8KMGD1efy4SDjDBUlsleamhsiB9jlgJssMxXoabUUIACmJ40jm8aohJNyCdZaIC_1rJKyoMXow.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok sold"
