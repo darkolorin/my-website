@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-08-14T07:51:32Z",
+  "generated_at_utc": "2026-08-14T13:43:30Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1322,
+      "url": "https://t.me/chillhousetech/1322",
+      "date_utc": "2026-08-14T11:38:14+00:00",
+      "hash": "50bfd25c2fada7cd15c57592db1144343d4a459cd9a901298f85996dac5f44dd",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Первая большая жертва биг лабов и китайских моделей. \nMistral\n. \nПо факту их стратегия: мы построим для местных госов и прочих дата центр и станем ака SAP/Palantir консультировать и внедрять. А модели свои, ну если надо можете взять, вот API.",
+      "images": [],
+      "title_en": "",
+      "text_en": "The first big casualty of the big labs and the Chinese models.  \nMistral  \n.  \nIn reality their strategy is: we’ll build a data center for the local govs and other folks, and become like SAP/Palantir — consulting, rolling stuff out. And their own models, well, if you need them you can take them, here’s the API."
+    },
     {
       "id": 1321,
       "url": "https://t.me/chillhousetech/1321",
@@ -220,24 +231,24 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "5febf629c5a92f473f66005ab308c9000098b8df5d0cec162b883764f2d45c82",
+      "hash": "85dbc5ea2decbe95b07e499cdbf7ae6a39bab83164cc3fb5267631c7f21b1c24",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/KNQZmXALmMbKmSr5j8UsOUY7Ey3BvF8hYKxl2buwj_5kop6IWG2GHQerjnDCDAEqYRVnIdkgIiIVw8266FCnbQ6LnLeXIpWmtre3iYXShUH4Or3wY0gGrvpqcsHx9xh2eUETkGfAFBMRpLgUsDUFjjiC9Q17d3Sf3QidDF_9vx1OlVK__IyjUEdKz7bYI33nFSu3s81sjV44AnZZ3izAOmXbmlwQMMjJdI70PTzfc-BTgCd-X1FNCAOtAwkLpRJ7MHFdrqzxVP4iaTOkwUCiUq9Dt5cYJ7YxFultBs6v3gkUiAW3O7DVHdf-Ct7yZ7d-TEb2K3yyGNVidIdsSy3ANA.jpg"
+        "https://cdn4.telesco.pe/file/Lkj68OV-jUaKB4cJAL7yyU2IhhBputmPhqghoNwSsvybzbxwJ6d5nEqcKdZsy3qOG0-1_l6JEs0XSEEdSnI5DXU-elX6thm_gfSDUY_v7ppilCnAf2l2IPu-g-J2WxePddxSfO_hNWQ7PS0YrpHecg0VHw4Ra-XZUQGXnS_x4tObJkGf4lkh1FjJk6wdQcGSr93591Ne5dDNuFXVfJcK8R_nHf1PUzUleFKr8SOByi_nZatLyvLxg_7lwPyjO_IeXqPPWuypxxwdRcIiStMFCg1XVwH0er7OzDFu8qhqiLzZu34-7QAQF-R7DkCjcm3qMZPcHoUajUq9zgAJy4r4Zw.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’re confidently pitching your idea to a seasoned VC"
+      "text_en": "When you confidently pitch your idea to an experienced VC"
     },
     {
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "ebda424b5a35e6779a3860bcc134da1429d9685cbf743e7fd39877787569a2d4",
+      "hash": "7be07d83dba1b5001cc0a3ebd85daf560e20ba4fb07bac9552541bbb9c55fa4e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/ZCCP7ncoZzv9G0imxQvd4Y0d7rvRMH_HlZKOYgRWW8R2tkalNtsEIZUD6OvdAYkJK-uHlkxbP6JvbeVJ7Lsx0ZNaEQpvbQOwPRhZ1FwvjL-8Jq8GtbtKgDkg14BQwQ0O-VArW3UzD_J1osOaHbLMs3llVsJ7b5WmgbpxSrjj8g8z-aUVuQlucfZT1DdT38bNcFMY8afclZkGrXYpyntInZmZLOseq6_TAqlwx-Y-k-AdxmtGNya8toVhT2yp9182g6nMXgmHWMywjXVJqMBtQ8l6hSfsrMfJMNMzGUn41RZ9lufEeQUWCsWJnzPuuBV1wuwL_kms1fLPEcqjhLCIFg.jpg"
+        "https://cdn4.telesco.pe/file/IHLhrlqmHUxp8ZBuQkWALvkIjaOeJVXhgL3Hak11pVFvJRRwCV9rMJtwLTf8dVJc02vatfORE28sPnwokZgkFS8Obo41ea5WaEO0bJS6yKcb5Pc9Hiq7KcJ-wL_qIB58EXktmibFCiu-xvbXO5bXf-BPg9woHzKodykCPLv32w5XsItsKzw4ay-RRbk1nPdpLXHPQWaMyixoULTQi2n4zEox165phKw_Nr5DP8V527tOtZxP0m9WzcHpxC4h6S2hgN2gJIXrKAsRwaBhl_UE1gZpiU2Wu8nzVoDah4QCa5NLSqC7cTYFLgKPPljwOJiiEwNYz3Eh5AdmtCs0zbn-gA.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok sold"
@@ -274,17 +285,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Promo time. I got asked recently, like, even with your attitude to vibe coding, what would you recommend. Obviously: go and use your own brain before doing anything, but if you really gotta, then my good friends are making a course on the topic. Quick info below:\nVibecon course (they showed me the syllabus, it’ll do, since we’re not expecting a linear algebra or probability theory course there).\nWhat I liked:\n• 3 weeks, 5 sessions, not dragged out\n• solid setup: cursor + claude code + next.js + wispr flow\n• they rebuild the program for every cohort (because everything gets outdated literally in a month, and that’s true), and then students get access to all the updates\n\nBottom line. If you already know how to learn on your own with ChatGPT, this isn’t for you. But if for some reason you still aren’t using Claude Code, it’s a good chance to start\n🗓\nStart: May 26\n🔗\n\nSite with details\nThey’ve also got a short test to see how “AI-pumped” you are right now. If you’re curious to measure yourself —\na bot with a quiz"
-    },
-    {
-      "id": 1295,
-      "url": "https://t.me/chillhousetech/1295",
-      "date_utc": "2026-05-21T12:37:17+00:00",
-      "hash": "8758565a8665c020dabd1e701ead2da8203de7428e7e55b3f172027b6cf64850",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Такая мысль закралась. А вам не кажется, что харнесс это технический долг, ведь там есть системы которые опираются на конкретные промты. То есть по факту мы надеемся что определенным образом сформулированная фраза даст лучший результат. Но это же меняется с каждой версией модели.\nПолучается, даже если модель поменялась (даже если вам квантованную вдруг подложили в API или сменили версию инференса) у вас может все разъехатся? Выходит промты и чем их больше это своего рода техннический долг и причем приличный. Поддерживать то, что не понимаешь так себе задача. В том смысле, что не имея знаний о том, что модель делает хорошо и какие данные долили сделать промты будет тяжко. \nВообще мое мнение, если модель обучили хорошенько на определенных задач влияние промта будет не такое большое. Но с другой стороны Cloudflare репортит после экспериментов на Mythos что мол харнесс наше все. Где правда не ясно, но что мне точно понятно, что делать харнессы на века без своей модели это выстрел себе в ногу.",
-      "images": [],
-      "title_en": "",
-      "text_en": "A thought crept in. Doesn’t it seem to you that a harness is technical debt, since there are systems there that rely on specific prompts. Like, in practice we’re hoping that a phrase worded in a certain way will give a better result. But that changes with every model version.\n\nSo even if the model changed (even if they suddenly slipped a quantized one into your API or switched the inference version) everything can drift apart on you? Turns out prompts—and the more of them you have—are a kind of technical debt, and a hefty one at that. Maintaining something you don’t understand is a so-so task. In the sense that without knowing what the model does well and what data they poured in, making prompts is gonna be rough.\n\nOverall my take: if the model was trained properly on certain tasks, the prompt’s influence won’t be that big. But on the other hand Cloudflare reports after experiments on Mythos that, like, harness is our everything. Where the truth is isn’t clear, but what’s definitely clear to me is: building “forever” harnesses without your own model is shooting yourself in the foot."
     }
   ]
 }
