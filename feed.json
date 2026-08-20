@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20T13:11:33Z",
+  "generated_at_utc": "2026-08-20T19:00:18Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -244,24 +244,24 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "16f21754ec1234a33831b641bc35965eb5caeaa7c64014e7e2d83d0fb7a66b83",
+      "hash": "a91c9d10dab4a80944d1a15f07c300aa6c44c5b985defb6e37bff2acb1e0653c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/YAG7YcJKqXFehXIrbc0p48l2EsB5TXxHE_To4yz8vdH-A2JsLbRFZAa7Si7MuOLLtISCUEu0fy0UhMjzyeUnRYURSzFtO4SA402BqzoggQtg8PPDkNNZKS4EvgThaX0w1Zz7Qr6KCmseCBaOf2LQwn2BP5-m4hjc9xhSu0h3-MYV1tHvUL7Ju9F9uMGiXdZCv0DVX1wCCPwEpQNDNnYpPhiFuuUf6Sr_oaQt4FyiB9GeSjKDQ_7R1siyo0GtKQbEi1aXJtNdGrM_IHaut0IWDUygh97O_TxD1Bes2-Xfb8a2pIB8lQMW_yMwHu_n9JankXglf0EDGm2wkQRVG5qvNg.jpg"
+        "https://cdn4.telesco.pe/file/CNc6HTuNZsmCyIXDhT_A2d-_-Ro0ZkvdjagUtFTqLxjD0UMaUy9sjlr5cSu0ogJLhHqM946j5XjCMDMrt7chHjd8RXuJ-tWO-v39uF1ovDNnsA6NGocKgbZbPvgt1-2JYljx5w3YcO7rwm86wLhsbccF75v7GEAiBq05iZFjGO7VbJfqOmehEmZ4qVkexMFjuf1giKy-toU--0QD1OnzVl5Wp9RduCriBtmeaIvaKZAnKsZjTDukA1qlfkbubsSaac2OmJ-8X2ZT7lqUibbQkKy7PPXMQLGgZ_V92e9Tjh-_X8E3j51b3IoCW7uA4dtgI_dllz954httV7rXL0t9ag.jpg"
       ],
       "title_en": "",
-      "text_en": "When you’re confidently pitching your idea to a seasoned VC"
+      "text_en": "When you confidently pitch your idea to a seasoned VC"
     },
     {
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "ae446cbdf83580070df46702c48090ee3b5776ec5d192c93749d86b6be6f3a53",
+      "hash": "bd04acf729a034f1afbf291439d09699a9d959e043211a0355cf9377f91138df",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/jtR1TAhy1151vJibipXe6YfqjkIOtlxK1ARkPMuN0YOKnZSmqRcI0cJ54zhI8xMiiczCZ9sPA0rtW9GzBE8jlBHcJJTLHb9-b8cyuRk9K7VEPpXGL7w40WNM0cbqsaOru7mhyryKJ-xGcn3Da3a42irXpagDHiN6oFlNpd4IisNAor0pfl1fLo_iGTfpDEPjHhRLY1OuJI3g4WVtvoQgiTymE3q_EzIr9Btv78wxbbpgTR1woUpUmn5AsieKBNHJOs_B12lJa4EGVUwoguZ4gIG97HAZEdTGHx4wps6GuI2ms2kwmy0WjW5bD5DGqj14gAowW5_7LTD8v9Qm6b9tVQ.jpg"
+        "https://cdn4.telesco.pe/file/SQRrF0oUBhMYgqf9t3F5z77X0yJd4-Jg0LSCYxo6O0QsGQvo8StZ58C8vgv7afHj3gKE2b1hWuLkFNc-Ic7PZYTMDs3Os4rZx8otSKqKny2jWCuSdYxlGWByt_UIkxR-G8K4YgWUt-5CwgY5XrqK8HoF7PZyFVNJdkAmz4PTE_vf9X79Itf71j-Sb4k4SfFHXykMp5z3a8HnCJWzF2cr-01bDZF_jCL_c32InOj0uRghVx8ElC1FTXDB30yzcetXU_ZBXYIwhn6Fk1Vl8woquW37Cjl5mf3rmYBHc7H0Zgk_m91yctH3prDk8G7LjJXep2AY0cP2hVf12nA6TmyXhQ.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok sold"
