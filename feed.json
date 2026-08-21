@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-08-20T19:00:18Z",
+  "generated_at_utc": "2026-08-21T01:58:06Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1324,
+      "url": "https://t.me/chillhousetech/1324",
+      "date_utc": "2026-08-20T23:39:02+00:00",
+      "hash": "56cb466c500dd5f454c8eac3414c45bbb269840071aa34515de7569ba2d9053b",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Самое худшее, что может линкануть фаундер стартапа это вайбкоженный дизайн by Claude code design. Не важно дек, сайт, какой-то лендинг небольшой. Первое, что хочется сделать это закрыть.\nНе знаю как у вас я узнаю с первого скрола.\nПоясню:\n- никто не читал контент почти наверняка, там абстрактные фразы, двусмысленные формулировки и так далее\n- оооочень много всего и мелким шрифтом \n- продуманного повествования почти никогда нет\n- но самое важное это то, что в индустрии аллергия на это\n- ах да есть люди, которые используют \nвот такое\n как плагин в браузере",
+      "images": [],
+      "title_en": "",
+      "text_en": "The worst thing a startup founder can link is that faux-leather design vibe by Claude code design. Doesn’t matter if it’s a deck, a site, some tiny landing page. First thing you want to do is close it.\n\nDon’t know about you, but I can tell from the first scroll.\n\nLet me explain:\n- nobody read the content, almost certainly — it’s abstract phrases, ambiguous wording, and so on\n- waaaaay too much stuff, and in tiny font\n- there’s almost never any thought-through narrative\n- but the most important thing is: the industry is allergic to this\n- oh right, and there are people who use\nthis kind of thing\nas a browser plugin"
+    },
     {
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
@@ -244,11 +255,11 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "a91c9d10dab4a80944d1a15f07c300aa6c44c5b985defb6e37bff2acb1e0653c",
+      "hash": "1d10424444f0dd24a50a0278606d76ca137505149a4c3dcd04c4b7cc53957b65",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/CNc6HTuNZsmCyIXDhT_A2d-_-Ro0ZkvdjagUtFTqLxjD0UMaUy9sjlr5cSu0ogJLhHqM946j5XjCMDMrt7chHjd8RXuJ-tWO-v39uF1ovDNnsA6NGocKgbZbPvgt1-2JYljx5w3YcO7rwm86wLhsbccF75v7GEAiBq05iZFjGO7VbJfqOmehEmZ4qVkexMFjuf1giKy-toU--0QD1OnzVl5Wp9RduCriBtmeaIvaKZAnKsZjTDukA1qlfkbubsSaac2OmJ-8X2ZT7lqUibbQkKy7PPXMQLGgZ_V92e9Tjh-_X8E3j51b3IoCW7uA4dtgI_dllz954httV7rXL0t9ag.jpg"
+        "https://cdn4.telesco.pe/file/GuApBShsXcnH35IX1mhTScS7Wet6FUYGwlcxdrsE5Pfcs21BIn_KKO6h5TWnqemDh1wOjHwDCXauve2hnZoGx0RPhgyOQx4fFNX2Mgr-rBLzqnsEFJErnCpz6SolXqBmjfTp1nh2rlCr8PzJeTMu3mLg8A8f-1CmLsaGbN9oEmFrJFDa7thFpsK8Vma41k3vhowtOUdbsg7vV_-tmP6VAPEbjIe2fKHm0EE7MIAqr9Q4k9f_zTzo_KAASamOHmGp9plmcPtJA-g43rMSguZhkbuGNM7YDEDxI9I5MqAB21FjERN3dS6Fe_eCKrcdT4jJwmMfurBbabmLCvlovcbWZA.jpg"
       ],
       "title_en": "",
       "text_en": "When you confidently pitch your idea to a seasoned VC"
@@ -257,11 +268,11 @@
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "bd04acf729a034f1afbf291439d09699a9d959e043211a0355cf9377f91138df",
+      "hash": "91d183d07214e6757dbb129824f4b1566526a68d023ce7f044ab25eae9ea62ed",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/SQRrF0oUBhMYgqf9t3F5z77X0yJd4-Jg0LSCYxo6O0QsGQvo8StZ58C8vgv7afHj3gKE2b1hWuLkFNc-Ic7PZYTMDs3Os4rZx8otSKqKny2jWCuSdYxlGWByt_UIkxR-G8K4YgWUt-5CwgY5XrqK8HoF7PZyFVNJdkAmz4PTE_vf9X79Itf71j-Sb4k4SfFHXykMp5z3a8HnCJWzF2cr-01bDZF_jCL_c32InOj0uRghVx8ElC1FTXDB30yzcetXU_ZBXYIwhn6Fk1Vl8woquW37Cjl5mf3rmYBHc7H0Zgk_m91yctH3prDk8G7LjJXep2AY0cP2hVf12nA6TmyXhQ.jpg"
+        "https://cdn4.telesco.pe/file/Rl2M3cDHWKX6uA9rwCFBmS3c4QFjjDLMgy_1DDwKTw5ZQGtjoyzV1OHbESsPIvJtfw0E9s6ffGzFxO0ZnPnqt4RsRzR93wYkcqEpJu_dwfYIMIMaaK1LF016qZ_a-sWDnKs0PZGzeGBKa6wKFlo-iLW7kie24APOJkmItX11nYakVi9q8z5IMyu7bp9ArBE3bwXFtPv3Cp4oDRD_gEqAJTpcTy4c0B38IuTM2hUAOJp7Xydo6z4G7jIaltAwVBlxOEca08k5h-w23ksQRtKTUK5kE6OsI9agDIUOEqljDyel-1WT3CWqhNKJbNWfJU27hCAxe7NLCADoGb8Zegg56Q.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok sold"
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Found  \na great overview  \nabout solving Erdős problems. Highly recommend. And yeah, I’ve already said that overall the  \nchannel  \nis top-tier (even if the lifestyle posts aren’t my thing).  \nI mean, right now AI is doing what people are unlikely to do because of their human nature: systematically combing the field. The fact that in that field it turns up unsolved Erdős problems is more a fact about the state of human mathematics than about AI models. But still, a fact."
-    },
-    {
-      "id": 1297,
-      "url": "https://t.me/chillhousetech/1297",
-      "date_utc": "2026-05-26T14:24:13+00:00",
-      "hash": "6c1dce2e1eadb2a33ee40246fb297552671896e91d7176a451b05c14dcc8f089",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Все реклама слишком долго висит. Я и забыл что последний пост такой. \nВернем рубрику прочитано, но не до конца понято. \n1/ наткнулся в рамках вайбкодинга так сказать, хотя я сам не практикую особо, но занятно как люди которые вкладывают в это сотни часов потом сами думают а зачем. Есть забавное наблюдение ребят. \nБольшая статья\n, но рекомендую тем кто занят этим.\n2/ дваркеш стал похож на студента и зовет преподов, на этот раз про \nчип дизайн\n3/ в любой непонятной дискуссии советую эту \nстатью\n4/ чуть чуть про игры и про \nигровой баланс\n, а то катки сливаю и злюсь  \n5/ мы релизнули новый сайт кстати \nTrymirai.com\n - дайте критики\n6/ про продакт менеджемент, \nрекомендую\n (в эпоху аи)",
-      "images": [],
-      "title_en": "",
-      "text_en": "All the ads have been hanging there for way too long. I even forgot the last post was like that.  \nLet’s bring back the read-but-not-fully-understood column.  \n1/ stumbled on this in the course of vibe-coding, so to speak. I don’t really practice it myself, but it’s funny how people who dump hundreds of hours into it later think “wait, why though.” The guys have a funny observation.  \nA big article, but I recommend it to those who are into this.  \n2/ dvarkesh has started looking like a student and is calling in professors; this time it’s about chip design  \n3/ in any confusing discussion I recommend this article  \n4/ a tiny bit about games and about game balance, because I’m throwing matches and getting pissed  \n5/ we shipped a new site btw Trymirai.com — give me criticism  \n6/ about product management, recommend (in the age of AI)"
     }
   ]
 }
