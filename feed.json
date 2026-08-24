@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-08-24T07:21:04Z",
+  "generated_at_utc": "2026-08-24T13:13:47Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1325,
+      "url": "https://t.me/chillhousetech/1325",
+      "date_utc": "2026-08-24T09:22:24+00:00",
+      "hash": "da63199c166f79eea483e528e2af35c815b4019ac2e3737c3cc52026916f2094",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Самые «классные» бизнес идеи текущего года. Ну типа «норм темки» попробовать с небольшими комментариями:\n- вертикальные всякие rl envs, verifiers, прочая муть для упрощения rl. Тут важно перед тем как делать убедиться что есть контакты в лабах, чтобы продавать им это все. В остальном хороший бизнес на оценку 50-100м. Выкупается большими компаниям и лабами часто. \n- инфра для роботов, мало шарю, но вроде заезжает норм, говорю про софт. Логика такая же как и в прошлом пункте. Желательно делать со знанием заказчика. \n- тяжелые оптимизации на уровне data centers etc. Всякие очень узко заточенные вещи для инференса или тренировки моделей (там где каждый прогон стоит миллионы). Например вы знаете как сделать хорошо тренировку определенной архитектуры или обеспечить более высокий mfu. \n- pure research ну потому что даже если вы нихрена не сделаете толком, вас купят как команду. Весь смысл собрать норм состав. Остальное не так важно. Ставка на неолабы у фондов популярна. Потому что возвраты денег почти гарантированы. \n- application layer. Но тут важно понимать что актуально скорее не бизнес часть, а UX часть. У лабов и больших компаний есть потребность в реализации определенных фичей (смотрим покупки OpenAI)\nПрактически все это тяжело валидируется без глубоких доменных знаний. Абсолютно не актуально вне определенных географий и без таланта на борту. Такие дела.",
+      "images": [],
+      "title_en": "",
+      "text_en": "The “coolest” business ideas of this year. Like, “solid little themes” to try, with some small comments:\n- all sorts of vertical RL envs, verifiers, other crap to make RL easier. Important thing: before you build, make sure you’ve got contacts in labs so you can sell them all this. Otherwise it’s a good business valued at 50–100M. Gets bought out by big companies and labs a lot.\n- infra for robots, I don’t know much, but seems to land fine, I’m talking software. Same logic as the previous point. Preferably build it knowing the customer.\n- heavy optimizations at the data center level etc. All kinds of super narrowly tuned stuff for inference or training models (where every run costs millions). Like, you know how to do training for a specific architecture properly or squeeze out higher MFU.\n- pure research, yeah, because even if you don’t really do jack shit, they’ll buy you as a team. The whole point is to assemble a solid lineup. The rest isn’t that important. Betting on neo-labs at funds is popular. Because the money returns are almost guaranteed.\n- application layer. But here it’s important to understand what’s relevant is more the UX part, not the business part. Labs and big companies have a need to implement certain features (look at OpenAI’s acquisitions)\nPretty much all of this is hard to validate without deep domain knowledge. Absolutely not relevant outside certain geographies and without talent onboard. That’s how it is."
+    },
     {
       "id": 1324,
       "url": "https://t.me/chillhousetech/1324",
@@ -18,14 +29,14 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "f2d43c89b33360225e29a586fb7cea2c84c45e32e92f3b109064dcc7869de786",
+      "hash": "5bdee51ad121f55513ff7e7bf8dc17fa63a201068cb55b1d452e5ed281df493c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/LcKzGJ3cVcWxWB_IRZ9DY-tk20IMGmpehOA3v0vAF03rsJgeFqPEaolxBsnnwg144_xY3yoDqi9ZhyPSmPbJlMhQaSf2nUAMEMqUZy-Ya6Efj46KX7reT-vMpiSJVIZQXuwWd74L4Ux4UQUziLvtMS_AMIL8ZkbnZSjMStbBUoe8G2v21RuSbchKXlqaizfAAAycwU-1NqVw9YVRCzXllT-H8GBXLSQVj1EDLhLZJlwx7IYD97RYouf8egpAiTO5D1nBa5JmYTp-DYDdpLJw7LdrMdpihAWRQchxs9f9iSMnKh0OUsSTqSluFvSDAD7mEZpwclBfI6y0emqdLM-gWg.jpg"
+        "https://cdn4.telesco.pe/file/tpyDUwWoIhw8xcy02Z9GFrSnPeVjjrrcBz2WaqRcCK-7UJ-MWI3WZJnxU1sFFIthmtXZciVH_lWjFimE94-s6gQBDWoCIOjOjfrOG06GzNl3kixkRj8LdPhBFqgVHzx4qdBqJKaCvwXKmcKFcxk427xeEn7Ox5iuHjYkho_i5B6uBhcUKUUTyb2v4ycIwsZnqRtH84Hpvg15a44WBPq9OTML5btKDcUpcywkPiNBRWgllyItKwRoQV30asmuwOOGHW_--_ZsMkF0DivbWYLoumOCoUOy4JW8kSd6VipjMxPNO_oSYNbGE7LV8MZp1cLOXavtYh8VTYf3dVwmnGqr_A.jpg"
       ],
       "title_en": "",
-      "text_en": "New trend in venture capital"
+      "text_en": "A new trend in venture capital"
     },
     {
       "id": 1322,
@@ -174,11 +185,11 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "5bb0b57c54afc496048532b53e9928d7697c207293091bbfe13e6d25a63165d9",
+      "hash": "4318d70e8c881c73dd5e2230b9a0be46cea91f1965281ae894c219f8281ab34f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/RT2A9K34jZ7MEA_-bxxbQ6U0mYiI1VtcFnnLUQSOdTnOUeByXTqj-zgSoAxUXa74cDwptEMr5qC4hlsiww3VZdmqmvi993KC3LWp8n_Gv9NL5HBALLU-CH9EjEPt2mLJ__0KRWXj7_z9jtcUYcwdLgdiZhCIImHDGAeIdX_mqYoniaEmU8GI2_CJiQlavYzz-DRgpzx_hObWbk0PBTudMm01newII_HuUPvotoiCCb2VLu4vM3QkheAnkx0YA4rHz88-YVvq9SY9wXEe3wwOICapht5vLU96-ZExUIurHZ1DCUH62dTTWLYK8GqxM-ygbH1cFxA8nbdkxr-Wrnh5NA.jpg"
+        "https://cdn4.telesco.pe/file/qqe4caV2esi6Yozr97LsINRpW6RmgGInJ3KG_ZSCMK9OKWcIEgqjecnZXnq2yT-lVTdNvvfZBIkad59k6F-qH7PX0qZNI2C5FBJDjYSV7-ywI8v37lqyV4Fo0y_IbQoMBiCHajxQx1zKIGThXHclM3_qDFFz72uk_PR5UHh2zADDJ7OzKl_K86RccCH7LJisCM0iBwk4f_BOMfPKWQ3yycCOflW0eoTxLJ2SD1BT23xYvoxP3zENj41fpTYc-Ya4ucMMVmT06DtqETFCx7GnHEi9egTV6K9J0hZAkBFf5hGn32M6n9srvgTiTB3_oc5iBwwFJwMNBcvaZ6UG7pEkMA.jpg"
       ],
       "title_en": "",
       "text_en": "Tsk-tsk-tsk"
@@ -255,38 +266,27 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "dbd8f7abb34fa89dd4c40970982e569a35e023a9bb4648f9eeae34feaaed2e58",
+      "hash": "1f9c80e0b3a219cd94431a1c5bae20d68acae2a526c96720e9cbc10046a961b4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/Xsw27AtbBcNo8QBzLN46isN70MBAI4xw_aAnp-Ohmehf1mGTB0ptOsKmEBoaSdnJQCgQePl4JMWdk3c7FeGUHyn-X_st_BN0K4mV61LSeTXmTwIG4nj0mHSRRzEZv4zZh-ny6WpCg_vFgf3anIv_FCJ28SUgSF0jziPuBS927YGjlC60ynVWRO3ZvjeyoL8xPWViErBuKJhSsaqRiJeBXWXGRWfWB8_cpT8A7BEUboNQ3naZK9uV_uSfvmkDqy5VsItD5UDnvrbnUrXt9gNbaKhr8zhq8KKSAp1vIcFR1Gc3GOaWobCo0KVTAa-zYsOtazkuWjwV9neElSal_lwMBw.jpg"
+        "https://cdn4.telesco.pe/file/l8KGZfUdX3xOJfhN3pxuvCMdjh4s2HZbZ7r142euB4ukM3pnyIM2eKFONdvJhn8kDAcPmR0NX-NWC9jmcdCMeJelFs6LrZvVKVNI3qNh0X39ywxwBbdocP3zaiqAUJzgaezsH1B-D44y_3tXrNDTpdKKkGh7NT6H7uORbyoX5WddZxbSAi7y5oE5Sh0uXMOwZ867hBlCqc9XkKQgnwCcA8CgE3cJuIEmqY5BrCmNVPfpLkd-rdMhYXjiTWEI2u8CTkk0HX1EFeWgXRx88PghnSLW-h_i17rCRibGD2aVRwFXfRxKuNSRX6B8IF7vBfCzBOI32TvXW_aCg3zWHwpcqg.jpg"
       ],
       "title_en": "",
-      "text_en": "When you confidently pitch your idea to an experienced VC"
+      "text_en": "When you confidently pitch your idea to a seasoned VC"
     },
     {
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "f6a72f335982f1ca93a6651acd58edd9dec0bfe140c9b97cb7541992a97596dc",
+      "hash": "5b04b25b6e4fce01de8179bf7900bbc59d7a2a708f319ba6fd2a34d46257ce9e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/UjqvpUstJfGFVX3CzQdTQKXAFFmU4nhujvexyXR6dA5H8xlxOJ9fcCoh2uioAMbGWFYcS9mUzVDvPv3RfkfjEXJZ1xnS_zccioqVwHPMpCnYGojMSkIGpKhycgx9R4zpMqTfj-aFOh_sXNwjj4esjxrDCXjkU5CNuFbzWx4UXOtMpATYF4OhMfdqEqVGp-ubngT_7rEtRljf8ijZJGszdhUdkSdYO-k9kLgnIOrV9Qa4norMr-Moz1u6mBrWzLu7Axo9olzCozi09fJKtcZ6AFrqr0L-pzdPg1783kuGPnhBg_LSTSXTfBUx--9SJmLjQP1mOH9vCxg5iNi6OiCgoA.jpg"
+        "https://cdn4.telesco.pe/file/OBAcMP2-tgqxKJ6SBl3FXcOK9yhKYT2X6m78b2DBsBWTe7aG3oi8UC8g4Z2AdbKnUpR6pPi97cHYk2TUk8uqvW-SeZ5tJen14TjAUcrsR-NFPiq7cfik9OzOraq2wUCh2px3_SDlvhaz8Vc9XSjbvAQKnsHZm8nlrsc5Eq_NW4wGCKgixuJeZYpw4Tk_GSjhkttD4AH9KIrZZkYX2vBP98bu2-Ab_XrmW7UiiGNxFtq0dFpwOkYgYxEfKhq2v370-B_kC5Zcq0cW1NVVOohpkoESe6bIbpHm8hRKDvrugEnEvBFQGl7thUEj_5pwblnsyXJq3QlxdOkqQ4bJszFOVg.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok sold"
-    },
-    {
-      "id": 1299,
-      "url": "https://t.me/chillhousetech/1299",
-      "date_utc": "2026-05-27T20:42:24+00:00",
-      "hash": "3ba627986e6a17aeaa178ea56c3cf16256ee6d7a86a5a058c34a9cf74f37313c",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Нашел \nотличный обзор\n про решение проблем Эрдеша. Крайне рекомендую. Ну и я уже говорил, что в целом \nканал\n топовый (хотя лайфстайл посты не мое). \nТо есть сейчас AI занимается тем, чем люди заниматься вряд ли могут по своей человеческой природе: систематически прочёсывает поле. Тот факт, что в этом поле обнаруживаются нерешённые задачи Эрдёша — это скорее факт о состоянии человеческой математики, чем об AI-моделях. Но, тем не менее, факт.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Found  \na great overview  \nabout solving Erdős problems. Highly recommend. And yeah, I’ve already said that overall the  \nchannel  \nis top-tier (even if the lifestyle posts aren’t my thing).  \nI mean, right now AI is doing what people are unlikely to do because of their human nature: systematically combing the field. The fact that in that field it turns up unsolved Erdős problems is more a fact about the state of human mathematics than about AI models. But still, a fact."
     }
   ]
 }
