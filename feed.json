@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T18:49:08Z",
+  "generated_at_utc": "2026-08-24T01:58:53Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -255,24 +255,24 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "5583471c51e3046e557c57d83a0cbfa7476b4c79dabb073faeb4116e59b99ac7",
+      "hash": "8de540d22b13b633470b4ca299164b64a653854d0b6765873b1b6a34d8fb9cb1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/aUWFnkymDv4sHtjMQRIpuL-rrzOiXNLJ7Mtdwka5siIlB07VImrdXC2MQCimHSIS_HTxvV0B-7o6mwD1TK-JKOjmLxxIwN-ukhfmapC05mEuvucIn8EltYjgPvmZcJ7Rv9JAqVfh8ErJnYiQSHPLsiWVgeE81KJlLWNWTLI165NbdgBOdcErcDbKgZBaKMu-3jGLiky7KKrSbruflXQpPLaAEKoL2DuCMSHWs1IAOWiqTuqdEW00yQeo7G3JV4m9124ST_xOq0X2M5_rZi26QVXYZKIGWEPbf45Pm9CStmz8KB6VuhPzG5uNLvHK_U2AzNvcT0AiilbUJwK6WPH1Mg.jpg"
+        "https://cdn4.telesco.pe/file/K1Uti3Netp-U_s-xTBPG0ytwx5TU2kJSgJs1gK_LvQTWCPhhUO6nGnTZvv15ieJosZzxMiH_ZyrcPnyhvYib6zanv8tHFgyqIQWkHcuaBfocV2UamuPptCDjAEfRJFAZnlYEATg0nKbt0rCi4qFYv_8LS1FlPRjylQ4cs3kuh-0tqNbTM2tVS59P_jP_oMiZVE6p7GsL_yW813AlU3YloqfsXufm9AC1L5UqiEL-Qabpba0X5qdPxlTzw02nsH9CTkmxZ3Cn570J7ZGX2qpYnP3GgyUhkFfHLNHD34OAKQWDAb75mIQUM34Tf_5rYJzJLyPY1Sl-cUVco-BThTE8vw.jpg"
       ],
       "title_en": "",
-      "text_en": "When you confidently pitch your idea to a seasoned VC"
+      "text_en": "When you confidently pitch your idea to a seasoned venture guy"
     },
     {
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "b49936c9e23e97465872c6f1be00709814e1de226c22208f95b850aeb8d802ea",
+      "hash": "ada75eb985c2b8c67d733a62853f93450b77f0c19d0777ca8f517971d69a5389",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/vJN2wG2wu1VzdEYxox9H9smz2JI_FoncjsyE7o3JWo_nCGZ1cltdfUXy3jKstMA6J_woD4MJhodHwNM7P4FlCfvQwMG7428EJJKx8BQS8OGWIUdiV-bcvmj3GLso7k6eAIOqSc2YHA7B_mx6y7PZ4KOJokxRejb64BEpaLc0Fe8HtQl5A0PvzBpnAOQPe-tz6aXmgiB9yULNIX9VXZmSUUQ1cL-GW3p3xVLwrxJbO-ixcH2nzFFHgm3LLOdcaZ3MMzDHWGTJMUkXxlVNS1ahvtd41MknvMLo7NY85ZE7B3pHH0bcBVNWKbxGKFhGpCmhbmqwM2yTb5Qh9rGqXAK_EA.jpg"
+        "https://cdn4.telesco.pe/file/vnkkz3Dn1BQ1RWJEVLELeLGL5y2dqFU6_aUmjmCx61qy7hmLq9ju-BfsdSguXVLvOipJOMYxFA2iY9vb_APiBr9JbiCF-rFwNwOSV6bvz4cUxQNAnYk95lqM_lEpfGv1n3J-fnvVRN7VyXbx7FC0KoC9GSdOhbn5kz0s5ikwAX4erS-OWXOvp5g-RbaHOpRqYtwV5oc5vuDBwih4fI0N608DxYjwEB2Lvo7_cfxWP05M754pGllmSQpP0mhLKlzEBuYhLUxlsQ3d8FB6r-l3u11552G2wlqjgMGifh7w_kZgaZYUl3o8El2evKmxoNuOcagSkDTOrEfYwdAC5SRsBA.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok sold"
