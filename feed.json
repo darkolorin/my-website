@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T01:58:53Z",
+  "generated_at_utc": "2026-08-24T07:21:04Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -198,14 +198,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "6328a9a3e1f5e983f3e4efdb1df0a78f6df44fe038696cf02806f5049e68ffa9",
+      "hash": "db214a789a2299ff882f4979aca1814fe592f04ff607e157e12d03dc3d68c42c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/gUlqdyVlTlpNPifvnbsHjJitbwoZdVVuLE4CPHpVoBfCC2ZmWgmN2fAVvHu6n5MvEEgwhZIbYykcvStlbPlNay8J-y3EmOI_SPEEIkwui_0l_p3pHwcH7cl-GxON71QsiUMC_VDlmMbvpmPmJqhmhGwq0_ucRpMzhDM8m1YYcWXyNKY14ceGJc5RGiLkM7wqls0aW_Ww68qZFk277sAm7jK2tcCkxU7GcFVwQGIM5y1ON-Jk30bV971feBCrD9_PA1IQjCOh9AT6xZ0FJr7PGyGH5v5f5Rrs6wXY3EmLUuMHybOJmivq6hKxQoweLSGV84qmV5z4NE37CyZ3Xs32WA.jpg"
+        "https://cdn4.telesco.pe/file/pYUMq09rhZvMxehJnq3SKQuwcuNTGk5euvRfGvAY7oyBkJs0cITFkKwx7ujpuRFawmI-zGMUlpDDlE4dHVL-8rlBf4CA12deqwi-WrOZtGAxv8ZogGyMAuNq4m-0tC3PYnSiOG89oGHa49D675EjrGUfBScDtSm-n9D3AD9InAr6Wo2v76zKgN3_pvHdATdyxCMpl77AJqSDqvqemvfq0oGYyGg8KxXh0ftzwu-npdnlxo_xh2vQPYk2NBQSc0x6JH4pMpXNXZ24ThHtz_LhjjjRA1aoZXzrewtjjOJAAFML548nRxcRjxntuOhe9PrwTU_USh6jhYj00gxy0WRWsg.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in:\n- fable got banned by Anthropic, there’s some kind of crap there honestly, and politics\n- Intercom got bought for 3.6 yards\n- Cursor got bought out for good for stock worth 60 yards (so is that the most expensive startup acquisition? Whatever)\nAnd meanwhile there’s a nice picture about organic launches without marketing and “pouring” and traffic guys"
+      "text_en": "There was a lot of work. But then some news rolled in too:\n- fable got banned by Anthropic, there’s some kind of murky crap there tbh, and politics\n- Intercom got bought for 3.6B\n- Cursor got bought out for good, in stock for 60B (so it’s the most expensive startup acquisition? Though whatever)\nAnd meanwhile, a nice pic about organic launches without marketing and dumping money in and “traffic” stuff"
     },
     {
       "id": 1305,
@@ -255,24 +255,24 @@
       "id": 1301,
       "url": "https://t.me/chillhousetech/1301",
       "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "8de540d22b13b633470b4ca299164b64a653854d0b6765873b1b6a34d8fb9cb1",
+      "hash": "dbd8f7abb34fa89dd4c40970982e569a35e023a9bb4648f9eeae34feaaed2e58",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
       "images": [
-        "https://cdn4.telesco.pe/file/K1Uti3Netp-U_s-xTBPG0ytwx5TU2kJSgJs1gK_LvQTWCPhhUO6nGnTZvv15ieJosZzxMiH_ZyrcPnyhvYib6zanv8tHFgyqIQWkHcuaBfocV2UamuPptCDjAEfRJFAZnlYEATg0nKbt0rCi4qFYv_8LS1FlPRjylQ4cs3kuh-0tqNbTM2tVS59P_jP_oMiZVE6p7GsL_yW813AlU3YloqfsXufm9AC1L5UqiEL-Qabpba0X5qdPxlTzw02nsH9CTkmxZ3Cn570J7ZGX2qpYnP3GgyUhkFfHLNHD34OAKQWDAb75mIQUM34Tf_5rYJzJLyPY1Sl-cUVco-BThTE8vw.jpg"
+        "https://cdn4.telesco.pe/file/Xsw27AtbBcNo8QBzLN46isN70MBAI4xw_aAnp-Ohmehf1mGTB0ptOsKmEBoaSdnJQCgQePl4JMWdk3c7FeGUHyn-X_st_BN0K4mV61LSeTXmTwIG4nj0mHSRRzEZv4zZh-ny6WpCg_vFgf3anIv_FCJ28SUgSF0jziPuBS927YGjlC60ynVWRO3ZvjeyoL8xPWViErBuKJhSsaqRiJeBXWXGRWfWB8_cpT8A7BEUboNQ3naZK9uV_uSfvmkDqy5VsItD5UDnvrbnUrXt9gNbaKhr8zhq8KKSAp1vIcFR1Gc3GOaWobCo0KVTAa-zYsOtazkuWjwV9neElSal_lwMBw.jpg"
       ],
       "title_en": "",
-      "text_en": "When you confidently pitch your idea to a seasoned venture guy"
+      "text_en": "When you confidently pitch your idea to an experienced VC"
     },
     {
       "id": 1300,
       "url": "https://t.me/chillhousetech/1300",
       "date_utc": "2026-05-28T17:07:20+00:00",
-      "hash": "ada75eb985c2b8c67d733a62853f93450b77f0c19d0777ca8f517971d69a5389",
+      "hash": "f6a72f335982f1ca93a6651acd58edd9dec0bfe140c9b97cb7541992a97596dc",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ok ok продано",
       "images": [
-        "https://cdn4.telesco.pe/file/vnkkz3Dn1BQ1RWJEVLELeLGL5y2dqFU6_aUmjmCx61qy7hmLq9ju-BfsdSguXVLvOipJOMYxFA2iY9vb_APiBr9JbiCF-rFwNwOSV6bvz4cUxQNAnYk95lqM_lEpfGv1n3J-fnvVRN7VyXbx7FC0KoC9GSdOhbn5kz0s5ikwAX4erS-OWXOvp5g-RbaHOpRqYtwV5oc5vuDBwih4fI0N608DxYjwEB2Lvo7_cfxWP05M754pGllmSQpP0mhLKlzEBuYhLUxlsQ3d8FB6r-l3u11552G2wlqjgMGifh7w_kZgaZYUl3o8El2evKmxoNuOcagSkDTOrEfYwdAC5SRsBA.jpg"
+        "https://cdn4.telesco.pe/file/UjqvpUstJfGFVX3CzQdTQKXAFFmU4nhujvexyXR6dA5H8xlxOJ9fcCoh2uioAMbGWFYcS9mUzVDvPv3RfkfjEXJZ1xnS_zccioqVwHPMpCnYGojMSkIGpKhycgx9R4zpMqTfj-aFOh_sXNwjj4esjxrDCXjkU5CNuFbzWx4UXOtMpATYF4OhMfdqEqVGp-ubngT_7rEtRljf8ijZJGszdhUdkSdYO-k9kLgnIOrV9Qa4norMr-Moz1u6mBrWzLu7Axo9olzCozi09fJKtcZ6AFrqr0L-pzdPg1783kuGPnhBg_LSTSXTfBUx--9SJmLjQP1mOH9vCxg5iNi6OiCgoA.jpg"
       ],
       "title_en": "",
       "text_en": "Ok ok sold"
