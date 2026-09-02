@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-09-01T21:03:23Z",
+  "generated_at_utc": "2026-09-02T04:35:03Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1327,
+      "url": "https://t.me/chillhousetech/1327",
+      "date_utc": "2026-09-01T21:43:27+00:00",
+      "hash": "9e40bed7616c0183ba078629a26411e6b404ec32c7784565ac3cb83ce33f7b77",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Типичный цикл AI native компании. Делаем харнесс для какой-то задачи или агрегатор там апишек + промтов. Скейлим платным трафлом (тут умирают 90% потому что это правда сложно). Дальше, когда ты большой уже становится сложно делать фичи ибо зависишь целиком и полностью от модели (ну может она или нет). И пытаешься как Harvey сделать свою или посттрейн хотя бы. Тут ты понимаешь, что стоишь то ты миллиарды, но фичи выпускать уже почти не можешь и в спину дышат лабы. А где найти людей на все такие компании, которые умеют в тренировку моделей и эвалы и все все да и еще и за месяц. А никто не знает.\nВообщем так сейчас у многих;",
+      "images": [],
+      "title_en": "",
+      "text_en": "Typical cycle of an AI native company. You build a harness for some task or an aggregator of APIs + prompts. You scale with paid traffic (90% die here because it’s actually hard). Then, once you’re big, it gets hard to ship features because you depend entirely and completely on the model (well, maybe it will, maybe it won’t). And you try like Harvey to make your own or at least post-train. That’s when you realize you’re worth billions, but you can barely ship features anymore and the labs are breathing down your neck. And where do you find people for all these companies who can do model training and evals and all that all that, and also in a month. And nobody knows.  \nAnyway, that’s how it is for a lot of people right now;"
+    },
     {
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
@@ -274,19 +285,6 @@
       "images": [],
       "title_en": "",
       "text_en": "I’ll toss something into the stash about frontier labs. Online people love to yap about Open Weight Models. Like they’re about to catch up any minute now and are always breathing down their necks. What I think after talking to different folks, and what problems I see:\n\n• the talent problem: how do you hire a team to build a small or open model if a solid research talent at Anthropic is pulling $10M a year (real numbers), and you still need compute and all that stuff  \n• say you’re ready to invest in training people for a year or two, but then you’ll be catching up forever — how do you solve that? well you need to raise a hundred mil or two right away and chill, otherwise I don’t really get what the competitive advantage in the offer is  \n• but say you do lure people with upside, then there’s this opinion going around that “frontier models are 90% of the market in money”, where do you get data for training and RL from, i.e. literally everyone only buys “the best” (they’re ready to pay a market premium for “a model that’s a bit better” — pay 20% more or even 2x)  \n• a условный Opus is 10x more expensive than Chinese models and everyone buys it  \n• in this situation competition gets even harder because they start covering up the distillation process with the fact that there are closed models for industries and even special deploy teams that integrate those models in closed mode (see Mythos, and OpenAI’s math models). Or in other words: distilling a model into Claude Code will be easy, but the one that runs in a bank — no way.\n\nAll this looks like a typical oligopoly and I think there won’t be room for OSS over time except for certain verticals or solutions. I think the Chinese make everything open just to have at least some data and attract people. I don’t see any other real reasons.\n\nOh and decentralized inference is bullshit."
-    },
-    {
-      "id": 1301,
-      "url": "https://t.me/chillhousetech/1301",
-      "date_utc": "2026-05-30T13:14:41+00:00",
-      "hash": "8b0c855cda5d2e5d753052633bd9998b3e7f01d065541835b5cc4cda1c0ae4d0",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Когда вы уверенно питчите свою идею опытному венчуру",
-      "images": [
-        "https://cdn4.telesco.pe/file/ibrYFgGV8lxGRCKZXhacqVQejsY3sQxTrAHgeorcBJt-3zqL6qEuCQQ1_dfyADdUH7peiApmHyS25iZtpoGdfy4MpcMYqVCakCQ4dZ-lYcARem9s_eD8ZTln3xfMCnyd5z3Gx1ozHLNCwNMlXU9_nnb1hKjgZhY-pFh76aJxFxSRs29xrsMGxC6tffy-bzz4o5NL0HAU0B6L4HdPF9K-gOTHynOT3YFiPabKq3zNWLIaYyrFmtH-E5snFqDnEPrrl10tXcnHNg3VH7s7KKrdo9rYPKvcJ4bMPdYqFxvEfj38MVq5hJFCKcudyoc7kJAMAk_rd1WLwsEIiMp-y4H4aA.jpg"
-      ],
-      "title_en": "",
-      "text_en": "When you confidently pitch your idea to a seasoned VC"
     }
   ]
 }
