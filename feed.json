@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-02T11:19:31Z",
+  "generated_at_utc": "2026-09-02T16:36:02Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -233,14 +233,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "18a54d46f420f76902b432a6578004914dcd3421a420680d1b4bd1d3ad62419e",
+      "hash": "6ab57a4acf6228cea0a5ca518cd37686b9d43a393551994fc5eb11f094ce586c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/WVJ9z2biezjcQaEDjPR7U0Vk2f_-cduy0E_Kq3e7xSFKd5t-a7kC22hQe4NYtmSzZ0NEyJVj_QGJ_dZXnIUNQl641RH5ewsjbnIIeA_Tgi7rfWneeDib9sFVCGQmgAHPFTU7ppsczhgQAYdIrp4-aMYE4ohpZSn6EMhXPmuME9lH4vdFSmpSMK5VfBokAtnnFcKsOeDCClUcW4G879gU1nvk4r2CQLUAxQY79YdXVHI_1hDIuxZ0BxcCYuxESsm3UFwOZKn-XRHQtucQ8ouDsFSHB7cQwT1AY3Ff4pZ6pVHC3sfCM8SvD1C38SnNtMBwT8vl79y857XYUbc_xMKWpw.jpg"
+        "https://cdn4.telesco.pe/file/I49jjySZJZDhaVndQQYMaM91p3sw6zIjGxcSEpWVwqWpO_zs31ZPc0Bv8_NTvNrDvTnyVvjJEfqof-g5FQuwhr0-27osGeleBjokz1-HYHkKIJPaeph1Mwt3EoUz_g05I6wC2VfiEcJwMksxs64FCD3e5lryAdkSw69WniNdbHjTFaoBIKCDYZYA96aTxjIyLqRbUqc_7xXnQJR2Ar89V2KQxospZwQfHmdwELD2qtZoTMlrWC6PtK-W-NtP_EMOxCOAb9MkVXSMEHVcCFiTDpPBPYkL7vb4-JaCDdtr-hzXSRUix9IrCa4qQnMC6JBj6Ka4hwS0DGQ0n8_XGQZ7KQ.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in too:\n- fable got banned by Anthropic, some kind of murky stuff there tbh and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, stock deal for 60 bil (so the most expensive startup acquisition? Though whatever)\nMeanwhile, a nice pic about organic launches without marketing and pouring money in and traffic and all that crap"
+      "text_en": "There was a lot of work. But then some news rolled in:\n- Anthropic banned fable, there’s some kind of murky crap there honestly, and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, all-stock for 60 bil (so is that the most expensive startup acquisition? Whatever)\nAnd meanwhile there’s a nice picture about organic launches without marketing and without paid dumps and all that traffic crap"
     },
     {
       "id": 1305,
