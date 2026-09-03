@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-09-03T11:15:40Z",
+  "generated_at_utc": "2026-09-03T16:26:36Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1328,
+      "url": "https://t.me/chillhousetech/1328",
+      "date_utc": "2026-09-03T15:45:00+00:00",
+      "hash": "d96c76c46fce506e49fc21de8e03e349a1fef450876230a2d9c54075371b4596",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
+      "images": [
+        "https://cdn4.telesco.pe/file/tDBdGog0L_dzIphjj3trZ7vvXmyjPDeXQG8LwYzvqy46wH9j7LwqYgZr8czIAu-Dd0B9CpbmVNIwl1ELW5jPIAnjR59YivIifJQ8cmhWsVf3ZhjN2l2sZ8DQOstC04_LzlvG6v17VrjMapo-_3T8OrgQCnr26Kn70XbASnSupKFUnWSz3WG1GgMtPE1mQyBaDahNV5jGFTVnhRFhSOxAfctdEPxQ6N6AEN8iE-MtmOkL1OT6egjLYnxo4IU9O5xNNlWN6uJB6kixMw79OaZGnGzOEDDpZvZ9wabVJPGh4O54pvCdO-X15PLE9egMEcHbfFjUG9nF9JZEfL2Iz6DoVg.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Major release from our small lab. Speculative decoding support in our inference engine\n.\nFor starters: Qwen3.6 27B, Qwen3.8 27B and Muse Glimmer support is on the way.\nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it already today\nM checkpoint\n— smaller\nL checkpoint\n(lossless)\nAll the models we support are\nhere\n, we’ll be glad if you try something else too.\nBenches are\nhere\n. You can dig into how and what was measured and how much better it is.\nMore about the release —\nblog post"
+    },
     {
       "id": 1327,
       "url": "https://t.me/chillhousetech/1327",
@@ -233,14 +246,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "a0e39f0aeacc1315e1d6291b40fb29a4e03ddc0d3c8c1dad8b9191bc0162e003",
+      "hash": "3f6dca7253b5a917f984bcf221352df704858ec1f17bcd9b283f3e844eea13ea",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/YfcsU5H1uo2phjHqfGfh_F-9DGf60bzaMhdy4NOM_takuTYi53zExtbm4R6IqKJaLE25SwskDt0R95aTS_57QZjILy1bgEBpe7WHHswAu3xI4a_L3ajsOmqNE9yuVo_6jOZa86JGODMXz0LauHYhSdEd6lJuFsneMCrVFfG3fB4CEqJDIKrnxxTKmpw4N0Jq7eFHDONn3UYSbAnDLehc_3IEfBDiIBkiWNMbpWuB0U-qOhtqtCGZ7mTG3dZL-91qsK-iidzQulG7Xia_KyZ_hnOajg-gFsvygRkRn6R4fIYFygDHsAwH9k1taLui4dUJPW8sZcpgvM_mkCWXaQDA1A.jpg"
+        "https://cdn4.telesco.pe/file/gqaqAM9nqECEIkhSv0R9m2FboVq8QWAyJ4el9-b9_dpHkrpt2GVPVwPdP9SbGfvFu6ZgqDv7EaTQh67EqDscjxa_5BIHpRHBij02wHWHY7Z2RsTwgV0mfb8dABmS3i_ByuXBh-3hMBg64MrDlu3bYAOT9DiVH_LBgMXvI9zEHOmPOVgWjy3SGpy_ZcB2arc4yfXmagBGMvHgQNsPRVCCAlm2iaR7r9kk4nbDBWkKDBUOntBKIRW0EU45aLJgtw-8ypblw9f8yhzsv5ojeyOa2YCwB1vpchFsY0Y8PQBldGsfEeM2PBVQY4xkJ1E9D-maxQysoE3B7en0eWld547_cg.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in too:\n- they banned fable from Anthropic, some kind of mess honestly and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor outright for stock valued at 60 bil (so the most expensive startup acquisition, I guess? Though whatever)\nAnd meanwhile there’s a nice picture about organic launches without marketing and without pouring money in, and without trafflo too"
+      "text_en": "There was a lot of work. But then some news rolled in too:\n- Anthropic banned fable, there’s some kind of muck there tbh, and politics\n- they bought Intercom for 3.6 yards\n- they bought Cursor for good, stock deal for 60 yards (so is that the most expensive startup acquisition? Though whatever)\nAnd meanwhile there’s a nice picture about organic launches without marketing and without pouring money in and traffle and shit"
     },
     {
       "id": 1305,
@@ -274,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Note to Claude users. But overall a really measured article came out. Extremely unlikely that Dario even looked at it.  \nWithout that judgment, Claude is a capable assistant, but not a system that could drive AI progress on its own.  \nIt is genuinely unclear whether today’s training methods and architectures could unlock that capacity."
-    },
-    {
-      "id": 1302,
-      "url": "https://t.me/chillhousetech/1302",
-      "date_utc": "2026-06-03T12:04:21+00:00",
-      "hash": "2074c3c5deea1d506e7cf3b93ae3bc751008a654ff9af94f1d2c3da1af7b1f23",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Наброшу в копилку про фронтир лабы. Часто в интернетах любят рассуждать про Open Weight Models. Мол скоро вот вот они догонят и всегда поджимают. Что думается мне после общения с разными людьми и какие проблемы я вижу:\n• проблема таланта, как нанять команду делать небольшую или открытую модель, если норм рисерч талант в антропике получает 10м в год (реальные цифры), и это тебе еще надо compute и все такое\n• допустим ты готов инвестировать в обучение людей годик другой, но тогда догонять будешь очень долго - как решить? ну надо поднимать сотку другую сразу и чилить, иначе я не очень понимаю в чем конкуретное преимущество в оффере\n• но допустим ты привлекаешь апсайдом, тогда ходит такое мнение что \"мол фронтир модели это 90% рынка в деньгах\", откуда брать данные на обучение и  RL, то есть буквально все покупают только \"самое лучшее\" (готовы давать рычноную премию к \"модель чуть получше\" - 20% больше платить или даже в 2 раза)\n• условный Opus в 10 раз дороже китайских моделей и все его покупают\n• в такой ситуации конкуренция усложняется еще тем, что процесс дистилляции начинают прикрывать тем самым что есть закрытые модели для индустрий и даже специальные деплой команды, которые эти модели в закрытом режиме интегрируют (см мифос, и математические модели openai). Или другими словами задистилить модель в claude code будет легко, но вот ту которая работает в банке - никак.\nВсе это напоминает типичную олигополию и места для OSS думаю со временем не будет за исключением определенных вертикалей или решений. Думаю что китайцы делают все открытым чтобы хотя немного данных иметь и привлекать людей. Других причин настоящих не вижу.\nАх да децентрализованный инфернес чушь.",
-      "images": [],
-      "title_en": "",
-      "text_en": "I’ll toss something into the stash about frontier labs. Online people love to yap about Open Weight Models. Like they’re about to catch up any minute now and are always breathing down their necks. What I think after talking to different folks, and what problems I see:\n\n• the talent problem: how do you hire a team to build a small or open model if a solid research talent at Anthropic is pulling $10M a year (real numbers), and you still need compute and all that stuff  \n• say you’re ready to invest in training people for a year or two, but then you’ll be catching up forever — how do you solve that? well you need to raise a hundred mil or two right away and chill, otherwise I don’t really get what the competitive advantage in the offer is  \n• but say you do lure people with upside, then there’s this opinion going around that “frontier models are 90% of the market in money”, where do you get data for training and RL from, i.e. literally everyone only buys “the best” (they’re ready to pay a market premium for “a model that’s a bit better” — pay 20% more or even 2x)  \n• a условный Opus is 10x more expensive than Chinese models and everyone buys it  \n• in this situation competition gets even harder because they start covering up the distillation process with the fact that there are closed models for industries and even special deploy teams that integrate those models in closed mode (see Mythos, and OpenAI’s math models). Or in other words: distilling a model into Claude Code will be easy, but the one that runs in a bank — no way.\n\nAll this looks like a typical oligopoly and I think there won’t be room for OSS over time except for certain verticals or solutions. I think the Chinese make everything open just to have at least some data and attract people. I don’t see any other real reasons.\n\nOh and decentralized inference is bullshit."
     }
   ]
 }
