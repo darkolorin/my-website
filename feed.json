@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-04T11:19:09Z",
+  "generated_at_utc": "2026-09-04T16:23:13Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,14 +7,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "d96c76c46fce506e49fc21de8e03e349a1fef450876230a2d9c54075371b4596",
+      "hash": "12c4f66df42c08928791c22f1d6b1f164f01bb2e5f6bce7173ff281d42d96554",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/tDBdGog0L_dzIphjj3trZ7vvXmyjPDeXQG8LwYzvqy46wH9j7LwqYgZr8czIAu-Dd0B9CpbmVNIwl1ELW5jPIAnjR59YivIifJQ8cmhWsVf3ZhjN2l2sZ8DQOstC04_LzlvG6v17VrjMapo-_3T8OrgQCnr26Kn70XbASnSupKFUnWSz3WG1GgMtPE1mQyBaDahNV5jGFTVnhRFhSOxAfctdEPxQ6N6AEN8iE-MtmOkL1OT6egjLYnxo4IU9O5xNNlWN6uJB6kixMw79OaZGnGzOEDDpZvZ9wabVJPGh4O54pvCdO-X15PLE9egMEcHbfFjUG9nF9JZEfL2Iz6DoVg.jpg"
+        "https://cdn4.telesco.pe/file/iW_ieXs1QyrVJZMDHkSJ8zoNUgErX0bJEUZvFW55RecKXCUpfcFiFrKFxJUr_gQTc8mkPjousIXQFZd23GRJ3ud11r_1CntjjXTJGwwcJqOwsWnbfI5_CYvhdMX1QLldgUQYg-GWIuUNhRcNhj80GZnqFDw20O3ve3z4b132ULndI63xZHp8C3ungC1ukp3dEIwCVEj7SaTUKh1E2E1Sgf3XTE13VJ-KtXyFFkM8UZ5yZn2l9RMBSppzt202DQFyfEHfzk7lg7x-RYIi263QTQ1ceBNBzWm-A2JR_19EI9ECUz2UxURQ3FkyRl3KLxgpkco6ntDqAG7ZDUPFGsJsvw.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our small lab. Speculative decoding support in our inference engine\n.\nFor starters: Qwen3.6 27B, Qwen3.8 27B and Muse Glimmer support is on the way.\nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it already today\nM checkpoint\n— smaller\nL checkpoint\n(lossless)\nAll the models we support are\nhere\n, we’ll be glad if you try something else too.\nBenches are\nhere\n. You can dig into how and what was measured and how much better it is.\nMore about the release —\nblog post"
+      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine\n.\nTo start: Qwen3.6 27B, Qwen3.8 27B and Muse Glimmer support on the way.\nWe massively outperform any possible stacks for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it already today\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are up\nhere\n, we’ll be happy if you try something else too.\nBenches are\nhere\n. You can dig into what and how was measured and how much better it is.\nMore about the release —\nblog post"
     },
     {
       "id": 1327,
@@ -246,14 +246,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "022b65bb4d2508bc518b328f1495d47cf15ff0e0e0a6164fbe0a3b1293bd8587",
+      "hash": "b30bc1e4e9527c29c9a9d015b84ef0718fc83603ec82fcb9a842f632537a7889",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/dPkRrUjU5mlilp2O3d0kcTufB87X0gY5YmJSxnqcF4Ndu6Y0-YtkgU7diyMTmBol2yLdc9RVO5qrKcUMI-gt49Nb0l0TPmSLm3-yUC4dCh7NiiVK8tIMuXD23zMTFO9IO4vbCQbJAtdTk0SxdAhHj1LNApM5tWLQw3kkKSA_xU9qBjUyuWkX7O6dI2sX-rrp7xBaQVHXXCbr2C4sLSfk_WQl5d0go4MOoERIHrfcyXTsa3EvcyKjT4lGDhBVFdVKxIt2eOZ0zZyePudfk64yAw1RXnJXOprQ1SREi3oFkr2_BqoesnhIFmeVror1XjnUt-OAgm4_wYb55YtzwtVpCw.jpg"
+        "https://cdn4.telesco.pe/file/lRtzbOa2BD7x22DvMvBCnpAk8cLK_EppjwKSy8-zXMf17-L_6XzA08x7guTzWEavazkYbDpGshTeCCmTKx4s7SNhf_4_pbS_yBq3t1wywzY-jwqCtuHeo0Fyno3l2tTdj2895hi8AiYokHWKWSqpRleB30P6ybJ6WOWoqSCVqmTkv_DoP_-88Uj7gSl4L9XZiJFxFmplHuPG0CS9pUUWsrs-ic7Rr8ndOsOmw_-cZtB9K_dIGXRk69CgRFC77AqF2Bn8dVYaYAH6UTxQS83ZeR4tvQgATBaulpwY9HYYoojI8YLewT-WGttqNaR3VpJIELIizIcUAU54NlX6Aau24Q.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in too:\n- Anthropic banned fable, there’s some kind of crap there tbh and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, in stock for 60 bil (so is that the most expensive startup purchase? Though whatever)\nAnd meanwhile, a good pic about organic launches without marketing and without pouring money in and without traflom"
+      "text_en": "There was a lot of work. But then some news rolled in:\n- Anthropic banned fable, there’s some kind of mess there tbh and politics\n- they bought Intercom for 3.6 yards\n- they bought Cursor for good, for stock worth 60 yards (so is that the most expensive startup acquisition? Though whatever)\nAnd meanwhile, a nice picture about organic launches without marketing and pouring money in and “traffle”"
     },
     {
       "id": 1305,
