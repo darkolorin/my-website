@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-06T10:57:53Z",
+  "generated_at_utc": "2026-09-06T15:29:34Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,14 +7,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "bf85ed6e4e1334aff09475c58d2d6fef62dab7da82d528d82e79ec21399dc386",
+      "hash": "add5f5d033eba87221dae5fed9e8e2a42e7aeaba352d2fcae1c26b3dccd1a9d8",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/AcKQfoo9SH9l3TTMXE0YIJmIBvoIThkGqE62SLUCEfPM87ruAu6PAP8aiuxFEWFaYTu1IYd4PWSrSvVIK1UCifAz_o5--m7qPwqDXUSHetRSOMS4ZgpleiPtdLEASagkfvBZAAJrLKlbDLhPQSX7Yu5JePRElzmXMBBvM4j-9OGe089MHLtmQzeo7QKxvqas6W8wLsH8QMUdv5CReLY5t9hBv3-dimBYx868TR-tUuPolkVyb4OuVJCsVMMfEtKe4JPkeDw2t-tUA9JOS5Q-ciDRTxjljpw9HgkIKWrAF1wN214G3y38_JbQ4uPjVhcZEyOPEDRowgTucwU1Rvvq0Q.jpg"
+        "https://cdn4.telesco.pe/file/f_ff26dVn47tLr_-eydQaeqGT9N9_8XzZVnN9nPH0dDiJUc2M0I8vH4vuXgi5rnfKiICILvUJiwceZ6yejmBKbg0VfnTyuE6LZnFqILeDdKCVVPeftHj5jM3e0RsPbr-jzaCpokRYahn01Xy1oWnU0XVZHvpphmogLe2EN8Hbqq_JfRKiR3ptU9SaOB_CND8CMYZumFw1_dfMauunSR1oFmvHwNAJKnvs50Q3ej86Ld745u7j-AdJogVyFO_qjq4GOi-pmO-oRFDi_jkajuq54Jh1oHOL4m0SU6s_uy-pQFZm2iFDDyZTI_yW95oW6pu10ttgiIHvtPTNaqSe2URQg.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our little lab. Support for speculative decoding in our inference engine\n.\nFor starters: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon in performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it already today\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here\n, we’ll be glad if you try something else too.\nBenches are here\n. You can dig into what and how was measured and how much better it is.\nMore about the release —\nblog post"
+      "text_en": "Major release from our little lab. Speculative decoding support in our inference engine\n.\nTo start with: Qwen3.6 27B, Qwen3.8 27B and Muse Glimmer support on the way.\nWe massively outperform every possible stack for Apple Silicon in performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it today already:\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are\nhere\n, we’ll be happy if you try something else too.\nBenches are\nhere\n. You can dig into what and how we measured and how much better it is.\nMore about the release:\nblog post"
     },
     {
       "id": 1327,
