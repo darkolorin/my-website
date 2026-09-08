@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-09-08T16:39:33Z",
+  "generated_at_utc": "2026-09-08T21:10:31Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1329,
+      "url": "https://t.me/chillhousetech/1329",
+      "date_utc": "2026-09-08T17:25:23+00:00",
+      "hash": "eec13e1a9f6037adcdbbfb1d96863f035f46993cef1c5eb2bcc16d905bf3f652",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Ну это солидный результат. \nРешение навье стокса\n. \nДрама там по пути такая что челы догадались в какую сторону копать, а OpenAI подсмотрели в логи кодекса их и запустили на своем кластере и более мощной моделью :) \nНемного\n подробностей, 300 ярдов токенов на выходе. 10к агентов. Вот это брут форс я понимаю. \nТем не менее топ! Грац!",
+      "images": [],
+      "title_en": "",
+      "text_en": "Well that’s a solid result.  \nSolving Navier–Stokes.  \n.  \nThere’s some drama along the way like the guys figured out which direction to dig, and OpenAI peeked into their Codex logs and ran it on their own cluster with a beefier model :)  \nA bit more details, 300 billion tokens out. 10k agents. Now that’s brute force, I get it.  \nStill, top! Grats!"
+    },
     {
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
@@ -31,11 +42,11 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "319017ba99fd7543fd84bb056a4da09c271f124db68ec67826eeabe2955921e7",
+      "hash": "cdb7879348f4cfe87d8fe1202a2559af8364a416e1515bda6ecc7e82032c2815",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/ZUQNmGh8U0DBXqxTEIlELxXUhDa8AvmF2jEPb-5IL-8bPTMLKqC03u3k7yQWgvPPrCZTj0c_m4r1pGvjus2uRh_ymBW_jBWNQdMn7WC2lGugRMCT_ncmd_MYFhqkqa4lR_PRDv9gK2r9QIGIQvNTxVpSXJOjcxXaLNOPQPlehR0G1CbZ5CN5wz5x_aobUNh7bfPBmUmqrhitayymEbuZxX-3AmpdHxTJCGhWZ7naKtX-SG78GS7iS28fVXxsKPUs1m9fUwo8frywQTbGnOLsJM9KjweKDOqiLASTiwVCWr-Jv5XGYXllT3F8ogzXZUGrzXrMxuUtGokGBEN3-S0iaw.jpg"
+        "https://cdn4.telesco.pe/file/M42P_x3SIi3U_E99c4vUTXX00WVLoMjhK5_HfDHcg63VBL4X6FFRxoQLF9twuy-TST_i-dq_vD25k0OJBKwV5K4TPaGI5Y0l2ZPCtvEErBe8a4YoJGaqATQB-J8rg8B7cFPTPPlsoTja7N9sOrIcAWGmzSfmmmE9nSevFgOzxMAPjlnFqqtT2LNOnVG9e-tIgOtQYPXGgh7RVQPeS7cFmwEq-OiW-thXwkbKut14AIlonj_vyNsqdHLkGW5I60Ge1tGADZidN7btprhBtbcynsDOHRv4zgvpg_CGZ85GynOi7-fS_2QZfySziYjbZXLhgfRCTLrUCq4pHzRy15nkVg.jpg"
       ],
       "title_en": "",
       "text_en": "Well that’s  \nnot bad"
@@ -222,11 +233,11 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "796c5a7d7f8e27c765e6a2f17d9641e9e574b69a35d163e8bc60a166aaced89a",
+      "hash": "4583d78e6ab7beb301731e5b8962fc0c00da214b4cd0bf4de51b02422bb2cd2e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/CS2wF4La_XUOL7NvC55vdJQGCAKYudoD1aqOAesM81clImNjRlaw3UswJmw4awFGKtqG5WSCA3m4SMWPWmjqonUVOTHRCBjbZ4K0QkST97dkFrCeV2pyzNLwQPTCeOCX-umIkix84HT5kadrdID097vr-wzoQhA3khrveycMKA8FuA688pDV7Q9XBpfoASGDDWaKnG92GSF3yl7g5bBjCY47loD3t-_eyuVgz-R7UAjTKpv1Gt__Yq4Pgz46yMUmmCuuEiw_9D3yOlDaYG61MkA8DHk6SmHLoCcFWC_JSndl3XrQOoqYm1PhjG9ub2wbCgp5akFDtJbASuljvbxO8Q.jpg"
+        "https://cdn4.telesco.pe/file/c6Ap4zHs3butOId4wNj1t3VzpPE9js1JJNvyBv5ijP2ynRkglwU3a44TQLtQgLXz2O6W73EPYwgt3qsa_2J8L46Ggj0w4-YQOxsWEFTVe6I99NIHVMKG_fi3V7zIpIomXa7IfYhP64bSdTxPBxYIChCeyeHvV2GFNA5wb_592XAYXLwkI4odM7aghhhlUt6NxBkBOn1qX9pJSakl617FaQs9ETqzvHkBpgMM0nFtWBbWKxR0UdMWEWeONzfVWzfCMX3q6Ej4AEEH3yWTAyCdpJ5nWaPXGakL3c-E8bKtBWxeccodgcNbNPNOrha4aJq8ZrgZo_Q9zvA90givyCjEWQ.jpg"
       ],
       "title_en": "",
       "text_en": "Tsk-tsk-tsk"
@@ -246,14 +257,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "cfad08fe997f264103f0f59cdd349af82c056dd0738b99747c9fae577ee499c3",
+      "hash": "e3a245eca9e243adc1aa85c0d7696bb75837d5794aafad0c6b9654bed7474ca5",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/spmfzgBe5VLznElzCWbyhOTXp0O0rV_kGT_GXvlr6wxEjb1D4p09u-peZigdoiSnTy3aF5dGK5VG-jrsZ4jGiiHxfTP4R7nzpDm3wGaUNNly3JiXk7_poqRBkErUgXWgoACE6uaUgM7G2qiqKBnzTQuCGMq0fxE-IEtFpyi5DLKLQy-ngOOS066S3o4A7QU85qwdGDsy0201lwFQihSwCowILoQ8k9SmhLaLMt5Gwco3PgRoSW_bxZux5F17XK5jgAIf6NsMvKbMUaDgFeMGJU_2Xmu4YHYS96U_dpmMrIZUIPGSF-TQ3ja2aFGx-OOiOH6fRXQJ014MQIgqV4kUXg.jpg"
+        "https://cdn4.telesco.pe/file/aupdC8eqsatoV4-3AeJR1NbL8sbcSE6e1vNRC0Z9CDnbHXQ7kWBfgBWOC-ZjZnAhxldpim32RARF-ss-T20ikn9T-UrerPAk9khJkda8lnPjne_66rmEGpFfa-EtxAC--ezzC0t4cCNwkMn5KnCFz43ZjilGG7AVZ0FcEXZYK6rWawYlZIZS6qTXPfsqsnFMLc6P_JgeEyQ9i2NTjnz1Ekn_MnCzDQUQGOv-rhwB2kF0CEGi_Ps4MW8oTSa9cneasbpIwgqTf64L192rxsgff4l_5gb7b-XOfpwIxbRl3s6U87agsjx2zaLurIZx9lY83iYzqZskooP09vU5uFZnjw.jpg"
       ],
       "title_en": "",
-      "text_en": "There’s been a lot of work. But then some news rolled in too:\n- they banned fable from Anthropic, it’s some kind of mess tbh and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, all-stock at 60 bil (so the most expensive startup acquisition? Though whatever)\nAnd meanwhile, a good picture about organic launches without marketing and without pouring money in and traffic and all that crap"
+      "text_en": "There was a lot of work. But then some news rolled in:\n- Anthropic banned fable, there’s some kind of mess there honestly, and politics\n- they bought Intercom for 3.6 bil\n- they bought Cursor for good, in stock for 60 bil (so the most expensive startup acquisition? Though whatever)\nAnd meanwhile, a good picture about organic launches without marketing and without pumping/spend and traffle and traffic crap"
     },
     {
       "id": 1305,
@@ -276,17 +287,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Noticed this thing with “successful investors and entrepreneurs.” They very often dish out advice like: don’t cling to mistakes for too long, learn to move past them; or don’t try to execute a hundred ideas at once, invest in one thing and keep focus. You know, those standard rails. And then usually I hop on a call with that person—whose one of the latest posts is exactly that—and ask how things are. And he’s doing a hundred ideas at once, he doesn’t give a damn about people, the idea is what matters, and so on. Or in other words, he completely contradicts what he writes and what he advises everyone else. Seen that?"
-    },
-    {
-      "id": 1303,
-      "url": "https://t.me/chillhousetech/1303",
-      "date_utc": "2026-06-04T21:36:34+00:00",
-      "hash": "0a625d91baf5d373bf5c1bd43777336ff85f5ead36aeea16f9d3ac21c8da2052",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "На заметку пользователям Claude. Но вообще очень \nвзвешенная статья вышла\n. Крайне не похоже, что Дарио ее смотрел. \nWithout that judgment, Claude is a capable assistant, but not a system that could drive AI progress on its own.\nIt is genuinely unclear whether today’s training methods and architectures could unlock that capacity.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Note to Claude users. But overall a really measured article came out. Extremely unlikely that Dario even looked at it.  \nWithout that judgment, Claude is a capable assistant, but not a system that could drive AI progress on its own.  \nIt is genuinely unclear whether today’s training methods and architectures could unlock that capacity."
     }
   ]
 }
