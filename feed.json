@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-09-10T11:20:55Z",
+  "generated_at_utc": "2026-09-10T16:25:42Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1331,
+      "url": "https://t.me/chillhousetech/1331",
+      "date_utc": "2026-09-10T11:49:09+00:00",
+      "hash": "7531918e43935b0930a023b0e655dc5f17e2644cff794b1f16614d97f3ae0986",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
+      "images": [
+        "https://cdn4.telesco.pe/file/mw2R_BQbwE1FvlW0jH7a5HH38NS-9SL9y7E_vOrVmjcgU7cvEGNyT_A9Z5tvZLmKh0XGJVC91NfBdL0rdHmC_nyDSz6wte4NJ2Kfhfslm7vhroaYFaavsXUBHWZtINNMc1wruqfdlBnce1t_x_RDEKSC242mcxfQrKlpq88nix7MUXnGtwc3836abBLEPIHGshedlIwlDYc_CM-drwkukWl_F_Egu5I1b81m6Kd3KMiShxWkfEmHlX0jzDx4sWD1ABQspwZzLD9-xvUh9li_1nbVJ74HXX8dAOqtYLzL6lIsSFf-366dI0sDFFKNFk6re0dqBKDgRcK_UC_8j_tDMQ.jpg"
+      ],
+      "title_en": "",
+      "text_en": "To everyone especially worried, a reminder of a few details of the latest events:\n1/ the HuggingFace “hack” by agents is, damn it, not “a model sitting there thinking how to break some service.” It’s a specific set of instructions from exploitgym that directly told it what to do. The agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves the problem of the millennium all by itself! We’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then smartly brute-forced it (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part\nis this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the line: AI will kill us all. You’re way more likely to be killed by something like a car on the road than by AI. If these risks bother someone in general, I suggest not leaving the house starting now."
+    },
     {
       "id": 1330,
       "url": "https://t.me/chillhousetech/1330",
@@ -31,14 +44,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "a4f58a35554d8de1143342e7c1970a20fe6bbec5465a89d3ceae84854c408623",
+      "hash": "043659073da14708f7334b0f62d01e0cce57943a079def6c95aae9bec003b8af",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/Am0uAyfAVM3cpYTqbaOkCKluTXu3PDlbXsP0o5DZU4bufs9O8QuxdBIAaG6PEhviK9ahYmWV2fcfcsW3c_UMb6aro6Y-RTJi5EZ2SUYKUGM0KJSkmGrMkHVG5GIJSrnXYktl2YQHLBl9a1y-JDhKYMQMHCrQvcCivZf5vdh-7rcCpCWWxWttz1rCZ2jFi8eJEAYWf_5VBIScmiF5jf9BHk60r9CjHQYgVtPs_ZAf2Ugol9lwEruxeSZ7DmZvVmO60YlzevytV-3-3pwtNXgljq86po55730YJwqSVXRadVhArE4PKYPObI3neDHVdCAQvVfiL0t6skwhUizIWeuOIg.jpg"
+        "https://cdn4.telesco.pe/file/ZPH5MOwuAXwupNtkHKQUel27gCUqJv4FbwaiOztC-m9TFjnyws1H8QVPY-_GF4iiSWGvcAi8KO204_uowRTvZLzyppont50E9OofJpenfBoEYL-6Vlo3jhTW9-rjB6EimjVM-4rAaN63VLeA1UYfe1GoLQA2RnIzi6mHDXkU8FtUWV67WIGxdHCdKCR_SOxcWTdLRUMMIXEmniaQKrQQsBwAplmr_NPeriiaqaNjZIw7X0j0rbaHAINywxDX6T3v6xdHk7FyTf8vx1X-MuhMCBFWkHR66cC-35CV9C3nVySJ51w6nh9ve9x8vVhgfJuLbkC88k-QRLdyzQLI2NjAjQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine\n.\nTo start with: Qwen3.6 27B; support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it already today:\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here, we’ll be happy if you try something else too.\nBenches are here. You can dig into what and how was measured and how much better it is.\nMore about the release: blog post"
+      "text_en": "Major release from our little lab. Support for speculative decoding in our inference engine\n.\nFor starters: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon performance-wise. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all our own.\nYou can try it today already:\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here, we’ll be happy if you try something else too.\nBenches are here. You can dig into what and how we measured and how much better it is.\nMore about the release: blog post."
     },
     {
       "id": 1327,
@@ -246,11 +259,11 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "fa34baf2ce8615dabc5054ba8f7ce9570dc64993784faca7d3fcfb1620daf312",
+      "hash": "ede4c704acadb28c733f71e50e47d4e06509514336c7306ad5d0ca32c3e2c589",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/QsVDKNNoNqvyGBmDWd7ThanDbIo03-HbiM5H-YnbxPXzdp6mZwb3sr_RwCE2yU5Frxy5DJ3ZhwBZXMYfb47izqAbfFI-edRPS-SjHz_rmPmleQ2Lp49i3qKJMzJExT8KzDDIVJS_IlxBeJoHJ06A3OLR82hpyJ6wr4YryvSJo2O2WsOewNEJ6LFCyAlGZmh0EOAglR3uaoAtTdBmzRrDJjyHhx5A05d3v6EakcUt3gKizj2xb9Gk47D4sNEsDVTFgr8cTmuvcYWzul0XTte2WsngDVWVxQ4q1yqZ8uXVi6qiaGSP-yB-X_rjUji0Sxt_2AFijvUkEJTneLI0s1-ldQ.jpg"
+        "https://cdn4.telesco.pe/file/r5dTvrcihBvfzdtvxsg24LcoopPz3--uWNDAnk1uUwupNk6-0GevLQM42vtE1irH7YBAVhzFe09n_A65I3sTq_Ew_BsXKIX-YT0N8rwov6YdnjSD-aacQRcSSVGtmQBNjRFb8ydjzZ9rLVpo_CoGDHQ2j5M-pssSZxfITvDTe1MQfQBG9L9zUt4iOju18AqOMWhEyGWzMnVOAlozktN9f-FD_ZtJEteCfU5kAmxc7lhIUNDfHiYkPuQ4KgIpLsrPH3uNDUjZq9ubCad6QWiJxisL7Ok-4PbL1qiDvvKZ76c_ixOe2hGuZZScQH36PO7BnubUtbC1OqL0L9uohb8lgA.jpg"
       ],
       "title_en": "",
       "text_en": "Tsk-tsk-tsk"
@@ -270,25 +283,14 @@
       "id": 1306,
       "url": "https://t.me/chillhousetech/1306",
       "date_utc": "2026-06-18T17:24:27+00:00",
-      "hash": "cd0efcf2433d41f291d5de690637bdd031c5c00111bb96f0d7c6d75dc5dd938e",
+      "hash": "4dd1e3fd1d5b02996438265113143feccb29090d2553e99637499ebacc4b101d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Было много работы. Но тут и новостей прикатило:\n- забанили fable от антропика, там какая-то муть если честно и политика\n- купили интерком за 3.6 ярда\n- купили cursor окончательно за акции на 60 ярдов (получается самая дорогая покупка стартапа? Хотя пофиг)\nА тем временем хорошая картинка про органические запуски без маркетинга и залива и трафлом",
       "images": [
-        "https://cdn4.telesco.pe/file/YxbpUv4xFWSJVDTIOEUo2gE52R9JFVoYIw4AWeemd6KeDkJI0oYlTCM3s8Ms5gNTM54ZfkuAkgLHrALJ331C9QoAsTyueGFJzKlqYcQwYwrE8dqUeGuUvJbslIviU69PoDqMuURLgMju-Wtbeg6zTtdFsi9Vy7f8BtNdXS5WhgvstCZA5lrRc10D3fKL0HD-K9nEisyoMess9IYcWQRw7sRbFyQ02riI4F7GbwBMdXAJ2N5bnqsqMT20UepgbgRnN8ux6xFTgwfBQ3_qmypV1fT9jexI1ge-tJ1YnXeMsxMlujFHJzKJ8J0I-12Too_EojCbNnJL3cD2a7ws6XRxpg.jpg"
+        "https://cdn4.telesco.pe/file/iH4tSBlE95W243bKUwEUMllxqVdWFaFcqr2j37AUJKgkm2PPTiKIOMoH5gmIsAJtPmtZ1ZBzpnWPHuPBmEuTHqaPckWVonC26CitxM0kAd0xd9q3IOM-b3O27wwm6aB-OUF_4TfB744Cq8WYWWCDXa6UxFUB7hDlttXbg4d1AWOyw_gYk4ALoZ7xo-Z5euuHXwhwHoGWcJ7suhq3TabwtFT0r1ihiAmzQIuesAfUVAFU2aqUEo1k119hBrYQT_OwY3OXRnZuYfr3quJcr2hkjxSxo8rnPttBMfupVjylfqSpN_XPNC1LNqg8h0PCBwkQ17kQKm_uIzGkqo7EaXEi8g.jpg"
       ],
       "title_en": "",
-      "text_en": "There was a lot of work. But then some news rolled in too:\n- fable got banned by Anthropic, there’s some kind of crap there tbh and politics\n- Intercom got bought for 3.6 bil\n- Cursor got bought out for good, in stock for 60 bil (so the most expensive startup acquisition? Though whatever)\nAnd meanwhile there’s a nice pic about organic launches without marketing and without pouring money in and with traffic and all that stuff"
-    },
-    {
-      "id": 1305,
-      "url": "https://t.me/chillhousetech/1305",
-      "date_utc": "2026-06-08T18:48:08+00:00",
-      "hash": "f8c36c607edb6a974c5e4f64735f7ab665c74199c51e0b05550fdd626628e8a8",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Btw релизнули свой первый результат в рисерче. \nВыкатили первые квантизованные версии моделей Qwen 3.5.\nЗа счет совместной оптимизации квантизации и движка инференса нам удалось заметно обойти Unsloth/llama.cpp и MLX по ключевому компромиссу «качество vs скорость». На устройствах Apple от iPhone до мощных Mac модели выдают на 40–60% больше токенов в секунду без потери качества.\nПост\nhf collection",
-      "images": [],
-      "title_en": "",
-      "text_en": "Btw we shipped our first research result.  \nRolled out the first quantized versions of Qwen 3.5 models.  \nThanks to joint optimization of quantization + the inference engine, we managed to noticeably beat Unsloth/llama.cpp and MLX on the key “quality vs speed” tradeoff. On Apple devices from iPhone to beefy Macs, the models push 40–60% more tokens per second with no quality loss.  \nPost  \nhf collection"
+      "text_en": "There was a lot of work. But then some news rolled in too:\n- fable got banned by Anthropic, there’s some kind of crap there honestly, and politics\n- they bought Intercom for 3.6 bil\n- they finally bought Cursor for stock worth 60 bil (so is this the most expensive startup acquisition? Whatever)\nAnd meanwhile there’s a good pic about organic launches without marketing and pouring money in and traffic and all that stuff"
     }
   ]
 }
