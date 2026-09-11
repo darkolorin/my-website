@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-11T11:22:34Z",
+  "generated_at_utc": "2026-09-11T16:29:59Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -20,14 +20,14 @@
       "id": 1331,
       "url": "https://t.me/chillhousetech/1331",
       "date_utc": "2026-09-10T11:49:09+00:00",
-      "hash": "7531918e43935b0930a023b0e655dc5f17e2644cff794b1f16614d97f3ae0986",
+      "hash": "4a9d6594700410734d25c6f51d80d4881045d6b04cf9e9e24bbe9ca285a0b2eb",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/mw2R_BQbwE1FvlW0jH7a5HH38NS-9SL9y7E_vOrVmjcgU7cvEGNyT_A9Z5tvZLmKh0XGJVC91NfBdL0rdHmC_nyDSz6wte4NJ2Kfhfslm7vhroaYFaavsXUBHWZtINNMc1wruqfdlBnce1t_x_RDEKSC242mcxfQrKlpq88nix7MUXnGtwc3836abBLEPIHGshedlIwlDYc_CM-drwkukWl_F_Egu5I1b81m6Kd3KMiShxWkfEmHlX0jzDx4sWD1ABQspwZzLD9-xvUh9li_1nbVJ74HXX8dAOqtYLzL6lIsSFf-366dI0sDFFKNFk6re0dqBKDgRcK_UC_8j_tDMQ.jpg"
+        "https://cdn4.telesco.pe/file/vAseXYYOMD65MOi7Okkf_EbgIjDrzfxSwXM95Psb-NlAy9hr6NHhCo2Za4gZ3ZYfm9jg3auGMdk0c9EmyYd4rZqrcWejwsDsPHTN15KRjh28TN1re-2ABQHbfi7ohgEgK7XYakLx-vtjIXKbYDPSwgx039DjsjCWtZ1wVtDrB8zsnB62d0p8ySKIouZ_H1_glicoeBOhsxidQ-2QDv1JIhGei-znaChUnhDQx5IShbau18pUmVn51qjZqGWpSLHtba5x31kQjzOvZf61mdB47zRaRgezjqfHH9b9HsUdLgunFI6I1xWcDJUzuLERPy_haojb2xaeDd7-Npo14rRbXA.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone especially worried, a reminder of a few details of the latest events:\n1/ the HuggingFace “hack” by agents is, damn it, not “a model sitting there thinking how to break some service.” It’s a specific set of instructions from exploitgym that directly told it what to do. The agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves the problem of the millennium all by itself! We’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then smartly brute-forced it (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part\nis this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the line: AI will kill us all. You’re way more likely to be killed by something like a car on the road than by AI. If these risks bother someone in general, I suggest not leaving the house starting now."
+      "text_en": "To everyone who’s especially freaked out, let me remind you of a few details from the latest events:\n1/ the HuggingFace hack by agents is, damn it, not “a model sitting there thinking how to break some service.” It was a specific set of instructions from exploitgym that directly told it what to do. The agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves the millennium problem by itself! That’s it, we’re all done. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research, trained on traces, and then did a smart brute-force (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I suggest you just stop leaving the house already."
     },
     {
       "id": 1330,
@@ -57,14 +57,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "043659073da14708f7334b0f62d01e0cce57943a079def6c95aae9bec003b8af",
+      "hash": "784c637e30828dc56a0086c6ae4716d394905af44a4c414e7f8636ef937a852f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/ZPH5MOwuAXwupNtkHKQUel27gCUqJv4FbwaiOztC-m9TFjnyws1H8QVPY-_GF4iiSWGvcAi8KO204_uowRTvZLzyppont50E9OofJpenfBoEYL-6Vlo3jhTW9-rjB6EimjVM-4rAaN63VLeA1UYfe1GoLQA2RnIzi6mHDXkU8FtUWV67WIGxdHCdKCR_SOxcWTdLRUMMIXEmniaQKrQQsBwAplmr_NPeriiaqaNjZIw7X0j0rbaHAINywxDX6T3v6xdHk7FyTf8vx1X-MuhMCBFWkHR66cC-35CV9C3nVySJ51w6nh9ve9x8vVhgfJuLbkC88k-QRLdyzQLI2NjAjQ.jpg"
+        "https://cdn4.telesco.pe/file/h71zqg5oN37_nWP7EL6UBB59bBt-lRksQvy32YN2vxc3Dp0WpHyfj-YyiRPMSarqhkVK8p9uATcEwtlWjlDqVyEJoGPJtaSs-xwqQtfDbml0PaRX6cYrSgjQRZAXETH46o4cTRd90oCDW_XP2c7CuTG-vp9cVMKDfbA7BAKYZUhwjyxsyqlJ4zVkaQgPGMLynEutyb1R1kzLpLe4dNe0vBQPalZvORFAcXaw7sHDpNLsZuFT6JZry95Av_qobAq_zuLG8KTkrE5qIenpfu_9C_cDsLkP5E9D0TsTaW-UMvrrdxWcYXpH6lv63SACIthQa9pnvPzOiNPXYIDuMpTrVg.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our little lab. Support for speculative decoding in our inference engine\n.\nFor starters: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon performance-wise. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all our own.\nYou can try it today already:\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here, we’ll be happy if you try something else too.\nBenches are here. You can dig into what and how we measured and how much better it is.\nMore about the release: blog post."
+      "text_en": "Major release from our little lab. Speculative decoding support in our inference engine.\n\nFor starters: Qwen3.6 27B. Support for Qwen3.8 27B and Muse Glimmer is on the way.\n\nWe massively outperform every possible Apple Silicon stack in performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\n\nYou can try it today:\nM checkpoint — smaller\nL checkpoint (lossless)\n\nAll the models we support are here, we’ll be happy if you try something else too.\n\nBenches are here. You can dig into what and how was measured and how much better it is.\n\nMore about the release — blog post."
     },
     {
       "id": 1327,
@@ -81,11 +81,11 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "d2cd8df9ed332d1b7a7fbb3749b8d86709b65dccbd81d6dea5c11f6e79b64ab4",
+      "hash": "d584a2b9ba877fcea5d6f96d66ca5726ee86d4ca6671252d2ed44c86151e36e1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/s99GCPT4UH5GL7-nS5TgKvoaF5z8Z6fVi0ZFpTWagosKXAHYqrmv0--dMoFdShwg2FKQOlFHx4HkW2kIwYL_v85Imw0rmcTK0QZxcx_BZ1u9gr5vNVR3it-PPgtuaTFQYw13GLotL_TiioryhyQUb44u_-ACehlC_0dCxXN2GGnd8QY7LcN5J3pKjTh-IZWKPU1czfbKUtOLSlogf8vRCHGXFpcDm0UDt3hI3LE4XLHfYpSEVfQXOJYIIXkE8AF7grtnT_c2XgK0aFFVazJBHOa4cifxLf4cVR67ObhslBOoteqrcj7t-dYd5T1_APF80PUNWftrWV5Dh5pB9YNxiw.jpg"
+        "https://cdn4.telesco.pe/file/G9SAz6NRZWBz87XKfN2Qavjocsn5JWvF_zrv8qU4z7QHbX17kFEJl1kwI57yQKkxnwaMbLOYCDyoJkUXDatjd_M5kAm-0XYO6UuyBgoVdZgZ-F5rTefbWYOSjHb7nkwckyRQBiVh2GX-P-3rbUSOCA_t6V07nZR3l2zjCM1oPJj9N9CSdA7Xf6FVHPcK84i_eNBv6XYekEBZgypcxJKF4PDSFxfmYpx5pW41zGUlyeKtBc5Xzp3n9INzRSNFXWIRreM8P4Q7fK5HHStUG3Zcd48etTXXSeB97LvuRdo4poS2t8R9CsrfmtNhOwEMf7-h3aqIaKsPQlaGwt_lfDnBEA.jpg"
       ],
       "title_en": "",
       "text_en": "Well that’s  \nnot bad"
@@ -272,14 +272,14 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "c1e28fc55f0e9d10eddac6e7921241a344d34e8f00e47f47d3e8380829166ab4",
+      "hash": "6f135a00042d8c811e1a949dbee6387e49e143f8d3ee9a0f2667a41ef2a306d4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/j4t_ar7YIi7HMKkNMDyKRwRhm1l7aTiARkB8iUTVHy3yHZJv7AF1-hJuqpCwYTs6m8jpf8Zx-AtJ__SmGIyqvmkZM97mc3zSICpazClC5RDHreK0ljQMojYtFNw93bUuaOKEj5gSLqldqS8mgqsPpCviUTN9R_Ypg0zg9FOiRmG1yxCVNNQOyIe66wyQpFJtx7ywYKTAOnDKxlmjugtyw_GPMNZpymTWs8gjph7YnG2BiTWkCuMAkn4uNXiZ5hTmRLpF4V9ww0za42zyIhBIiev_wPB3Eqajc2O6EIpfxiu0nmeueDAOa89OATVmoRqX1AOPkoCtP1qM2xVbsU-A2w.jpg"
+        "https://cdn4.telesco.pe/file/bfeN90mVLLdwbqc1NpMZgTvzig_rfqYYvAHzpyMpUBZpniMIbjA1CUFlv9PeOKZN9bw8mDux8iVpjFVLfnLlc5A33bqGURJTKnB-CfBBGqIxWEsKaAi9YzfagWlt9GoR9bMRNl5Q3GZ9IIZt9cP1AQhOwvVK8vGQWmBKz-8HnGcqne3SBjwox2GS6absLWTdvg1-1J2Kb6biQRhlCSuq1_X4WEl7RH9I7R_jPB9-AIX9VNIbMYhheAwc1fBN3GdkgN6EjOftQsvH1CFKqkUcxi83EzpjfizHGJRqZCcIx7GH2FEnMETPH3K27zyzctayrTBuZ4sAfa4YgU8ROjv2Tw.jpg"
       ],
       "title_en": "",
-      "text_en": "Tsk-tsk-tsk"
+      "text_en": "Tsk tsk tsk"
     },
     {
       "id": 1308,
