@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-09-12T10:47:46Z",
+  "generated_at_utc": "2026-09-12T15:33:21Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1333,
+      "url": "https://t.me/chillhousetech/1333",
+      "date_utc": "2026-09-12T15:11:41+00:00",
+      "hash": "a2846ed882e0a6ddc69bb00f680c2f89d3c33394adc1ae0ff2017cb4297ac196",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Новое эссе\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.",
+      "images": [
+        "https://cdn4.telesco.pe/file/RVa3BGcWXuZ9BPIxK_MEwjWfQyZdlOIn6YOR65k0yhrWEzWGOi22ypOVxlwLGEO_eBVy8JueZSnHPy8h48Zf5dmXhtfK850cD63WG81jSbvR4XF-hHh6Z6btvr-TejvkIesHd3MlE6RNMPf-W6ATOwhMzqIvlnKpVgGuKNmd64IQ3yoWtZD9NuMY6HqvLDppwT9e8btFbKDuISKsSi2pd1VeWlqpuMLjZMcQjDJkj7ZzXGCCEzz2fkxihYFzIjFxqz_j6D83YrqZyZ9RYAf0eiZikpxCoWGmpTggyM-SuLhfbhojWLS_QbMvcrzSa8dpBEnfneOFh2utJZ1xxUZd-w.jpg"
+      ],
+      "title_en": "",
+      "text_en": "New essay.\nDario, Anthropic’s CEO. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO."
+    },
     {
       "id": 1332,
       "url": "https://t.me/chillhousetech/1332",
@@ -20,14 +33,14 @@
       "id": 1331,
       "url": "https://t.me/chillhousetech/1331",
       "date_utc": "2026-09-10T11:49:09+00:00",
-      "hash": "4a9d6594700410734d25c6f51d80d4881045d6b04cf9e9e24bbe9ca285a0b2eb",
+      "hash": "c26dcd507cf711739099f5fbb1fcf659988d62a9d4e54ec75a6030e542b152a9",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/vAseXYYOMD65MOi7Okkf_EbgIjDrzfxSwXM95Psb-NlAy9hr6NHhCo2Za4gZ3ZYfm9jg3auGMdk0c9EmyYd4rZqrcWejwsDsPHTN15KRjh28TN1re-2ABQHbfi7ohgEgK7XYakLx-vtjIXKbYDPSwgx039DjsjCWtZ1wVtDrB8zsnB62d0p8ySKIouZ_H1_glicoeBOhsxidQ-2QDv1JIhGei-znaChUnhDQx5IShbau18pUmVn51qjZqGWpSLHtba5x31kQjzOvZf61mdB47zRaRgezjqfHH9b9HsUdLgunFI6I1xWcDJUzuLERPy_haojb2xaeDd7-Npo14rRbXA.jpg"
+        "https://cdn4.telesco.pe/file/tSo3nZup1OZl6nZzjHgMEgK_OgI5XerXSOvi-9EgRQSgiBJcDMqlsBYD3RyBB_TkyPjPgTicSRgPD0cJb9FSR2T4yeNnEJG3wJH_M4JTjBuiHy-1t0SotVrTKQhQr4SATk34ia7L-ioJ5uItErke5h6E5TjugNan80Om-Mzvu8o33NSTFw3oXc9ykfxH19yBn4lb-zYNf4rCMj0OpA7-FlbJJmPJ22s5wDJqtCQvrlOMEwFlX4k9jXi_XEnWupRFnDV7y1n4oQti7Pz7yc1umuKKiwqXmJU7FSMlA1tT3P0EHlrznMEdpoFsCM95DeFVEGL0jhyrO39XXRlYV7JuFg.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone who’s especially freaked out, let me remind you of a few details from the latest events:\n1/ the HuggingFace hack by agents is, damn it, not “a model sitting there thinking how to break some service.” It was a specific set of instructions from exploitgym that directly told it what to do. The agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves the millennium problem by itself! That’s it, we’re all done. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research, trained on traces, and then did a smart brute-force (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I suggest you just stop leaving the house already."
+      "text_en": "To everyone especially worked up, I’ll remind you of a few details from the latest events:\n1/ the HuggingFace hack by agents is, damn it, not “some model sitting there thinking how it could break some service.” It’s a specific set of instructions from exploitgym that directly told it what to do. The agents aren’t breaking anything yet (on their own initiative). What kind of nonsense is this?\n2/ AI solves the millennium problem all by itself! That’s it, we’re done for. No. It didn’t solve it by itself. Some guys took a huge layer of existing research and trained on traces and then smartly brute-forced it (same as with other hypotheses). No model is independently solving anything yet. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the topic: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother someone in general, I suggest not leaving the house starting now."
     },
     {
       "id": 1330,
@@ -57,14 +70,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "784c637e30828dc56a0086c6ae4716d394905af44a4c414e7f8636ef937a852f",
+      "hash": "5adb394cdd7e6fe8b600c8d1709c339a0b4e0b94bedd167d3621cc01464224d3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/h71zqg5oN37_nWP7EL6UBB59bBt-lRksQvy32YN2vxc3Dp0WpHyfj-YyiRPMSarqhkVK8p9uATcEwtlWjlDqVyEJoGPJtaSs-xwqQtfDbml0PaRX6cYrSgjQRZAXETH46o4cTRd90oCDW_XP2c7CuTG-vp9cVMKDfbA7BAKYZUhwjyxsyqlJ4zVkaQgPGMLynEutyb1R1kzLpLe4dNe0vBQPalZvORFAcXaw7sHDpNLsZuFT6JZry95Av_qobAq_zuLG8KTkrE5qIenpfu_9C_cDsLkP5E9D0TsTaW-UMvrrdxWcYXpH6lv63SACIthQa9pnvPzOiNPXYIDuMpTrVg.jpg"
+        "https://cdn4.telesco.pe/file/GQuR7KCR3Ti-fZpHIlVdNZ490mOJ5puz2TiTLM56AZHG1auGsTtF1ayetRN2m8L10H2eyu_UG_aw4seIeHX04o7VhlQ0ONmVEKkLVF0tHPSW7v1g6_4fenSM_zbsrRP9P7hqQ5002PWHA3Qhb-rGAHSl4pi4vgajLebxrUub0cxP168Saiw_4VnXd3jHRJ9GP4FJ1uHVU2Xjvt_oTrUgg9alPt6jdHqzilRksFdQnA_OIPP_fl2vgMV4D8gcGaZSkMTq4MuSZctsf1Kav_OTz0V3s0P4u121i3dgx7nILJvSjTEGbfj0Xwn22HSOfGZwuDUQKyUKWT-_92AP5CXyHg.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our little lab. Speculative decoding support in our inference engine.\n\nFor starters: Qwen3.6 27B. Support for Qwen3.8 27B and Muse Glimmer is on the way.\n\nWe massively outperform every possible Apple Silicon stack in performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\n\nYou can try it today:\nM checkpoint — smaller\nL checkpoint (lossless)\n\nAll the models we support are here, we’ll be happy if you try something else too.\n\nBenches are here. You can dig into what and how was measured and how much better it is.\n\nMore about the release — blog post."
+      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine\n.\nFor starters: Qwen3.6 27B, with Qwen3.8 27B and Muse Glimmer support on the way.\nWe outperform every possible stack on Apple Silicon in performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it today already:\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here, we’ll be happy if you try something else too.\nBenches are here. You can dig into how and what was measured and how much better it is.\nMore about the release: blog post"
     },
     {
       "id": 1327,
@@ -272,25 +285,14 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "7d176463c004e2fd0c3f3968085968e9ff146dca9971cfa862273762945d1691",
+      "hash": "a02acc6ff97e24508261c8a287954116a924ccf8bdf54bce74a55eb3db01e8b0",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/hDyzKn6gvy8aoFrZ7r7vWhLVzClXTWAvCFRwgUsI_ok9s93yrBMz-MVOB5UWKay3Wewflyo_RR7QG2H95wRKMyJeuFsPDb_ZJJ1g_vaHppGufys4I1k1d47xhmXw-PFuZ-4svP_ARDxZAGIBfA09TkpjYe-4nztoSBQPe2t3UiEHc2jba6vBlBMDMaN8LpAMDDwEE5E-uxYIGVqD7k3J_WUB-45UimHQC5lhYmPBnGPP852wKJcx4rcAWbU-v_bjnCpLRujK37zrsKImPK7bvvcxTy2Hg9dqrDaD60PaLVeuTE5IYdwM9baHFMjqoHv84PPlUX35D3DAzEcb1aRSMg.jpg"
+        "https://cdn4.telesco.pe/file/McV7Gdk6B2jBZ07APKpKQBVlM6uTaVLF8taGVK0pcELS6VJRTgptIo1OhuFpAz-XqpnjzYUMHQ-5iA5v2PRVAoVtRPPDVnt3X5ne3nfTxl9TB_9EkClFoJVD9VttmKEenaGCp_AC2qPrdVYkOUspKEqF4up4bTdVMcIvUd4hppia1RfqfC37t4B7B9vOHVbdiRh8P6UoTlQHgbeVrBI33VoHY0itqh1ahDEpplEyQFEbvyG2NCPcaZlNnGKPK3QOuzkd8b9h_Q4vIg1QS2WbVkpB3sxxLaUXcGge3BwYO0e432eLbGDgl2Burde77_YBmtUaHW-jQPTggBT-YamLlQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Awww, come on"
-    },
-    {
-      "id": 1308,
-      "url": "https://t.me/chillhousetech/1308",
-      "date_utc": "2026-06-24T10:29:33+00:00",
-      "hash": "fe9655d18e15e1ee5e2bd144f429f2769646a680f6099ae1d3825a2e5e796e97",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Немного наблюдений. Про «поиск работы». Регулярно натыкаюсь на русскоязычные посты ака «я крутой, но такие дела, ищу работу». Попробую со стороны нанимающего высказать свои пять копеек:\n- если кто-то очень крутой, прям безумно вау и все вот такие метафоры в комментах «ты вау», то какого извините хрена ищешь работу? Должны быть причины и если есть неконтролируемые обстоятельства именно с них я бы начал\n- все эти странные чисто наши присказки: моя суперсила, лучше всего я умею видеть «прибыль/системность/собирать смыслы и превращать их в релизы И так далее» это про что? Никогда не понимал все эти абстрактные описания. Представьте что футболист своему агенту говорит «я вижу философию команды и умею понять как собрать волю в кулак и играть». Так блин все такие. Дайте что-то, что можно пощупать \n- первое я сделаю это пойду возьму референсы, если позиция выше линейной, а в описании ровно про это и тогда мне все ваши «поиски смыслов и умение собрать системы» пофигу\n- бывает по-разному в жизни, но всетаки необходимо свою крутость привести к измеримому руслу либо через референсы либо через метрики\n- исключите свои вайбкодинг поделки пожалуйста, они показывают ваше полное не понимание рынка чаще чем наоборот \nИ я ни разу от кого-то на рынке сша, где типа конкуренция похлеще не видел постов в стиле «я супер крут, но дайте денег ищу работу». У меня в голове как-то эти две вещи плохо сходятся. И наверное поэтому так тут не делают. Edited: на позиции выше линейной. \nМои рекомендации, после просмотра тонны резюме и чтения постов и реального поиска людей к себе:\n- пишите честно что делали и сделали, не украшайте, если ваша позиция не линейная\n- фокус конечно же на том что важно в отклике \n- уберите все суперсилы, нытье, ситуацию в жизни и долгую историю, это отбивает желание говорить (мы ведь незнакомы)\n- показать желание важнее всего\n- укажите кто вас может порекомендовать",
-      "images": [],
-      "title_en": "",
-      "text_en": "A few observations. About “job hunting.” I regularly stumble on Russian-language posts like “I’m awesome, but yeah, such is life, looking for a job.” I’ll try to toss in my two cents from the hiring side:\n\n- if someone is sooo awesome, like insanely wow, and the comments are all these metaphors like “you’re wow,” then why the hell are you, sorry, looking for a job? There have to be reasons, and if there are uncontrollable circumstances, that’s exactly where I’d start\n- all these weird, purely-ours sayings: my superpower, what I do best is see “profit/systemness/collect meanings and turn them into releases AND so on” — what is that even about? Never understood all these abstract descriptions. Imagine a footballer telling his agent “I see the team’s philosophy and I can figure out how to steel my resolve and play.” Well damn, everyone’s like that. Give me something I can actually touch\n- the first thing I’ll do is go grab references, if the role is above line-level, and the description is exactly about that, and then I don’t give a crap about all your “searching for meaning and ability to assemble systems”\n- life happens in different ways, sure, but you still need to bring your awesomeness into something measurable — either via references or via metrics\n- please cut out your vibe-coding craft projects, they show your total lack of understanding of the market more often than the opposite\n\nAnd I’ve never once seen posts on the US market, where supposedly the competition is tougher, in the style of “I’m super awesome, but give me money, I’m looking for a job.” In my head those two things just don’t fit together very well. And probably that’s why they don’t do it here. Edited: for roles above line-level.\n\nMy recommendations, after looking through a ton of resumes and reading posts and actually searching for people for my team:\n\n- write honestly what you did and what you got done, don’t decorate it, if your position isn’t line-level\n- focus, obviously, on what matters in the application\n- remove all the superpowers, whining, life situation, and the long story — it kills any desire to talk (we’re strangers, after all)\n- showing desire matters most\n- specify who can recommend you"
+      "text_en": "Tut-tut-tut"
     }
   ]
 }
