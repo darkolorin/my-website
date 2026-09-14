@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-14T04:57:19Z",
+  "generated_at_utc": "2026-09-14T12:48:44Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -33,14 +33,14 @@
       "id": 1331,
       "url": "https://t.me/chillhousetech/1331",
       "date_utc": "2026-09-10T11:49:09+00:00",
-      "hash": "9798f936ec42cdb92bbed8492160572468651be50908ca61bbcdd785203d68cb",
+      "hash": "f0d7a1c527c06a12af0e244c72f2b63c2f94ce9f44e5045002f4df9e53ef921f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/BhdS2G0Atd5pcUrroW2vl_h1k__CBlkfzVDOCmPicQ-09zcH6EVhhewMkJHyg9eAcSIyFRv8R4qkv8_hfANYCSDxh7PXWZHNpO8EKbtQ5ifw62K6is97zdCy7LqRHd6qvPAKGR5VvId2dOWZFsCM2iOS8PN4VxzSTz141CZlV29cvuo9zRELn6rxfGCAkEeODQKFy6hOtRr4QGZzW7LI6EuF8botuefnQ5X2OwtcmWoV11y0rGRMoccSMLOhviBCpP-ngVE6ZTiwwHbLPykM8AIxB4UVgkVcwLSx0m-ec6SWNDyngHIULJwaGGs2vT4CdXa-IYsZnK4jXamwGuIODA.jpg"
+        "https://cdn4.telesco.pe/file/QJgS6G_Ct0u4T5ZDfk0Ip0ZPVwkQq8PZQ1PISjkrzY5GcGk8VOR0w1FcY7SUwNjdNKppX0FnjCoQL1xXXOH0jFlSiUxZVWgVU0f1J3a9uIE4ekgGY5Z3Ia2rr42pTaQkn7IZPH5RxaA-jAO9-HlFrcgq6PmTWSVExkzC52SK1mrz4l-M_6Zl9wZzE3pOZlPqd0uL8N4z4l5F85G9B2b3Tt08WNuoBFbSIZSckGJ6gJqiLOdz70eyI2slAL-0heAMTPJG1VbD1hH9wjj9pdagAkZUTefJ4H-nXgb-NnVjHe9h2zpODWV8dI7H4Pp0g7QK5DTSnzMlzwnDRSeL9WW7aA.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone who’s especially concerned, a quick reminder of a few details from the latest events:\n1/ the HuggingFace “hack” by agents is, damn it, not “some model sitting there thinking how it could break a service.” It was a specific set of instructions from exploitgym that directly told it what to do. The agents themselves aren’t breaking anything yet (on their own initiative). What kind of nonsense is this?\n2/ AI solves a millennium problem all by itself! We’re all finished. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces, and then brute-forced it smartly (same as with other hypotheses). No model is independently solving anything yet. Try it yourself.\n3/ but the funniest part is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the line: AI will kill us all. You’re way more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I suggest you stop leaving the house starting now."
+      "text_en": "To everyone especially worked up, a reminder of a few details from the latest events:\n1/ the HuggingFace hack by agents is, damn it, not “a model sitting there thinking how it could break some service.” It’s a specific set of instructions from exploitgym that directly told it what to do. The agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves the millennium problem on its own! We’re all finished. No. It didn’t solve it on its own. Some guys took a massive pile of existing research and trained on traces and then smartly brute-forced it (same as with other hypotheses). No model independently solves anything yet. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the line: AI will kill us all. You’re way more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I suggest you just stop leaving the house starting now."
     },
     {
       "id": 1330,
@@ -129,11 +129,11 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "4167ba2b66fb00d860f74035b2d30988e4114a4d778f03bbbe94a52847193edf",
+      "hash": "417eb4ebeb65da850ff42d190e104857b5feff7f7ad799718dbcbef6973c64d8",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/nslifm_ved6cVYnoju45TzdpRvJtvosYcmGXrWcl7Z3nLglqfC-AxOUCPxHl8inKhQE_IbLMSUGDBh7tLM4krzRTR7Ce0YZXSKUzH2FYl9hjPD-wNIL0Y2PZnUkIrIade3eYgn5oavpcYmt9SdtiGTZNmJBMopMDTxDmMfjuEnVbIzgkfipsdUwP5jA-P9lIU48Zwov-mpEL0g9SKVHjVryytRYme9AACi_g5VRyBw05_VPgvIcI0wtGlEbugXIxHPXtIhxi05aDSnpnCnCSAWwh8htF4SmjoAZC7r_g1dz5UfhOpULIp3FAImetVQexQpu_3gfaFgRFcvRut0M8lw.jpg"
+        "https://cdn4.telesco.pe/file/Sy-3HBj9PtjKpx9LuvA0xU3ooiN-7GjJo-9PTaVZ3bDqUrpfaY44yLkdc0wCKBnWwwiVoaPuyLJobyrxOXo-FdmfQv4_Bz1fkYf_OzwUWhLLif9BcXtzE08LMsdpwl65rWE3KM6GX0tybOgMjHbCer2wDlHuPVQ12ZT4r-OyPx__jRGr9UUkoPJHf9hqkWkzjYIuckzxB9TdG9_INi4lnX2hrfXbDr8rYtUyml-lQXEJSl8E5T-eGjCwa37C9SvlR-to9y_UVHeq5wr_yFukip362D31lmEwzi_Eqxo4hPdSQMMYzLvl4OlaP6AEcJCUxE8n6Yyo_74OywRD1LBNfw.jpg"
       ],
       "title_en": "",
       "text_en": "A new trend in venture capital"
@@ -285,11 +285,11 @@
       "id": 1309,
       "url": "https://t.me/chillhousetech/1309",
       "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "f89bd9763442aef72180b3e957fea373ec0526a738d95087f91dc7aa641ad76e",
+      "hash": "96b91135085f3088127a5c9af88e127748aee8c2b431271c8bddc674a774083f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Айяйяй",
       "images": [
-        "https://cdn4.telesco.pe/file/WNz7Pa_JfWBH63s9rFOEURgVKxRaKnSSH_cDFgjFHGvyuS8J_BAyd3yzKqMtYw3QMNMEPpj6vpR34C6PVcYD-3HPW5-z2NXcFpNcPQJ-OyWeCdfkQBxWDPbCljyrfScNELymRhdBdtbUBjGO0u2q8ZuHwzdkCwf7FAEC3OX15_xx3ZOhSrVygju0WWAtCAPNiI7_au0M-8lS1PiTVvy2yCP6Kr9uE8GMkOcWChhvwJRhTQaXf5VBi43z9PuDaQ2sYdw4bo8ks-bJuTkMZtMwOUctmoUh-70VlT5J_c1op3gxJU0DYVzSRAKYAY1GCK7mk-fj2S0cnyIZQECXMsw66A.jpg"
+        "https://cdn4.telesco.pe/file/DICdqsvPmtrq2_0GdaN02MIigLIioS67jJvabEWNhCUgJQ39NyHrHtu7h7zOw42kdlPYsyssXJYWcL7PKu90nP4bOWj43N_wmQVwnlzUAGTJ7HBr8wsvOoYJ0PaPglGL7hSGSripOLSlvetJBW18_LcA7NOG6UAQuHy2qy7_ri3v1cUvsEAAo5zQ4Arsq2Nzpb-vykmZ_14LPSVDGmG0mgk_5mBaXMwS604_VpT6j9rTGAnMS3c5sD2Nt0ivMVFzwZrrkHrf3vi7VqqPpaiurxmSZoo68z1VKn18lRP6FT0YocSm17KYJaM5BdZRabWsIrIb-BnxZxhQY8MEGspCoQ.jpg"
       ],
       "title_en": "",
       "text_en": "Tsk-tsk-tsk"
