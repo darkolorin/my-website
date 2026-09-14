@@ -1,33 +1,44 @@
 {
-  "generated_at_utc": "2026-09-14T12:48:44Z",
+  "generated_at_utc": "2026-09-14T21:50:48Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
     {
+      "id": 1334,
+      "url": "https://t.me/chillhousetech/1334",
+      "date_utc": "2026-09-14T16:38:55+00:00",
+      "hash": "eccf56a2f5382a899e8d52bf94c12c59ae0e314c307abee71d6639f5a5adc1c4",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "У меня ко всем этим лабам и компаниям, которые разгоняют тему AI до небес есть один вопрос. Почему из этих топ омега крутых команд уходят люди, не просто люди, а руководители? Если ты видишь что условная твоя лаба на пороге открытия и завоевания всего мира. А ты уходишь делать свой стартап по пост трену. WTF? \nНу то есть допустим кого-то люди и атмосфера не устраивает. Но денег, возможностей там выше крыше внутри. Увольнения? Ахах. Вряд ли. Но может доля есть.",
+      "images": [],
+      "title_en": "",
+      "text_en": "I’ve got one question for all these labs and companies that are pumping the AI hype up to the heavens. Why do people leave these top omega badass teams — and not just people, but leaders? Like, if you see that your so-called lab is on the brink of a breakthrough and conquering the whole world. And you bounce to go build your own startup around post-train. WTF?\n\nI mean, sure, maybe some folks don’t like the people and the vibe. But there’s money and opportunities coming out of their ears in there. Layoffs? Lol. Doubt it. But maybe it’s about equity."
+    },
+    {
       "id": 1333,
       "url": "https://t.me/chillhousetech/1333",
       "date_utc": "2026-09-12T15:11:41+00:00",
-      "hash": "28022b560b85d6ff9a56e11710d57bc94c44e0409c5e5a65651e4f7d7877f05d",
+      "hash": "cf438797132f243f97f6d6c6b7a5f4712052c1fbc37e421708bb8492d1f7794c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/OEkq3wKFiM0yIASY7-ZjxhwFS-_c5Kb-OS92BykDNeM2JMoldcwEU064e5cdNFXKFxgnPYoE5m0zIAIq6TVqhjMp2x6psgsXGKGq8Ry8e0SmE6p5W8Rmjt18csBpXPhEjyWp1dbt7M5ia08n_kN4zmYEYclemZ4d9QV0jvqErKUV0Tk20FvTZrSKZHP-cI4s8hRHGEaHjy65QZdSbJ_MVVFC690hlJPGiBSpKnmn6fM6pvrl6hEjDl4oJzwLSTizfTWrRwX2IslF_O_A5kMbfBp1utBKszR1xF7hvcRcPesPnCxGzCEifH7v7BDfaxlpHfJPiu_fO-t-L5bPIX-XbQ.jpg"
+        "https://cdn4.telesco.pe/file/rzhybu9uxXVNpxnvJFFEg11X2nu5nt5V2FOJXRQkZgUWrAXYq18u7WFbWsmmX3kskABeRnU44DSohcyPzLpzNaZ78vlgdYIvNeD3ISa2pfZoO_R8Gmb-LhIVtvL8pS1tgcR1XC-e3AsV8oFwYqndACHwlo8Pyo_IgLxlRX_LZRek5DdGLQ7pLTi9-I2KTRt8PsN2oCPVWVaMTETWoqed6CGr-ycy8hYOXPUoX_MlSStUVpN10bCl3cBLvJKH9nz42iIG6_rNXOvOXlN8eOAOReNlODFNqfLdwlEux9l_XVIx8zEo6zRslAlGWTndzK1cJXQDlac5AdOYnP87_OMrxA.jpg"
       ],
       "title_en": "",
-      "text_en": "New essay  \nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. After that it’s worth thinking about competition and the IPO.  \nAnd  \nSam’s opinion  \nis in the same lane too. Probably someone else is supposed to think like that, right?"
+      "text_en": "New essay  \nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. After that it’s worth thinking about competition and an IPO.  \nAnd  \nSam’s opinion  \nis in the same lane too. Guess someone else is supposed to think like that, right?"
     },
     {
       "id": 1332,
       "url": "https://t.me/chillhousetech/1332",
       "date_utc": "2026-09-10T20:24:53+00:00",
-      "hash": "736e00456582025d67a70c28ce05e9982e4b92d87181fe37ad346878f597ca69",
+      "hash": "14c41017a632ba086b28d9b1f77bf6d16e259cbdc8fc66d2ab10f04f50027bfe",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/o_XJSUldqJmk6kJw_10sDE-trJQmYAiIfii4ogEY9V47N_fm1nTsQFIzMbuOsh5bDYdXa-uwnfs2Q5cQKgygrl9f-3t10MASGhbpCFxr6OHwB3u5MfPLbmM_VUTXzwOnE7F0Iu19hTho-b5ABWekwGFxPZcG_pEE6LNVOYfWyO9WO8fTRZaB7i0dMaa-u1wULLgS08gT23GWcb7CLbkHqhmsqmm8uX6qyPLzyXis2xV-g8IccTYdG8Eo-Y3tfPlVyeUpJiKEfIFF7wW6gaCQD3zDt6wGPRkFmPRENK_dlCtHH19k3vMviZO5TZxAghQFHEEqN1BSQJNsznu7CERd_w.jpg"
+        "https://cdn4.telesco.pe/file/cl6c72d1JO7TuYkE4Joc4tMHgqBO_ytiGHu58jpVO9s9x6vCLpNiPv5eC-u5llrFM8hirxQldDRydA-u4J1Y2A65qmevlg7gnIBsu44ON5TXokEnRzu9Q7irQXTw8SnGpc6pPjNJFuHnJE3Horkxglpu0yHwyRV7UtwovBQ2NEaVXW_wWRifuHrb77Ub_cMKKRbGiWfmj8UK44nbRZ7BVMEBadSBrk6zdNkET4iFNbwm9anmZLLnIU_jXfXrjEFumEO9qxRffI29NaRmPS4gbpv6LIq4Ja-04gZbV0P8pBN8ecA36UArGJHjCB7M7huC8ZK4JkLMLLCtkzsoIlsr0A.jpg"
       ],
       "title_en": "",
-      "text_en": "Wanted to toss some more memes. OpenAI shut down new sign-ups for the 200-buck plan. A few moments before."
+      "text_en": "Wanted to throw in some more memes. OpenAI \nstopped\n new subscriptions for the $200 plan. A few moments before"
     },
     {
       "id": 1331,
@@ -46,11 +57,11 @@
       "id": 1330,
       "url": "https://t.me/chillhousetech/1330",
       "date_utc": "2026-09-09T19:51:43+00:00",
-      "hash": "67054b17ca4ff0d3b6460806747efabe59909c4495efa4d92b12720963fd1f0e",
+      "hash": "8b01586b8c2282e0a4d8a5a80598be1d03cd08bfdff02739f14b06a3df87ab65",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
-        "https://cdn4.telesco.pe/file/Nu78vlJ5f7pQf3KA_oD1GF5RQZs2BnkxCng1qe6X480EFRUPIs_QPatdGcWVyYtwiNtnIsdPRPharcyWZFeOj1_vLNQLChJ_ZkYYVJJKQT-QEhAojlWo4n2bMj-4JJ1faBagoqCZp-Q4cuypV7e5Gvb0jjJENmRkS_23IQOwdViLa45Uu_-LohJpcWZW5MbyK1IdlMdNyUQSXAlR5WwJ3GwLfXbAJNcc9pc0oAJ4ycyJ4Ub7Tc6dwwf764_CV4xSb6uyNHzE5flmMzWON5f_f2C3QuKIC2z-oO0q_3iJJ4HCjELeipb3zho8OwDA4RtQZwtG_700fZnf9cOgIGkurg.jpg"
+        "https://cdn4.telesco.pe/file/JWhPtlQHsIQETPaCjsFF3YLRGZDi8KZlHhOIACjNNt6ZpUKgeMlXNiLXjG1R5JAZnzCMWPfxUZ7jCEaPPATQkpXaQA-6Jx_lzIZL-toA1TIdEd3thsyHs8ZMvln2OBKwezaild8QR3fwSmR-CXR4doXA_AVZ_p1OZyRjpIMe8RNKN5Atmh521oR2pVYFa0PEPfKw08gNBHeix5EVYJGC-UOXDV6b-uG27WXIZx24QGUY40pPSdc_aBwDAxFFdDLBykxKfzRbXS5tQv6X3nm8gt8o_9WboYDyQjVEOS4YsLoPNdWOhEXUy2FZnbXjX-MeCLKTVOYFr3mdnWBvMDU4Pw.jpg"
       ],
       "title_en": "",
       "text_en": "The future is here"
@@ -70,14 +81,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "3c9117b889b90f2d2da3d965aff741c1a2faa01442521899256afe3d7ca09f9f",
+      "hash": "5fea81f02de26e904776eb19971dcfa99edcf566e31f7aa7eac9545cc3f08476",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/gUwb1SFQm9BkzkWO8UJg9SPqzajp0ZUsUgF3h7tPpqlJUuVR26OSzneaMpMRUjzbKXsKNVC1j5ZkhCy45GNxi0cU2T3Y2XaSWuER_hMT3XvXbWxMspqUwfPi1H-t18esYPK1XWevz-HXSixdxlLGy8ucEFO82JI2RYXN73D5N4yK2cW-B_PNcQYIY0rZyFG7U2S59m_PbkEC2AjtG41wpS6dsgT_DxwzUOuNcNDcAylnsU3q5dvjYQIMgzDOJ_c7HxPoTRBg5ewQvxnzrDuvK9dxVCuKp_Rq_aI3vxS0H2YoQoh_KuqgwLTdgMHsUfY5-fjXWXf8G9k3yyRNKRaOaQ.jpg"
+        "https://cdn4.telesco.pe/file/US5CgrFqJr0TfBOQUGyntaQOAYJ-MuorYkqkGfxL8Hl_4MUJZor5S5RZYc9psxWhWt_SuVRVfyiYn9UyostJCNPOeWUtwJ278rvqmAEE7MGcCW_c0NOiaxzyXImgTPbqF_S5TLdPgf7koLCcJjUBQ4QVNWz2IK0aKDYKnU-70TSEDwD5ujNgLPJfP1cPFNjdecsQ9DpulOOHfWU5Hhz3nTvm67rS7pXJtxv9bVcfzPm7WMhH1VJ4zmZ3pu3KBW7EiaTRsZIX0A5zbEhaaC_LNhCNyTcQTdIWybBbRhzL5pC4K82V_5E40l2-Uatad-SOjfS4KN3afwmTmNtghDtxSg.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our small lab. Speculative decoding support in our inference engine\n.\nFor starters: Qwen3.6 27B, Qwen3.8 27B and Muse Glimmer support on the way.\nWe massively outperform every possible stack for Apple Silicon in performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it today already:\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here, we’ll be happy if you try something else too.\nBenches are here. You can dig into how and what was measured and how much better it is.\nMore about the release: blog post"
+      "text_en": "Major release from our little lab. Support for speculative decoding in our inference engine\n.\nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all our own.\nYou can try it already today\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are up\nhere\n, we’ll be glad if you try something else too.\nBenches are\nhere\n. You can dig into how and what was measured and how much better it is.\nMore about the release:\nblog post"
     },
     {
       "id": 1327,
@@ -94,11 +105,11 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "4f3c3b8cf40ad261e420b0d23e44d0f0e76a0c16d9892266cb0883c323b1f246",
+      "hash": "191fa90989c088be5b479d599f67d639f9dd6be7682cb5214f1d2c661d5f78e7",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/vxot7Wgu6bnhQ_9xsBfme_tg1s6O0QAIpDaJbRDj-k9wIvAftmS8jd9ykqFYpOldLLylk8IEOhMc_zC45C5mOSuDFVxRtVf8O5ExQSInQseutoBYmhA7iT4z_zpe0_dmAEok4qQyU9rqMacaNAgx1OLkXzccQ7tacrztXO0Qte1QAcZeD_Oq7XLcrZ4VtByeZ6sadmPgYhb-_dSMS7unf1CPto--jmOwvHw6fzaCv7Me175KL5Xz8Dn2HfLGUGj9PwugmjNRMRBKKWhbYCRpfdIJ00bgTvJfLwgaYuQmkWvzxEeAH2q_5ICKESh8-XCgKKFfBGPvhBdW7_UV4Qu5bA.jpg"
+        "https://cdn4.telesco.pe/file/NzsEaPINCScgpYAfqacePCyMbZ9cTP5tFse--DVSw6r9aErM1gE1iF-3s-XiDhWQPhU1EoC7XTagMYgJ0kg78q2HyK8_mxJvV8yz_6o3Flb-tAqd0yc86aULobTCJG4_ZcwdIF5Si_C--xVcUiECgOsEBxdlviONageGzuvuzP0-0B6xCZcfKMoO5O9afHBlB5WXu8dWiWoKUG9PaOUXie_RWPOOsVrvvXMc0rVmfwFyEIQfDJuOUsimMThbRbLW29vaI2TP3zfU45n9K4IOQpaK6V2TBNyEFBPF18xgRhA5RE42xWllYEQ78DOFXycGgriZLql0jGv4JMc5eG6cHQ.jpg"
       ],
       "title_en": "",
       "text_en": "Well that’s  \nnot bad"
@@ -280,19 +291,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Remember how you asked about decentralized inference and all that. So, food for thought:\n- this is what a normal\nstack\nlooks like, what do you think, is it реально to make players install this, so to speak?\n- what’s the fundamental difference from regular cloud infra with OSS models? (OpenRouter?)\n- oh right, inference on its own is supposed to come bundled with tons of other features\n- if the models are small enough that some regular dude can host them, that means you can run them locally, meaning for free\n- and yeah, who the hell provides the SLA, support, or anything important for a business? Right — nobody.\nAnd let’s never use anything that has the words “utility token” in it, life’s taught us something, hasn’t it.\nBut I guess for some people it might be fun to play around with."
-    },
-    {
-      "id": 1309,
-      "url": "https://t.me/chillhousetech/1309",
-      "date_utc": "2026-06-25T23:23:44+00:00",
-      "hash": "96b91135085f3088127a5c9af88e127748aee8c2b431271c8bddc674a774083f",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Айяйяй",
-      "images": [
-        "https://cdn4.telesco.pe/file/DICdqsvPmtrq2_0GdaN02MIigLIioS67jJvabEWNhCUgJQ39NyHrHtu7h7zOw42kdlPYsyssXJYWcL7PKu90nP4bOWj43N_wmQVwnlzUAGTJ7HBr8wsvOoYJ0PaPglGL7hSGSripOLSlvetJBW18_LcA7NOG6UAQuHy2qy7_ri3v1cUvsEAAo5zQ4Arsq2Nzpb-vykmZ_14LPSVDGmG0mgk_5mBaXMwS604_VpT6j9rTGAnMS3c5sD2Nt0ivMVFzwZrrkHrf3vi7VqqPpaiurxmSZoo68z1VKn18lRP6FT0YocSm17KYJaM5BdZRabWsIrIb-BnxZxhQY8MEGspCoQ.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Tsk-tsk-tsk"
     }
   ]
 }
