@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-09-15T11:46:16Z",
+  "generated_at_utc": "2026-09-15T17:00:53Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1335,
+      "url": "https://t.me/chillhousetech/1335",
+      "date_utc": "2026-09-15T14:36:30+00:00",
+      "hash": "d6932e7b8da8ae3d92ac2c67447753c1cb90a5f47f18607f862119a17353609b",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "На тему контроля за AI",
+      "images": [
+        "https://cdn4.telesco.pe/file/VraSY9A6sF4iaayjiSIUFZG96ArtV_PXgADCg-E5LxLkG8YsAcoJWWEo2t0zh7PIexY_0b4wO6J3ni-1KB5TLBFwoqhhnZHpAMujsfAprPeQIMwpdKaWFDwnK2Z6BbaF1gOJnFv-SVSkFWi_dqRMNZI5i5xcxTh0lb0anFCcHDVEFyr38OURgBR9me1v06sjvcXBN-i0EgNs0XheDyr0vzprV--63RJOP6H6lp6OnweHtyAz2sLSyVlG44TQLRbyCAEw17QzdyqP_tPKKMBKhwn4tDpB2ye3WHytyzxmstKbyD1yE0h7VyOwPEuAyU6ef_LNuNRMnP6214PIWkMjng.jpg"
+      ],
+      "title_en": "",
+      "text_en": "On the topic of AI oversight"
+    },
     {
       "id": 1334,
       "url": "https://t.me/chillhousetech/1334",
@@ -18,14 +31,14 @@
       "id": 1333,
       "url": "https://t.me/chillhousetech/1333",
       "date_utc": "2026-09-12T15:11:41+00:00",
-      "hash": "cf438797132f243f97f6d6c6b7a5f4712052c1fbc37e421708bb8492d1f7794c",
+      "hash": "a34b40e2df55373f92ba225d5d4eea52e06c33ac9812f88465756b2eda538147",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/rzhybu9uxXVNpxnvJFFEg11X2nu5nt5V2FOJXRQkZgUWrAXYq18u7WFbWsmmX3kskABeRnU44DSohcyPzLpzNaZ78vlgdYIvNeD3ISa2pfZoO_R8Gmb-LhIVtvL8pS1tgcR1XC-e3AsV8oFwYqndACHwlo8Pyo_IgLxlRX_LZRek5DdGLQ7pLTi9-I2KTRt8PsN2oCPVWVaMTETWoqed6CGr-ycy8hYOXPUoX_MlSStUVpN10bCl3cBLvJKH9nz42iIG6_rNXOvOXlN8eOAOReNlODFNqfLdwlEux9l_XVIx8zEo6zRslAlGWTndzK1cJXQDlac5AdOYnP87_OMrxA.jpg"
+        "https://cdn4.telesco.pe/file/t8E6DSrKbs9oJJidJwmWPkH3OaUHPnGQuEzZkTKwSiR18sVU-wFHUikFPCEjBBBaCdt4B8K8IvRe008hokR9RrQ6p5Kt_1iEhpyQGTXgQaFsaw4yhWbfxjzwBVivbkNqbNAsrQCNB_fu-NnXIpSt0Ns5PAE_JSKJ0JIuPEv_yj7WXVzxLsD0OYtpxaj9jSIvGR2saMPcxub8w3S_Td_QFLFezdpaBtvzj-nYG2GcrlkyYGe-IhD9usHUKzoAdtCMicaKEsgjZI1StSM8TF91bRtKMvGEwC8f9CeSZuVKlTnZxjHxPhZ1rUpYii2l_K9WLyQKSVRjU5TNzAea3CjKOA.jpg"
       ],
       "title_en": "",
-      "text_en": "New essay  \nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. After that it’s worth thinking about competition and an IPO.  \nAnd  \nSam’s opinion  \nis in the same lane too. Guess someone else is supposed to think like that, right?"
+      "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is useful to read. After that it’s useful to think about competition and an ipo.\nAnd\nSam’s opinion\nis in the same lane too. Probably someone else is supposed to think that way, right?"
     },
     {
       "id": 1332,
@@ -81,14 +94,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "5fea81f02de26e904776eb19971dcfa99edcf566e31f7aa7eac9545cc3f08476",
+      "hash": "a0ca30ac9da36aa49509b7eef68517e1da909353fd5857da6b656511336d7540",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/US5CgrFqJr0TfBOQUGyntaQOAYJ-MuorYkqkGfxL8Hl_4MUJZor5S5RZYc9psxWhWt_SuVRVfyiYn9UyostJCNPOeWUtwJ278rvqmAEE7MGcCW_c0NOiaxzyXImgTPbqF_S5TLdPgf7koLCcJjUBQ4QVNWz2IK0aKDYKnU-70TSEDwD5ujNgLPJfP1cPFNjdecsQ9DpulOOHfWU5Hhz3nTvm67rS7pXJtxv9bVcfzPm7WMhH1VJ4zmZ3pu3KBW7EiaTRsZIX0A5zbEhaaC_LNhCNyTcQTdIWybBbRhzL5pC4K82V_5E40l2-Uatad-SOjfS4KN3afwmTmNtghDtxSg.jpg"
+        "https://cdn4.telesco.pe/file/hFNqFDKdH1Gwtvo8PLS_8-fOcJXE4xK43Dn6TKFKl4dFfQBkUzDJRfcE-Oh2xqdzEVJ_Udsx3XDD9y8BYNoZoorUJGpdQawEOnLi4UjwcqarC2Ahtr__SBd55N2Zb42gzzdWVrcMyWwCqC0BAmcIJ1h-ktkQ3PTfURncnlaBgrTNoJ6UeG9MawsWTRisV2i5f8Slux1UlSGhYlNoXp5BEBGndmRabEivN7X3bJWx7hreA5weZ7i3OlME1sAXGKKHE6cTRQWW5ATgQf2KCk4O36Ndvnwf6-NU_DCQbMG8f8X6cvuUMNMrY-bAb9vhImEerdsqfWS_HFzLqEnp5nNmqA.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our little lab. Support for speculative decoding in our inference engine\n.\nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all our own.\nYou can try it already today\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are up\nhere\n, we’ll be glad if you try something else too.\nBenches are\nhere\n. You can dig into how and what was measured and how much better it is.\nMore about the release:\nblog post"
+      "text_en": "Major release from our little lab. Support for speculative decoding in our inference engine\n.\nTo start with: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform any possible Apple Silicon stacks on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it already today\nM checkpoint\n— smaller\nL checkpoint\n(lossless)\nAll the models we support are\nhere\n, we’ll be happy if you try something else too.\nBenchmarks are\nhere\n. You can dig into what and how we measured, and how much better it is.\nMore about the release —\nblog post"
     },
     {
       "id": 1327,
@@ -105,11 +118,11 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "191fa90989c088be5b479d599f67d639f9dd6be7682cb5214f1d2c661d5f78e7",
+      "hash": "e10c9e91cffc429f6a39af46d006d8fb59b0e3d9a3df563ab8ee24f618a9cd2b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/NzsEaPINCScgpYAfqacePCyMbZ9cTP5tFse--DVSw6r9aErM1gE1iF-3s-XiDhWQPhU1EoC7XTagMYgJ0kg78q2HyK8_mxJvV8yz_6o3Flb-tAqd0yc86aULobTCJG4_ZcwdIF5Si_C--xVcUiECgOsEBxdlviONageGzuvuzP0-0B6xCZcfKMoO5O9afHBlB5WXu8dWiWoKUG9PaOUXie_RWPOOsVrvvXMc0rVmfwFyEIQfDJuOUsimMThbRbLW29vaI2TP3zfU45n9K4IOQpaK6V2TBNyEFBPF18xgRhA5RE42xWllYEQ78DOFXycGgriZLql0jGv4JMc5eG6cHQ.jpg"
+        "https://cdn4.telesco.pe/file/V8e7KZsxOEI1X0eO-qP7cT-GlcknQwwJfi72enCL89o_qUmjRqlpwSSfSG1gymk2kOh7UJNiePYFBcsY91ARm1nVNMNfoVla7U4SXNRgKIpviXbC1PnS4smBXCDswEbDD0qoQ2qf7MxKLzzjNbzW6NtIE9L6FqstIOH-E5gTFj3ag5aLf44ihdoaTvQVGe4gdC5PB6R53yiUmne3YFcW13VTLoqHozVbkoIPFrxI4q8VjyEgg_nByKzN-bPp3j5PdJrvatIGRAyF-Ay-Veyz1WaP9g7i5xkbP1QualQ2rHqsDCS183FoAdo3s9Vv1V1qKoj0WZ280AVViVxVnAP6pA.jpg"
       ],
       "title_en": "",
       "text_en": "Well that’s  \nnot bad"
@@ -280,17 +293,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Fresh trend in the Valley. Suddenly (wonder why) a lot of people realized that token costs for Anthropic and OpenAI are too high and maybe you can somehow cut them down. And the geniuses got the idea to crank out a ton of startups doing post-training of models on company data etc. They even raised 200m (of course they’ll write it up nicely about everything and anything that’s supposedly going to be there “as a product”). \n\nOverall the idea isn’t bad for Enterprise. With a good team you can replay it in pretty much any market or something close to that. Curious how the market behaves in general ahead of the AIs’ IPO."
-    },
-    {
-      "id": 1310,
-      "url": "https://t.me/chillhousetech/1310",
-      "date_utc": "2026-06-27T17:21:22+00:00",
-      "hash": "b3e3882fc5f2493f1285cdf63658b8c373c3b880b9cba3788f206e9b007189d4",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Помните спрашивали про децентрализованный инференс и все такое. Так сказать пища для размышления:\n- вот так выглядит нормальный \nстек\n, как думаете реально заставить игроков поставить так сказать?\n- в чем принципиальное отличие от обычной клауд инфры с OSs моделями? (OpenRouter?)\n- ах да инференс сам по себе должен идти вместе с другими тоннами фичей\n- если модели мелкие что их может хостить обычный чувак, то это значит их можно запускать локально, а значит бесплатно \n- ну и да, кто блин обеспечивает SLA, поддержку, да что угодно важное для бизнеса? Правильно - никто. \nИ давайте никогда не пользоваться тем, где есть слово «утилити токен», нас же жизнь чему-то научила. \nНо наверное поиграться кому-то может интересно.",
-      "images": [],
-      "title_en": "",
-      "text_en": "Remember how you asked about decentralized inference and all that. So, food for thought:\n- this is what a normal\nstack\nlooks like, what do you think, is it реально to make players install this, so to speak?\n- what’s the fundamental difference from regular cloud infra with OSS models? (OpenRouter?)\n- oh right, inference on its own is supposed to come bundled with tons of other features\n- if the models are small enough that some regular dude can host them, that means you can run them locally, meaning for free\n- and yeah, who the hell provides the SLA, support, or anything important for a business? Right — nobody.\nAnd let’s never use anything that has the words “utility token” in it, life’s taught us something, hasn’t it.\nBut I guess for some people it might be fun to play around with."
     }
   ]
 }
