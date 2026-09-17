@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-17T11:42:52Z",
+  "generated_at_utc": "2026-09-17T17:01:26Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,14 +7,14 @@
       "id": 1335,
       "url": "https://t.me/chillhousetech/1335",
       "date_utc": "2026-09-15T14:36:30+00:00",
-      "hash": "d4d05e9aa864601ef2f78afe9e7a1da3fecfab6d7ed1ab1346cac25b561155ac",
+      "hash": "43c6cb87db3185b656420ecc48a49f7ba41d6be61ffef8b1f8272d3aff3188ba",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
-        "https://cdn4.telesco.pe/file/N962QuMm927d2H0oqDe3EQopY7VB7YwfDzLiDInPcOIrZ8ffFGueljNWNM9inOkV0r2tMR9FOza8DcQjno0-KNklOT4QvyUoUHs6oS2ZFBDRQ9hW3nSHOy6zihe3gwf1htNkaVtABwCBL8Nxm3IrWtIIuUaZUPTymA5BmhhCGI68uBRY1n37FuE-iqsWjnzSobCQGkn7q-ToxRvkUmIQyy20vznH5LTcjjrSrNFlEo9igNJFEGeCfkL9AlV4v00uj4Xsk1p3O5WYcRjSlKaTJ27hH7qD-pD60ci7dC9zxuXNhRlx-wtad9c_iRBG7tt_CZ3hq-4M-9l8WPyCxBAlrQ.jpg"
+        "https://cdn4.telesco.pe/file/lvwoUf-5L7tuLfmFcCTItyeZYZ9t9n5NobmYj7s5Emb00UrJKcohI684qP9hx-ZYLgay7gS5JIxZcNrZnt8FTMJVBloHlDNbB5sttO_BP7vFXmEszGAhUf9ukdjPD_lQWtFuZBsyq290hiqUVoRO1PsQd4aJr90-hufYFnlW_4hPDESuIxHlUjgW9y3gSH97T2k_cLCKb8z5mXHZGg_oWeQwXX1IFZA0QmPFRkoKUG76IIiYuYgXtM2wKkoFddjuq8nBQlMyoN1oW7NyQML24N3pbMIgcBqw_a5zd9Qs8XNH8AoZErFrWPOKbQNI2ldl5Eg_4gR-m6paWnRlWPbwWw.jpg"
       ],
       "title_en": "",
-      "text_en": "On regulating AI"
+      "text_en": "On AI oversight"
     },
     {
       "id": 1334,
@@ -31,14 +31,14 @@
       "id": 1333,
       "url": "https://t.me/chillhousetech/1333",
       "date_utc": "2026-09-12T15:11:41+00:00",
-      "hash": "1a06fb43ddde32db794ec1349bc12d7d289a5e4bb0509c70b2a3ae1fecf7c4c1",
+      "hash": "d48d7110d00da81e411a55253d8be18c4336c1e4171c0f6c506b427a1c1999e2",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/CUFCcpeqKWu7xGSNvGimrKBERf3RUhwA_3KIyJSaSbXcoQsrckJOTU_WT6FYTP4b1CWlbjS7a3yBbJVXqqFoBp6X6Hqll9V0OxPSNG6FJyV_7VHDoWZv3BQKQR6j1A7cTCIJOhEiyidXxwtaBZ5aDBTz_R5YR15RXZem8Wup5HOjvsgYna7Gr810K-n2yIhdlE9-nQvlR-U5N5lvbR056gtGslITCe88XUMRkiyufo2laU09QeDrZ-dBlRxpBQVko1mOVX4LPTB3O7OqmjOdgtizyz1WMcioR9l9eKg-I2UUa7eflzSnO2_iqUf-2WngxZ-_SJi85Shgd1ZcUTGVWQ.jpg"
+        "https://cdn4.telesco.pe/file/J6f8HZBoonrGOyHkDWDgtsSpzqqvphZrJbB0Rnu1M5eP4v52gEJ-uKbfEx8M6ztLkC5ZAdAHMlTcJjs2TmbJi21BsTuxx9WiZZd3snfRSOzZxh1wkMrv3xMLGQpRYorn3R0ebdXaCK2qqfjCCQbKRDJHDO6-Yd8BGdXZJH_-hBeiqqKTaAnllGilbCkgCPRrUVexGJlGw1HTBrAWhpw0i-J3M9OtMH0fruv2T5t0-AhQLysBrHzrWorrkFVgsdss6n2aHJ7IdbSznhhrs_9sRx3VvW_4L2Gti65bFcwkzl4OZRonY38JkJFo3U6gnGszakgSLavymI1D9Ha1J8AvbQ.jpg"
       ],
       "title_en": "",
-      "text_en": "New essay.\nDario, the head of Anthropic. The main point is in the screenshot. The rest is worth reading. After that it’s worth thinking about competition and the IPO.\nAnd\nSam’s take\nsame deal. Guess someone else should be thinking like that too, right?"
+      "text_en": "New essay.  \nDario, the head of Anthropic. The main point is in the screenshot. The rest is worth reading. Then it’s worth thinking about competition and an IPO.  \nAnd Sam’s opinion — same deal. Probably someone else should be thinking like that too, right?"
     },
     {
       "id": 1332,
@@ -94,14 +94,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "029fe30ae53a4e6e47f83c34184df65cb06b99587251b7d4d7cd6a8d4167cfe5",
+      "hash": "404b8e1bdf842c120c4e9759e1cad880f5830d6600e63ea4fc492f2c128899bd",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/Ax1bNyYBEUeYV9wUFHA3-WS4Kad6aH8aW_SM6D06saIvKW-rUO6fNV4DqPd9K389MwcL9JF6xuzH8Vvk6ijyvIY2M4dD08t37DF7ktoDMRGVLYBMVefGojI0F8Wt_x2iY2FVQnfZ50GBBFAyIM6crySS4YL41WDI3U_qsYPJcDgECXSSJgf6TYUYhiRml1IzDi1dKyZsQUbn2FPCzcm8wZo18Stj6DNyYW0wZ5e_QmMGiU3Wl4PkEYPwre6nnneC-75v9zKBLbrqvRS0ycxS6qXPekKghgH3oc8UgiHl7BtgWSFPDQUzjlmgYay6QIeA0SY_BYjOtoO5yXKwLPDqoA.jpg"
+        "https://cdn4.telesco.pe/file/W1mGhjMpkmIuBXtUmwqU9yfCjO8xeR2k6n6mnC3U7f15Hv2FdpWpZpmTz-XwAmRgb594R7Qb-8QNvaq8n6fMbulkXvZ1JLfDhpeGGZ5E23O_J52CvMX2b8Gec9RlttIlfmHRB3ks5u60CHD_nBOIm22f9P_9Eg-ilvudR2bTHRIRZRN3fjCRhO3U7ZYSKipDIOcEoib4C6fh8zbVMnJro19wVeta2mY0WYyMc5gYYjJr_c7TTr4JePLS43oWtB0XEx0zryVxDrVoTAZe70r8cSop9karurDqcUmcM9hWvgmLuC1RjOyHRpCAyctAb1cjAL1dDkxO2GNGiV8PonFK4g.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our small lab. Speculative decoding support in our inference engine\n.\nTo start with: Qwen3.6 27B, Qwen3.8 27B and Muse Glimmer support is on the way.\nWe massively outperform every possible stack for Apple Silicon in performance. Because we just went and did everything as a co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it already today\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here\n, we’ll be happy if you try something else too.\nBenches are here\n. You can dig into what and how was measured, and how much better it is.\nMore details about the release:\nblog post"
+      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine.\n\nTo start: Qwen3.6 27B. Support for Qwen3.8 27B and Muse Glimmer is on the way.\n\nWe massively outperform every possible stack for Apple Silicon in performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\n\nYou can try it today already:\nM checkpoint\n— smaller\nL checkpoint\n(lossless)\n\nAll the models we support are here, we’ll be happy if you try something else too.\n\nBenches are here. You can dig into how and what was measured and how much better it is.\n\nMore about the release: blog post"
     },
     {
       "id": 1327,
@@ -118,14 +118,14 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "4d2f4ed98852c215208d7e34458051b84bc920d63913a04fc88ed3ee54d2bf9c",
+      "hash": "073e53a5c8f05dbdca1141c48ee0321dfbd86200b8404e0e10699d4e3a2dc125",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/uO_GtInx_F3U1yLXMxugqF7jzh7QccMGf6s2Y1e1PcJ3aRxD9GZAfNjbefYOYH7qyG5Guw5uhZ4n1SMOkte4_I83hfIIXc_tqr9t2fqCF7BRdu21Vx4K3vVn6gV7STnj4Ezk4Mtra6gHtxFseOtbLBnIKMFL06yDsq599jF9HxZBg4SjFCC9YKHiWlhHuFqVJ3D56xQNOo4iN0bmrBsXsI2hDbc9lR1PT1MJrS1kDjPVHi5PZXm3ES7w2emuXr8CxpH6Etv1G-vWj1z3pwpcibNV1sHJ00cmbeEQ-c56XUx5v1YT9w7aQZxXnmKpHJxyaDmzEZ5xUBaoH-vBrsCYdg.jpg"
+        "https://cdn4.telesco.pe/file/DwRD6UxbpMl7OrqbqDtg8op76XK3eDwPbgLq54Tor6LbPGq9ME8ARJ6Dzovfhnwx9GxdMY90RmP6jEk0is_LckCv0ho9dnZ_nXjnO3n2lWgtNX2__JpR9e_UtbtGsv0Ld-TSgtbFN9_yFVgTN9fu1W7a6lSKnA8tKOCSV0eHUQ7FACfcH8qiomb7ksKTFKv976Zo6PrzJrXEMHRzn0teIU30RYmsCGkeaszMsU8cUE8teN_xFaN5SKQQOQK_ixSB0yHB1c6dy21-O7It-FDIZci3STAJI1nGvQJsU1-Qjsx4NKCdw-lBBCr6NAtbHXJNft9ZvXngPSN6AyXbvnHYfQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Well this is  \nnot bad"
+      "text_en": "Well that’s  \nnot bad"
     },
     {
       "id": 1325,
