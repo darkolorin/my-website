@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-20T11:24:54Z",
+  "generated_at_utc": "2026-09-20T16:07:25Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,28 +7,28 @@
       "id": 1336,
       "url": "https://t.me/chillhousetech/1336",
       "date_utc": "2026-09-18T14:22:56+00:00",
-      "hash": "2d98c5b4f69ffb61750a476f1ea99a68e25288fd92f59cb19d0f514f07a5763d",
+      "hash": "22eb28877fd50bc6f31fade1020d9b970da35eb073d6e21f03a11e320e2ba9c0",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему \nприложений\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
       "images": [
-        "https://cdn4.telesco.pe/file/g3YGlQbkPQwd6F07VhC-ZBUJjX5MIe2NT9WF65jneLinghN9eDBGpuNy5lO-N-3SdngtSMf7wwXPOVC6r4fyOzXiYXBuXIVP9SANNJgVFBMvmAguSA_Pr51WxH1zjj03oopJnNBUz6vibYMF0OJHjPosu4Ox6vRQ_xxy4Jd5EuKJHmEoubH8xZGk6xe_S28NrGdey0xiwCruA_RAtu4dpWx_23zJrltKW0Tjke4dwHY8mMbuWeUr0gUUlydvIjBZAYQZ4BQB5doBVR7fhI2Uq17irwZHGePwvVo4venVfeWlhon3uCQvTX0VPckZi8lxQJX_yIo_HBAAQoIwb7-jAA.jpg",
-        "https://cdn4.telesco.pe/file/BmmTFAKttowOHoVbacxjBy7428PR-u40UgAbsk7H2iz3Pc6Mf8bYkSGEZazfwTbxEX78x5JR-jeMrKZko6Zwy-ZSO8C7Sqg1HQKpusOEQByLd7jawtP3rQU2-zsVB7m8ljZ3J6DV8iA1rYvdyF4PyVgcB7Q5Ea9XtJUP3jDcYsgVc06ZEZstwgk78YaDG8qARuPIooltWPOG63pAd-Iz-5HEjfI9PPhwoWunAzqbPM04xca2ndBEjDUMtz9PKD-TMwOfO7rUkz5KLm5ku_NzdOABRPsPtTG-uOz_IcNz5MY7ADi5iJHmeVD9MLhdw2Pgs-znOmQKhs-mAZnN0az-dA.jpg"
+        "https://cdn4.telesco.pe/file/SORKK_kkZLfi9fD3Ha3XxKGV_8bucHce4iaecU4E21PlmIYcfS3pbzNP-u3bA6kabUJOvOpxlYcuNMi_m19yU_oQ22xjKRfbEKN1N_bryRFstnc4Ukr6NZmzMF3j4TW0V1GdaU5Vg-NlUmDDHTQRFnkwXkCTEFFQK-7a13DET-vcRnUKEwdjt6x2XzKjLqH7c2yAY61oDKN5NGg_JZKZeRH42O89K7MEfIZOgQJ9yQqTVDReMIMgnyXjvi_S8BrgBzyWSybB-N9zB9WtjVwKX1hyK01-SrKC05IlYqdp0uv4GGU3IsIwoxDaPvu1NVMFeEorqo3Pd42p2lpDlzTa2A.jpg",
+        "https://cdn4.telesco.pe/file/eGOrqb0wsS-YH7GqZE1oE_QlXbOQ4pST1YpIsWcnEVyPlpiXApWFRgjfEyOheacpFHjmm7i2aaLsER8BrBuBa5Y63zamwJ5xltZ4AZWr-Mb4zfuwqXyMz72yEXWHmMAM5XEmBIWOw4rK-OEMl9c2QUIMErwqBy0whuN97oWzN3jsFyvZ1MtnWN5e_fkOIEk8G82wqA52AbtNSxzWyitUb3RrIbjfKyoLChJbJbVO8Hw5Yy01duXjUyfpo1ARO5HZm-tAkRz1RTOlXQRcq2IykyjZDnDMuAbEfN7i1aoyb_VXPoheyvvD3Mt0p5hyb_HRvqtbb7az-_c7F_UHHiCOiw.jpg"
       ],
       "title_en": "",
-      "text_en": "On the topic of apps and the AI boom. Anyway, there are tons of apps, but nobody uses them. Personal software is on its way out."
+      "text_en": "On the topic of apps and the AI boom. Basically, there are tons of apps, but nobody uses them. Personal software is on its way out."
     },
     {
       "id": 1335,
       "url": "https://t.me/chillhousetech/1335",
       "date_utc": "2026-09-15T14:36:30+00:00",
-      "hash": "743b6e6e81aefe4631be1be6aaabf8b7f5969017b168d9ec6d5f2771c5780e37",
+      "hash": "9cf1d86360c561a304a232008e8b3b581c8d97f29cb3467bfd33ffa0c51392e3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
-        "https://cdn4.telesco.pe/file/nza5xtIEGadD8x7bpEMVNT3iXIOCTKDU9YLejXfwcN0FBhOCaL7-JfZn1Iyo1IyFD_mhK1GIrVnlGWJ4bXJ79idcLl-lB6ko8yTFIBcvYY3t0JeqALGkGgnwDtMSj1m2dLzsLLZmPwBWVlYsR9rT6PllHoalqX601SdBsAfWE_HB-3DrAWpBPd0snGQTHm4C7qN82BMvRa71AvRmvtzGozr1bVLqzgqWIdsLHXRTfKQW65muN5ENT0wzmV_vJhqjvDodpH1Dw-Nb25BsnhFl-xhHHdg3o7tb_TJ0Foo14IlVQgsw6O7TaN3JviVOcvVv1hTnhS_Y9sFrgfPgd2TLYA.jpg"
+        "https://cdn4.telesco.pe/file/qQ9w7DnSlgOgisQbb2GakC2o19cbeU9_BmVTOgmDShrOb5QzRL9DYvXYXmyPfJwvjghFLAUAfgONMUV8jgVbsC22IBmR6WPOHQZaFTdmwHI56PHxCk6cWi6RVB4dkm1h6JwcsujqwPjNrNvQUXGShb8VXpTaw_dEQIV8PXLfQC_MOSG9SKrgttxRzoXuoYjeZglpnfanmCYA6lsM1KqOUJTlAO1HsLoeSOg5rIg7iAHkd6YSUD_jHQMAS-SNAeh2Mn6TA3a3gGSFbRE9NI2CslqLSbH1_JsVqjQlDL80eU8ZibCTvteasXOZQcj8Tyt43WFEcDDNMsD1fgzBUnUdbA.jpg"
       ],
       "title_en": "",
-      "text_en": "On controlling AI"
+      "text_en": "On AI control"
     },
     {
       "id": 1334,
@@ -45,14 +45,14 @@
       "id": 1333,
       "url": "https://t.me/chillhousetech/1333",
       "date_utc": "2026-09-12T15:11:41+00:00",
-      "hash": "62916040aa743e11965c8f232748a4bd626905d2a73e7338b4fe470c1329884b",
+      "hash": "fb59770ed898e4e4f62cf8972d20288694955750acc223eca4c23d5faaf0e531",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/uSw3ahD_2RdbZTp1GUC1frH7AhhkzbDxTJ-eVShhRR1IJ6xaQl2irD8APayyOl4aICaEnRmlXk4CWAkrKTnUb-Mq-_veyY2SpV_qjAqlWHBMQWrQU-nauK5hSetsYavQNNxXFj0W-UcCjAcgg1X8z-0lWFOewXfnRjieZBjemjUiIa-mk7utPvuGiFWEFDVyUa-WJhoy7kpNqtr4DqbKFGFy8CCfeo3iR5EUqyntWWrOJsg2btlCTroBl8tsMYbCPM82p4Lwi75xiZ8jESl8WZTer5qS5Z3lfuDGlwpJqOv0yV1vOxjwDZIghjycbtYK4oJwAF47eYB8i9zsK7Oi2Q.jpg"
+        "https://cdn4.telesco.pe/file/gIs8fbKXfdrmssUSEUsedWwtBtj38NLAX1S6siUBqhJvg4DTsCdS0Vja9444H8z4d6GkTBUaAWbAt6TWoT7TqxShQfQNXUOuudYqg_NbyluC43VLaZ-DiNjef3WRyfj02jwLxlchZmqDbULp5qQd7MS362K6XaMI_eUCBX3sh3kIjdsdgDBde-blph9E0jz-IJMEaAfpeMi_0z3jAIcuhIDhirbJh-a_mEkBgkGOPI7uJJAr4mlPvy3dI48qLIlg_9IbJcJs7m3BM86r3bpIwUAj5aKuaHUkEslDVI-gBUe_Ha2-EF3gXuq4mNu8F9GnHkesm3hviQRWQmqwdgbt9w.jpg"
       ],
       "title_en": "",
-      "text_en": "New essay.\nDario from Anthropic. Main point is in the screenshot. The rest is worth reading. Then it’s worth thinking about competition and the IPO.\nAnd\nSam’s take\nis in the same vein. Guess someone else is supposed to think that too, right?"
+      "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Then it’s worth thinking about competition and an IPO.\nAnd\nSam’s opinion\nis in the same bucket too. I guess someone else is supposed to think like that too, right?"
     },
     {
       "id": 1332,
@@ -108,14 +108,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "7b1b81339b098a3df3e5f10bc37fc385552eb45f425e208dbc0b1c70c1bb8494",
+      "hash": "df27fd2928998b1e521530a7d78eded0685c8c6b94a93ffdb85812008f7c41be",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/riu3TAwJjsKzjOvKzeyiCS5Ed7rzMNe5l2PuXPv9jUPcETVyShyieLqWx_u_GODfAgQEMsej7oe1mvpNIIcO_NbiyBT6wZCjHCCa4UMQeVj99mnOzcAAJPcVui28nOHMsYzzuazTDQt3SDIgtxw5T7Dgscfay3ht4rKRpapqXLIxpSIFydj5A-_5lE-ExqfCNoPtp7cJnXW2SCReDfJi5KlARdJk05_leOAvS-HYAuE2TFt6wpS20x2a6bTi6R5FxRfWeSgOrrkO3Bxq2PJgBvuW1Pu4oN_U1axDOakAHIA5CWId7Or2H8VyusJhm5xq8E8uQZ1N5fAkfmCAoSYz4g.jpg"
+        "https://cdn4.telesco.pe/file/iaIAMgeVwUzlN279a81iLmyfoLfeiH6jN_kXf6N1Amz5dcwPrtQZv6cvWV92IL-fKwD07TAXNohX1R5qXb9u4JiENZa545gNQ9S62rIXzwVKs2skbx_H8o0TJSnlNBDmEg0OkDT9QawFx1-80lgNrKZkBtqE6Q_eo_Sfq1cIgJ9pDmzIPQxe3KebFwNx73PiN3eZSXss7-UlvWFh5aXrK1P4LPji0_7OyvToGpyYyuh4bHq5p1jEDwSuMnipe84Gl96Xw8H3P0KhJhblVKx72mylU_j_Ve6sOHnT-P897ctvdGbq02zKE1MDewufH4TXtTVqG7ZjDm2LA_gsVapxzQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our small lab. Speculative decoding support in our inference engine\n.\nTo start: Qwen3.6 27B, Qwen3.8 27B and Muse Glimmer support is on the way.\nWe massively outperform any possible stacks for Apple Silicon in performance. Because we just went and did everything as a co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it already today\nM checkpoint\n— smaller\nL checkpoint\n(lossless)\nAll the models we support are here, we’ll be happy if you try something else too.\nBenches are here. You can dig into how and what was measured and how much better it is.\nMore about the release — blog post"
+      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine\n.\nTo start with: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon in performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it today already:\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here, we’ll be glad if you try something else too.\nBenches are here. You can dig into how and what was measured and how much better it is.\nMore about the release: blog post"
     },
     {
       "id": 1327,
@@ -132,14 +132,14 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "1b888d4e53d5bb10ee8fced5a032b002f15e0a1f749a0c7cef79d12231601479",
+      "hash": "038a125dba4352020418d265700a46852e6152dd838972fec647271d5c294820",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/TIUltGeI_cdw0HFVkMcY6HcJaHsb9436x5W50vLF-pRDe_fQepSMp3mX0pqiOJx-XdyLsO0BAF_LVHhklF18dZvPADVO9hckNOHJ1qRtYQQqxS6I4TH9MCJlL5ZkcFd0QFLKkmCRnQYIuOdFxrGOJb6He80Dlhwu5tyDyZEUYfw39OxEnLmQHyVnt-JnCl6kmyANEbWY6jT1HxFyQOjegCA1Smom2LvEEy6tkaCPiNwlthLbUNhhtVQYkAmmr8NDXpRSJ0JgaEZhuOYIqG-n-QWf_SOipZwiI8qD4VtcB6UlURdU685rDkMtAqyQtRaTLwSUNUx1wfFI5kyV_fnqrw.jpg"
+        "https://cdn4.telesco.pe/file/nVIB8KroW9SOqZkPm9Hh--l8ct8CkmEVq3v3g3HVr5OdijMW_ny5hq4wYkwgKzCLsIOG7J5fXoTL5uSgooGmFP6NNVmZXPxOjjMyh21k-TiN5cx23noxUN7THUuO0OnEB6kJGGKkIJXS0sWTJ5xJcioCszoekriGhahk-w1fH2WZlg569T2keQrKcNev0qGw_6ysrbrCWH5cxKDQlADAd4Px6tqLa1NqGXhlgZCoCRFl6qfeJH-dyvlNtt7zYaCPPTVOzj-I1SBmgeKaWsL0yc27dZZfslDE71sjyAWPGkbMGb7kIQ5XXtCzKQQw5A69CT5Xx7SRg1bJbSIcb59AlA.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, that’s  \nnot bad"
+      "text_en": "Well that’s\nnot bad"
     },
     {
       "id": 1325,
