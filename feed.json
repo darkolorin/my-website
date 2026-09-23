@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-23T11:38:02Z",
+  "generated_at_utc": "2026-09-23T16:59:49Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,12 +7,12 @@
       "id": 1336,
       "url": "https://t.me/chillhousetech/1336",
       "date_utc": "2026-09-18T14:22:56+00:00",
-      "hash": "f4a526d3e056943332d0a100f7a3ecd80627e1e21299f5badc8c752732a89244",
+      "hash": "3a35790e14c364c84ad5806bdc740261ae1996ff3cb3cfa78a5c1c3170826d3b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему \nприложений\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
       "images": [
-        "https://cdn4.telesco.pe/file/iqGSb8zyWOucby-Kyztw-pP1FI3V1FREUB36peX4ck6gQrWkrcC61ghfysEdUfCeSVZvO92NBsTi52pA7jwoW0QbFMEIdcOz9uLQ677NW5rC8Z_1yq3kQ5HENZiuC9dKj_ko6zQE_non_9uP_1v9d3cfOoXA2sjC9xiEYHaPkHFZNZqFUPJg5WZjJcq9B8IuWTtyGVHCloZglyoC6rD3aDUxfThUaQLOBPBmWctghCS02USEIryXdWdEMaFicDz_lE749QVz9xK4_SsxwKKa3PjntUN-10J7vq8clYOFMz3SFadA55G-2S_ZzjxmQw1A-qPhCq21F-zJ7w25F0-tEg.jpg",
-        "https://cdn4.telesco.pe/file/OqUnLaap-yooWQLVNxvpNBHlRsinSIaNWicacfUzsyTqBOopa00V81A0rUUU19HYxxd2doZI8Qxc_RJRqXC39XJL_aN7RtpUyvZDlpsRnBvuhnsFBCw4U2HHnIZnhn36slfyVLqGTXz39JwhLKmZHti_wES_8BmAFCukf6jzPlk1x6LuAWeyl3aSa3czwVTRXD887PeMoRf_JnqbMUwNrL6qYQgBRkMoZz8q1CqHclndaKAT40eeX1OebK_huG8P62B6ev_qQy_1DSyaBw-0tAQDnAvSoxu3TB4SWfBiZK5-CJJLnQjhKZmffaa-ibRXh5K6Yc1hACErtjP5bOm8HA.jpg"
+        "https://cdn4.telesco.pe/file/UtNke1e6OT0_W8pvTO9FGteOrrbxdcnXB1B72tVzxkTTHtm7lSTtYOrKhnjeTUfnLd6-vOxFh_xj2lqKXWX25cv5MWc8Stj_OtfjaebiDJtaBd8t_89ztOGL1mrPVOO7hNk73o4X83qk414dH3TVdK0jfjZ8tHU3W_W29nopVSQvC76woV8jY67ptqxILNL26Ir06NdyY8d9K50l3K7l8JBi_kmwaHLJzaPlW2Ypch6i0sSSMLSCrRxBJ-vREg0uv6yPbtw3zZndDA0nHOmloOT8g2HbUbvmAs_JdUv_TKT5-vlOIJsFt-QOuT6zk2B4zHVupuvqSyzJjID2xn9gsw.jpg",
+        "https://cdn4.telesco.pe/file/vQBcKh7JTUgNn5h4U8olURkUECcO0R93LxDTh0xGYkPpGCevdk1n9yWl7SF05PROfW9OlR1EgvWzf2KP2cAVTy7js5WlWpgvTXWKboU68v69FL_dRmpcWHKElWMwAYQeNaQ0wxy8dYGKFniO-OaQPjU45ZFANdfMBPCla79_P8_lzE6yCMVNZLTpdOVm9wXspRUl8P5swZ5g4FS10dHdJsEwxOZvApHtHNuRGzG9cndSjJdKw1LSkHMf9Gm-eikPPtPuQa61utqoM72VC8dkvmIrxWZBJsgfSn3mVNPXLwjigc9d6k_LNEMbTJ4eY1WptpsN__O-wQoLqcrQVKPvtA.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is on its way out."
@@ -21,11 +21,11 @@
       "id": 1335,
       "url": "https://t.me/chillhousetech/1335",
       "date_utc": "2026-09-15T14:36:30+00:00",
-      "hash": "8a8615818100f4837989ef0fefd47450d22cdcecc2886e45a42c65d5568770b8",
+      "hash": "0882703f1a338ea56dec92a8dd7ff2ce4628415682ceb44b0da944eb9c468775",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
-        "https://cdn4.telesco.pe/file/KwhvBEBXmv7CuMwmF9pzMExh4qQ1U1KDhJYW7CkR_UH_n2fR7-Ny6CsEp2FvGiOso09Ck4Cms988LsR3aI2_4dvC0DVmSuTsr95GcZex08sP-nlsX1-8lwYWiXdQPMnUXaDyGzINDRe6UdG7U9DzSvKh2MVZJQKyfCv-YGmR4w_IeXieBNvJyw2Xb3T49swqzDYVKQxVcp2k4gBdS6TRT3037ObMyI4KAga8Il6mbSnCywMiJF8_-lGT7VS1vwWR0m3eyZjHCy1E8vRRlm2CRdS7or2TO6UEprLrDg19pw2sigN5p4Hr6O-Oh1K4WmQmUBREoD-cFB0P1o6X1bvgTg.jpg"
+        "https://cdn4.telesco.pe/file/e00dGgHuGj_BYZ0owjArQ1zzgVLRQSq34syvK83OmINwJ5_UEdj6D_fShY_cr8E3CaU_zX2sOLNWuloGwvkA44WRXtl8fuz7j5weurWwD4s5bNdlTifTErHL5jPvxFcbTOwSrptoObB7xSUmloVJQLJ31Ag7dZkjfqyoKHYCZ0H1lmbKJh73GFENtS3UcUSUvQAxKh4FZrpcruJrKC-O9XR1fFoqOv5RO8gW9E69RGr7ljGFUWBHWOlVXlKh88ezjnHxTsuZIn1WFsbRSp0lnAXi1ljalzES4nCsyrPb0ZLDwGaI3X4WXBoHnHTCDmKJItFvONb1F0dpS9ol8B65JQ.jpg"
       ],
       "title_en": "",
       "text_en": "On AI oversight"
@@ -45,14 +45,14 @@
       "id": 1333,
       "url": "https://t.me/chillhousetech/1333",
       "date_utc": "2026-09-12T15:11:41+00:00",
-      "hash": "8e8eef508cf319c43ae1bf6ea1478c639ed028615ddfae1b36e4b516925e330d",
+      "hash": "8615e4c21d5d79d5a6f232066880dc44f5ab285b44d92d02d880dbce65ee1539",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/Lgy358-puExJ8XE_1kFz6TpIL4fLkw8wLb7DRx7vinJOmK18HCTUQEPnn56E0hCzYtuT1nuU0pWuvxcBDwdzJvRhXNQCEGI57kX1V_yLnpLZNCJJhmDUkg2Q5HBxvjomEcQE_U6cBCwETObgJihDq-cSSmcpEQ76B4tVnA27mA1hKjq0PBwO-IkMZhQ3GaoK-eAJJU2kzYZrZ8I93uqIn12BdvUyfzLSi859yWVIw9bHsMd-W3bf8YKxRhDXf6Sk11GY4wpWLkBP7Dg0AFM-z_4By4yX-DiakusqUtMSBdB_RX5hyyCtjZM-ZZAUkgNoGiY_WobNOs8LP_eanzN2Zg.jpg"
+        "https://cdn4.telesco.pe/file/LUA0MnTX8Av80CwpPQL_bGPCI6zjJY_i3RVXfiM2qRD_PgBkfNPwMJk9TVrG06nE6xIGsBKcfBnu2gsBlcg8Xyzlj62MMgg2d12CiIDUwbHbNomQqDLjLXtS_D6_rkh9tgAUwGxJa-fE2QP8A7vdlKRr1OdV_mvGQMzjd1yQp7gibFAvDajdnKih2gw3WQVAlDfzD2weiztLJASzW9Wj6OBly7JMhPsbeB8Ety6lpKYO_8KhPhvAwQ8ILt_YeBcDU0ml-1q1RHitjTpsKJavY0nogKqr5Nm5qdx40s1pNUu321F2yNOtjMH7kUgraSpW2Uy3Iro6WVxMuayKLV0M-w.jpg"
       ],
       "title_en": "",
-      "text_en": "New essay.\nDario, head of Anthropic. The main idea is in the screenshot. The rest is useful to read. After that it’s useful to think about competition and an IPO.\nAnd\nSam’s opinion\nis in the same bucket. Guess someone else is supposed to think like that too, right?"
+      "text_en": "New essay.\nDario, the head of Anthropic. The main point is in the screenshot. The rest is useful to read. Next it’s useful to think about competition and the IPO.\nAnd\nSam’s take\nis in the same lane. Guess someone else is supposed to be thinking that way too, right?"
     },
     {
       "id": 1332,
@@ -84,11 +84,11 @@
       "id": 1330,
       "url": "https://t.me/chillhousetech/1330",
       "date_utc": "2026-09-09T19:51:43+00:00",
-      "hash": "70b269f40999e8c19900c9a503b22d3eb18efeba642918a05d4914940458964c",
+      "hash": "6c896ad50e451120ad7465f4bbab434c77fe3935e199988e91c1d88d0246b319",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
-        "https://cdn4.telesco.pe/file/Er0aws-FqJOKAYqrLJdb0X9Ii2ZzkrPXxmgaUYH7XEdB90c8LqEYze7SieH1e7540IwmPIsZOwkQDCoSSUyUaotoNUOCBNK_pVYpZr-ZIi-9IcOSRTfum0E0-fXFnvPhuPM3j4qhflRo99Lhuj3-nw17nvb6PEi-bDkLGXj50C10QTx8DDRsbbF_e1bOFNm7RPfbkmNXplL6QaqePU51l45uUPaoTikNZtdyhK96dWtLSuUQDqUNFELY_095eXSnVDMSBfhTYr_bqYWNldhM8MsvVQWlRV5BMI5b6a0ZSe1dwDtf6y9LtbVtlFA-PgSpp2D-5J0l-s7uX15S3jcXrA.jpg"
+        "https://cdn4.telesco.pe/file/ZK9X5pO717vl9beT0c4iVfqHZ6MfYmJ-Y6XgRLTtnuW_0mewaGl6JLXerTOh59nVLmevhRA5BEL-LOcy4OBe4dy7dqUJJNXgnIbY473XeQCl4jM4t-xgIXAGowfJT7cS8RWDlQIR6xVQuk5l5nt7sweHWi6J83muGNDcS6LkrCcD4QRGf8bHrGz1PnA0hIhZkF583gteg9iUtuX53wK8jL5csGFLVMncZuQo1yJ5gNyu-OkWgaqk7RxQrr0vzRz25Z5fUIROtLZ6pemeT7Nu3dMinIurKuudclxYvxQvj83BTy-kqvkwUkVIYAQcvZpbJJfdyFBGTeP8_xxo6Z9uxw.jpg"
       ],
       "title_en": "",
       "text_en": "The future is here"
@@ -132,14 +132,14 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "bbd898b35351affe71e3d136c626b96a1f7cb4a811bfe0a7363b39cc2fbfee78",
+      "hash": "c9483e511c2023a6f03a3ddcfb2b169fcefe9096d98de3cfece85b03ed53d3a1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/iAlHNR8Rlz5OykJvrsgpnbogws9iIbxRrFMeGkRZwkB4NFHX1gjn4c99AldySaCtV6fwcS8h4N3ufYMcfd1nfx99-6JhTYRFEhxhN6XxKFhXnyBIqtWIm1xlZ6OMyaCnnx6kc6PSsHH2exsAvjojievbejsTBMkvlb0RqYPrgRBUUWQV4_ITr_jAICRlrNrX8QKsWBAT72ysuVEnBkpSkWIURbBMF3SMKEmoL0Pa3fCNTAAzXcl-y6s8E64WSNvfXf5PgVaKYV2q_OVPVXZ2IAvtNkN4FJHFzgqy1TDGDPQ31uAAFvJZX9pMAPQoqQmLasVC37KB8S6ayFlYUqL6EQ.jpg"
+        "https://cdn4.telesco.pe/file/JHiUYQzxB5Trih_55RFlmPqT61Tm4mxV96E5pUQHYchNYH7OC9D55BiEnQqPRhxD12oBkcPlXgPIzsIRDO0rkTUPkHfY_mCqAP_9QjnNHrKa3trsUExt3PGObsslq5OX6NpMJimC0PmEpCuxJi4j2FtXvBwkguIYMv3KzI3K3BAwk_x78GPATdDvHnSWouscMzQg5WJ3D4TLU9L48m21mebCqu5hT4gjXdTFw0fXGAvoIgIwuh5yfYsCrALytMBs2DLf5lrok3EcMYGhbBAlpfIyGT9ccYA9QkO0hC7Ns9HeSSq-3RNyvmsDFGWcsD0OE0rH45xPdJfS3yqZruer3Q.jpg"
       ],
       "title_en": "",
-      "text_en": "Well this is  \nnot bad"
+      "text_en": "Well that’s  \nnot bad"
     },
     {
       "id": 1325,
