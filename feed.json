@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-09-27T17:00:00Z",
+  "generated_at_utc": "2026-09-27T21:21:47Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1338,
+      "url": "https://t.me/chillhousetech/1338",
+      "date_utc": null,
+      "hash": "d36bb48ab179d5a27aff2d40dde905df7163b7d8f437b0efab38f28d5679041a",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Запустили тут \nнебольшой эксперимент модельку\n, по сути очень хорошая сжатая и довольно бодрая, господа вот тестят сами (портировали даже под движок нужный)\nможно глянуть что получается в видео или почитать про эксперименты у ребят \nhttps://t.me/fuckup_files/1049",
+      "images": [],
+      "title_en": "",
+      "text_en": "Launched here  \na small experiment, a little model\n, basically a very solid compressed and pretty peppy one, gentlemen are testing it themselves (they even ported it to the required engine)\nyou can check what comes out in the video or read about the experiments from the guys  \nhttps://t.me/fuckup_files/1049"
+    },
     {
       "id": 1336,
       "url": "https://t.me/chillhousetech/1336",
@@ -285,17 +296,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Notes from the field. We use coding agents for all sorts of tasks. But specifically end2end for experiments, to see what’s what (like rewriting a test app from Electron to Rust and stuff like that).\nSo yeah, I’ve got the impression that fable from Anthropic is the first model where you already have to think about what to sic it on. Otherwise it’s reaaaally expensive. Like, just vibing for yourself with this thing — not gonna work. And we arrive at a simple thought. To understand where to point it you need a person who actually knows and can do. And in my head a very clear picture forms of why labs hire by the ton.\nHard skills demand has spiked hard in the industry like never before. Demand for understanding, skills, intuition is super high. Because the rest the model will cover if needed. But if there are no skills and no understanding — a ton of money will go up in flames. We’ll see tons of rollouts that fail not because the model isn’t effective, but because the human in the loop couldn’t. And if earlier you needed years, probation periods for that conclusion, now you can figure it out in a month and that’s it."
-    },
-    {
-      "id": 1312,
-      "url": "https://t.me/chillhousetech/1312",
-      "date_utc": "2026-06-30T23:57:54+00:00",
-      "hash": "f130a5dc29488924b70b4f4f733e2696a35d74226434b83c0be3a22d5674fafd",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "О, fable \nвозвращают",
-      "images": [],
-      "title_en": "",
-      "text_en": "Oh, Fable  \nthey’re bringing it back"
     }
   ]
 }
