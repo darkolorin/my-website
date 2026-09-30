@@ -1,8 +1,21 @@
 {
-  "generated_at_utc": "2026-09-30T12:36:10Z",
+  "generated_at_utc": "2026-09-30T22:17:29Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1340,
+      "url": "https://t.me/chillhousetech/1340",
+      "date_utc": "2026-09-30T20:38:13+00:00",
+      "hash": "b7c4f80b204bedaa5ff7985bc6c5822b2b3ef5964eba52f10e3f7610354fe79f",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
+      "images": [
+        "https://cdn4.telesco.pe/file/tPnQYX13If5-KXSQr0kkpwyFuCx10UZI9CBPI2uNZed5hV0b3rHe5ASOntJfokiTVYnsGgf9ps7dUVXbEQtERkDycNZDjyJFXYqKB_hDCEDY-GvgTWON7LvGJL9jaxdy5BO73-lLEVhUTNya_2qLUnvF2KTOJ64KBUdIuGTU-2gTcBEcELqYkuAkwC12wUHIEgwccqvTcziR9M-MctHUDOBNlxB7OtkL2XCZA6UcsVJpqkEZePTjeBFoAoBSLuv3-qnz95HXKmbzmOfMMDoTnjJBPVSvgtJBsEYWBgGlv-DsSbrBvaYOSVhiXpF1YbbwaiIdbhBonGrzk68GSZ4fFg.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Turns out Google\ncan do\nsomething. Well, or it’s just a table with little numbers."
+    },
     {
       "id": 1339,
       "url": "https://t.me/chillhousetech/1339",
@@ -80,14 +93,14 @@
       "id": 1332,
       "url": "https://t.me/chillhousetech/1332",
       "date_utc": "2026-09-10T20:24:53+00:00",
-      "hash": "8606c37b3d965a85c426164f869ba6026496edbb47bb4dd7ec675214b4ed4c73",
+      "hash": "0d3b88979003acd90846213eda3968e470051526496334d39a971d07a7b14fcd",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/K0imufrFvoKgP7NtBMWfr496dOXH9ruIia15-6Dps-TgYfuoCwHZqp41LIjgTtDi81jE1eb3cdHIvDXHCgmPsj3CdYqEajyi1rKxEDrs4pV_mEGPuUlhBo4KvXClqkBUe6upcVLX6JU1hAWynPtv4NjX16Mv87bvpMtruxI1Ff6N7st1CTsZlUdtS6N5Knszsq7axcvhbLpkCGl8LP96KWjIxFQG_sEUp3zU6tq_BkdyOsA0eHYrTgETSXwmHxAp563ryVUSHK7x3rNC5jv9iy7ZvIdywh2vyK5_2w-EodgQMsWA9_zIYH22btBzJUAtPnahjiESK7gl69DP0YCTbQ.jpg"
+        "https://cdn4.telesco.pe/file/k3f8Bu0jPeNPnlIxlHChKl9NCHNkH-Sxo7bGYLopwAgX0kC7yhnvEuuPHIts8yrSg_sKlb9F1A0V2qbXaYP5ReKWo-3fKcvZt5jdNp2QR7Hf4J5MGJINL99xoU4o3til26ZTntkKkd2OmWXaVBT7Z5FNRuGA3zi1WXydg0yNJ0SCz7hCTbi4ZmkUUm3pyxonWI6ilNkp-4gwLehVZYTEme4bIIb7S8eb6CogHmHcA5wV3le1mFzeCz3I3RcFJrJmJqGw5DDLNmTtinp0rUhRMZf5wDPW9Wij-MObNHcv3UGrnZ45D3h8MfGgSkWscjkJDtpoNtDgbd8yQ2R995FNsQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Wanted to throw in some more memes. OpenAI \nstopped\n new signups for the $200 plan. A few moments before"
+      "text_en": "Wanted to toss some more memes. OpenAI \nhalted\n new sign-ups for the $200 plan. A few moments before"
     },
     {
       "id": 1331,
@@ -106,11 +119,11 @@
       "id": 1330,
       "url": "https://t.me/chillhousetech/1330",
       "date_utc": "2026-09-09T19:51:43+00:00",
-      "hash": "be3fa236c6aecfdbd265afe514db84d4d0d1dad6e8a8afc93cad3adedb37a194",
+      "hash": "6980350b60f91f4f886142101d011e4cb5ada776ab6ded8b91b029340913914c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
-        "https://cdn4.telesco.pe/file/EhA6-Xb8eyLFRmILpPMmlyhOzBDALYCOXlE_XUgXM0njZkqZ_exaIIqsCJSS172wXSfz9KYvm1-QUlGiTleT04D7xETgxsznkp-BDm6nGJuKpAHPoMZFzpuFz06l30ABQHPMnDpOwssdlk-GE73h1ciOxxiV7fZMo6BP6ZEE39qdAa45B_-66BobnXUZz5UUZh23vrltaTDzbyuHwSPGDnvubKDC-yJI9Zel5sbsq7UuBRYW51Bi7c-RPYvJOvnaOD6X7KxYsE92k4tU4OkIGtW8g_skBvWgCOgctwgN_exo7apFX2Y1lf-tngB9kc-lt3PfjfU9R31gxxO8RwYKQQ.jpg"
+        "https://cdn4.telesco.pe/file/mUr8aKKirESARRJWglCwOTHPL0DEwf-zk6WJqdEqI1uY_XtTQUCmLQKaEPPGo07tq_8mhBFm3mVJLNGPzY2K2KcsRbx42apWZCvRfAomtDk4yk8Tvn8VpWZrn7UCeYQ4xEFbzuLAiUOfNOZJuThlPFgfyNoH3ZRVhpuaZQzapWNALVtP_w6a7qJdFm2heHL2thpad3lcCAxNIM4oYRavDYbxwVDCtc_Lqz24qEnx8N60j6pCFGJdcaKmKoGAUdpETuqwTqvuUJuG6ZNGtgm0wh_kBYsMeDiUWFUIUgdAgkucvRvMiwLBROTnuZ551QlKfmfpCMgjAtc1EDfsqXg9XA.jpg"
       ],
       "title_en": "",
       "text_en": "The future is here"
@@ -285,17 +298,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Well then, here’s our first release to the archive.  \nWe achieve a 4.37-fold speedup over autoregressive decoding, and outperform a highly optimized DFlash baseline by 24.7%  \nThis is speculative decoding. SOTA (well, on qwen3.6 for sure). We beat everything known in public (well, dflash). A super important topic for fast on-device inference, especially when you actually understand the task.  \nGitHub  \nHF  \nSupport in our inference engine will roll in soon enough"
-    },
-    {
-      "id": 1314,
-      "url": "https://t.me/chillhousetech/1314",
-      "date_utc": "2026-07-07T07:59:22+00:00",
-      "hash": "ed1c4e78e35b3f98fd1fc5eefbd8916461c1dce5c6b954e7bb6219abeb752366",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "У кофаундера thinking machines Lilian Weng всегда интересные \nпосты\n. На этот раз про то как делать харнесы или обвязки/среду для работы моделей для решения определенных задач. \nЯ бы сказал, что очень важный пункт, который очень часто отсутствует у «на коленке» харнесов это вот такая штука:\nThe design should be deliberately simple and generic to enable generalization, likely with reference to existing software engineering practices to benefit from prertaining knowlege.\nНу и мой take что мы будем редизайнить современные OS вокруг вечно работающего в фоне AI (то есть инференс должен как бы крутиться вечно в фоне).",
-      "images": [],
-      "title_en": "",
-      "text_en": "Lilian Weng, the cofounder of thinking machines, always has interesting posts.  \nThis time it’s about how to build harnesses, or the wiring/scaffolding/environment for running models to solve specific tasks.  \nI’d say a really important point that’s very often missing in “duct-taped” harnesses is this thing:\n\nThe design should be deliberately simple and generic to enable generalization, likely with reference to existing software engineering practices to benefit from prertaining knowlege.\n\nAnd my take is that we’ll be redesigning modern OSes around an AI that’s always running in the background (i.e., inference should basically be spinning forever in the background)."
     }
   ]
 }
