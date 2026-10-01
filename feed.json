@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T13:16:18Z",
+  "generated_at_utc": "2026-10-01T22:42:24Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,14 +7,14 @@
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "b7c4f80b204bedaa5ff7985bc6c5822b2b3ef5964eba52f10e3f7610354fe79f",
+      "hash": "ac03d4b3657ded6f6374cf7b3bc2872d7dbfe39337895b3f99b7b243096324c5",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/tPnQYX13If5-KXSQr0kkpwyFuCx10UZI9CBPI2uNZed5hV0b3rHe5ASOntJfokiTVYnsGgf9ps7dUVXbEQtERkDycNZDjyJFXYqKB_hDCEDY-GvgTWON7LvGJL9jaxdy5BO73-lLEVhUTNya_2qLUnvF2KTOJ64KBUdIuGTU-2gTcBEcELqYkuAkwC12wUHIEgwccqvTcziR9M-MctHUDOBNlxB7OtkL2XCZA6UcsVJpqkEZePTjeBFoAoBSLuv3-qnz95HXKmbzmOfMMDoTnjJBPVSvgtJBsEYWBgGlv-DsSbrBvaYOSVhiXpF1YbbwaiIdbhBonGrzk68GSZ4fFg.jpg"
+        "https://cdn4.telesco.pe/file/cysXmCrVBPiXng8pjZIRvw8-0k2UaQd42ssbS5SnT3po5ajQA002YfKbGXuAe9KIHADUAQ3x6b7tbyTtlasYIKVFsW-FjBA8xdcUXb1A8yGWgq15kWffxE9UbYlksM9iozsNh08oUYiZR08fSiKhrkAHgs2kwaxWGCAoOmLqzhSw0I7at_tbENQYJNRynvCw4KXfgvccYC533Vxs8Ten9HrhyuAV8WEQpfeAC9G5bIRuBLOBvJPupkBLtyDHKWO-XmzhvZ1sZhwQNZ6zP6nP90YDtnWBz_23l2Xoryjs-eB0oOl2gw7-afuuSRXyu5Xfzv9xS6DVYGPhkR0nCcZkGA.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out Google\ncan do\nsomething. Well, or it’s just a table with little numbers."
+      "text_en": "Turns out Google\ncan do\nsomething. Or it’s just a table with little numbers."
     },
     {
       "id": 1339,
@@ -93,14 +93,14 @@
       "id": 1332,
       "url": "https://t.me/chillhousetech/1332",
       "date_utc": "2026-09-10T20:24:53+00:00",
-      "hash": "0d3b88979003acd90846213eda3968e470051526496334d39a971d07a7b14fcd",
+      "hash": "644079664c12975d5c70dce53ad4f79af04a5ef1c3d60ee96f04dd6179b6af95",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/k3f8Bu0jPeNPnlIxlHChKl9NCHNkH-Sxo7bGYLopwAgX0kC7yhnvEuuPHIts8yrSg_sKlb9F1A0V2qbXaYP5ReKWo-3fKcvZt5jdNp2QR7Hf4J5MGJINL99xoU4o3til26ZTntkKkd2OmWXaVBT7Z5FNRuGA3zi1WXydg0yNJ0SCz7hCTbi4ZmkUUm3pyxonWI6ilNkp-4gwLehVZYTEme4bIIb7S8eb6CogHmHcA5wV3le1mFzeCz3I3RcFJrJmJqGw5DDLNmTtinp0rUhRMZf5wDPW9Wij-MObNHcv3UGrnZ45D3h8MfGgSkWscjkJDtpoNtDgbd8yQ2R995FNsQ.jpg"
+        "https://cdn4.telesco.pe/file/qWms7_W1QJ7rDzKDTHYQ76jTEyr4YAoDn4ZPjT_S73tiDS8naNQKglrJhfUoN2t52-DR6-J0uZs_q_yeQTRGD8cNEIcdNDvPSPML2_hwGLvv6ACqjEiXkzHJAyXG2cuSZM7bpTpOgMPs69ZC7eg1eV7Tcq32FVH76h6UGt27KCOPA-ozWAr_n7nedO5mLHAiQxXEfsOQJcN3WdLnZk4sLvMIBMGxOmgdyhpJX47GFeTBIvYkg1h1hS1HNqp9ndHLfeL-iUzTCpAiZQlzEOMYQY98aSDtiyQBI5R7bZtEHNuzDGl-gWCdFRUC6_WozL8CUc6ewQuESEmsVhJ5SwiYEA.jpg"
       ],
       "title_en": "",
-      "text_en": "Wanted to toss some more memes. OpenAI \nhalted\n new sign-ups for the $200 plan. A few moments before"
+      "text_en": "Wanted to toss in some more memes. OpenAI \nhalted\n new sign-ups for the $200 plan. A few moments before"
     },
     {
       "id": 1331,
@@ -119,11 +119,11 @@
       "id": 1330,
       "url": "https://t.me/chillhousetech/1330",
       "date_utc": "2026-09-09T19:51:43+00:00",
-      "hash": "6980350b60f91f4f886142101d011e4cb5ada776ab6ded8b91b029340913914c",
+      "hash": "94fe412e4fd44e79cfc0479368528213ff4da301ff6d41360c855e26361eff92",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
-        "https://cdn4.telesco.pe/file/mUr8aKKirESARRJWglCwOTHPL0DEwf-zk6WJqdEqI1uY_XtTQUCmLQKaEPPGo07tq_8mhBFm3mVJLNGPzY2K2KcsRbx42apWZCvRfAomtDk4yk8Tvn8VpWZrn7UCeYQ4xEFbzuLAiUOfNOZJuThlPFgfyNoH3ZRVhpuaZQzapWNALVtP_w6a7qJdFm2heHL2thpad3lcCAxNIM4oYRavDYbxwVDCtc_Lqz24qEnx8N60j6pCFGJdcaKmKoGAUdpETuqwTqvuUJuG6ZNGtgm0wh_kBYsMeDiUWFUIUgdAgkucvRvMiwLBROTnuZ551QlKfmfpCMgjAtc1EDfsqXg9XA.jpg"
+        "https://cdn4.telesco.pe/file/FZL7tla13KySpzhCMVwF2NtE67-VErGWEKGRrrRrrG0kw6hkbxYj2RZgpVZUx_AggWzFXQtPtNTJkoWZOLHhkX__skU4Audm_6WsDsazL1uaAudlVuDf8zeQTVTiVzrUxNxFohfhKgAuluLXjRZElmzWIIqidu5Pdl11cxHynNB5CijsuMv4hXDTQioKNhe_FafibWWt5x4XcBJBlq8MzY3VRmFIFmvhoMR9KIycBrOc2DKX6sT3ddgIH6ScAXWCPqHxgjiuWJBG_ziU7P57NBODbq1DTxrC3DpmCfx5aheU-qx1ZefNTcEtOYR4fLcZrtpxB4I3q_wehp89X_bZHQ.jpg"
       ],
       "title_en": "",
       "text_en": "The future is here"
