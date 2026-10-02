@@ -1,20 +1,31 @@
 {
-  "generated_at_utc": "2026-10-02T12:35:58Z",
+  "generated_at_utc": "2026-10-02T22:15:45Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
     {
+      "id": 1341,
+      "url": "https://t.me/chillhousetech/1341",
+      "date_utc": "2026-10-02T22:14:42+00:00",
+      "hash": "3ff30b6633082a2b44985c67178a0952b868f0e049fead7a8d3b9d7b384593b0",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Hot take: работать в претрен команде в топ лабах самое скучное что может быть. Все сидят там только ради денег. Prove me wrong.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Hot take: working on a pretrain team in top labs is the most boring thing imaginable. Everyone’s there just for the money. Prove me wrong."
+    },
+    {
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "ac03d4b3657ded6f6374cf7b3bc2872d7dbfe39337895b3f99b7b243096324c5",
+      "hash": "2e56d92e079c55c527fd2a3697a46c89559dd7717b5e4788442ce99cdc715834",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/cysXmCrVBPiXng8pjZIRvw8-0k2UaQd42ssbS5SnT3po5ajQA002YfKbGXuAe9KIHADUAQ3x6b7tbyTtlasYIKVFsW-FjBA8xdcUXb1A8yGWgq15kWffxE9UbYlksM9iozsNh08oUYiZR08fSiKhrkAHgs2kwaxWGCAoOmLqzhSw0I7at_tbENQYJNRynvCw4KXfgvccYC533Vxs8Ten9HrhyuAV8WEQpfeAC9G5bIRuBLOBvJPupkBLtyDHKWO-XmzhvZ1sZhwQNZ6zP6nP90YDtnWBz_23l2Xoryjs-eB0oOl2gw7-afuuSRXyu5Xfzv9xS6DVYGPhkR0nCcZkGA.jpg"
+        "https://cdn4.telesco.pe/file/MrJjeV2gn09-j7kBs8zgmwfmoycVcADfFoLRcr8GG_EBa9UzeubC5ybmqwa56gKkpnuaFPNdnJ6dTSpOelBpvobbU5SmghjhnPEKhYdYXzNjDXtp6L9a0Osl33BEoB-POSOrWYcs8dlPx8Y4GCrXyJrHrMfjaIBlEftYgH53ELldaEnuhNiXl6Mav8JXJeMyWtp9HbTCGzfjStwBQX95XBlnfz1mK2j5Z_4eBxF_RZ-wymNRlk3YtONYPKjujtqli_rV8SC3-ZL9jtrC6lhvmBEVwwvHPIH_ZClKfHUuB8vUHiOTlUOQ1zRfyrKP2kmIjOnS3UA2dyOZHre-oMMmqQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out Google\ncan do\nsomething. Or it’s just a table with little numbers."
+      "text_en": "Turns out Google\ncan do\nsomething. Well, or it’s just a table with little numbers."
     },
     {
       "id": 1339,
@@ -93,14 +104,14 @@
       "id": 1332,
       "url": "https://t.me/chillhousetech/1332",
       "date_utc": "2026-09-10T20:24:53+00:00",
-      "hash": "644079664c12975d5c70dce53ad4f79af04a5ef1c3d60ee96f04dd6179b6af95",
+      "hash": "8892c10855b66e6991bc4b6374d2ca7d9251f096369e9e0fce87c2c8789c7e68",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/qWms7_W1QJ7rDzKDTHYQ76jTEyr4YAoDn4ZPjT_S73tiDS8naNQKglrJhfUoN2t52-DR6-J0uZs_q_yeQTRGD8cNEIcdNDvPSPML2_hwGLvv6ACqjEiXkzHJAyXG2cuSZM7bpTpOgMPs69ZC7eg1eV7Tcq32FVH76h6UGt27KCOPA-ozWAr_n7nedO5mLHAiQxXEfsOQJcN3WdLnZk4sLvMIBMGxOmgdyhpJX47GFeTBIvYkg1h1hS1HNqp9ndHLfeL-iUzTCpAiZQlzEOMYQY98aSDtiyQBI5R7bZtEHNuzDGl-gWCdFRUC6_WozL8CUc6ewQuESEmsVhJ5SwiYEA.jpg"
+        "https://cdn4.telesco.pe/file/G0Y6CYdtrXH8KXbzQ4kEchU9j00j-Os3dUrIREfdZLjHWe4_zgXqI0_e684It3M1yGLBr1ZRvwWCWV76kpJYFI2P4RYiYy1li2SkpA-GVPkcq-v8OJY2aSCVp1FdBxIJZYzbPR2v-pJ627aE1XPTbrOExJZU5BgO8AaIg5BG7pjeWKMCVjevoaxWuQXP8X6ADNUdMFg9ihWeMsh3JOjieq2CYc3PHtAjmCW7afSczyY5PE-wtUK5kLpEy097yofWQmlHZZDhze_nOU_cL6VrfOLQ_lbpjp5c5_MuoczARyFca8ifVCsPNdeBmwpeBQ9hHCJtjFcQca9SZ-cJzbSVqg.jpg"
       ],
       "title_en": "",
-      "text_en": "Wanted to toss in some more memes. OpenAI \nhalted\n new sign-ups for the $200 plan. A few moments before"
+      "text_en": "Wanted to throw in some more memes. OpenAI\nhalted\nnew sign-ups for the $200 plan. A few moments before"
     },
     {
       "id": 1331,
@@ -119,11 +130,11 @@
       "id": 1330,
       "url": "https://t.me/chillhousetech/1330",
       "date_utc": "2026-09-09T19:51:43+00:00",
-      "hash": "94fe412e4fd44e79cfc0479368528213ff4da301ff6d41360c855e26361eff92",
+      "hash": "cf8912495c2ccb87ec65eb79c09d1d65991c71e44e777d700d3a77a1b83f40ec",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
-        "https://cdn4.telesco.pe/file/FZL7tla13KySpzhCMVwF2NtE67-VErGWEKGRrrRrrG0kw6hkbxYj2RZgpVZUx_AggWzFXQtPtNTJkoWZOLHhkX__skU4Audm_6WsDsazL1uaAudlVuDf8zeQTVTiVzrUxNxFohfhKgAuluLXjRZElmzWIIqidu5Pdl11cxHynNB5CijsuMv4hXDTQioKNhe_FafibWWt5x4XcBJBlq8MzY3VRmFIFmvhoMR9KIycBrOc2DKX6sT3ddgIH6ScAXWCPqHxgjiuWJBG_ziU7P57NBODbq1DTxrC3DpmCfx5aheU-qx1ZefNTcEtOYR4fLcZrtpxB4I3q_wehp89X_bZHQ.jpg"
+        "https://cdn4.telesco.pe/file/WbRnsLTPYb2tkYkyXQnX2VhlhNuBRLSk3PbyfB-UamprhhwVj4I6e6R6I_N-kxvvzIFr3qN8wX9nTLuD1Vn6w1SNntzptTnRaK8I7-NpZwhZYapXv0nF24UIAs37Ff81X8q_7YOGsMq4d-EIC79aNsuBxFOK1eB7gbyRexUX22ZVePKi-fKofapYE9NsVpymEyr5logHm3eK9j_QgwAHQqdqmP5X2WywIoX2vyol9bKF_kwgBXZwA8y4x978_To-HtjDcDZzko_lU1Q74IqaMWfcfi4lTXnvUEPxQIbdL-MpdBoDY70S447BdgdcpOxezpDuG-ThaYCIxNmVsqi5TQ.jpg"
       ],
       "title_en": "",
       "text_en": "The future is here"
@@ -287,17 +298,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Kimi k3 dropped, and now a new Qwen 3.8 max is dropping too, which will also be aka a “fable class model.” The internet will be flooded with reviews like, look, the model can do everything the big labs can. Let’s try looking at it from a slightly different angle. Because the releases are very important, but the point is different.\n\nOver many years we’ve seen the Chinese catching up to Western models. Mostly by buying up traces and data “kinda like distillate.” You have to understand that distillation by itself isn’t just dumb copying, it’s like for RL it solves the cold start. So yeah it matters to “steal” data, but it doesn’t solve much on its own. Next, the guys are really good at architecture and training on old GPUs and clusters. That’s cool. Plus open source (here the OpenAI policy director, btw he’s literally a politician, started writing on Twi and spectacularly shit the bed, I haven’t seen this level of nonsense from people of that rank on the internet in ages, like the dude has never been online even once, and he writes that he’s been on the net since childhood, go read it yourself because it’s interesting). But it’s important to understand that the main effect of these releases is public information that a lot of tasks can be pushed to a very high level and quality just by doing good RL. See frontend arena. There Kimi k3 wrecks everyone and everything including sol & fable. Meaning you don’t have to take some arch-expensive new top model and pay a ton of money if you only need to solve a certain type of tasks. In other words startups like thinking machines & engram.ai are doing exactly that. Like come here, dear enterprise, and we’ll do everything for you. And now every business in the world has understood this. Healthy competition, finally!\n\nSuch is life."
-    },
-    {
-      "id": 1315,
-      "url": "https://t.me/chillhousetech/1315",
-      "date_utc": "2026-07-09T07:49:47+00:00",
-      "hash": "ca1865ac709df6f3b4046d2e7ef4c96d4b8bca01c2fa65d2fa5473fcf3f5f836",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну что ж, вот и наш первый релиз на \nархив\n. \nwe achieve a 4.37-fold speedup over autoregressive decoding, and outperform a highly optimized DFlash baseline by 24.7%\nЭто спекулятивный декодинг. SOTA(ну на qwen3.6 точно). Бьем все, что есть известного в паблике (ну dflash). Супер важная тема для быстрого инференса на устройстве, особенно когда понимаешь задачу.\nGitHub\nHF\nПоддержка в нашем инференс движке скоро доедет",
-      "images": [],
-      "title_en": "",
-      "text_en": "Well then, here’s our first release to the archive.  \nWe achieve a 4.37-fold speedup over autoregressive decoding, and outperform a highly optimized DFlash baseline by 24.7%  \nThis is speculative decoding. SOTA (well, on qwen3.6 for sure). We beat everything known in public (well, dflash). A super important topic for fast on-device inference, especially when you actually understand the task.  \nGitHub  \nHF  \nSupport in our inference engine will roll in soon enough"
     }
   ]
 }
