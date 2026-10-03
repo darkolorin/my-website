@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-03T16:18:59Z",
+  "generated_at_utc": "2026-10-03T21:16:07Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -18,14 +18,14 @@
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "2e56d92e079c55c527fd2a3697a46c89559dd7717b5e4788442ce99cdc715834",
+      "hash": "a456e790c14480ebd8e2939cbfb09c76221ec6bda3d9e00f5037324417b5d35a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/MrJjeV2gn09-j7kBs8zgmwfmoycVcADfFoLRcr8GG_EBa9UzeubC5ybmqwa56gKkpnuaFPNdnJ6dTSpOelBpvobbU5SmghjhnPEKhYdYXzNjDXtp6L9a0Osl33BEoB-POSOrWYcs8dlPx8Y4GCrXyJrHrMfjaIBlEftYgH53ELldaEnuhNiXl6Mav8JXJeMyWtp9HbTCGzfjStwBQX95XBlnfz1mK2j5Z_4eBxF_RZ-wymNRlk3YtONYPKjujtqli_rV8SC3-ZL9jtrC6lhvmBEVwwvHPIH_ZClKfHUuB8vUHiOTlUOQ1zRfyrKP2kmIjOnS3UA2dyOZHre-oMMmqQ.jpg"
+        "https://cdn4.telesco.pe/file/J_oTkhby_KfFTxn0LtIewuPWy-s40ZhZnBZA6erJ_hR48nQtEDxB-qMDzWkxefhaeYkCm6uP5kjMzdAV-owiG7AaDbdODLkq4zBey-BHyqeM8ZbLIoPOVnYxAqdVhj63A6UzTHJvz3O1p11erT9Z6vxelOzkqbJY1bSbhSsxV2cEXmxQ_hINvq2RROCOhVjhcKvV7vX6blsKVTB2qIf8C-OV59TU_2pAhLTeo5tfchIYIqAoS1vxb3qzP4GBMBY2bTMGsmRPTz6nq1UIeLSaFFLnhwm3_S_a0NATUIyC2_bz0-hdkQbiniJnsBF4nMbO2_NiPYacWRF6QSyQbccutw.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out Google\ncan do\nsomething. Well, or it’s just a table with little numbers."
+      "text_en": "Turns out Google\ncan\ndo something. Well, or it’s just a table with little numbers."
     },
     {
       "id": 1339,
