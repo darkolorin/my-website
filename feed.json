@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-03T05:20:19Z",
+  "generated_at_utc": "2026-10-03T11:40:53Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -53,12 +53,12 @@
       "id": 1336,
       "url": "https://t.me/chillhousetech/1336",
       "date_utc": "2026-09-18T14:22:56+00:00",
-      "hash": "a9b60f7067e57daa3a8023b8594bc81c5b4c927670bd84962f43b375a95c426f",
+      "hash": "41d5be49ec75d71d26adb84f381155682b7f267bc431da18735f5ae47a06d578",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему \nприложений\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
       "images": [
-        "https://cdn4.telesco.pe/file/n3RFeS700zIcV5uPQ8xzkdjSIJ0_AEqtJRAWCmTzirc8Bk4UHJ_AdshcZUE-uA43AkTPQhmBx2kMUrxiJ-D6vOE3fEbowXjcPInUBpLzB08bQUeJXNci9RdV96Zt3KJBtWIDMiH_GB6zN-u84NQcRAR0-WXOmsFa6xkiZ2bjbeV0A7MyWGBl8c2GPbeHEyVAom8stppyodtHvtP0oLG-6Wcvt6kSoTHAKv3HjDT4H11Kf7m468QJIinKvMCK355HAqARxNlXL2-IA-mjnUuo3WgM3uDP5kZocSngnOW6kzFGAPYTVojIonjZKY5svJr-CDE62p01acJhwskk0w1jeA.jpg",
-        "https://cdn4.telesco.pe/file/SV_qf1xMHndZePBRtpx3N6ak6cTE4OAgmeDaUXiSSPsihAUYhNRbvZWUTgLGk-tWxg1G2pHlUuSrU1EH3iA7XbLWOhisFrx97xVgixGjJDxS27vU7vXq1VvnmW9w5eFyX7KB_91GkYE_pWLSP9baszlhOi5FtEukuukNMlF-lZm2KNAcZeX4naE68QdjjgQIGgcmRk2j9Zu207aNpESBe24zJXISEFXxdu09UK-DD7_57DdFNK6XNZU3WhKPz3P0yk2N7jxROMYrzh6dEj_QTNI3lPRYko2Fm1gGoMVquBtIHymvmtVnuJRXsPZaMiGhNNVfE7Op32HXwTYaCHWhzQ.jpg"
+        "https://cdn4.telesco.pe/file/kDY_ktgQxFjmm7igIeBIUAGRaQWn_2XmC0c_tkQ8iIim2YwkBZhsEKwOCtHh9wu3V4V1mgrhVcutwc3mm-F9Iv65h_7JrhyB5sPeR0xtQYaRyNdbGD4C37PFc2FW93ttA2bM-8IOKMJ2rx_7RxXaLB2Txw7979C7vju72-3tvEU4s7dt0kjtbhHAn4LdfSQsH1LOeWAGXoQE9pUXWcqC3pbVJlxd08jzMkBEe44_biWUJ6kAWxRp_FLERz_4nOfq0GYEnesn_WpgFeXRkUaH6cI7HlKgzl5WATAW69q8JQtOplapB5egh_h2sFK0AHr4ELwSGra-NoFyi9t2IIuRxw.jpg",
+        "https://cdn4.telesco.pe/file/Y1REbM7OPS5x_37HjNYJ96dVCXBavddyPvZBcfSJhjuKFE08aCMrkkXMuAaEUCMZQwaP7sxq_zJ-BXV-PMCyKwJ-kzICJu6qCFyMRyosetbRp0V5yUK0ni1daxjxzW5X7IwCbvZdl5eXLMizkMyS8VryL84n1HjPnv0jtQbju_-X5TCxaX2XzIUFiMFDsWk0c2Pc4M5IxT59D_50D99I5ktrmAN8uiBsARx1uh10qDb_cjuK_TsbmRwAQGT5Rk7fs2tUbD6iQd_9si2pE7ZnRygCAgurmzUSiRTfVOXDdrHNs7WyX_wR3wID3ta1p33HqjzgufoOde8hiBXO5L57Mw.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is on the way out."
@@ -67,14 +67,14 @@
       "id": 1335,
       "url": "https://t.me/chillhousetech/1335",
       "date_utc": "2026-09-15T14:36:30+00:00",
-      "hash": "4d295f0e979f1eb3b1e7a6cdd1feb4df62d93c42a60862c0c6f35079d7dbfaa7",
+      "hash": "ae65a85ba0aada7a4c5885c3c9e6389f69daf3a17660e864fb4518f0c089c46b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
-        "https://cdn4.telesco.pe/file/p0dIrzPQNqXop952L0C9-eAbvdPMjONwgZX6G_QaJYo_ItUqwu8UaDOx3mDLr6tfFacVQ8Nfu_KEcS0IGecKPxX9rwRr5f_de5Xa1g32wBt5W3Z5fHhodgHDYCGL0uH8dt_Mu2gPZaAEzaZlbQqZAy0t1Cz1-yfgunDRE-KjsRyFN4Ad2VOKy0dh5HCZYbaeH52B7a6sBn2agmMdCwmaetSYbl7OMVr7i1s9XEKytno5dJLG5AjYSggibXKG5taTHkicpCSNsJhYPValwQ83B8Makmmqc_Qfv2wbcg4CUAowgBmy4Tdo80ry0HLGA3_YngFFPPEbiFfeT9xLVdDblw.jpg"
+        "https://cdn4.telesco.pe/file/AWGihmZP3DTDVs3v6UGmvYKn-IDPEw7APfGe_PxU82Pcw3cDMgBUtw83EobqFArMKFi2-ytTCX58dYNNg9xW2b_9KILz7SLWEEqh6200I07ClkO0ZwSRLRDSP27xK2jv9CPYi7QSvubC5EP1gochQdtByq3HOD2736uMIIT8nFL5sKF2VWjcCvvjcTjh0j80fhWWSpx-OfVJEuxf1Y2X26joBpFAdikC-NG_NTKKObTvKhjyqMvMEPqaGLUzw5bIWL6rrxlxXCGHlmXK0JPiRtN93d5KDAsEh7-D-px2palNLbV6MW8Qf9ZtYEeYvoTrjxP53cZ9ST32ZlSf9mXzwQ.jpg"
       ],
       "title_en": "",
-      "text_en": "On AI oversight"
+      "text_en": "On controlling AI"
     },
     {
       "id": 1334,
@@ -91,14 +91,14 @@
       "id": 1333,
       "url": "https://t.me/chillhousetech/1333",
       "date_utc": "2026-09-12T15:11:41+00:00",
-      "hash": "0e7c60c045a9ae850fe1cca19fc60a2672ef42a1423ebf5018f2258b631df07a",
+      "hash": "41c565ca52aa0e76c0361d894dbc8fb239aaf71cf3b9346e209b960eba4a03d8",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/ZpxbGYYF-s7a-kzxkik7-pOFLJQsGHV-ZFloEnS4IYQn-OPZzO3P1tEKFdlJEsMkV6IsOhsuK_f6dqUoEYve6Aj98c-4xpIiUHmhyh0BmpwDfOLiY1gr7BzT2ak1kg01jMzoCMlGZkne_bhmXc9YlQazbO6-zV5tMgNHVo5RMzRiJwjvDUIKeaJ64pxfL9Fh1uGfHe8y8NPuGnwGMlB6L9PVenbZMWY3alTVc9eywt3jgh-JtRFIumkgsdaqmBUNB6N9D5oH5QOpLCPHvURoCb2cp5gwVljr3RS1fq8YtMmV-gS1YtVTvtIc4Rq5Ha0dLIqTy4_3OkiFUE_zEs414w.jpg"
+        "https://cdn4.telesco.pe/file/uWG2wnF_MjW1SXm4U1vFviwErvw8aQDCNH4Q1LyjY1Dco-kLdaO3EB4MaJDM1S5yHhQRIUwGsGGDp3guk7YS6Lex6i-isozz8SJtQWRiEj6UDHBh3xgdetbrADQtbBdDyqSm5hKbMlsCm68JNtWi4Sn2LlgGrqtw7qk2OsjpUmLMeo8kCuAQRZVfBfV1WX_wyDjqv8hVpODcXp-Srti51UGSQTxZuLnzUhiM7BgpRtA_m9vCAaVSaol0l8l6D-9_UfmDcToSkrDQVY-In4kGB0nMdMU--wdodmN5xTaKG5QEkTcUx4Da0HyGY7AkMIUD7Jeh5vCKSdavqrhGYmA1cA.jpg"
       ],
       "title_en": "",
-      "text_en": "New essay.\nDario, the head of Anthropic. The main point is in the screenshot. The rest is useful to read. Then it’s useful to think about competition and an IPO.\nAnd\nSam’s opinion\nis in the same bucket. Guess someone else should be thinking like that too, yeah?"
+      "text_en": "New essay  \nDario, the head of Anthropic. The main point is in the screenshot. The rest is worth reading. Then it’s worth thinking about competition and an IPO.  \nAnd  \nSam’s opinion  \nis in the same vein. I guess someone else is supposed to think like that too, right?"
     },
     {
       "id": 1332,
@@ -117,14 +117,14 @@
       "id": 1331,
       "url": "https://t.me/chillhousetech/1331",
       "date_utc": "2026-09-10T11:49:09+00:00",
-      "hash": "c0b9c8ebdf00abd802a499a1cc678c9e7fc37438aa9fc84f1c5c505a0766742c",
+      "hash": "3d0bc01038d583698f8cce9a538f0eeecda6b3664e1bb7787f23023235bb895f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/tORq1qtxr0IwiHoVAtgJYaDQJnifd5Sb266xTXPAQF__nA94dunrJoheVCHAZOHfZlFr7OxAlMcT11yUkaZMqUugfQRLX1ApAVdRtqU_LMpkUoKLe699tEYGL3SYQwE2g9aILX5jeCCQGS3C0_R34fHL5fLY-sep4D-WvnUCUKD33cpdBR6_5tA84fotDYo4PpEEgiNtuSTOR8DWm9-xTBb1yKDLns-AaIJI2J0fzo0svTPRXGXljeSvjBFg7uPQY_HvZ6TUIOqCkZvEHIgGcus98VXrNzG1x_tGA_6RwAMRXvxwRskMsJtQftFcBI2VpZM_wo5qRn195feibzydyw.jpg"
+        "https://cdn4.telesco.pe/file/uqomtMxnzB3eHKOl5ArA1FoHf4SVwuMAidrIVcX5PEaxHzhS0LRdvpG5Ke7QOzJT50RYYrOLn6kFD8CwVZxV_rck87_2ecYcih1FkqvOS4OPiXdJ4QX9Etu0z9DPgBacBH8F5s1sZ823U5fTtPFwuVbVtxFCIY4N3xeIrqpheEm_VtIxPxBMVlgX4Enn4PxcW5RdElm3tMaeG3LgijIr89fEsyb9dJp4pRfl24f7aHUB0FTJF7Uug_2PwfrUmHAY66NdVq3evxJa6qKwAWFPww-r9KULU-wWJttD1mDOgY5Of3fxu0DEH6RkbFO34CFmW_ycxt8IYL7b8GqQXhCCOg.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone especially freaked out, I’ll remind you of a few details of the latest events:\n1/ the HuggingFace “hack” by agents is, damn it, not “a model sitting there thinking how it could break some service.” It was a specific set of instructions from exploitgym that directly told it what to do. The agents themselves aren’t breaking anything yet (on their own initiative). What kind of nonsense is this?\n2/ AI solves a millennium-old problem all by itself! That’s it, we’re done. No. It didn’t solve it “by itself.” Some guys took a huge layer of existing research and trained on traces and then smartly brute-forced it (same as with other hypotheses). No model is independently solving anything yet. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the theme: AI will kill us all. You’re way more likely to get killed by something like a car on the road than by AI. If these risks worry you in general, I suggest you stop leaving the house already."
+      "text_en": "To everyone especially worried, let me remind you of a few details from the latest events:\n1/ the HuggingFace hack by agents is, damn it, not “some model sitting there thinking how to break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves the millennium problem all by itself! We’re all done for. No. It didn’t solve it by itself. Some guys took a huge layer of existing research and trained on traces and then brute-forced it in a smart way (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pumping the “AI will kill us all” angle. You’re more likely to get killed by something like a car on the road than by AI. If those risks worry you in general, I suggest you stop leaving the house already."
     },
     {
       "id": 1330,
@@ -154,14 +154,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "2c30add4fcaec95c225e2426843f58dd302ebbb95e2933d6bb67a875298f0bad",
+      "hash": "6b4d69bca82e50ae63dc156ad29de8f0c809844edf76c4b17278c7c734ed0aff",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/R4B7NvOIW4Gj5yd23qe7bNk2YgeGMesV9O9MYlfIwwjmSC43buMRkBffiIuWAjEetthmxz9YlCz5GjvGmBsRpJdwaIjmEkU-tRfQF7CoQSonxZQjp9MyiEUzkOWninpd_ooPZC6xt4nQDK4Jad8ZEFNJsSNPPgWhfgR9gDH5nFS8YIx_mhV5etS4v-prPzQkwmND7oP8MZdezcmHAE3T2Rgn_4N4sExmxGj_ryyQULwovZH4c_u5TPm_NkD5yMNNpL9WXJR9Vxyvt5YsO4Tl4T8wW6qppE7hJO9ekpAwbN32liWpdBCDAJA3GnF4Eeth4wRIz8XgZbRbQ1CDEborkQ.jpg"
+        "https://cdn4.telesco.pe/file/Gf6uvtzlfn1_D78QoQzb6pGOj7lOuRkimN14c5b2Jeuqhmu8DP6P410tx44o_OF-e4TjfQM1IwQG9fZAWNRXbNQTHTQf-6SGzSkLsuREAnFHIqqTRqIdsfmhwY0igCDAtIcP6usSsSB7TTxfjJK8p8blsC2OYRFIAwmZfieMSYtNMb3RlKsjduQ2ILc9Le9eSQ4QqOGw2hGPQJTuLKJa-1dG-Vm1vVcm5RkqF1E2EgB2g8EO9E-8lLa1S0KYikmI7AIvmhtYcCWtf14V2vu7tDZUetKDZYdQR1wHv1xizxG29nz4wKA1g89pdvpsu6ZaWWDftZt2WjHeB7GtkIUqvg.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our small lab. Speculative decoding support in our inference engine\n.\nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible Apple Silicon stack in performance. Because we just went and did everything as a co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it today already\nM checkpoint\n- smaller\nL checkpoint\n(lossless)\nAll the models we support are here\n, we’ll be happy if you try something else too.\nBenches are here\n. You can dig into how and what was measured and how much better it is.\nMore about the release —\nblog post"
+      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine\n.\nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon performance-wise. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it today already:\nM checkpoint\n— smaller\nL checkpoint\n(lossless)\nAll the models we support are posted\nhere\n, we’ll be happy if you try something else too.\nBenches are\nhere\n. You can dig into what and how was measured and how much better it is.\nMore about the release:\nblog post"
     },
     {
       "id": 1327,
@@ -178,11 +178,11 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "9c05d7b774ff9cdf053653aa27adb7f214724fed557a22aed998632dd24bc8a5",
+      "hash": "503efbe53cddb28ed5981bc3a663244bfc80d99bc42861684ea301963e1d8406",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/dVT5jeSEIgkn_OaEgEWH0mPbZWl8nlsICZzOnU5cSGeNG0GWZ1U5-7E-M8n9AYpmB2v9dcm4cuAYzv8qqxMtYICr1TyP0Spc_EuT7mpC6Q5t-wNPlKLMxx-IZC01X5GI1IrmxtHkn83f8ydqUnjAaML2eIaokebaIDvDCmo_SAjGWVRZorBTiS8zaRzOkP0FnqYDAeLfoj2gL_aC72JYXdn4imbPxV0LDNfV8yeXuXmBt02Nt2JIb649kTnirUTEn2z3I4Xng8vib8-GJnuhnN4f6SyVWAT-hIhicuD1glDFk5mq-UIbVEMvVlHCPlnadpGqKvlKNeCyHfvrQAsNUA.jpg"
+        "https://cdn4.telesco.pe/file/gQZNla8seEYvml7eIM4fnQvX-5rhySFAaJiPZXmqFKGijyZiOg0vdFkNpklYbESavSz24N4uNi4y80AIJE_v7JR75K1o1K_YVtiPMxyHlDO4vD4g5Xf9LfdsGhuJZ2sxnZNjAgP3K0hJ-1AanvG30WjPFnP7pibzmIOBOPX_7GOV6xu57xGgpZFVAEO8Sb6gae7TcE-fnPTnDgsrJHECKAVUjMpdvn9VAmfSSoSIgHUdRpaWTzzI2cefvi4hmyzdzeJm6PfF4mtlFEnSEUGdd1V0BiKo1oWaZ7vSV2mQqfwC4qlKcBvSLWhYH8fzF-OI-9oyEDWHbxqM2kWqZOI9LA.jpg"
       ],
       "title_en": "",
       "text_en": "Well that’s  \nnot bad"
