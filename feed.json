@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T18:22:59Z",
+  "generated_at_utc": "2026-10-07T06:00:48Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -18,14 +18,14 @@
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "bb198aa617b39a6b317d8a4c0737d9768f44df09e6d847b636b7f0dcc5c1b579",
+      "hash": "4deb349db25a49912a1123146c9efba074ca28892a0a2db7efd37cab970dbc6d",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/kIrsVLkz61CcTVkM2edA5AdX-hlMuDvhf5K9CX-kjrY0m8rR7kqho8PA5yzIqbzU49J2xgrR-hLM-MNb5LKrWfQrV_X3WZ9EWVZVCPiy5A8Kg4HxY_1okWT7JbC0Kpha0ESd5JFeCPgQN8M2xi18OT--kyNIeHDX0Fc1V5siX8jLwpk36-ZeEHnrOo6UQK_sWUV6PyQa4Rd2Y9H6pU7mH4hgt3bS34W4cZH7831KmrllxeMBTQAYjQr54z_61yJxpEc0knZXCYstbv5PGWlg03UW05D7rqnM50wLpx6bE8sW-XpiWn0kNsSjH2k6WaFd1p8c5IID_TbsoJlg5Y5PeQ.jpg"
+        "https://cdn4.telesco.pe/file/f6BEHMl563E-c1ROb52ATmDvO5BYC4iFOqBZ4iJIS7E5SP7x4naf7qaH72pm3iOY5cU4-OH8jUHsznJGHtQKcj1AlCzg4J2p8CGj9OmOLmH1NLUfyg0dQis9sSpacYV9IhfGx3xY7IrZYb0CPXjs_bpDciMzgmHCIKOO6Av1bGDM6DmS_zFhzUCBiVLI28BYCx57pXmSLZ8pvtMg4_pxTrCvrlKGcyKMDjIbQ0IQxfCFki2ARVXZWRF9nroUECaPNlMqbhU7tLpqAKmK9_bvH7GgSCnNuJQSf6qmSBfcuIScJVhNukydLYUtTIU3F5yEt_Le98aY85uiQPPju-ObdQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out Google\ncan\ndo something. Well, or it’s just a table with numbers."
+      "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers."
     },
     {
       "id": 1339,
@@ -117,14 +117,14 @@
       "id": 1331,
       "url": "https://t.me/chillhousetech/1331",
       "date_utc": "2026-09-10T11:49:09+00:00",
-      "hash": "7aace68f43bbca180ff302e407d5a705834aaf1bacedb6726e187c858aaf6bd7",
+      "hash": "252cb5c057cc89642c7f36ee193c81f3e3466f857c1e312631a07db33c53e31e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/J-RDSmp8B6rWcp9K_WvkJVHEHeLexTLrgMgZnUCSUjI_wC5Uf0mpNXeeAw-uCltcDEn3DBulilDgrzaJ8PuANyZKblEo8NpxRf2N3ZPqA-D2ZFxJSRqe5PPpJWoXuiGYZau8xDG3w3W8blwd1UTbT2-ySOxtP82w5KPl7wVBoDZoEa_7cmvg_9Add8uwNP2Iqe8_oq8aYlXXxamdLa9trC2y-YZOf-Bt68k5YpnD82_VtuXXlwrwLA6kvCH37BH4ZN9s1T4-bDRnY_izYBmfvmNEFcyUucJItM_qRPzHua5Ln3fQ_fdTY3DmenNkYMYvYzYJV_DFtax9drrjlrwdKg.jpg"
+        "https://cdn4.telesco.pe/file/ROa3_QZ_yZUnNm8j3yJkPB3ZHUqec-xA5chjJgLIumNaoo9P6wqXwIo1w1Oel1RVIYa3SPjoADMtCsWbjh23umNWRYrgCanLF2kq6-X7wvttFpGrfV-HBfsKhZ9hEmtK_HP74qSMHnonh79t6AAW7MZDfXVdMWbURgWWliw50yxrF7Ua1SWlUwbD7pW9OXFI4v8yeQzZwJBItRnw0ubVmNJz-sPfUtMEiSjouCjHeCYThtaQwIXA6sTrXYV_jbThBrqWP_GgxwVaVXiUjBaw3EyYCS1XiV9fgn3ymSacv70jYN8-YvEDYi3AdxvJi6_AwrWdX68pzVaYgBOZG_trCg.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone especially worried, I’ll remind you of a few details of the latest events:\n1/ the HuggingFace hack by agents is, damn it, not “a model sitting there thinking how to break some service.” It’s a specific set of instructions from exploitgym that directly told it what to do. Agents aren’t breaking anything yet (on their own initiative). What kind of nonsense is this?\n2/ AI solves a millennium problem all by itself! We’re all doomed. No. It didn’t solve it by itself. Some guys took a huge slab of existing research and trained on traces and then smartly brute-forced it (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I suggest you just stop leaving the house already."
+      "text_en": "To everyone especially freaking out, a quick reminder of a few details from the latest events:\n1/ the HuggingFace “hack” by agents is, damn it, not “a model sitting there thinking how to break some service.” It was a specific set of instructions from exploitgym that directly told it what to do. Agents aren’t breaking anything yet (on their own initiative). What kind of nonsense is this?\n2/ “AI solves the millennia-old problem by itself! That’s it, we’re all done for.” No. It didn’t solve it by itself. Some guys took a huge slab of existing research and trained on traces and then did a smart bruteforce (same as with other hypotheses). No model is independently solving anything yet. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pumping the line: AI will kill us all. You’re way more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I suggest you just stop leaving the house already."
     },
     {
       "id": 1330,
@@ -213,11 +213,11 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "b2aa96b63ba56b877c42e8c803924c678233b5fd0a27aee47b7ae26f97f16652",
+      "hash": "dd18ff5f913206fde57b956b6828fbc9b2a5ace6725fe9cbf0a8537c51989b09",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/AAqD23-kndRQ07X_pguaTjpNZpSBwBBFEwodTGpqx3rxws7AkAWtJ1-VYGitWIgvgBnDyWFAVeW4T5rW8LdC20-01ZqGJVdFQfiIfEh_DweUgzFXmfezFmCIaGcWj1_koFd_3oJF37n44sRW8sIQa7VqkP4muCABAd6xGd1GFQNY7TfPg2ot2Uep3wmVuYRjG041kp73yko-uZMYIcH9ITkgWl8ohFy1luC4iRNULsm3RDkAXxuiFGX4uSKacUzG0m0XRdvpQxsuOqWDN22WjOPtunbhFdLnWua1iC-uVPh4cHujrPWLmjpTgXwJFPoiSgmVMXFWEbqE5cPWLHSTzw.jpg"
+        "https://cdn4.telesco.pe/file/sMY59Y3v5YzevxbZ_AIUM2Dr0oJ-Y_r4kTss4_dFTVL0tDKAsySYGtcfKwHZ7NIKOKvYwdrdJmgJ6ncZkxJg4EuUUaFlC4Nc1fpXY1teoIKWtj7eHcxtpSboCNLP2wnUJidyqXvB9gpb_g3rd_oR_urpUvMR0E_PJIlg9gqGsglN82HLodXIrzOHGBOnnFViiY79ssxrAPPRRp2S_3zoK_YanZCrfcn5ZwC2ZnqKRusZaDPaEsEQNCDQTV4-a9BEHeCoW3C6Q03MmouDxg4rOUOj_VpzyIM7I5f7ylNrZhTJ8_KgBslC8JLV0OkAZujaiwYTVFjbpCoOiOgBO0IX_Q.jpg"
       ],
       "title_en": "",
       "text_en": "A new trend in venture capital"
