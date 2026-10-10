@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-09T22:39:34Z",
+  "generated_at_utc": "2026-10-10T05:53:52Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -143,14 +143,14 @@
       "id": 1331,
       "url": "https://t.me/chillhousetech/1331",
       "date_utc": "2026-09-10T11:49:09+00:00",
-      "hash": "3c811b23932bbaa8c336ee3ffec048155f143dac5481ff5449b905f8dc290ae8",
+      "hash": "e972bd4f3bcd0f2f0d9f0741d35e2af26cb88bb8d89e17e9d1e15ec4df865db6",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/T6G29eBBUrGgTCZ4BmtQkKayJZLg2CR5jlIAMH2QunZcIRIxRUe5tbJdj1_N0G1KMnTCuduS_bRkzsncuxyUBPmBOAd_8NwCA10nVA3L4KJYplqd7YcyE4W0yJ2rmrA3X7MskrjCTn-Vl34dG1JfC4ZvoXdGIkrYY9Ms1cFMsohLzEp2WNe6xzkYzK8u-koT61EUJGY-9_Aw4S5dTqhKtEEMEO7BEsFo5vttxoaENqwG6050hxVnzf_v0Es41jnAYj1X2h_lQ5MwH8ICGPJFeJZwoIdvigWqLMtg60D3iwsyauPYKmC8HusbZQAzL2m9UIufWs2DLNNLPzbo_iFFew.jpg"
+        "https://cdn4.telesco.pe/file/WCU7XUOYjOIIMfqkwaBfpVdN8JchFqgnPcispSTn4woKFH-ZlJgGbf6pN5eDerNVeiITjSUGbRzYosfPVFvO1GJtrtE1FY6QHDiUWXkt5nBJBHPM-cbwr6aJ6BgF91TMv1hX4U9q78htRetcglD4O7ffh0wnP6xeYUBNf-hJF119VOKlOuAWwkvdzAbytsXbWh4eQuAbaoR60icL6wzlJ7giM0Gpl4zFeWXQFyN0IZXQ9xelSG2A3q9Ryv7Tghe-RbSUq7x54kB9qOMLRm4UtFUBwEedkJvzTp6rPpu-X_26bPz-TCRPuB8r61LBhGnlYHrbrYIpA3in6j3sgfcyLA.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone who’s especially freaking out, let me remind you of a few details from the latest events:\n1/ the HuggingFace “hack” by agents is, damn it, not “a model sitting there thinking how it could break some service.” It was a specific set of instructions from exploitgym that directly told it what to do. Agents aren’t breaking anything yet (on their own initiative). What kind of nonsense is this?\n2/ AI solved the millennium problem all by itself! We’re all done for. No. It didn’t solve it by itself. Some guys took a huge chunk of existing research and trained on traces, and then brute-forced it smartly (same as with other hypotheses). No model is independently solving anything yet. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the theme: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks worry you in general, I suggest you stop leaving the house starting now."
+      "text_en": "To everyone who’s especially worried, a reminder of a few details from the latest events:\n1/ the “HuggingFace got hacked by agents” thing is, damn, not “a model sitting there thinking how to break some service.” It was a specific set of instructions from exploitgym that directly told it what to do. The agents aren’t breaking anything yet (on their own initiative). What kind of nonsense is this?\n2/ “AI solves a millennium-old problem on its own! That’s it, we’re all done for.” No. It didn’t solve it “on its own.” Some guys took a huge layer of existing research and trained on traces and then smartly brute-forced it (same as with other hypotheses). No model is solving anything independently so far. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pumping the line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you at all, I suggest you just don’t leave the house starting now."
     },
     {
       "id": 1330,
@@ -239,11 +239,11 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "54997e3beb39de30d355be20f382efd2086c8234383449392a439443e4af3471",
+      "hash": "621cecbff3b4f7f41fcba2a16e5af08c2aa7c7ed47b51ecf68e063427c9b6d90",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/frSoxv3Xy3p3i6DJDG9eSA7XKvL4EvP9HAakSVWEWaoa5tVui2EntGJbVY_iAfTodN9279fxedE3N96Eyy7VjhvpDd0ej2VrMamBqhKcfVK4seXmSyDrRQxrS_dxvCEQ-VnkivC_CwxvnqNLC7aB--5cZEK8WdhEaBcdLaAzt7bAcZgM5VzlQRsAkzN3vbA18uxRYdIS0rVZH2NxUQLxBhkOovtNNuoWG6LUfoiG1lXZS8mGVlUyeqq_koFpZe8qJjewMVpMLe7YgZuEhsiQwNfzGVBwLxM-ExcvWlZ8IM9PRca-ywMmoMUbe8bX477GACqHQDfp3kJCX7nYVmremw.jpg"
+        "https://cdn4.telesco.pe/file/WsBIMZtHPROJqqOpq_RS8LNWNA0ee2MuZ3Vj0oCK9qZI74YPsqiYJtPmJDA2YSVi9N8Blmipk_Vwpu9uTz0lzW-6gmq3nCNo0ODY5ial6T6h-xGhmI0SiR-P9j4qrVfiDHZIavKZwYFjx9UjAAJpMpUr82ho3a4FDZqH29H37j2TvVCtzBYYc5aFZZ-z2iyFjwBzEgVbH1BjHN6qyzjnziKYA5IQ2jYe3__DHvnA7h-sBQMpqsYFYntZx5zM6TFrRlnjqUzojkSIkRM8DPpvvI3xEO3zzk2j-E1BXqnceDrJT39Jbme_IJxPk-hMbTp4bBCPP5zYpE8EZi32QUj2vw.jpg"
       ],
       "title_en": "",
       "text_en": "A new trend in venture capital"
