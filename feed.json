@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-16T16:40:19Z",
+  "generated_at_utc": "2026-10-16T21:08:57Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -7,11 +7,11 @@
       "id": 1343,
       "url": "https://t.me/chillhousetech/1343",
       "date_utc": "2026-10-08T22:26:18+00:00",
-      "hash": "d434c28cf0b9677d7da2a61150d58538dee59cdf5f03effeb48f34ea54162225",
+      "hash": "a7761441f6780e77e1581f032d05d28869edcbe1e9c0f8d7190de5531ff7a46c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Достаточно интересная картинка выходит",
       "images": [
-        "https://cdn4.telesco.pe/file/aQZUk7AAuBOsX2ZCA6P0qnERw8mZ7efZn_ePJHcGnmIGWzSeJqoq75jdiTwnCCEzYQRQoHzrsLnh7PhlkBFfRQbSqwlUnMIaq65v3Tk4j5odATdxtYlseCfG6FFwYHZ5Ub2Ewc0hflsmKyRiIs8VQVJbBiUYAoAmp0xUJmYobCmFEVemMrJ4v8Sv3j-ubeLiyt_bA9di5Dk-4yR0DAOl4xg-DH_WEKflMardMBGL4IuMiTJIK9ueGfYR1jG5FLX64-ou4qO7x8VeHqysjRGTY6c_DhYtoBTVgzeMUJqt2x0QAhN1eQS0-bI4rVcdgkuGvU9JaS-2KF3ip9vhpO9M2g.jpg"
+        "https://cdn4.telesco.pe/file/kvvaDH87ydmbDEM-4n0uka5zGdHvsY4LOZ82QcH-0UI9dujRF0xa9mz_RYxj_UTFxPAogZP-RrqVljg5IqRtuNbNJxSq5hizJL6cAwI-AvoKOMuRTiXDvBfwzwjIcbz0wj2VMxjvbEwxsvIc6KyxpdZIvNoBIAFSIsxgn1ERMOk7qrkCK-jpD8kQ5AtgcotTKRfSdSHxE0GBjHmj-fpNqbO2a4jbBXZyDXweSgK0LJDi3gQalzoJFWhcmpXoSOc56LY7_3_gw5WAUIE_xQ6h35rrTY3FYpHlaYbtp3fGCr5v3bh-gPP2E5mNZP6lWduqD9wdhLlOSsplceAUk-XVaA.jpg"
       ],
       "title_en": "",
       "text_en": "A pretty interesting picture is shaping up"
@@ -44,14 +44,14 @@
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "55c881efa4a0f703b2b4daf3cd57ba3980692a2bf1ef97f1582b0425a1f92308",
+      "hash": "28f1ed581dba64bdd574a6e3836e913ebe1305afe9e3f8e389dc7d324fee7283",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/id7kyJ-0hQFZUJwz2NYghnYUfwLHa1A0DGBvlFS81tjd_un967XQt60pmC2TAiVjZVnf3y-SF0tLsN-_MdVdoi3HUbT_DmPjODANBIY7YiA0iFEdoUsvBj8ri8QJOiO98YkARdtby3G3WRRXncZo775VXHb8uOfSN2SHPuvr5L0FP60Af_ZFkDLHUE5Xf7G00Ui93gppGokk5pjyF3_SNe0oS_L-jLHQF7HRE_lToc3vL9iBIXJ3LS3mQG0sdyfdg4JIr51YbIsn5pxibt_ifSoOoaRfBPopnbE7ie-z78uswtb6vNbkTZzRgOCdmTy2mYlFKH2qNU7dx-KkdVzfLg.jpg"
+        "https://cdn4.telesco.pe/file/tfp54Hpy8Pc9dbAKVN0tKf4-itHSsBoyWNnGSnRzAzhno4DZxT8PhyvczqTFsnpvhSmKKyzLzMn_3v6Gr82SUDXQNn8KgRS95fRi9zk6FXWGpJs31fdryJ0IWsbtoANY8qqxU0tXH-Nre8qcruzknldt5SyzboIeZMATmPTmql6pNY-BjbOquQvRu7E-iEabR_fn7n1Yrzycc_s9EokW2YNrNwW_ams7STrJkbMFq-5J552ezy9QEferQtGFcRkgsLJGHR2wzteyotqNRxOPgZ05Zsqtk3h7zdm4W-69im5RnYEWnwp9ibFxa7xkScAFJ7A_HJxV9mVtkiyFPKIvBw.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out Google\ncan\ndo something. Well, or it’s just a table with little numbers."
+      "text_en": "Turns out Google\ncan do\nsomething. Or it’s just a table with little numbers."
     },
     {
       "id": 1339,
@@ -239,11 +239,11 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "ce762006beff62723f8017c1da0993c7dfc161b811bfcd54bf20a7b67ade31c7",
+      "hash": "da72b41f6b732bc267ef94c8d0e46e4c3f20488a96591d4537022b39308e7876",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/H7JK1KR0vfoBDLD6xtT2YAU4izp1v-2hk0OIMlF58w0NcIQ3PekqWjJAFK6CjIqe1kZ1brZOTO2cKm2SQsJBeFt00gfwdkGfim1vkeHkINo5fMWAb8A9cHsxsuqHcLpPj5AisLCQyBlLM5VsWnhMnzcdax17um_8SyUI4fIrf2eFjvCLZ-4xq2ehEudt5ZtO0tqT_cZmbBu7YVBobaZ2ws5rdsTYxSlH2hBZ6mlCkfEf204Lr_CXtC7zPJMo0TqBR1FdYDpBeSH4lHqPzbBSdyPl2i0-WvereOt1zGUfoP9fWpaLMiTHkugWOwgQ7TXGBwtIYFmXsqXNyZxlQyWnpA.jpg"
+        "https://cdn4.telesco.pe/file/iq0APiVAS-ztKmkjfRL8qkFmZ4ZsJB3msrGg4dDV3HC15JQfOIOyQqEoRB3wYfKnXTOdicRMqU2eIAQ-uaLvPuGXK9e3rNPOyURG6qJEIjhq1SnAV8-yOQQOWsKYFXLz_4JtoMNf_R1wxR-nDMw4mD9O6C_SWSU4XZuGXdDKyj8JieG8PbBNeQNRrfHjWxzgn-fsEN1P2bN7C61ar9cvaEoAYBvz2WuYh0gjbxaYUhk-vRjaJVnIoPD50pcAUfpqr8Ui7cXA11BXSk4i210UbF8NmWejxbBXnD49L7h2cEqGPLnz31bmE0gpjcLBhA5uoY2WRnGlZW9eHcLS8hRlxA.jpg"
       ],
       "title_en": "",
       "text_en": "A new trend in venture capital"
