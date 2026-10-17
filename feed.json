@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-10-17T10:44:54Z",
+  "generated_at_utc": "2026-10-17T15:35:31Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1344,
+      "url": "https://t.me/chillhousetech/1344",
+      "date_utc": "2026-10-17T14:57:56+00:00",
+      "hash": "8836f7aea035ee747320aaae3db1698e4936603a79f9ae17c1f1a85bab4c56a1",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Кстати можно поиграться в браузере теперь \nhttps://uzu.run/\nПока в экспериментальном варианте, но скоро в норм виде до основой ветки доедет. В целом вполне сносно показывает себя. Кстати нужно ли завозить jev-like модели? Мне кажется особенно в браузере может быть прикольно.",
+      "images": [],
+      "title_en": "",
+      "text_en": "By the way, you can mess around in the browser now  \nhttps://uzu.run/  \nStill in an experimental form, but soon it’ll make it to the main branch in a proper state. Overall it’s behaving pretty decently. Also, should we bring in jev-like models? Feels like especially in the browser it could be kinda fun."
+    },
     {
       "id": 1343,
       "url": "https://t.me/chillhousetech/1343",
@@ -130,14 +141,14 @@
       "id": 1332,
       "url": "https://t.me/chillhousetech/1332",
       "date_utc": "2026-09-10T20:24:53+00:00",
-      "hash": "39a4994053569c8876793be80f5a8624d1b6501db76cb9d95f31f3421c259702",
+      "hash": "54d93b1d61b8588c6050aa9612cf799f6e004fa3d63bc120ed810966603590d4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/kSxFTEo7PnPKcIXib7CJMUhVbKvJaQe3kJV6GJRiQZ3qYoDs6csMdtwEzXT5Gb_xXw35bpLfs729IWEFarPftrrSHY0UYixP6nilg-mrcA6MEueH8hHEPvKmfGypeV0g339RtijYuplDdieY2ANJDZU-dmcvLISexfPun8Krd9XlIkwhpuv-Zcu49B4VU46AgDOywMD6mZBT9GpeawKgUxp8HYoRePKOzCQ5H48a9xIuduVELvse6xO_8EGse7mY0vDny4cq9XY_Mkr4RJvIy8SqPw4ZcNl_vn6a4lviaZqGxaRCREuG8dHlBwvQIqQia-Nli0rGnZjazN8Sm6nXXg.jpg"
+        "https://cdn4.telesco.pe/file/f5AM0ckTDBsGQkP9P_Nv9lXCEI5lviLy21Ofvt6jTK45mqNLwkrSV1G88mhB1ZqPSHuEFrYJ4L8zDBQTR84dlTzemRMOkhvFkF0kb9AId4_TAxCOdBS3QpsD_N8wZfOV4zNy0ImtmFqERDfp32xnyWwvz77yShOUlXpnc1UiuC-pEEI_7lzIFCmApv3YXR_5wNMBOLTGlRHFjBoYXlJxRg2MeM0c9f5B8VnJHsmchbfz8r5GxnGC-N3jI_WjKBMwdZNOzIR79QtMjsJBRMEAv1qio9ZBOzWmIqUAtEv0fuHNye8TFn14Lsv52fAp4tf1EcVjart1kmZonLAsHIXWrw.jpg"
       ],
       "title_en": "",
-      "text_en": "Wanted to toss out some more memes. OpenAI\nhalted\nnew sign-ups for the $200 plan. A few moments before"
+      "text_en": "Wanted to toss in some more memes. OpenAI \nhalted\n new sign-ups for the $200 plan. A few moments before"
     },
     {
       "id": 1331,
@@ -156,11 +167,11 @@
       "id": 1330,
       "url": "https://t.me/chillhousetech/1330",
       "date_utc": "2026-09-09T19:51:43+00:00",
-      "hash": "16baa55dabf9adfbe49784e15cdf3faf487fa3e91929bfa4ee99119b9a1d65be",
+      "hash": "6f86ed803fefac1ae57c98081fc9afe1384826103f373976d7b92a90ccaea01f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
-        "https://cdn4.telesco.pe/file/nJdJ5h7JzxchMKHhssimIl27PdpqeC7Kd8djSK3jLgiBsbo3BJvZsWSbXlcVesfeWX_n0hgzNZnsMTGUCrLuvPxkBrjkjMUCiQrUyDqhuLalaSvd62c_VMtajN9QYF9EIAy1lJupjZ11KLUNI-wDQwfUzbN1Ouhgdz7oSTyQQ0jSMZnS3Sxw3AMnSYzWSGDhpYY2JnyQ9tO87HjvLi2zHsoV4KmA7FJGeRf4uRSotvQPKXgholI8WQNc0LmJ25IyYlInGkkJIbf_vQ5VtxnT77vcGUr8cZtfzJjVu-UMcRjwGAGqhpqyRq5P28etvb5ttISd13OZ1WG9vWvOwowR0w.jpg"
+        "https://cdn4.telesco.pe/file/RIbgPE_Mj94nfBVsSWLbABV7vajr56CMQvTtzNoF_ZrUJeDXxYM0_sN6M4qpFlBXMK6Xouk77S-ghZUs2sp3tWSNOwPJlisrOPcKX8U9Ve8rpBnod-LJ7GyVoh09YO_m0bFXKR6EFYpKmSbVX1r55T0qPHQlEvxN7vMdXXgoNDRkHRyLYOcYD5bkIUQ8pykdrOMEmWW4gdhtWKIKcZEu9qKakNeTC-wqtERJANQ_H1QzdjSdcQGZo3ChAy3j_D58YDbC9Nhg2xGgSTeKUrONoewzPA3DZGobqVGfiTLWeM-cRAa5DhwtONfCrBEw3prCd_I6i3KZY_ugpXmJ2inCjQ.jpg"
       ],
       "title_en": "",
       "text_en": "The future is here"
@@ -239,11 +250,11 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "dd5d8969ecb7ea90ff52219aa082876d779dd81ba3a901edd6a09c62bebabdab",
+      "hash": "f57824e625a777c6f7fd8ac017ff57fc785f16e6849b96bc4ce399f2a4326953",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/H_ImcfMiLVX7P03vDwOIJn9Cz47cH5_05TBipFTrmSnR8VEgqApV3qyTG1A8LPeT4rirYhFHEfjLz8Q01CgdYSB_nz8IP3vEUZtjzkDwVkxl3j2PurpKIuTHgMRY-q8vNo0mZhVbszG6wW_rZYo-xQrOZY-y-xdqKiaUPCz2auQG9-tTcxLtzERuaJ_xtymhz_r9H1JvdUXsCcItrDXWiQmiiNPzDmFZ-dD9dYZrHUCLg42G7aYM4aU9qFyLFqw34B3xLKh_0wqACAVnVgb-JWHuJfk5YRKqon6GFIUH0NB_WWTsFj6pn5BekMsA4U8taCgDYlf9dKm9qFFBVWSXzQ.jpg"
+        "https://cdn4.telesco.pe/file/f0sf_o77MqmMmLVFAOhWrIaPbBngwjuEioc_GTXstqFH1CVtf0i3J49_0c1lLbAKOzveiAV5CSg3lsNfcJ_ljji0xew3l8PyR21bnYV3-ER4JTyocu8YG5hb9h4L3uVMX48aOO9kVYEjnNgkp56DYVyXY1NXU0V7mKTQjtPBv3_lfvrbUXTD8svA9BWJZ2-x0O8z9N3MH445crh5kssfjEy5KPSAaqhvxOiyKp_CcDSFgEpkra1ZbzO2MtxmNgP2CEQtAitXaeb1_8z7T9CVM3q96WAa0QeUCbuAhjeh0Re0WhTp4g3j9bDf8f9Z9VIm4S6i91p98ymmKxr59E8FEg.jpg"
       ],
       "title_en": "",
       "text_en": "A new trend in venture capital"
@@ -291,17 +302,6 @@
       "images": [],
       "title_en": "",
       "text_en": "Haven’t done this in a while. Used to be on the channel once, back in the beginning of time. Anyway, AMA or ask me anything (ask whatever). Drop it in the comments. I’ll try to answer when I can.  \nSunday stuff."
-    },
-    {
-      "id": 1318,
-      "url": "https://t.me/chillhousetech/1318",
-      "date_utc": "2026-07-27T11:10:02+00:00",
-      "hash": "a7e72953a533d36e52d18449297c7f8543fce4371ff77581fd000ab936ed0f9a",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "По теме нетворка. В целом все просто. Если с вами не хотят говорить значит вы делаете что-то, что другому человеку не интересно. Объяснять, убеждать, обижаться просто бесполезно. \nВ долине это легко и быстро заметить. Да и в целом это нормально. Второй способ находить людей - иметь трек рекорд, про который людям интересно узнать (оттуда корпоративная работа в хорошей компании является прекрасным стартом). \nВсе блин. Других способов нет. Теплые интро не работают, если вы делаете «что никому не интересно» или нет трек рекорда. Признаться конечно себе сложно в этом.",
-      "images": [],
-      "title_en": "",
-      "text_en": "On networking. Overall it’s all simple. If they don’t want to talk to you, it means you’re doing something that isn’t interesting to the other person. Explaining, persuading, getting offended is just useless.  \nIn the Valley it’s easy and quick to notice. And in general that’s normal. The second way to find people is to have a track record people are interested to hear about (that’s why corporate work at a good company is a great старт).  \nThat’s it, fuck. There are no other ways. Warm intros don’t work if you’re doing “something nobody cares about” or you don’t have a track record. Admitting that to yourself is, of course, hard."
     }
   ]
 }
