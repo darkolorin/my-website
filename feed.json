@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T11:49:54Z",
+  "generated_at_utc": "2026-10-21T17:13:34Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -31,14 +31,14 @@
       "id": 1342,
       "url": "https://t.me/chillhousetech/1342",
       "date_utc": "2026-10-08T18:23:37+00:00",
-      "hash": "b28dbc6cba4836319b3fc66d1f7e60a92b88bf06e1e2ff054e4440f2f90bf4e1",
+      "hash": "7122e91c0993d9ad7e617824e233cab8dc46f4be5005c78bf0b6acb7067f680a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Отличный пиар к IPO, все-таки там сидят очень умные \nлюди\n модели",
       "images": [
-        "https://cdn4.telesco.pe/file/iDU5k_p2xzhtI5uCFSKdAja2mKLPmy3a3bIfUiOhxBHclYm3anZhB1DUWGLNsQP2O4EUJzyUehJPjmrPLjbvZE3BzP27IC_4EjeC6dgvHjRR6HvLU-kCxYPcq8a23w50HdpQ3ZFH8sHBJSno8jLDn5mS9IX6gd40PhpcUpS__acTOqEVCmVdiPHYb1Rgs3xuTIjmulPK8IAxPW_PTy8nhg3XjAjXGBzIl0NAI5BlfJ9uHgahA2MXcQlFE-9eSMWMNWAsbR1LYBEwnePLCUKWX0kJTUmooqK2voJv6FhLCmbKEpPn5-MfxRHTc2HYhGsBj_s-4wuPPwt4i6ad_VF3fA.jpg"
+        "https://cdn4.telesco.pe/file/dLMKvj8rx6sRXtmYH5ksJAq6UXhsM5A_qdRIgsXjIJBGF1SmlZV0LmzEB9Ovf-yIiLlFOG3U8C29tojfoBAfYdV0PVg3zhlNMWhT5SQP964eZ45-AvZT5d2x-SBrZ1EFKwXnYFk9ZXC2II5IfGVamfgpFaTIT9jkhJT0sp5MZ1iJOhvK-A6QcWF4z9xoHXf1QesL3AUscETw_X9vzeMZrDJNMC0byk3oNr2c6yxsZGt4_5CMLtPrU5o0agwWDCHnwC-rZ3bRi8a4g19DUPdIKw6Gz9oM-mRzcQb9T_M8zDm8jk1dpyNOLsYG_EWsFv7GT63T73dr4Qbvey-SKsXtuQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Great PR for the IPO, after all there are very smart \npeople sitting there\nmodels"
+      "text_en": "Great PR for the IPO, after all there are very smart \npeople sitting there\n models"
     },
     {
       "id": 1341,
@@ -55,14 +55,14 @@
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "681a3aa2a70b7838823fcf8b563c39b1eedfad14c11a445e5474beefe691875e",
+      "hash": "83872f20745e4afae0a8520250759d1677be6c3c39e4df2aed205f78e7216e78",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/MV4O1Gaqew9Q1-8NQmac2nVUpcRuKe1jw4_LwDwVJkolUiUTpT-Y_8j-eWMMFapDL-hwu514SJ0b3LnTf7uTt8tdbehBXUDchWG-nWEiDY_R7xsy17JK_n8rYOsp81Tzu_ZggJ6eBg6Q1B9UJ9acC2Y2dIMJ1NoxWn7c3neB4O34f4xz1pqYc-AbCT52L5cR-gp3-lDoy-1qImaYHRixlvQb8e1LZlkn6lv0OtQrW6Z-kE0omHBKF5Xe9m_kIKs-44MCgExCBJKgCaK5ujjrL-p08Von0jjWo8pA34UD53uTSUlWuWAW7of1d5LDHgMV-Pa72Og3hwZWGhtJ2ZX2GQ.jpg"
+        "https://cdn4.telesco.pe/file/QQ2WNkLBZd6iBPhiuQq9qzu8t70t-D746_mek3eamoY9ew0q_qULJKjBuJpFBi2phJbFZQqOklQ6lJzSkJwOKFU4R0yLFV8Y2kCK3juyF-ErU0XOkwcLiUEIxNw7y-Abfr71Z9yAmhph8R1DtaBd95-_--CafNhkiIP8lgmWtpyhILBCgWv7qUdliAWYn0W6WmrxPmdC4cne76aaAgAs0TgsJHyYwrQ5XyZYq9HjAOPXI61x6tIKj8I4465W2U-BlFHkTLAcDxr5spy-xxxXTDjY5AKpL2_mqmGC9oFbm3K2VrfqONFprE89qs56QuM9vY99wxQ1MI3uyjzElFSSPA.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out Google\ncan do\nsomething. Well, or it’s just a table with little numbers."
+      "text_en": "Turns out Google\ncan do\nsomething. Or it’s just a table with little numbers."
     },
     {
       "id": 1339,
@@ -250,14 +250,14 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "59f8bc27af070cc692f44d0a51c2247ca9e312751fccf0d3ee3ac22b34d9eabe",
+      "hash": "fe390a8e2468850731753cbcc83b24d8ef15e9621402795400c2d4239b02ce68",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/BjWNOhsjvCp0LScpUMBFR805MHY8IGp_BZOQdwug2Zs6uqpRkOIJJK3mkJSmexKZSmfu0IoZlVQn36lDiOji-RLJDHD5ibyOLN8NsSSpadZA1FLsz2qC6J8ck-uJfCwvYRcikIqiXOaqeKjdVY3XUGkk7fprA3OQMokY2ppSibX1X4zSfeFbSbPYrqGmg9xRO5BtdvMSWJ4kbSsCFHtqtG-aO21o2Uem2ERLlEALgMAu0CeA7V-18TeCoZCw_d6EEr6-D9RXGkRlOwagg31P94Ad2oav1ifeizqKCtP9ZysxWxGtscyL4ND9wds8_D5QgawsDP73jIRDVAolVJRmpQ.jpg"
+        "https://cdn4.telesco.pe/file/dLq2pJgFBBzippFkVsxTzeR2GipxMogct4mILJIV1RJSQFNE_5DgMwQ4gW8IczDbKcOqTCcvDnPvdabaVZzbiOHxbKalyEUz3u0JZaZbv1Z6Zsc1saNebksCKCFHgaP1W4XoBXP-ydSmYGnK1UcRAUAY4cNHJ5QB1uuNKWz6JwHDfNg1iNYE8IAtqRHuqwZwgcPXjZA1jR15kEg7mADc1FNFKu1z2yXOJJAhn05369nHMNQqvEfJiVtzxKZXcP6uxfBfNRnKt3BSRVGl_fo-kQPMnqDGiav-3jMNcLD4KyFN5zf4uUQGp7tqEJsvNCrfyOxyryT7yd_jHgx1RlCj6A.jpg"
       ],
       "title_en": "",
-      "text_en": "New Trend in Venture Capital"
+      "text_en": "A new trend in venture capital"
     },
     {
       "id": 1322,
