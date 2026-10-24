@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-23T21:26:13Z",
+  "generated_at_utc": "2026-10-24T04:37:32Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -154,14 +154,14 @@
       "id": 1331,
       "url": "https://t.me/chillhousetech/1331",
       "date_utc": "2026-09-10T11:49:09+00:00",
-      "hash": "4fd8f9f2b00b541a68bbee928baec2e63f0d547237780bbfe05dbc442c45a8fb",
+      "hash": "90a3a1ca8a0265ad7da7d105ac032ac6938efd4830f4b9086642751206abcdb1",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/HRa2bqHD5ca31Yvw-Y8nbO7xdpnVPzzkc-rkpRgYfHlFI28iLw50nTaUrRET06L4WxxvQSvVcrG_AlUBPv27OxOIPg4g5fVPw0jVw4VV5eb-AKVxAYqSZ4TqYmZMekXnMNARxHqebx5tGmmYJ9OePbzPaQWh3m5sQrWS7ocqjP_P2Vnxp6GlSuP7B8iyXl3Q1BtJtLjRlhazhnjzPUZgMkf0btF4EcYMrs_Fe-rsNPZhEb-dkF3jrVbxigp9ZISkyRfkalNStDOQdHbyNMVGiJ4dbFpijgpct60z99P6ArCZKkIytANWVgKrI4L4kgsFz8U2tm2INLjIqh_c7tK-uw.jpg"
+        "https://cdn4.telesco.pe/file/WS0HJetR9Zt8yGsR9NeK53i84OjijCGxMjRFa6EQmmLAppZXc8_5NAloI21oO24X4Fq9xNvE0cOohC7uxiLGJeyA9jPYWmU8SSaMT9UT2QG-K6gdhBGupopd-j84lLkLStbqucZfkRCWymOFy1sZ9UJ3Vmx1mck6c6Cnm8yndUn2w35cwMeKnGuCTFcb69pXJd9y2Swfwfb9q92m20w0Rp2mIAjD5GzjV8TR8RSuDUJZzgFPtO75EF-BdHhsyzGgyv2HoCEPKZdrQjZ8oNl7SGTHb80qETOFrV97gDItz1qqevQnmcSb4dArMDEcakORnzzhwn9L4_iCbePkkFJDdQ.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone especially freaking out, I’ll remind you of a few details from the latest events:\n1/ the HuggingFace “hack” by agents is, damn it, not “a model sitting there thinking how it could break some service.” It’s a specific set of instructions from exploitgym that directly told it what to do. Agents aren’t breaking anything on their own (on their own initiative) yet. What is this nonsense?\n2/ AI solves the millennium problem by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a huge chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything independently yet. Try it yourself.\n3/ but the most\nfunny\nthing is this post by some random 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the theme: AI will kill us all. You’re way more likely to get killed by something like a car on the road than by AI. If these risks bother someone in general, I suggest not leaving the house starting right now."
+      "text_en": "To everyone especially freaked out, a few reminders about some details of the latest events:\n1/ the HuggingFace hack “by agents” is, like, not “a model sitting there thinking how to break some service.” It’s a specific set of instructions from exploitgym that directly told it what to do. The agents themselves aren’t breaking anything yet (on their own initiative). What is this bullshit?\n2/ AI solves the millennium problem by itself! That’s it, we’re done. No. It didn’t solve it by itself. Some guys took a huge slab of existing research and trained on traces and then brute-forced it smartly (same as with other hypotheses). No model is solving anything independently yet. Try it yourself.\n3/ but the funniest part is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing the line: AI is gonna kill us all. You’re more likely to be killed by something like a car on the road than AI. If these risks worry you in general, I suggest you just stop leaving the house right now."
     },
     {
       "id": 1330,
@@ -191,14 +191,14 @@
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "da9ba9528b52038165381e369ff1b4f4f0439ecd678db57a9480eabd7a6a97ca",
+      "hash": "d448756e6e97cebd9249122afb3084782973214b328f816616ee17b9422c8f16",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
       "images": [
-        "https://cdn4.telesco.pe/file/mIZm9VVLYw1dvKOdedIaSxIi_2doC4Y-qMNs5KjazSnoGl9TJ2CzBwovC_3no6ztVx6BoIQbOg_03a7d8QTO7lCqUBxyt4W7KEqHoflNVZYcLPP5kN9sMoUy07tvW62069G368TOTeaWuNf2CpoqHzL8lU9qcjsoKXgHn1l14GyVDwzAl3IQK-QuEsKau2-DNNf_LeBQ0T5r6zbABSZuRDMTPwOzvO2a-gBLTnURxu8c3RZgBUIIODv49ruam_BMuSXo4TBM1CnPGSyAw_jpoFOK-WdedOIcJWqWG8e_2T4rlLOElechS_lbV5FcEh264Ae46JCWPaujqcwei2_CNg.jpg"
+        "https://cdn4.telesco.pe/file/KLWQY1vqpTSbNLymJDAGIbehJJMmQ8VbTw-sf8JVPrmduTlkzwsAhM8ZM7EkS2UDRvdFEoCPgwWcrItgtTugeBIbl_9JKopGWrEfVWT77G86aaML3odzv4Mb1RJ3JxqLCo2Cho3skKAwv4lIF3NwUIHN7nZnWuKnOb31mxxxOnsr9BMlpteCdxImzRkc_1hKN6e0e0fa_bpselTaBj69govVe7qH43zWSJA7IfpNi0W9qQlkDYGcEN7W9ZkOR9yIKWF_GBOkN6mdCN-T8YyUN1ujuTWTu-biPjA--Y74fvv-1g7S6NlQHnNJCz5_HdxJfr0YbBbUOoZYqNZr1-w-Ng.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our little lab. Support for speculative decoding in our inference engine\n.\nTo start with: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.\nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.\nYou can try it today already.\nM checkpoint\n— smaller\nL checkpoint\n(lossless)\nAll the models we support are\nhere\n, we’ll be happy if you try something else too.\nBenches are\nhere\n. You can dig into how and what was measured and how much better it is.\nMore about the release —\nblog post"
+      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine\n.\nTo start: Qwen3.6 27B; Qwen3.8 27B and Muse Glimmer support are on the way.\nWe massively outperform every possible Apple Silicon stack performance-wise. Because we just went and did everything as a co-design: kernels, quantization, and speculation. All from scratch, all our own.\nYou can try it today already:\nM checkpoint\n— smaller\nL checkpoint\n(lossless)\nAll the models we support are here, we’ll be happy if you try something else too.\nBenches are here. You can dig into what and how was measured and how much better it is.\nMore about the release: blog post"
     },
     {
       "id": 1327,
@@ -250,11 +250,11 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "50bafd44ddbf4f73635a5206b0c52cb5de5d52493e7a27f01f3638638e745670",
+      "hash": "110b5d701b088f0acf54fc8cf0464070bbe0360bb2b56b7b1fa7771ce9f2be5c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/YnDtDB1UvntIUH8lpcv1MQD8cAqTSQ96MfqRNahdYgF2AL_7gtIsAG8RPHYRScdjw5begwoi1jCLyzkVog5IQcAsU1WES05k3nU3f6LYdhyW8NQXdYFvQ8O0X-u_YS2zivo8AfURQ8cuN6AlEk_tlIMtFWvjOHRYygUrXGvV7cTHa8MBN_SCJC8OboY3CKxeGubGdmJKC3UwQS39NZWudfc2rGYw3pgrxHDXVNzSodPzvpkheO3ADlIV7aT-zsCGPCM_GvQGaCo9h6psWPBreqrowG2ig29709RVH43dOoc91SOEDdNSSTxUuR4Wkt6AM_QajT5XGkNboLwYkBVV8A.jpg"
+        "https://cdn4.telesco.pe/file/avfRvSUrmPXNcM6OboNff07oTlHgPth49MlHVJGEjGXAPtHVlgpXfDorNmOb36v0hX84kdyMjfnsh-42uq27ZeWO_QGQSUagz6ouu1uDEbHl3M1jw7C2fNThOeZ0HFBqAbbmS8656i3PwnpYstA_9_dn1OTitZuGpCRhjWrI8_ElXHu_G__dg09WHVCtDLBSWj7OShkNW8qmotp82FEF-xpdAufc_rAi3m_eTISEw0qnP146nVuyK-ouowbstJyJRqjv2mSy56Oqp9457cvLzhtsrol3P86zyqpOXVX_rbA_Ggf5K23EbOKFbjYFhZIYQ-iE5aouN4_0YKrGzmClfg.jpg"
       ],
       "title_en": "",
       "text_en": "New trend in venture capital"
