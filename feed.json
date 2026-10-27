@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T12:12:35Z",
+  "generated_at_utc": "2026-10-27T18:02:05Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -18,27 +18,27 @@
       "id": 1343,
       "url": "https://t.me/chillhousetech/1343",
       "date_utc": "2026-10-08T22:26:18+00:00",
-      "hash": "ab984ba9e3802cbe2bb36cea5cdfb80cd740e4684af050b26e828d81d7ae9c7c",
+      "hash": "1b005e93cf864a12e43f253f2e6f79acc5bc1df50a1f2f69360a580d2b31e2fe",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Достаточно интересная картинка выходит",
       "images": [
-        "https://cdn4.telesco.pe/file/UZ1jfJM_OkUUMMXYoN4Bfm921VVV-MbCgW2LQt7wphOLsaBhtPPbhr7ptXRoQut5DU5_BfnKjXyt8axIbX4uIjreuuOs29ychQbMVeQvFmPDGlS0Dkk5BnQgJZCyyGdgxtHK1YxvmggWZhpwTcyXLkL8F3IixQTAiR4kNc8w803iOwPzcIXgHIQFCl2mRmND_J5juXoyIY_07TY3xOPOPR8eF4ZS03EuaBW4ronrXy6rcZfsx2ttosRUJmWT4C8EWxNqq3uo-V3DUTiCGN8n5kfTVTDUt8JP029qRUN4tkKyREfklQphK7fWW2rR40N50oxprL1gYa9ClmrazavE3A.jpg"
+        "https://cdn4.telesco.pe/file/hvbSPVrr2g6m5XqXezaw_hJMiV8qXLiwztJBDtvdYDvjbJUND982kW_8xzq7hbdT9twP3CKk5R7vTWFTJdKvUSI4U0GjAKHkNabT9vCfHX_OQxKE8l5hHabTBO4cnOaRcdDKdq_EkL4ycDEjUKs9h8Y_K5WoK3ADdmuNt59HJ3e3sHt9fub0eZHpnDzRTQC4CauzJ85iBfoucX-LLJXaI4AkP0qWA1BtaPqZZj6UkWUTcYds9TLOc6TM367GSuFY2Xj-nvb8nXxrdSi7U2Be8l1UByv-i4SF1th9ZrPpRXG65ksN1oyxA6-mBQqtU_uMeKK1qfmgsGO78f1WqorRRQ.jpg"
       ],
       "title_en": "",
-      "text_en": "A pretty interesting picture is shaping up"
+      "text_en": "It’s turning into a pretty interesting picture"
     },
     {
       "id": 1342,
       "url": "https://t.me/chillhousetech/1342",
       "date_utc": "2026-10-08T18:23:37+00:00",
-      "hash": "38892828c72d9ec654005ad1383cccf53d5e029f6129c1a017d230f674273f92",
+      "hash": "4794b87409e0f42dfe8b9950de7061a12a8d43c666bddc77dc9180b34625422b",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Отличный пиар к IPO, все-таки там сидят очень умные \nлюди\n модели",
       "images": [
-        "https://cdn4.telesco.pe/file/XVXlWQuAgmW_qyV83Ia6DTKYEN3HXQnbkMIzAOIIk4p6okwk7-nmj5jKUirUUBSngmOczBrmArtrD25FRzeN3_px0VsDQt-PdkVylKEZANbltz_4DzYlgfnRZVfniuXtydt-WPgs0IANG5Ijt758y4sgkexbHALS1YYRG5rzqq8Rgm8BEIF7VdBQnrntRcUajYQC5JshMNtF1x4Ml-U-pAUN-mppKw4rBOx5nk945pDzmhrANS3umoUNE0CRZhpRSpk_ln-ULwo7X_hL6yEhpd36L3b_ESvLHd5lYRisUcFOwyWU1Xcd0eb2f3N14ruER9WNcoEqWsoaF0sEe1Nq_A.jpg"
+        "https://cdn4.telesco.pe/file/VAove0NKwAdyjajYnUCTPtG1GZtCjB8cJz2K6ZiGuBKVTkFZPRfWSidrOI54ovloEUnb53rurnHMyJdiuyM1qgVR9BplZf-qy_QdBV1qwPGqtcmPyHNv-iQ1iqIz48QihpyfDfXKk_ORzlc8EUxCG6Jz33GxwUYmO0mCqM_HfOghEUzNVqohTc2aIOXA0Hw7kz9OWVYp_ixTYDZ_M61EW0lcG4DS9VGGkLF8ONBHDW4GsRN06V0JK3EpZOoL2PpJuKqEK4HKLE8LZQ2uFgC90ptSbPz4L1OJp99MP7HXz-cuBNpDdkj0vmHJVZHYDA2v0-IpE4mvHrt37uiEqYMe2w.jpg"
       ],
       "title_en": "",
-      "text_en": "Great PR for the IPO, after all there are very smart people sitting there  \nmodels"
+      "text_en": "Great PR for the IPO, after all there are very smart  \npeople sitting there  \nmodels"
     },
     {
       "id": 1341,
@@ -55,14 +55,14 @@
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "ba817d7004fa92769c5884aa3580b463ec1f87f37b341b712918b647ca1140c9",
+      "hash": "dc9286bc3d03fb63c97d37a31d362a659f813acc8e334d41986434135652d230",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/Grnmd8k8DHAlQftQz1MvjEqX-K7-Ppcl2xnxeGwyMjh2Fn0Htqj1w1y70X2VfPx6aiGwYuWNV790InKWcF6RNLKkU0UHPN8LOyfuNfbHlWfkNWnfBmWFSRluhD5iMWnYI3GEF_ZMCXx4C57lBn1ypgcTVQlmIBsVT28qlleGFFWL17kkIwAe9sggU6iW3Y8ygLSw1j73-c7q31amv1UUee5gJpcrs11kXZONi-k6XxdvweLoOIi_UIzcbbcphlzrKuIzm4UokH0wsmNlAlqN4YrZyGvfcUePd2OUyeR-E266GuZ32vY0-9h3RyEY5WObGGMz6uAf4NtwQw68Kv_GGQ.jpg"
+        "https://cdn4.telesco.pe/file/lHrg7kc_ZAF6BBH5Kov9x_3VvyedZEzBeC0bPLeN-zCn_20IbkDGp_kRngbGpl3IzYZih0XDM4hzfxlaryIOIKiJg9axd8zVxUh8ZXgdeXlzMqUB459xjqHl3LfnbAWLUiqsP7Wo5rEvK9sTczwhfORkUb3gZAC1IYschEwiL5chHIU1QrC0cNg_nRxoW5g3OF_oKX2KdNpovTfT300rtWUs1GM0cNxilEYUO4CBB_j8x5OgDaqQUPaBx1VWKB4QOXpzrTWMmkrAOk4PO9MQ-nDz2YzJ7Wao_b76J4Kg7WXBUsNwLtPim5lK7XfqUH_DkB6gZ-lyFCdKrRylKTcEfg.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out Google\ncan do\nsomething. Or it’s just a table with little numbers."
+      "text_en": "Turns out Google\ncan do\nsomething. Well, or it’s just a table with little numbers."
     },
     {
       "id": 1339,
@@ -250,11 +250,11 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "dee981aca25fd0d8a8972a0ec0662746670174949771023a33b76be9ebc4473d",
+      "hash": "3c9223543af4a0805dbc9075b1fa8797310d4d1f7fc18d62088089821d8b93e3",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/oKpH3fu3NsRy2MhFEc82f7z4yXwZF9k-ohg5RyLueH6jXN5_esWpJOt98ruo58N46QALtTsNwNTY53h2SS_eFg1vYB2vPGDW1vxnOBfEuC5XjXhg5K1tFlYOIFI-naSDOfaTSNWS2C-ZtAzl4OThrB7DdQWc-x3vsAKevnDrnWVbElaXEjmvn7ZCA-6ovW38z9fVTsBDEm2Tl9IKvdCnvYyVa7ktVvVH_7N7u9Gdv08MfJ2TR0I1f1IrJMecRRvbbOpiiYgmQn8b_xMfxjVYGX0MwJdOlJ95pr1n8k3e17tD1eMxHOz4njlyLpl7k-S05Bjh87So5faXUBq8g_ycIw.jpg"
+        "https://cdn4.telesco.pe/file/EbDvdEnAuaCUm8OTfC1_Y8krmnOfTv0kGgaN8ACK-k7ORw-vjYCcomd7MLhEzdyzMkizVACoyZlZEvZJFTra8CGj6-0FiALmS1OT_XLNtGYoXG1slpshxFAKPC2gro6BdSn-g2r9n9aoKOGVs-6-ncyvEIVX4YR4TJHDKezDPRN6CKvrTVyqNmHR2N2YBEbpDEhOFnT9LzzZavPTrZhmGbrf_9Mcj9pzt5h6hzoXyaGYzdSExKx3eQ2VmQSdz_6gVogW8YnHo4qNQsgpKKjV56azQz-Ov2dXkRx-MFx4g9sf_vUgeHmTi8-lfOnBhBu67N7qb4iHjNW7pp7GktX8MA.jpg"
       ],
       "title_en": "",
       "text_en": "A new trend in venture capital"
