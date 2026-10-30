@@ -1,8 +1,19 @@
 {
-  "generated_at_utc": "2026-10-30T12:56:50Z",
+  "generated_at_utc": "2026-10-30T22:20:47Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1347,
+      "url": "https://t.me/chillhousetech/1347",
+      "date_utc": "2026-10-30T15:36:42+00:00",
+      "hash": "4371ac8c6741c3f61532fb2d2c0446b59dbc181b66f5fc7f9a06eea609b7caec",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Накопилось много всякого, что хотелось бы написать. Там и s1 Anthropic и разные другие кризисы кредитования compute бизнеса. Но начну пожалуй с математики. \nРемарка: я не ученый и тем более не математик. Но пол жизни провел в математике и достаточно плотно интересовался ей, даже в институт Стеклова при РАН ходил. Ну кто знает, тот поймет. \nТак вот OpenAI накинули очень сильный \nрезультат\n на прошлой неделе. Это не какие-то там мелочи. Это что-то около премии Филдса (аналог нобелевки но в математике). Очень крутые вещи. Правда предстоит еще ревью. Но тем не менее. \nТак вот я считаю что настало очень важное время в математических дисциплинах. Двигаться в некоторых доменах стало легко и осталось понять куда. Я думаю что большая часть математики была настолько далека от прикладной части, что развивалась как теория без понятного ракурса как ее применить. Думаю, что в таких местах AI поможет ой как хорошо. Ученому лишь надо задать вектор и оно само найдет, соединит и докажет. Доказательство ради доказательств начнет исчезать, а это был большой пласт математики. \nНо мне думается, самый сок не в таких областях. А в той самой теор физике или областях на стыках нескольких наук или направлений. Самое интересное где AI найдет что-то чего человек в силу величины области просто не мог подобрать и соотнести. Сколько всего можно нового узнать. И тут без «human in the loop» думаю пока никуда. Все-таки с сооружением новых концептов без указки оно пока не едет. Но перебором владеет мастерски. \nПоэтому в науку идти станет интереснее. И исчезнут всякие сугубо теор в три уровня подвижки. Ибо намного важнее будет уметь соединять это с экспериментом и реальностью. \nНо время покажет.",
+      "images": [],
+      "title_en": "",
+      "text_en": "A lot of stuff has piled up that I’d like to write about. There’s s1 Anthropic in there, and various other lending crises of the compute business. But I’ll start, I guess, with math.  \nNote: I’m not a scientist and even less a mathematician. But I spent half my life in math and was pretty deeply into it, I even used to go to the Steklov Institute at the Russian Academy of Sciences. Well, those who know, will get it.  \n\nSo. OpenAI dropped a seriously strong result last week. This isn’t some little trifles. This is something on the order of a Fields Medal (the Nobel analogue but for math). Very cool stuff. Sure, it still has to go through review. But still.  \n\nSo I think a very important time has come in mathematical disciplines. Moving in certain domains has become easy, and what’s left is to understand where to move. I think a big chunk of math was so far removed from the applied part that it developed as theory with no clear angle on how to use it. I think in places like that AI will help like hell. The scientist just needs to set the vector and it’ll find it, connect it, and prove it. Proof for the sake of proofs will start to vanish, and that was a huge layer of math.  \n\nBut I think the real juice isn’t in those areas. It’s in that very theoretical physics, or in areas at the junction of several sciences or directions. The most interesting thing is where AI will find something a human, due to the sheer size of the field, simply couldn’t pick out and line up. How much new stuff you can learn. And here, without “human in the loop,” I think there’s still no getting around it for now. It still doesn’t really go, building new concepts without being pointed. But it does brute force like a master.  \n\nSo it’ll become more interesting to go into science. And all sorts of purely-theoretical, three-level nudges will disappear. Because it’ll be way more important to be able to connect it to experiment and reality.  \n\nBut time will tell."
+    },
     {
       "id": 1346,
       "url": "https://t.me/chillhousetech/1346",
@@ -29,11 +40,11 @@
       "id": 1343,
       "url": "https://t.me/chillhousetech/1343",
       "date_utc": "2026-10-08T22:26:18+00:00",
-      "hash": "8b924af77ab715a1cd5af475d499e4a355a7c3264cbd0b8add8e081661061fc5",
+      "hash": "e30c556abd17da5242bf6c3387b250afe0ecb3850da278ae6bc3cca5d9432b3c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Достаточно интересная картинка выходит",
       "images": [
-        "https://cdn4.telesco.pe/file/tleCEtIQYxhGYS_iyP5Z6Xvj6I5UNShzUeKW-M0wWWaJUZP9vWL1JsLSd-ANFOA1f2GNdhHm_P2E3_vGUWgok33D9vJPwn2vMch9P9gJIAafBa-clED7thOhLIxsHfgcP056sSdcbNPCeYfff3YasBRec41A9yFX_EH0-haY4ZLCs1MIpW9fcBwN9sMEf_zQppVdig4Dg7MmIUlNhnvHleXOrJupMpuXbe5LdIxRwTlwUqIQVd7ROXbrTJ2B7VHWDb4agD2uUYx-zIxy2AYZEeWNI_cg8AAHGRfiev4D3Q8rnZJLRVZU8ARdEesSo6k5eGuNTb333i4fuf67CZjt1g.jpg"
+        "https://cdn4.telesco.pe/file/k8CnLXBGJRBVx3dMBb7so2dbA1hkxJAi2119wLEi7BX97Fk4ziAQug8RQ3nueYVFyP7eX65abaQq7KvQt-kyP-NElmuknEEkbSdTXZ6TuIv7Tknve2r7jSOXuy1NQTGbMj6uu5REeeZnhyijdRkgejRE6LPDxugAfmud08P1_z1FSBQGtRWVQcEcAacxlIQMCWMOJMHrPv8lpw9brPAguEFazSjXiqRaKNqNBV0gYvek8rVPEMW5Qj5II_ce8his80Dv_O-3G-F1z3pPUuLMrlhBqlPnnWKsagUsVCJjr7G0IWSUASKPT9_nuOY4NB-T3weJ-4pK-XoWujViRmhDOA.jpg"
       ],
       "title_en": "",
       "text_en": "A pretty interesting picture is shaping up"
@@ -42,14 +53,14 @@
       "id": 1342,
       "url": "https://t.me/chillhousetech/1342",
       "date_utc": "2026-10-08T18:23:37+00:00",
-      "hash": "822b3fb97a2f1bf799c945812d675798d7623e57cf9c251640f61b95de41ee0e",
+      "hash": "b5349b8cfaa8e9679e33e0cd249bd9dfe411a1ca3ec2bcd9315f411283d9797e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Отличный пиар к IPO, все-таки там сидят очень умные \nлюди\n модели",
       "images": [
-        "https://cdn4.telesco.pe/file/AueATmV2Xtja2-X547NOcF8skWGmAHBZtasIYgTwQ3NxpeC6FxuGyOi7HYmp1JaFj8AAl9_1GVESzBwFR9xte275LYPVWaSz1Bdff8josU5j2TdVfgeW3nRRUAhUPjo87b_XR1QGs8YOV69dcna5fix5PYSO4uyVqbXSq9IG29qOkmdH7gBp3pleIn_G1JgdY5wPPNFMtcGyJ2RMBberaIIbhQgOcJdBU65nWACw6gVX2p2zUfrAgLa-FvscSSH6jlFnL1SQq8RbI3Qt9KBHFtHisFkow3pYtGqmHNqWoY4x_syZSlpLrfeW2pAA0ffAHcPOaMmd3P-F6czk6Lnp8Q.jpg"
+        "https://cdn4.telesco.pe/file/UZnbjSPWrb5Gamt529FVotcUWiu-EQMSaTfooojx2A9moQ4XIoKcfpVT568E3b6WfcxOKpVThi_4YZqqcZUsY6F0KQ7kdqnvJsk8LZKMQ6l7q9TXroMWrxTl1fUOaQnWbQM1MfMcDf8XFJKh_xic07UB5xU4b8M2vjwoFdlZRAeb_K2MvIYN-H4wyvkkuhfyYUZBWY-9vuaH53nlue45M0TKGpg1soe-0rGAUZKev9wzrwuT1GpRjDsby4S-zwryFf6ZhMAz48Pn4PZW7tMHmleW1mlmDwjaSdh7KaT5bUXNwyHCKhDLTqVNcPh35V00AgEjR9vErSKPYDePf54W-A.jpg"
       ],
       "title_en": "",
-      "text_en": "Great PR for the IPO after all, there are very smart \npeople sitting there\nmodels"
+      "text_en": "Great PR for the IPO, after all there are very smart\npeople sitting there\nmodels"
     },
     {
       "id": 1341,
@@ -66,14 +77,14 @@
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "02bcdfd7a2b5bc7335fb496a52c76d5e44216a0d47e434c892ae392482a240ca",
+      "hash": "ed315468cdb05a3c2558eb098a0660a9ecb97bed52d01aa3281b051875a06f91",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/fv4SNiYK18y6rf-tpnSPnKDp71YR1rhfpH2249g9nvPvjUZUTqdy3ZLxhByXT4SLjVlkPiSXl2XSoGty8XQhEzKweWMSQbWAvMEF9umKX5NU2Eco9t0A210Ut2e4L6NOR0-mcgzbCCKLTIYTAd35qGDDh9c9QnBFhGxeQI80qODVR098qxAmGIN_XO_-f2aUgFLelLxNTxxD4oZGY2oIsrcq7TXsBmV86ZV9t8Z-PXXdwaJgKud6hWlDOTOMNvrI4fTGr3icflberyUaz45LHCi5yy5ac9c32mfiCUb1nnRXEaePVjkRAQEBERt020Z1-Hofbpvhiv41DD69wEf5LQ.jpg"
+        "https://cdn4.telesco.pe/file/Fqp6Dp9ESGFJiVvqUOE04knAumlN8VKvzispb6rMPYl6PQ4WX-UeQLAJKsMPauXPHtJMcyiqB1WUcWvaq_AJsFRHdN193m2Ho1cRT5kUwIcy9qXEYm8xjSJt86GsqLrKGLK38MPM8vNHRMwzssCSMODasD0h8CaGGVMubiJtEPa_gi9mylGr0tlw4UYNIOeKsjBm8ePFXCJpUcKUHSvBsNg3peGTlEq8YrvhOOpw0Ww2ArNQCHSJVePSLRDS_SPnv7vkzTjl75GgUoFHxHnwDsm2BVjLDpVlH-ln_GqO-yQPf239QzUS8qywMR3aa270xu9ak2dlnLsfVJJpkdYhLg.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out Google\ncan do\nsomething. Well, or it’s just a table with numbers."
+      "text_en": "Turns out Google\ncan do\nsomething. Well, or it’s just a table with little numbers."
     },
     {
       "id": 1339,
@@ -226,14 +237,14 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "5304f048ded99e63c6eb245c7d359728a0d167b1775cde4f7cc9ee30ee3d3c27",
+      "hash": "71fdc793a5637885c06d59ece74ecf0220589840e22092d898eb06318ccc0d58",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо",
       "images": [
-        "https://cdn4.telesco.pe/file/jJ9wKplzveppPYNx6BBRgAGnkI3ApTDA_su8FPAtaLVHLS3HI0tG-fnPj0JyVkXQTyuS5HpThfLIS48c4asgGFa2Gs6CWPcDirpC8tLh-qLxl9qptseWyCLD4ynVI0AwOiuK4-ubTl5YNS65dzPp8G8MYY-DpyhkK3aQzSrdOhJT5ySUhjZfkKz6J3Pv5B5cpPHLNNLPnPThLB6wt2DHU4TCvE31_qpzMOdUycM5D2B-8RGWvEX2P3rMjyIvV4mdhKQq4eBXuuahkTSGngbaPxsKAaB3sUyrcCFgWfx9SNoaZiKQ5fSB2hrjPTD1o3kYrLP2TImWpQlq8WbKLI5imQ.jpg"
+        "https://cdn4.telesco.pe/file/dTPEHiIV_kzDkoNMgWq4LWi-qpqWyTRK86gS6FcCTq5eDlDA3b0310R7oaf9UTCoE6bZ-qlpv1zkONYM_SBhW4A7aJpTNU9pflveEYuwQg32sW9rwlj45K-cAqoaOTKvmt8bU_vEGvWunAz9IEHF3msYBpqPORsocoEf8GEoLKtCR9w5PJ52xVaOObyBpJrIDJlnLSeJDagcmYQfe_5HRU1igoqARoChvd5Jn1aqGzkvqNu0FfZE2rhYe3jomGzMKZ_lzUn23KHJ7B7Kd_tWmC-mVDgqLPQ541gYnGQkkvIJQ-tOIj1hWkXyhDCyOJv_qZLndPN3s2w8oJ6EOySyNA.jpg"
       ],
       "title_en": "",
-      "text_en": "Well, that’s  \nnot bad"
+      "text_en": "Well that’s  \nnot bad"
     },
     {
       "id": 1325,
@@ -261,14 +272,14 @@
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "d73ca69c70b8019821adf987291654c7e71efc496b610963c5913038d458e22f",
+      "hash": "dc476f1d1a8de90025c8b95476779df0cb7accb9f02c946eb037cc86d87650cd",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
-        "https://cdn4.telesco.pe/file/UsKHyBKdrNfE-DlHQfoKOy7XtJotKN9_XJUV3QKxPWvsggOfVT_BN084rvsSrKhqpfhNLjANzyPgJCyg4-WXMl54W6IaSHmVX1oqBMigTh-cjgQYYLGAYPLBPevc_9wHGPQ018gnInq30cdBiu36pm3Is8Z5GkNwq9Lsb6Y1UGjqzqsyozmxI4AsvZ_M-8uXZaIFPMhtJFIKs24oUSyiu4Sa5XTxd-rLygZEyIBbAvaqwSPxEPmwFI3jKnQehqKq2OjDQTwA0V06dvMxnCusxvx3zL9QeXUenZg_-HADsF_Wef_aHVrEVafHkXEPMhH-7WckGPWBtif4nVTE9BSfdQ.jpg"
+        "https://cdn4.telesco.pe/file/QdnntrlfxzLrZLzmodlwx_-xCl1t2spW6ypVQaE6ACUDi5026Y4950396_oy2M9xmsNs4TrvTnddU2nrqP-kkyU3TE7bgdy8IsY5Ekh3WsVofxnrd_aRNjTxfUQD4elni28ZWzcewWO52WJPsYhFnXcGST8-EfYDgVIgaP8SmO-Ebm8EKIpilHXhD_qLwqTs7Ox8fQLPR1XMEu_2q4RdeAFpfibetQ3r02RJyE5pYtFh4yOPLOtnn0_wr4K02yz6GWj6TsrmZr4A2IOfrWI8FF-AvIUXhfQNjMTjhiYys0IXzuttsxi6lZee9pf-sGt2ytFjdTfSjPncsSU2K7ElTg.jpg"
       ],
       "title_en": "",
-      "text_en": "New trend in venture"
+      "text_en": "\"\"\"\nA new trend in venture\n\"\"\""
     },
     {
       "id": 1322,
@@ -291,17 +302,6 @@
       "images": [],
       "title_en": "",
       "text_en": "In short, a rage bait post. About business, entrepreneurs, venture, and the “grown-up tech industry.”\nTLDR: venture as it exists now is over, there’ll only be big rounds, entrepreneurs from the previous cycle (like Instagram cofounders) have lost their value, their experience isn’t needed.\n\nNow in order. We’re standing at the threshold of a tech cycle. The entry threshold, obviously. AI is the kind of thing that cuts off all the “mid,” the “eh, kinda,” and everything below that in quality. The tech swaps two important things in priority: the ability to make and the ability to verify.\n\nBefore, the biggest entry barrier was: assemble a team, find money to pay them, motivate them, etc. The flow of people into the industry was growing. There were tons of hypotheses, but to test them you needed time and resources. The hypotheses were super simple. Like oh let’s sell this, or tag photos on a map, tag clients in a spreadsheet and track progress. Everything was open (the internet was less regulated). That’s why entrepreneurs were famous for their soft skills. It wasn’t that important to know the problem and solve it, it was important to find people and iterate. That was valued above all.\n\nToday I see the picture differently. The barrier to testing a hypothesis has dropped to basically nothing. Simple things you can test on your knee. Look at the vibe-coding knockoffs. And then it turned out that solving the problem in the real world costs hundreds of millions, while your new SaaS is, God willing, two revenues. And for me the following flipped. Before it was important to find who with and set it up. Now it’s important to understand very precisely what to do, and ideally to formulate it concretely. And that notorious “knowledge” in the age of AI companies turned out to be very technical and very hard.\n\nThe first companies like Perplexity & Harvey made it in. And then reading the descriptions of companies raising 200m right away, it’s not even clear. And it’s not because they’re making bullshit (clowns lolol), it’s because you don’t understand what the essence of the problem they’re solving even is.\n\nAfter the crisis among entrepreneurs there will be a capital allocation crisis. Because now you need to understand “what” to give money to, not who to give money to. Which really breaks the investors’ world. And soft skills move to the background, because assembling a team for a clear problem and knowing what’s inside is easier than for “Tinder for dogs.” Which means you need investors who actually get it. And there will be few of those, because it’s easier for them to build their own company.\n\nYou can already see all this now: top research people are leaving Google, faces in investment funds are changing, because the previous leaders just don’t understand what’s happening. Just straight up, basically, don’t grok the meaning of what’s going on.\n\nThis stage exists in a lot of industries. Where there basically isn’t venture. Where there have become way fewer high-risk ideas with potential. Because the ideas got too complex. That’s what’s coming for us in tech too. And yeah, I wouldn’t invest money in a track record from past years, I’d rather throw it at students and good ML professors. That’s how it is.\n\nMaybe I’ll write a second part too. But I’m predicting a huge number of “great entrepreneurs” who, in the AI era, won’t get anything to work. At all."
-    },
-    {
-      "id": 1320,
-      "url": "https://t.me/chillhousetech/1320",
-      "date_utc": "2026-08-03T19:45:25+00:00",
-      "hash": "ea7b1f684f4ac3ad87f7052eb7fa9e4752c01edfa3595f6629b947c1b01df2ae",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Наблюдения последних недель. \n1/ есть два лагеря о том, как достичь AGI - это у нас rsi (recursive self improvement) и world models. Первый представляют Anthropic & OpenAI. Второй Google DeepMind. И из-за того что лидер дипмайнда не верит в то, что опенаи получается надо и то и другое делать и поэтому так все медленно. Короче корпоративное опоздание. Но чья ставка сыграет не ясно никому. \n2/ в Китай возвращаются те, кто работают в топ местах в сша. Основная идея: они верят что смогут так же как в свое время сша осуществить «китайскую мечту», а именно получить мультипликаторы к оценке их компаний в разы больше. Другими словами нас ждет китайское господство в аи. Я бы сказал, что это более чем вероятно. Учитывая количество усилий и веры. И супер талантов. \n3/ в математике назревает кризис. Многие PhD будут мягко говоря обесценены. И я считаю произойдет в целом большая реструктуризация мира наука. Ибо аи сможет буквально открывать и решать 50% текущих задач. И все еще «совсем новых» смыслов пока не видать. И я думаю, что проблема с поиском нового такая же как проблема с написанием резонирующего текста. Потому что в теории относительности важна не сколько теория, сколько идея. Дальше так сказать можно добежать уже как-то. \n4/ найм это ад. Рядовой рисерчер в Anthropic (и других топ лабах) получает 10м+ за 4 года. Жизнь боль.  \n5/ многие компании с трудом осознали, что масштабирование зависит от их возможности тренировать свои модели. Harvey, Cursor (не смогли и сдались чтобы делать в другом месте) и другие\n6/ оказалось квантовые вычисления очень быстро развиваются и там много всего интересного особенно в области квантовых нейросетей (лолкек), писать про это?\nКакие у вас новости?",
-      "images": [],
-      "title_en": "",
-      "text_en": "Observations from the last few weeks.  \n1/ there are two camps on how to reach AGI — we’ve got rsi (recursive self improvement) and world models. The first is represented by Anthropic & OpenAI. The second by Google DeepMind. And because the DeepMind leader doesn’t believe OpenAI is pulling it off, you supposedly need to do both, and that’s why everything is so slow. Basically a corporate delay. But whose bet will hit is unclear to literally anyone.  \n2/ people are returning to China — the ones working at top places in the US. Main idea: they believe they’ll be able, like the US back in the day, to pull off the “Chinese dream,” namely get valuation multiples for their companies that are several times higher. In other words we’re in for Chinese dominance in AI. I’d say that’s more than likely. Given the amount of effort and faith. And super talents.  \n3/ a crisis is brewing in math. Many PhDs are, to put it mildly, going to get devalued. And I think there’ll be a big restructuring of the whole science world in general. Because AI will be able to literally discover and solve 50% of current problems. And there still aren’t any “totally new” meanings in sight. And I think the problem of finding something new is the same as the problem of writing text that resonates. Because in relativity theory what matters is not so much the theory as the idea. After that you can, so to speak, run the rest of the way somehow.  \n4/ hiring is hell. A regular researcher at Anthropic (and other top labs) gets 10m+ over 4 years. Life is pain.  \n5/ a lot of companies have barely realized that scaling depends on their ability to train their own models. Harvey, Cursor (couldn’t and gave up to do it somewhere else) and others  \n6/ turns out quantum computing is developing really fast and there’s a lot of interesting stuff there especially in the area of quantum neural nets (lolkek), should I write about it?  \nWhat’s your news?"
     }
   ]
 }
