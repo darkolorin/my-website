@@ -16,6 +16,7 @@ function browser(options = {}) {
     function element(tag) {
         const el = { tagName: tag.toUpperCase(), children: [], hidden: false, attributes: {}, listeners: {},
             appendChild(child) { this.children.push(child); return child; },
+            before(child) { this.beforeSibling = child; },
             setAttribute(name, value) { this.attributes[name] = value; },
             addEventListener(type, fn) { this.listeners[type] = fn; },
             click() { this.listeners.click?.({ defaultPrevented: false, button: 0, target: this }); },
@@ -28,10 +29,11 @@ function browser(options = {}) {
     const body = element('body');
     const head = element('head');
     const footer = element('footer');
+    const main = element('main');
     const document = {
         body, head, title: 'Alexey Moiseenkov', referrer: options.referrer || 'https://news.example/post?email=secret#private',
         querySelectorAll(selector) { return selector === '[data-analytics-settings]' ? [settings] : []; },
-        querySelector(selector) { return selector === 'footer' ? footer : null; },
+        querySelector(selector) { return selector === 'main' ? main : selector === 'footer' ? footer : null; },
         createElement: element,
         addEventListener(type, fn) { listeners[type] = fn; },
         get cookie() { return '_ga=abc; _ga_TEST123456=def; unrelated=keep'; },
@@ -46,7 +48,8 @@ function browser(options = {}) {
     const context = vm.createContext({ window, document, location, localStorage, URL, Date, queueMicrotask: fn => fn() });
     vm.runInContext(source.replace(/const MEASUREMENT_ID = "[^"]*";/, `const MEASUREMENT_ID = "${options.id === undefined ? id : options.id}";`), context);
     return {
-        window, elements, head, footer, settings, stored, deletedCookies,
+        window, elements, head, footer, main, settings, stored, deletedCookies,
+        panel() { return main.beforeSibling || footer.children[0]; },
         button(label) { return elements.find(e => e.tagName === 'BUTTON' && e.textContent === label); },
         commands() { return (window.dataLayer || []).map(args => Array.from(args)); },
         storage(value, key = 'darkolorin.analytics') { listeners.storage?.({ key, newValue: value }); },
@@ -64,6 +67,12 @@ test('does not load Google or transmit events before a choice', () => {
     assert.equal(b.commands().length, 0);
     b.clickLink('https://trymirai.com/');
     assert.equal(b.commands().length, 0);
+});
+
+test('the choice appears before main so essay readers can reach it before the feed', () => {
+    const b = browser();
+    assert.equal(b.main.beforeSibling?.tagName, 'SECTION');
+    assert.equal(b.main.beforeSibling?.hidden, false);
 });
 
 test('acceptance loads one tag and strips private query/hash while preserving campaign attribution', () => {
@@ -128,14 +137,14 @@ test('refusal in another tab stops collection in an already open page', () => {
     const before = b.commands().length;
     b.clickLink('https://trymirai.com/');
     assert.equal(b.commands().length, before);
-    assert.equal(b.footer.children[0].hidden, true);
+    assert.equal(b.panel().hidden, true);
 });
 
 test('clearing the choice in another tab blocks collection until a new choice', () => {
     const b = browser({ consent: 'granted' });
     b.storage(null);
     assert.equal(b.window[`ga-disable-${id}`], true);
-    assert.equal(b.footer.children[0].hidden, false);
+    assert.equal(b.panel().hidden, false);
     const before = b.commands().length;
     b.clickLink('https://trymirai.com/');
     assert.equal(b.commands().length, before);

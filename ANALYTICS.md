@@ -10,7 +10,7 @@ The dedicated Google Analytics account ID is `414342821`, and the property ID is
 
 ## Collection
 
-- A small, plain HTML choice appears in the footer. The Google tag is not loaded before acceptance.
+- A small, plain HTML choice appears before the main content, so readers can decide before scrolling through the essay feed. The Google tag is not loaded before acceptance.
 - Acceptance is stored as `darkolorin.analytics=granted` in local storage; refusal is stored as `denied`.
 - “Analytics settings” reopens the choice. Refusal disables further GA collection and removes `_ga` / `_ga_*` cookies.
 - Changes in another open tab are applied immediately. Clearing the saved choice stops collection and asks again.
