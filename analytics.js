@@ -106,7 +106,9 @@
         button.addEventListener("click", () => choose(value));
         panel.appendChild(button);
     }
-    (document.querySelector("footer") || document.body).appendChild(panel);
+    const main = document.querySelector("main");
+    if (main) main.before(panel);
+    else (document.querySelector("footer") || document.body).appendChild(panel);
     for (const button of document.querySelectorAll("[data-analytics-settings]")) {
         button.hidden = false;
         button.addEventListener("click", () => { panel.hidden = false; });
