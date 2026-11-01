@@ -8,6 +8,7 @@ import sys
 import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
+from html import unescape
 from typing import Any, Dict, List, Optional, Tuple
 from urllib.parse import urlsplit
 
@@ -78,15 +79,11 @@ class TgPost:
 
     @property
     def content_hash(self) -> str:
+        # Translation depends on the post text, not Telegram's rotating CDN URLs.
         h = hashlib.sha256()
         h.update(self.text_ru.encode("utf-8"))
         h.update(b"\n")
         h.update((self.date_utc or "").encode("utf-8"))
-        if self.images:
-            h.update(b"\n")
-            for u in self.images:
-                h.update(str(u).encode("utf-8"))
-                h.update(b"\n")
         return h.hexdigest()
 
 
@@ -163,7 +160,7 @@ def extract_text_ru(el) -> str:
         href = anchor.get("href")
         if not isinstance(href, str):
             continue
-        href = href.strip()
+        href = unescape(href).strip()
         try:
             target = urlsplit(href)
             safe = target.scheme in ("http", "https") and bool(target.hostname)

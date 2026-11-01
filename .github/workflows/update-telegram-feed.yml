@@ -9,12 +9,19 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-telegram-feed
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -45,6 +52,7 @@ jobs:
 
           git add feed.json
           git commit -m "Update Telegram feed"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
 
 

@@ -35,6 +35,7 @@ Then open `http://localhost:8000/essays.html`.
 - You can disable translation with `--translator none`.
   - If you’re on a very new Python (e.g. 3.14) and installs fail, try `python3.12 -m venv .venv` instead.
 - Images from Telegram posts are included in `feed.json` (`images: [...]`) and rendered on `essays.html`.
+- The translation cache hashes post text and date, excluding rotating Telegram image URLs; image metadata can refresh without repeating paid text translation.
 - HTTP(S) destinations on descriptive Telegram links are retained in the extracted text so they can be translated and displayed as links on the website.
 - If the Telegram preview contains no recognizable posts, generation fails and leaves the existing output untouched.
 

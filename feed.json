@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-01T22:03:06Z",
+  "generated_at_utc": "2026-11-01T23:57:50Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -18,23 +18,23 @@
       "id": 1347,
       "url": "https://t.me/chillhousetech/1347",
       "date_utc": "2026-10-30T15:36:42+00:00",
-      "hash": "4371ac8c6741c3f61532fb2d2c0446b59dbc181b66f5fc7f9a06eea609b7caec",
+      "hash": "23932afd4bcd0df354ebd265c1af0b5f753135152fd3293d66551232a7025170",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Накопилось много всякого, что хотелось бы написать. Там и s1 Anthropic и разные другие кризисы кредитования compute бизнеса. Но начну пожалуй с математики. \nРемарка: я не ученый и тем более не математик. Но пол жизни провел в математике и достаточно плотно интересовался ей, даже в институт Стеклова при РАН ходил. Ну кто знает, тот поймет. \nТак вот OpenAI накинули очень сильный \nрезультат\n на прошлой неделе. Это не какие-то там мелочи. Это что-то около премии Филдса (аналог нобелевки но в математике). Очень крутые вещи. Правда предстоит еще ревью. Но тем не менее. \nТак вот я считаю что настало очень важное время в математических дисциплинах. Двигаться в некоторых доменах стало легко и осталось понять куда. Я думаю что большая часть математики была настолько далека от прикладной части, что развивалась как теория без понятного ракурса как ее применить. Думаю, что в таких местах AI поможет ой как хорошо. Ученому лишь надо задать вектор и оно само найдет, соединит и докажет. Доказательство ради доказательств начнет исчезать, а это был большой пласт математики. \nНо мне думается, самый сок не в таких областях. А в той самой теор физике или областях на стыках нескольких наук или направлений. Самое интересное где AI найдет что-то чего человек в силу величины области просто не мог подобрать и соотнести. Сколько всего можно нового узнать. И тут без «human in the loop» думаю пока никуда. Все-таки с сооружением новых концептов без указки оно пока не едет. Но перебором владеет мастерски. \nПоэтому в науку идти станет интереснее. И исчезнут всякие сугубо теор в три уровня подвижки. Ибо намного важнее будет уметь соединять это с экспериментом и реальностью. \nНо время покажет.",
+      "text_ru": "Накопилось много всякого, что хотелось бы написать. Там и s1 Anthropic и разные другие кризисы кредитования compute бизнеса. Но начну пожалуй с математики. \nРемарка: я не ученый и тем более не математик. Но пол жизни провел в математике и достаточно плотно интересовался ей, даже в институт Стеклова при РАН ходил. Ну кто знает, тот поймет. \nТак вот OpenAI накинули очень сильный \nрезультат (https://openai.com/index/building-scientific-understanding-with-academic-communities/)\n на прошлой неделе. Это не какие-то там мелочи. Это что-то около премии Филдса (аналог нобелевки но в математике). Очень крутые вещи. Правда предстоит еще ревью. Но тем не менее. \nТак вот я считаю что настало очень важное время в математических дисциплинах. Двигаться в некоторых доменах стало легко и осталось понять куда. Я думаю что большая часть математики была настолько далека от прикладной части, что развивалась как теория без понятного ракурса как ее применить. Думаю, что в таких местах AI поможет ой как хорошо. Ученому лишь надо задать вектор и оно само найдет, соединит и докажет. Доказательство ради доказательств начнет исчезать, а это был большой пласт математики. \nНо мне думается, самый сок не в таких областях. А в той самой теор физике или областях на стыках нескольких наук или направлений. Самое интересное где AI найдет что-то чего человек в силу величины области просто не мог подобрать и соотнести. Сколько всего можно нового узнать. И тут без «human in the loop» думаю пока никуда. Все-таки с сооружением новых концептов без указки оно пока не едет. Но перебором владеет мастерски. \nПоэтому в науку идти станет интереснее. И исчезнут всякие сугубо теор в три уровня подвижки. Ибо намного важнее будет уметь соединять это с экспериментом и реальностью. \nНо время покажет.",
       "images": [],
       "title_en": "",
-      "text_en": "A lot of stuff has piled up that I’d like to write about. There’s s1 Anthropic in there, and various other lending crises of the compute business. But I’ll start, I guess, with math.  \nNote: I’m not a scientist and even less a mathematician. But I spent half my life in math and was pretty deeply into it, I even used to go to the Steklov Institute at the Russian Academy of Sciences. Well, those who know, will get it.  \n\nSo. OpenAI dropped a seriously strong result last week. This isn’t some little trifles. This is something on the order of a Fields Medal (the Nobel analogue but for math). Very cool stuff. Sure, it still has to go through review. But still.  \n\nSo I think a very important time has come in mathematical disciplines. Moving in certain domains has become easy, and what’s left is to understand where to move. I think a big chunk of math was so far removed from the applied part that it developed as theory with no clear angle on how to use it. I think in places like that AI will help like hell. The scientist just needs to set the vector and it’ll find it, connect it, and prove it. Proof for the sake of proofs will start to vanish, and that was a huge layer of math.  \n\nBut I think the real juice isn’t in those areas. It’s in that very theoretical physics, or in areas at the junction of several sciences or directions. The most interesting thing is where AI will find something a human, due to the sheer size of the field, simply couldn’t pick out and line up. How much new stuff you can learn. And here, without “human in the loop,” I think there’s still no getting around it for now. It still doesn’t really go, building new concepts without being pointed. But it does brute force like a master.  \n\nSo it’ll become more interesting to go into science. And all sorts of purely-theoretical, three-level nudges will disappear. Because it’ll be way more important to be able to connect it to experiment and reality.  \n\nBut time will tell."
+      "text_en": "A lot of stuff has piled up that I’d like to write about. There’s s1 Anthropic in there, and various other lending crises of the compute business. But I’ll start, I guess, with math.  \nNote: I’m not a scientist and even less a mathematician. But I spent half my life in math and was pretty deeply into it, I even used to go to the Steklov Institute at the Russian Academy of Sciences. Well, those who know, will get it.  \n\nSo. OpenAI dropped a seriously strong result last week. This isn’t some little trifles. This is something on the order of a Fields Medal (the Nobel analogue but for math). Very cool stuff. Sure, it still has to go through review. But still.  \n\nSo I think a very important time has come in mathematical disciplines. Moving in certain domains has become easy, and what’s left is to understand where to move. I think a big chunk of math was so far removed from the applied part that it developed as theory with no clear angle on how to use it. I think in places like that AI will help like hell. The scientist just needs to set the vector and it’ll find it, connect it, and prove it. Proof for the sake of proofs will start to vanish, and that was a huge layer of math.  \n\nBut I think the real juice isn’t in those areas. It’s in that very theoretical physics, or in areas at the junction of several sciences or directions. The most interesting thing is where AI will find something a human, due to the sheer size of the field, simply couldn’t pick out and line up. How much new stuff you can learn. And here, without “human in the loop,” I think there’s still no getting around it for now. It still doesn’t really go, building new concepts without being pointed. But it does brute force like a master.  \n\nSo it’ll become more interesting to go into science. And all sorts of purely-theoretical, three-level nudges will disappear. Because it’ll be way more important to be able to connect it to experiment and reality.  \n\nBut time will tell.\n\nLinks:\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/"
     },
     {
       "id": 1346,
       "url": "https://t.me/chillhousetech/1346",
       "date_utc": "2026-10-29T23:13:46+00:00",
-      "hash": "f0915089e1b51d468cc65b607878cc2bd81145d29f6a753fb70bd7e73ded562c",
+      "hash": "6232c0f514aa23e5c232fba1599ac17a73aad2ea3d4633637885ac1cb9fa1c6a",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Дорогие читатели, мы активно собираем кейсы для RL для computer use, для локальной модели и чтобы быстро работало и буду очень благодарен если вы уделите минутку и надиктуете свои. Мы хотим для начала сосредоточиться именно на использовании тех приложений и возможностей, которые уже есть на вашем компьютере (встроены в ОС по сути). Самый активный/классный кейс и его автор получит от нас 1к USD на любую нейронку в виде кредитов. Посчитаем через пару недель думаю. \nДиктовать можно как на русском так и на англ, перевод встроен. Голосовалка тоже есть \n🙂\n \nПошарьте друзьям и знакомым. Спасибо!\nЛинка",
+      "text_ru": "Дорогие читатели, мы активно собираем кейсы для RL для computer use, для локальной модели и чтобы быстро работало и буду очень благодарен если вы уделите минутку и надиктуете свои. Мы хотим для начала сосредоточиться именно на использовании тех приложений и возможностей, которые уже есть на вашем компьютере (встроены в ОС по сути). Самый активный/классный кейс и его автор получит от нас 1к USD на любую нейронку в виде кредитов. Посчитаем через пару недель думаю. \nДиктовать можно как на русском так и на англ, перевод встроен. Голосовалка тоже есть \n🙂\n \nПошарьте друзьям и знакомым. Спасибо!\nЛинка (https://intents.trymirai.com/?utm_source=chillhouse&utm_medium=post&utm_campaign=tg_my)",
       "images": [],
       "title_en": "",
-      "text_en": "\"\"\"\nDear readers, we’re actively collecting use cases for RL for computer use, for a local model, and so it runs fast, and I’d be super grateful if you take a minute and dictate yours. For starters we want to focus specifically on using the apps and capabilities that are already on your computer (basically built into the OS). The most active/coolest use case and its author will get 1k USD from us for any neural net as credits. We’ll count it in a couple weeks, I think.  \nYou can dictate in either Russian or English, translation is built in. There’s a voting thing too  \n🙂\n \nShare it with friends and acquaintances. Thanks!\nLink\n\"\"\""
+      "text_en": "\"\"\"\nDear readers, we’re actively collecting use cases for RL for computer use, for a local model, and so it runs fast, and I’d be super grateful if you take a minute and dictate yours. For starters we want to focus specifically on using the apps and capabilities that are already on your computer (basically built into the OS). The most active/coolest use case and its author will get 1k USD from us for any neural net as credits. We’ll count it in a couple weeks, I think.  \nYou can dictate in either Russian or English, translation is built in. There’s a voting thing too  \n🙂\n \nShare it with friends and acquaintances. Thanks!\nLink\n\"\"\"\n\nLinks:\nhttps://intents.trymirai.com/?utm_source=chillhouse&utm_medium=post&utm_campaign=tg_my"
     },
     {
       "id": 1344,
@@ -51,7 +51,7 @@
       "id": 1343,
       "url": "https://t.me/chillhousetech/1343",
       "date_utc": "2026-10-08T22:26:18+00:00",
-      "hash": "7713fc7216a1c2e0d441c3486c9c535aaa6707feeffeb9eacfa07891751d89ce",
+      "hash": "381131a58ce9e922beac8a7c59d670d0f164f5b680769efd6f84cfd3199fc796",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Достаточно интересная картинка выходит",
       "images": [
@@ -64,7 +64,7 @@
       "id": 1342,
       "url": "https://t.me/chillhousetech/1342",
       "date_utc": "2026-10-08T18:23:37+00:00",
-      "hash": "c6c4129542edaff0cc7fbc7c795ebdb85240307600d8523612ad2c74ab607ab5",
+      "hash": "315b83d7e7f240cbe853023849085681a836560db8f9ca0d2d2478ab26e565e4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Отличный пиар к IPO, все-таки там сидят очень умные \nлюди\n модели",
       "images": [
@@ -88,56 +88,56 @@
       "id": 1340,
       "url": "https://t.me/chillhousetech/1340",
       "date_utc": "2026-09-30T20:38:13+00:00",
-      "hash": "6c50be53fd1d169792d7ecf9c79329d9da4a064f91b29fc59147453d68e2248d",
+      "hash": "411e35de8aedb545ff4a8a1fdc596bf9d3926e9c5f3aa2b6fcb7555aa48eb7f4",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Оказывается google \nчто-то\n умеет. Ну или это просто таблица с циферками.",
+      "text_ru": "Оказывается google \nчто-то (https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)\n умеет. Ну или это просто таблица с циферками.",
       "images": [
         "https://cdn4.telesco.pe/file/Pt27tA-iNCYjxc6_ABKhbUdldCKTkDaK2Jh1XiSZHdmTqky1cIEqRWs4mfnwqAkZUB0Jac2WfuYXre78PYGTaWFHsQmWuLCPC5QKMNpcTwE_3nY5KIS14XulT_abIDwOjYtyVGx7ximWGugZg4Jw9Qr_jFY7G3uzRV7nI2NtNVvYr5wW19l4a0H06Tk4aJH_ubu8A8VxVKwRufAutKog5cZHgqO-OcYFwDw30s8gernVSGIimkwWPzb4B0lLZbMJi_fsPn1tvHgQchowhBONrgNPn4KpUnO8L3aph4u4o0B2e3jQ0y7yFsd8wBbtTLFHDf_Pn6_X5ozvP0XJap5dnA.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers."
+      "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers.\n\nLinks:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
     },
     {
       "id": 1339,
       "url": "https://t.me/chillhousetech/1339",
       "date_utc": "2026-09-28T09:56:05+00:00",
-      "hash": "09785359606b6e718fa5e91519b24b7d7c18e0e699eced7d36907aeca9436555",
+      "hash": "bc523c85ad239f5123cb729e99976d6e879d56219325810cd64d3b6ef296177e",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "В моей рабочей почте каждый день примерно 50 писем с темой: we've built new ai empowered gtm tool. Дальше это обычно что-то из: cold outreach automation, market research, и самое частое конечно же SEO/GEO или как там его про выдачу в чат боты. Сотни писем, большая часть написана через AI, отвечено - ноль. \nПочти у всех письмо построено по принципу:\n• в заголовке хук (например чел написал Ferrari, оказалось это название их тула)\n• внутри аля переработанное описание того, что о твоей компании нашел агент (обычно конечно же нормально оно найти не может, глазами будет в три раза быстрее понять)\n• стандартный темплейт про мы найдем вам стопицот сделок, сделаем стопицот результатов\nБывает открываю \nсайты таких ребят\n - 100% made by claude",
+      "text_ru": "В моей рабочей почте каждый день примерно 50 писем с темой: we've built new ai empowered gtm tool. Дальше это обычно что-то из: cold outreach automation, market research, и самое частое конечно же SEO/GEO или как там его про выдачу в чат боты. Сотни писем, большая часть написана через AI, отвечено - ноль. \nПочти у всех письмо построено по принципу:\n• в заголовке хук (например чел написал Ferrari, оказалось это название их тула)\n• внутри аля переработанное описание того, что о твоей компании нашел агент (обычно конечно же нормально оно найти не может, глазами будет в три раза быстрее понять)\n• стандартный темплейт про мы найдем вам стопицот сделок, сделаем стопицот результатов\nБывает открываю \nсайты таких ребят (https://www.enablement.ch/)\n - 100% made by claude",
       "images": [],
       "title_en": "",
-      "text_en": "In my work email every day there are like 50 emails with the subject: we've built new ai empowered gtm tool. After that it’s usually something like: cold outreach automation, market research, and most often of course SEO/GEO or whatever that thing is about rankings inside chat bots. Hundreds of emails, most of them written through AI, replies — zero.  \n\nAlmost everyone builds the email on the same principle:  \n• a hook in the subject (like some dude wrote Ferrari, turned out that’s the name of their tool)  \n• inside, some kind of reworked description of what the “agent” found about your company (usually it can’t really find anything, with your own eyes it’ll be three times faster to understand)  \n• a standard template about how we’ll find you a bajillion deals, deliver a bajillion results  \n\nSometimes I open  \nthese guys’ sites  \n— 100% made by Claude"
+      "text_en": "In my work email every day there are like 50 emails with the subject: we've built new ai empowered gtm tool. After that it’s usually something like: cold outreach automation, market research, and most often of course SEO/GEO or whatever that thing is about rankings inside chat bots. Hundreds of emails, most of them written through AI, replies — zero.  \n\nAlmost everyone builds the email on the same principle:  \n• a hook in the subject (like some dude wrote Ferrari, turned out that’s the name of their tool)  \n• inside, some kind of reworked description of what the “agent” found about your company (usually it can’t really find anything, with your own eyes it’ll be three times faster to understand)  \n• a standard template about how we’ll find you a bajillion deals, deliver a bajillion results  \n\nSometimes I open  \nthese guys’ sites  \n— 100% made by Claude\n\nLinks:\nhttps://www.enablement.ch/"
     },
     {
       "id": 1338,
       "url": "https://t.me/chillhousetech/1338",
       "date_utc": null,
-      "hash": "d36bb48ab179d5a27aff2d40dde905df7163b7d8f437b0efab38f28d5679041a",
+      "hash": "90507557facfb5f99d4dc05351b277a2b5e45d2d75921d9a25518c6b4d6ed314",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Запустили тут \nнебольшой эксперимент модельку\n, по сути очень хорошая сжатая и довольно бодрая, господа вот тестят сами (портировали даже под движок нужный)\nможно глянуть что получается в видео или почитать про эксперименты у ребят \nhttps://t.me/fuckup_files/1049",
+      "text_ru": "Запустили тут \nнебольшой эксперимент модельку (https://huggingface.co/trymirai/Qwen3.8-27B-S-experimental)\n, по сути очень хорошая сжатая и довольно бодрая, господа вот тестят сами (портировали даже под движок нужный)\nможно глянуть что получается в видео или почитать про эксперименты у ребят \nhttps://t.me/fuckup_files/1049",
       "images": [],
       "title_en": "",
-      "text_en": "Launched here  \na small experiment, a little model\n, basically a very solid compressed and pretty peppy one, gentlemen are testing it themselves (they even ported it to the required engine)\nyou can check what comes out in the video or read about the experiments from the guys  \nhttps://t.me/fuckup_files/1049"
+      "text_en": "Launched here  \na small experiment, a little model\n, basically a very solid compressed and pretty peppy one, gentlemen are testing it themselves (they even ported it to the required engine)\nyou can check what comes out in the video or read about the experiments from the guys  \nhttps://t.me/fuckup_files/1049\n\nLinks:\nhttps://huggingface.co/trymirai/Qwen3.8-27B-S-experimental"
     },
     {
       "id": 1336,
       "url": "https://t.me/chillhousetech/1336",
       "date_utc": "2026-09-18T14:22:56+00:00",
-      "hash": "d6c979e2100658427f4a694a42a1594c853a55305fefb8d4518b28bc38a4695e",
+      "hash": "16ec12645a2d265abb0e0db52b29661e646ca42b2810fbb92e918796fc258399",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "На тему \nприложений\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
+      "text_ru": "На тему \nприложений (https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios)\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
       "images": [
         "https://cdn4.telesco.pe/file/M61PJXDsue5Xv0Pz6h599dWeC_k3VExsQ8hK9sYM5AlnGnFmtArHYUCt5dmQsJI3xiSi3dcGF7GNwfQW3UhAbPGJcgMLoqxWRpUFy0FeRHcHm3Hl5QY9FL1G7QRKXu2jmx5Zz5-zf3jNGYjwqelD5mZCr3rBvWkJkAoctApq9gXJaGXtB2A47W-CjlBEc75sZJM_rZUdqSdHsUk9l4vnSRO0jgVgVnbQF9XgHiRSgBSLtNg0xauRcWB_1-el2JU7tEAxcTE6d8Y8uuXU8SUVqgGxzimjdtfEr7Azkk_f1EQru0LcETwJLty92PN3lWF6ZpSnHXe8rw1N21FT9o644g.jpg",
         "https://cdn4.telesco.pe/file/g26KfpsMameEzdWfzUSGvRMfuclTbxHOUAmEfVxXEf_Jtw92XatL8IhMwG6w5QnlKEJlA9T64ns2lLcca-BAIRcheU9mPoiTGfZX1rOTlzr8NB1fJWWT93u4yERNtRlmU9wkjf6eeBSLEPTIUSpe1kYxnr3Ex8Y6nTwQ556RiRg4gGd7Izq9fxEWT0hWP_uWaQnVhOqWM2CD1u3Iym9M1XyFsT-dZaOzRTyytIPl8sFh6p3f2C__ldhQH5ou1pZypIkgpJeM3UDGcqq409jXqJ1T_k5n8Ubs9mjE6bmN0kHQMkCECnzZ2E_nSFNKQR26c8AyptKjwl0PmUV_G0dPjw.jpg"
       ],
       "title_en": "",
-      "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out."
+      "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.\n\nLinks:\nhttps://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios"
     },
     {
       "id": 1335,
       "url": "https://t.me/chillhousetech/1335",
       "date_utc": "2026-09-15T14:36:30+00:00",
-      "hash": "d8b223a0b66628e641de65093862f4151635812e201a8be76ba199430f560d57",
+      "hash": "aabc3cd2e7b4dbd1e2edac7e9401042196b0b302cf58cf191753e7af7e66aa05",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
@@ -161,46 +161,46 @@
       "id": 1333,
       "url": "https://t.me/chillhousetech/1333",
       "date_utc": "2026-09-12T15:11:41+00:00",
-      "hash": "26c643975328cb5b2779a6c2f7ebfb878753a826b27785139ad2c328fba6f5d1",
+      "hash": "bf9becdcb72a931bf6eeeb5edd169d121addada5c84b9da05aa6a3431e7aaa60",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Новое эссе\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма\n тоже туда же. Наверное кто-то еще должен так думать да?",
+      "text_ru": "Новое эссе (https://darioamodei.com/post/we-must-pace-the-frontier)\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма (https://x.com/sama/status/2098811563415150910?s=46)\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
         "https://cdn4.telesco.pe/file/XfyPNifjp5QGesD6mgwUR8U1KA7SPfsYxRuA1rK7o1BGJLytqdcQIFgyzXkhIQnZJgAIadHhXDbTzS8DQA7HSdrzACzU0HBAU9egbnXdHx4elJU6y86eRsmxx7FFrnD11YxpMZ29QXxVia5QoNtLNn2Zw2jcSHF8t4v28llKq19MP2wCPKNcTwzloHaz2IBV65TAAITbMWFEN4repVnUPua4mLrCQ854zb-zZ35GsXI1910fspsAtCV--lbfmq9NItl6-PEY8aIufMT7_N886p124YHLzCwmFzf37qYX2MdP87a5yRAgirJUpk7RMXiSQVF7u8_xY3pU7QqAVotsjQ.jpg"
       ],
       "title_en": "",
-      "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.\nAnd\nSam’s take\ngoes in the same direction. Probably someone else is supposed to think that way too, right?"
+      "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.\nAnd\nSam’s take\ngoes in the same direction. Probably someone else is supposed to think that way too, right?\n\nLinks:\nhttps://darioamodei.com/post/we-must-pace-the-frontier\nhttps://x.com/sama/status/2098811563415150910?s=46"
     },
     {
       "id": 1332,
       "url": "https://t.me/chillhousetech/1332",
       "date_utc": "2026-09-10T20:24:53+00:00",
-      "hash": "31cd06c1ec50707ad2c60dcb4e93d6460404d10601d8874e4d2ae1d8e2d49d99",
+      "hash": "debb5925a92dbd65a4f3e4988a8bf196fef90688762d1dc8d7ca84b83701790f",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули\n новые подписки на 200 баксовый план. A few moments before",
+      "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули (https://x.com/thsottiaux/status/2098113585683808624?s=46)\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
         "https://cdn4.telesco.pe/file/ViGPBIqzia3_GK3gTkdXwkZvVTVwDJqLkoCWLYoGUVV-2Z_9cRgDyle64JEtKGmqxWHCev9P2eYg-5UwQgmL0b4BXKR3Xlra-f88MVKR831VhP73NrhLcW87FbZlDNrOAHe-lqvAu1HwFQ8ipEynMGYrO-fm7GUuRJEaqz8neD2_9UjrOptWMPIxXB6xP5Uk6grQuYNsbLdjJbV_XnJBfTB14yg8QDQqT3JUf3WZlMRn5jBE9yiUF8gKMxChUX5OSzbgu1HKFmKEg9Z8LpcPgpZwj36IMidNcAsX66C7HgREMNOeTtDW8Hvi6UcrcX3Jxu7GBYX8H9u8_J51GtYL2g.jpg"
       ],
       "title_en": "",
-      "text_en": "Wanted to throw in some more memes. OpenAI \nhalted\n new sign-ups for the 200-dollar plan. A few moments before"
+      "text_en": "Wanted to throw in some more memes. OpenAI \nhalted\n new sign-ups for the 200-dollar plan. A few moments before\n\nLinks:\nhttps://x.com/thsottiaux/status/2098113585683808624?s=46"
     },
     {
       "id": 1331,
       "url": "https://t.me/chillhousetech/1331",
       "date_utc": "2026-09-10T11:49:09+00:00",
-      "hash": "afd5b856889f94549e89b4693a11a92352f35283d7af40be8079c32ccacc71f0",
+      "hash": "f91cb27d19545faa53e2d073884909b221a77c5b63b94b068ab113d4d6ba5b9c",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
+      "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно (https://x.com/parkerthayer/status/2097759699626328575?s=46)\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/KBhu8_JIuYC7MkulVm8ViJ7htpFwQWx4_y03xDvJTzdyg6XLB8W7Sy0bps9Jq3B3ZCT-h9k7KR0R7_F6FIFvXWw9WKyNaSgLweB1II2cER_FcxI0S9DrONP5ScfS1RG82uSZTux7ZOKRtis-4_HtQhB9HayvElP9wAmtnCD315SPXC4qll2Z5kVNVj-A3H1v9xH5mPgD_opMGXdO9wV_VS7lDpsrCptcPH-0y-Buf7bjaTpeBnPwtvhYFkaP3U6oMVeXJFCXKegK9AuB291xJPNIImLsOUrFY7raYNmbKUN2yVNa-olHF3QqZ8geJDN32HJhD5TKzB2c2IcbmlKW7g.jpg"
+        "https://cdn4.telesco.pe/file/Ps4ARm3ducblXMKxHc1P3h6aJzWiq_D1LMw9O0idR6RwqQU43Kzn1tGcnLr3oNBYn8h2O6GqgrtUExUZ6hm1SRrkLAVvQVMx9hBXj3_7kUP1f1oLgNS14BerJxvYKdWvH5N9zxw4v4WwbkSV3fZQpfK7SLGRnl8Fj5vYxZmaytIVKGTaptgjOI_t90S8ag_O8mRfxMLJi2Scv-RyTygl9TaIzNNo75fSjhXQ2geNGZnYkKyuqP--Wfw4E0OVEefz7E_R4_kkPRku9yq37Dy-h_LPSo6OtcQLp6Z_IQZIpd4PcOC7moD2n7t3MgeWZkI0EVwkeQSZdPjcRfnJ94QHvg.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone especially freaking out, I’ll remind you of a few details about the latest events:\n1/ the HuggingFace “hack” by agents is, damn, not “some model sitting there thinking how it could break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves a millennium-old problem all by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part\nis this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing this line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I recommend not leaving your house starting now."
+      "text_en": "To everyone especially freaking out, I’ll remind you of a few details about the latest events:\n1/ the HuggingFace “hack” by agents is, damn, not “some model sitting there thinking how it could break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves a millennium-old problem all by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part\nis this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing this line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I recommend not leaving your house starting now.\n\nLinks:\nhttps://x.com/parkerthayer/status/2097759699626328575?s=46"
     },
     {
       "id": 1330,
       "url": "https://t.me/chillhousetech/1330",
       "date_utc": "2026-09-09T19:51:43+00:00",
-      "hash": "198731f82bf6f306ed7e53cbe602b8194013c3455c8255ce23c205fa7be980c8",
+      "hash": "b7283fbd64979251758c3f76116edfd827b1a4f696bd616e850090353e450f53",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
@@ -213,25 +213,25 @@
       "id": 1329,
       "url": "https://t.me/chillhousetech/1329",
       "date_utc": "2026-09-08T17:25:23+00:00",
-      "hash": "eec13e1a9f6037adcdbbfb1d96863f035f46993cef1c5eb2bcc16d905bf3f652",
+      "hash": "e5072897af8e1b53d75b9c232c2600acdc7a73ff32dc31969e0ee6eda835a0f2",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну это солидный результат. \nРешение навье стокса\n. \nДрама там по пути такая что челы догадались в какую сторону копать, а OpenAI подсмотрели в логи кодекса их и запустили на своем кластере и более мощной моделью :) \nНемного\n подробностей, 300 ярдов токенов на выходе. 10к агентов. Вот это брут форс я понимаю. \nТем не менее топ! Грац!",
+      "text_ru": "Ну это солидный результат. \nРешение навье стокса (https://openai.com/index/navier-stokes-solution/)\n. \nДрама там по пути такая что челы догадались в какую сторону копать, а OpenAI подсмотрели в логи кодекса их и запустили на своем кластере и более мощной моделью :) \nНемного (https://x.com/willdepue/status/2097377325817974908?s=46)\n подробностей, 300 ярдов токенов на выходе. 10к агентов. Вот это брут форс я понимаю. \nТем не менее топ! Грац!",
       "images": [],
       "title_en": "",
-      "text_en": "Well that’s a solid result.  \nSolving Navier–Stokes.  \n.  \nThere’s some drama along the way like the guys figured out which direction to dig, and OpenAI peeked into their Codex logs and ran it on their own cluster with a beefier model :)  \nA bit more details, 300 billion tokens out. 10k agents. Now that’s brute force, I get it.  \nStill, top! Grats!"
+      "text_en": "Well that’s a solid result.  \nSolving Navier–Stokes.  \n.  \nThere’s some drama along the way like the guys figured out which direction to dig, and OpenAI peeked into their Codex logs and ran it on their own cluster with a beefier model :)  \nA bit more details, 300 billion tokens out. 10k agents. Now that’s brute force, I get it.  \nStill, top! Grats!\n\nLinks:\nhttps://openai.com/index/navier-stokes-solution/\nhttps://x.com/willdepue/status/2097377325817974908?s=46"
     },
     {
       "id": 1328,
       "url": "https://t.me/chillhousetech/1328",
       "date_utc": "2026-09-03T15:45:00+00:00",
-      "hash": "83089db6ad3712b2455e2fcc828a942e37ffd29bf06c25a9a697c4de27233ec6",
+      "hash": "d178a88ebaae7222a053cb8d635326e271b597eb5ea807ff1fc41b4f14a6c347",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint\n - поменьше\nL checkpoint\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут\n, будем рады если попробуете что-то еще. \nБенчи тут\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост",
+      "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке (https://github.com/trymirai/uzu)\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint (https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4)\n - поменьше\nL checkpoint (https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8)\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут (https://trymirai.com/local-models)\n, будем рады если попробуете что-то еще. \nБенчи тут (https://trymirai.com/metrics)\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост (https://trymirai.com/blog/speculative-decoding-in-uzu)",
       "images": [
-        "https://cdn4.telesco.pe/file/pkvIvRYeGp4KPcH_p730Tb9rtRuDQrgbHRBjrJzeZYmpyyKZ-1NMJptheWLbvZbgAjf0FclGNW15qBQfPBNGqOK9O5f3r-koK0BpINl_KDZm1a6bfg_WrrkxZKIIo-iXflS_vZkHwt5Jwkot4dzSU3n65-j1CdK0ehNW9rt6hfA2zgShRudGbU8l8_DSKCiJtGywgntngHg-as68sdDfh5rFoPrJvaG-zlbEi2XckMpZh3mo_fqxbyaGwd3lzP4sLp6WIgI27cIu72bYtPlWVK9mrS1lakrP2RDFKdlALIkaIkiLChvmgUEX9eT-HdL0EUI4sZRGAQjTfjyX1Fmy9A.jpg"
+        "https://cdn4.telesco.pe/file/FAB0K7aTpMCeyHqFGGsu7bTlWM67n6YPjIj1Gx4yjNv5jFupiUVksJ1I8SWV9a0juHax8G0j2BKCVNaPo72wbUJiykcL7wxeaH-ieqicHpp7iUh0Hq4krtvsFTO5soKdHlJo5ahCcEZ-6UVQb2DopF_SQl4saU0j859HSZbZ4a5gVmvkaMIds68WZV6YfqG0-UU_qxKJmZirQarbedG4sWE8ekmyeA9Al5dccDVZcO9wJfqyqMj52NKhS-iK43B4yBSySbRAcMSGN1aKNwmxh8XdbkzvQR2Tko5ujvqd8hIK_Fw9x104_c0fjwfZEoPQunNpny7YIVNqlC2EAe28-A.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine.  \n.  \nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  \nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  \nYou can try it already today  \nM checkpoint  \n- smaller  \nL checkpoint  \n(lossless)  \nAll the models we support are here, we’ll be happy if you try something else too.  \nBenches are here. You can dig into what and how was measured and how much better it is.  \nMore details about the release — blog post"
+      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine.  \n.  \nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  \nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  \nYou can try it already today  \nM checkpoint  \n- smaller  \nL checkpoint  \n(lossless)  \nAll the models we support are here, we’ll be happy if you try something else too.  \nBenches are here. You can dig into what and how was measured and how much better it is.  \nMore details about the release — blog post\n\nLinks:\nhttps://github.com/trymirai/uzu\nhttps://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4\nhttps://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8\nhttps://trymirai.com/local-models\nhttps://trymirai.com/metrics\nhttps://trymirai.com/blog/speculative-decoding-in-uzu"
     },
     {
       "id": 1327,
@@ -248,14 +248,14 @@
       "id": 1326,
       "url": "https://t.me/chillhousetech/1326",
       "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "9edd383c7c35a3d4916ca9fa76c4f95432fb463101b6e7197659b32f5e9cb611",
+      "hash": "39d36432e82f33f1c618555308321734be53e606e8b4d5ee74cd9d3282c58ae5",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну это \nнеплохо",
+      "text_ru": "Ну это \nнеплохо (https://platform.claude.com/docs/en/models/fable-5-1/overview)",
       "images": [
-        "https://cdn4.telesco.pe/file/MenD_9PeNdUICfci8KfCHA7N21VY4tikZGHfYZRGw8DQrv0pjxCHJDy98MEU5u8as8wahRLiVjufDesKHnb5BSySM8Hd7V8TwD26EbvoEvSByhSq2LZ_vbMiq9GknkrYI9F0WhwalnE5_9tGsdVjlcX4lh2vlRRNDINYaftGEq_YS3CAsXhWb3YBspVSayNkOYZcW22r7El2FQvpOr32eU3Yirswl0CScpl62UC261K8EPcO5HyQutFiBLMDP-xqAGY_8Faz3MbmCgE3VoDzs-PFf3c-xxhGn3cu4k1WnSy7X0qnGLpiITETYu1JNmzVHifwYb0C509Y_liJnpeVBg.jpg"
+        "https://cdn4.telesco.pe/file/tAIUCI85wenEnXRg5jMEyg5ouvbIdZOApTy43QhzPJzpJZ4hY-P19PHYdSmqduh4Lu56oLWzcyTem6Aqo1YTCIWcE-ygg8z9KK548YFX0BAPSHS9gDIgbRfgqwc1NvmbltksCkeS6foFdXj7eJZPKZ0EqB4DO3pX2NGq1m18IPg9m9h-Cn86K3cqnVavbmVvaPmXTWIqdqSp_-kMHCwS8I5h57nxNLyXOgKVykKleyh0T3xJjsPXfH800pKq4hwpPjSLfeTXoIgR_oImV-iieZoRiy5XiepzJYE_4M3NDH58HX5MQf6UdqQjw8M2sgeH9p9_LdIHsuPWDeyGVIdZUQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Well that’s  \nnot bad"
+      "text_en": "Well that’s  \nnot bad\n\nLinks:\nhttps://platform.claude.com/docs/en/models/fable-5-1/overview"
     },
     {
       "id": 1325,
@@ -272,18 +272,18 @@
       "id": 1324,
       "url": "https://t.me/chillhousetech/1324",
       "date_utc": "2026-08-20T23:39:02+00:00",
-      "hash": "56cb466c500dd5f454c8eac3414c45bbb269840071aa34515de7569ba2d9053b",
+      "hash": "036a274d6160f35c9fbc6a3fea094a336e2611df9bdc5a257e95a125568046af",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Самое худшее, что может линкануть фаундер стартапа это вайбкоженный дизайн by Claude code design. Не важно дек, сайт, какой-то лендинг небольшой. Первое, что хочется сделать это закрыть.\nНе знаю как у вас я узнаю с первого скрола.\nПоясню:\n- никто не читал контент почти наверняка, там абстрактные фразы, двусмысленные формулировки и так далее\n- оооочень много всего и мелким шрифтом \n- продуманного повествования почти никогда нет\n- но самое важное это то, что в индустрии аллергия на это\n- ах да есть люди, которые используют \nвот такое\n как плагин в браузере",
+      "text_ru": "Самое худшее, что может линкануть фаундер стартапа это вайбкоженный дизайн by Claude code design. Не важно дек, сайт, какой-то лендинг небольшой. Первое, что хочется сделать это закрыть.\nНе знаю как у вас я узнаю с первого скрола.\nПоясню:\n- никто не читал контент почти наверняка, там абстрактные фразы, двусмысленные формулировки и так далее\n- оооочень много всего и мелким шрифтом \n- продуманного повествования почти никогда нет\n- но самое важное это то, что в индустрии аллергия на это\n- ах да есть люди, которые используют \nвот такое (https://www.pangram.com/)\n как плагин в браузере",
       "images": [],
       "title_en": "",
-      "text_en": "The worst thing a startup founder can link is that faux-leather design vibe by Claude code design. Doesn’t matter if it’s a deck, a site, some tiny landing page. First thing you want to do is close it.\n\nDon’t know about you, but I can tell from the first scroll.\n\nLet me explain:\n- nobody read the content, almost certainly — it’s abstract phrases, ambiguous wording, and so on\n- waaaaay too much stuff, and in tiny font\n- there’s almost never any thought-through narrative\n- but the most important thing is: the industry is allergic to this\n- oh right, and there are people who use\nthis kind of thing\nas a browser plugin"
+      "text_en": "The worst thing a startup founder can link is that faux-leather design vibe by Claude code design. Doesn’t matter if it’s a deck, a site, some tiny landing page. First thing you want to do is close it.\n\nDon’t know about you, but I can tell from the first scroll.\n\nLet me explain:\n- nobody read the content, almost certainly — it’s abstract phrases, ambiguous wording, and so on\n- waaaaay too much stuff, and in tiny font\n- there’s almost never any thought-through narrative\n- but the most important thing is: the industry is allergic to this\n- oh right, and there are people who use\nthis kind of thing\nas a browser plugin\n\nLinks:\nhttps://www.pangram.com/"
     },
     {
       "id": 1323,
       "url": "https://t.me/chillhousetech/1323",
       "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "3c0c0b307053f96aceb02704ac75561821d456ecf651bb17b9c744c0edd692ed",
+      "hash": "0098d64a7d098fcb1eb1ed631cd721a6e318ef159476656ccb616236e34aadca",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новый тренд в венчуре",
       "images": [
@@ -296,12 +296,12 @@
       "id": 1322,
       "url": "https://t.me/chillhousetech/1322",
       "date_utc": "2026-08-14T11:38:14+00:00",
-      "hash": "50bfd25c2fada7cd15c57592db1144343d4a459cd9a901298f85996dac5f44dd",
+      "hash": "74aca1d38a6ec39d0acf8efca112d245f6f9ef180fff54b488d5fbc1107748d8",
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Первая большая жертва биг лабов и китайских моделей. \nMistral\n. \nПо факту их стратегия: мы построим для местных госов и прочих дата центр и станем ака SAP/Palantir консультировать и внедрять. А модели свои, ну если надо можете взять, вот API.",
+      "text_ru": "Первая большая жертва биг лабов и китайских моделей. \nMistral (https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now)\n. \nПо факту их стратегия: мы построим для местных госов и прочих дата центр и станем ака SAP/Palantir консультировать и внедрять. А модели свои, ну если надо можете взять, вот API.",
       "images": [],
       "title_en": "",
-      "text_en": "The first big casualty of the big labs and the Chinese models.  \nMistral  \n.  \nIn reality their strategy is: we’ll build a data center for the local govs and other folks, and become like SAP/Palantir — consulting, rolling stuff out. And their own models, well, if you need them you can take them, here’s the API."
+      "text_en": "The first big casualty of the big labs and the Chinese models.  \nMistral  \n.  \nIn reality their strategy is: we’ll build a data center for the local govs and other folks, and become like SAP/Palantir — consulting, rolling stuff out. And their own models, well, if you need them you can take them, here’s the API.\n\nLinks:\nhttps://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now"
     }
   ]
 }
