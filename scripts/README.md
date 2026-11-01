@@ -35,6 +35,14 @@ Then open `http://localhost:8000/essays.html`.
 - You can disable translation with `--translator none`.
   - If you’re on a very new Python (e.g. 3.14) and installs fail, try `python3.12 -m venv .venv` instead.
 - Images from Telegram posts are included in `feed.json` (`images: [...]`) and rendered on `essays.html`.
+- HTTP(S) destinations on descriptive Telegram links are retained in the extracted text so they can be translated and displayed as links on the website.
+- If the Telegram preview contains no recognizable posts, generation fails and leaves the existing output untouched.
+
+Run the feed regression checks without network calls or translation API usage:
+
+```bash
+python3 -m unittest discover -s scripts -p 'test_update_telegram_feed.py' -v
+```
 
 ### OpenAI translation / formatting (safe API key handling)
 
