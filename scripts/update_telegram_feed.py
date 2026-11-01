@@ -9,6 +9,7 @@ import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional, Tuple
+from urllib.parse import urlsplit
 
 import requests
 from bs4 import BeautifulSoup
@@ -154,6 +155,30 @@ def extract_text_ru(el) -> str:
     text_el = el.select_one(".tgme_widget_message_text")
     if not text_el:
         return ""
+
+    # Keep destinations in plain text so translation and the website's linkifier
+    # can preserve Telegram links with descriptive or nested labels.
+    for anchor in text_el.select("a[href]"):
+        label = anchor.get_text()
+        href = anchor.get("href")
+        if not isinstance(href, str):
+            continue
+        href = href.strip()
+        try:
+            target = urlsplit(href)
+            safe = target.scheme in ("http", "https") and bool(target.hostname)
+        except ValueError:
+            safe = False
+        if not safe or any(char.isspace() for char in href):
+            continue
+
+        if href in label or label.strip().rstrip("/") == href.rstrip("/"):
+            anchor.replace_with(label)
+        elif label.strip().rstrip("/") == re.sub(r"^https?://", "", href, flags=re.I).rstrip("/"):
+            anchor.replace_with(href)
+        else:
+            anchor.replace_with(f"{label} ({href})" if label else href)
+
     # Preserve line breaks from <br> etc.
     txt = text_el.get_text("\n")
     return (txt or "").strip()
@@ -550,6 +575,10 @@ def main(argv: List[str]) -> int:
         timeout_s=max(5, args.timeout),
         user_agent=args.user_agent,
     )
+
+    if not posts:
+        print("No posts found in Telegram preview; existing output was not changed.", file=sys.stderr)
+        return 1
 
     feed = build_feed(
         channel=channel,

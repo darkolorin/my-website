@@ -4,6 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ChillHouse (English) - Essays</title>
+    <meta name="description" content="Selected writing by Alexey Moiseenkov and English translations of posts from his ChillHouse Telegram channel." />
+    <link rel="canonical" href="https://darkolorin.com/essays.html" />
+    <meta property="og:title" content="ChillHouse (English) - Essays by Alexey Moiseenkov" />
+    <meta property="og:description" content="Selected writing and English translations from ChillHouse: thoughts on AI, technology, and on-device intelligence." />
+    <meta property="og:image" content="https://darkolorin.com/YOUR_PREVIEW_IMAGE.jpg" />
+    <meta property="og:url" content="https://darkolorin.com/essays.html" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ChillHouse (English) - Essays by Alexey Moiseenkov" />
+    <meta name="twitter:description" content="Selected writing and English translations from ChillHouse: thoughts on AI, technology, and on-device intelligence." />
+    <meta name="twitter:image" content="https://darkolorin.com/YOUR_PREVIEW_IMAGE.jpg" />
+    <meta name="twitter:site" content="@darkolorin" />
+    <meta name="twitter:creator" content="@darkolorin" />
     <style>
         body {
             max-width: 860px;
@@ -24,6 +37,7 @@
             margin-top: 12px;
         }
     </style>
+    <script defer src="analytics.js"></script>
 </head>
 <body>
     <header>
@@ -39,9 +53,18 @@
     </nav>
 
     <main>
+        <section id="writing">
+            <h2>Selected writing</h2>
+            <p>
+                <a href="https://trymirai.com/blog/the-computer-should-know-the-way">The Computer Should Know the Way</a>
+                — my essay on intent, local assistants, and why computers should work out the steps for us.
+            </p>
+            <hr>
+        </section>
+
         <section>
             <h2>Latest</h2>
-            <p id="status">Loading…</p>
+            <p id="status" role="status">Loading…</p>
             <div id="feed"></div>
             <noscript>
                 <p>This page needs JavaScript to render the static feed.</p>
@@ -51,7 +74,11 @@
     </main>
 
     <footer>
-        <p>&copy; 199X - 2025 Alexey Moiseenkov.</p>
+        <p>&copy; 199X - 2026 Alexey Moiseenkov.</p>
+        <p>
+            <a href="privacy.html">Privacy</a>
+            <button type="button" data-analytics-settings hidden>Analytics settings</button>
+        </p>
     </footer>
 
     <script>
@@ -224,7 +251,9 @@
 
                     if (post.text_ru) {
                         const details = document.createElement("details");
+                        details.lang = "ru";
                         const summary = document.createElement("summary");
+                        summary.lang = "en";
                         summary.textContent = "Original (RU)";
                         details.appendChild(summary);
 
