@@ -40,9 +40,13 @@ jobs:
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
         run: python scripts/update_telegram_feed.py --channel chillhousetech --limit 25 --out feed.json --translator auto
 
+      - name: Build permanent archive and RSS
+        run: python scripts/build_archive.py --feed feed.json --archive archive.json --output-dir .
+
       - name: Commit and push (if changed)
         run: |
-          if git diff --quiet; then
+          git add feed.json archive.json essays.html posts/ rss.xml sitemap.xml
+          if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
@@ -50,8 +54,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add feed.json
-          git commit -m "Update Telegram feed"
+          git commit -m "Update Telegram feed and archive"
           git pull --rebase origin main
           git push origin HEAD:main
 

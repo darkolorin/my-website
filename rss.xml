@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ChillHouse (English) - Alexey Moiseenkov</title>
+        <link>https://darkolorin.com/essays.html</link>
+        <description>English translations of posts from ChillHouse.</description>
+        <language>en</language>
+        <atom:link href="https://darkolorin.com/rss.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Weekend thoughts.</title>
+            <link>https://darkolorin.com/posts/1348.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1348.html</guid>
+            <pubDate>Sun, 01 Nov 2026 20:23:12 GMT</pubDate>
+            <description>&lt;p&gt;Weekend thoughts. Quite a while ago I came to the opinion that modern tech is very different compared to what it used to be. Let me explain.&lt;/p&gt;
+&lt;p&gt;Most of the market and people in tech right now live in the past. Wow, you can make yourself a dashboard, some little calorie-tracking software, or a planner. Sometimes these dreams go beyond personal software and the “like it used to be” game starts. Like, I’ll make it, people need it. But it seems that time is gone.&lt;/p&gt;
+&lt;p&gt;I like the following analogy. In the middle of the last decade, good cameras showed up in phones so you could shoot vids, all sorts of effects and whatever. That made it possible for anyone to shoot a decent clip, because now you don’t need a video camera. Absolutely everyone is “their own director.” The exact same thing is gonna happen with software. You’ve gotta become a blogger. Be a persona. Know how to pull people toward you. And the previous generation of entrepreneurs absolutely can’t do that.&lt;/p&gt;
+&lt;p&gt;All the accelerators, VC, and the whole тусa are tuned to evaluate product, track records, and whatever. But as we know, that’s not something a blogger necessarily needs at all. And “growth,” which everyone used to evaluate too, now has to be evaluated differently. Now every other person under a YC launch writes about how they replicated the whole product with one prompt. And that’s exactly the same effect as with bloggers. Posting a similar video is easy as hell. But only a few go viral.&lt;/p&gt;
+&lt;p&gt;Welcome to the attention economy instead of the product-and-growth economy.&lt;/p&gt;
+&lt;p&gt;And serious software will stay right where it is. Models, research, integration, hardware, and so on. Where the barrier to entry will grow by hundreds of times. That’s how it is.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1348"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>A lot of stuff has piled up that I’d like to write about.</title>
+            <link>https://darkolorin.com/posts/1347.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1347.html</guid>
+            <pubDate>Fri, 30 Oct 2026 15:36:42 GMT</pubDate>
+            <description>&lt;p&gt;A lot of stuff has piled up that I’d like to write about. There’s s1 Anthropic in there, and various other lending crises of the compute business. But I’ll start, I guess, with math.  &lt;br&gt;
+Note: I’m not a scientist and even less a mathematician. But I spent half my life in math and was pretty deeply into it, I even used to go to the Steklov Institute at the Russian Academy of Sciences. Well, those who know, will get it.&lt;/p&gt;
+&lt;p&gt;So. OpenAI dropped a seriously strong result last week. This isn’t some little trifles. This is something on the order of a Fields Medal (the Nobel analogue but for math). Very cool stuff. Sure, it still has to go through review. But still.&lt;/p&gt;
+&lt;p&gt;So I think a very important time has come in mathematical disciplines. Moving in certain domains has become easy, and what’s left is to understand where to move. I think a big chunk of math was so far removed from the applied part that it developed as theory with no clear angle on how to use it. I think in places like that AI will help like hell. The scientist just needs to set the vector and it’ll find it, connect it, and prove it. Proof for the sake of proofs will start to vanish, and that was a huge layer of math.&lt;/p&gt;
+&lt;p&gt;But I think the real juice isn’t in those areas. It’s in that very theoretical physics, or in areas at the junction of several sciences or directions. The most interesting thing is where AI will find something a human, due to the sheer size of the field, simply couldn’t pick out and line up. How much new stuff you can learn. And here, without “human in the loop,” I think there’s still no getting around it for now. It still doesn’t really go, building new concepts without being pointed. But it does brute force like a master.&lt;/p&gt;
+&lt;p&gt;So it’ll become more interesting to go into science. And all sorts of purely-theoretical, three-level nudges will disappear. Because it’ll be way more important to be able to connect it to experiment and reality.&lt;/p&gt;
+&lt;p&gt;But time will tell.&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/" rel="noopener noreferrer"&gt;https://openai.com/index/building-scientific-understanding-with-academic-communities/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1347"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Dear readers, we’re actively collecting use cases for RL for computer use, for…</title>
+            <link>https://darkolorin.com/posts/1346.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1346.html</guid>
+            <pubDate>Thu, 29 Oct 2026 23:13:46 GMT</pubDate>
+            <description>&lt;p&gt;&amp;quot;&amp;quot;&amp;quot;&lt;br&gt;
+Dear readers, we’re actively collecting use cases for RL for computer use, for a local model, and so it runs fast, and I’d be super grateful if you take a minute and dictate yours. For starters we want to focus specifically on using the apps and capabilities that are already on your computer (basically built into the OS). The most active/coolest use case and its author will get 1k USD from us for any neural net as credits. We’ll count it in a couple weeks, I think.  &lt;br&gt;
+You can dictate in either Russian or English, translation is built in. There’s a voting thing too  &lt;br&gt;
+🙂&lt;/p&gt;
+&lt;p&gt;Share it with friends and acquaintances. Thanks!&lt;br&gt;
+Link&lt;br&gt;
+&amp;quot;&amp;quot;&amp;quot;&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://intents.trymirai.com/?utm_source=chillhouse&amp;amp;utm_medium=post&amp;amp;utm_campaign=tg_my" rel="noopener noreferrer"&gt;https://intents.trymirai.com/?utm_source=chillhouse&amp;amp;utm_medium=post&amp;amp;utm_campaign=tg_my&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1346"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>By the way, you can mess around in the browser now https://uzu.run/ Still in…</title>
+            <link>https://darkolorin.com/posts/1344.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1344.html</guid>
+            <pubDate>Sat, 17 Oct 2026 14:57:56 GMT</pubDate>
+            <description>&lt;p&gt;By the way, you can mess around in the browser now  &lt;br&gt;
+&lt;a href="https://uzu.run/" rel="noopener noreferrer"&gt;https://uzu.run/&lt;/a&gt;  &lt;br&gt;
+Still in an experimental form, but soon it’ll make it to the main branch in a proper state. Overall it’s behaving pretty decently. Also, should we bring in jev-like models? Feels like especially in the browser it could be kinda fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1344"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>A pretty interesting picture is shaping up</title>
+            <link>https://darkolorin.com/posts/1343.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1343.html</guid>
+            <pubDate>Thu, 08 Oct 2026 22:26:18 GMT</pubDate>
+            <description>&lt;p&gt;A pretty interesting picture is shaping up&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/EByfhP45gGcFO3Sr9EwX8qh0Gel7qxvwOqsi0L_xLP9eNfn1XCRUNwsHgPiBa13neNpddT-YZnSl5X3hOc-4JZaF0pMNhvj9BzXV1Ra_q2kZt8iDENy2GweDA8riYmKhh58toIbjrwUA2u4eiA2bSv5_vRLeRw6G69Ov3UH0i7uX-Uhy-rvO_pZmyN1s3nun8qth7D2vPCVSqZ8rRKPfQuODnWjnXVc_F373bx8khBDN7to9WlO0U8QSTPw9VDgKuPiaZnL5FLaM88DXNNa6lm-V2POLmw2BKSvPDDXhm7dZ5WlLO_T-gzJroUaPp3UWkRgPh-7aaMqq7RrPjjirlQ.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1343"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Great PR for the IPO, after all there are very smart people sitting there models</title>
+            <link>https://darkolorin.com/posts/1342.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1342.html</guid>
+            <pubDate>Thu, 08 Oct 2026 18:23:37 GMT</pubDate>
+            <description>&lt;p&gt;Great PR for the IPO, after all there are very smart&lt;br&gt;
+people sitting there&lt;br&gt;
+models&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/k45YLvWFvIthAiejFSq97VVNU-G2eqA6wXSzKjKcVG72jR8OW2gw11IgifTGU2p6A_ChvdMEKZGjfq6apV7tG04BIi6uNNAIscduTnd8PZ_F-lVOf25LwR-665o-V3Zn2MdboTalp6ZfLBbKv6sP1dc4ZhYx4JKKhKjy50wy_o_Hy6sKtIgzEJ2rgNdQCBzDyjnzwyip1M45IlM7xUVpZ-nRp6RzY_ko0yIsn-5Owp0STUHaTqSkgcDpHBgqZAdJUomcuN9OCzxGUy5G2TQ38sbSlSABF7tKW3qKZz4NauzGzYQ95CNEk6kk4zXwaxWidam56ls0RTg8CMNfHNJ7hw.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1342"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Hot take: working on a pretrain team in top labs is the most boring thing…</title>
+            <link>https://darkolorin.com/posts/1341.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1341.html</guid>
+            <pubDate>Fri, 02 Oct 2026 22:14:42 GMT</pubDate>
+            <description>&lt;p&gt;Hot take: working on a pretrain team in top labs is the most boring thing imaginable. Everyone’s there just for the money. Prove me wrong.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1341"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Turns out google can do something.</title>
+            <link>https://darkolorin.com/posts/1340.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1340.html</guid>
+            <pubDate>Wed, 30 Sep 2026 20:38:13 GMT</pubDate>
+            <description>&lt;p&gt;Turns out google&lt;br&gt;
+can do&lt;br&gt;
+something. Or it’s just a table with little numbers.&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/" rel="noopener noreferrer"&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/Pt27tA-iNCYjxc6_ABKhbUdldCKTkDaK2Jh1XiSZHdmTqky1cIEqRWs4mfnwqAkZUB0Jac2WfuYXre78PYGTaWFHsQmWuLCPC5QKMNpcTwE_3nY5KIS14XulT_abIDwOjYtyVGx7ximWGugZg4Jw9Qr_jFY7G3uzRV7nI2NtNVvYr5wW19l4a0H06Tk4aJH_ubu8A8VxVKwRufAutKog5cZHgqO-OcYFwDw30s8gernVSGIimkwWPzb4B0lLZbMJi_fsPn1tvHgQchowhBONrgNPn4KpUnO8L3aph4u4o0B2e3jQ0y7yFsd8wBbtTLFHDf_Pn6_X5ozvP0XJap5dnA.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1340"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>In my work email every day there are like 50 emails with the subject: we've…</title>
+            <link>https://darkolorin.com/posts/1339.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1339.html</guid>
+            <pubDate>Mon, 28 Sep 2026 09:56:05 GMT</pubDate>
+            <description>&lt;p&gt;In my work email every day there are like 50 emails with the subject: we&amp;#x27;ve built new ai empowered gtm tool. After that it’s usually something like: cold outreach automation, market research, and most often of course SEO/GEO or whatever that thing is about rankings inside chat bots. Hundreds of emails, most of them written through AI, replies — zero.&lt;/p&gt;
+&lt;p&gt;Almost everyone builds the email on the same principle:  &lt;br&gt;
+• a hook in the subject (like some dude wrote Ferrari, turned out that’s the name of their tool)  &lt;br&gt;
+• inside, some kind of reworked description of what the “agent” found about your company (usually it can’t really find anything, with your own eyes it’ll be three times faster to understand)  &lt;br&gt;
+• a standard template about how we’ll find you a bajillion deals, deliver a bajillion results&lt;/p&gt;
+&lt;p&gt;Sometimes I open  &lt;br&gt;
+these guys’ sites  &lt;br&gt;
+— 100% made by Claude&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://www.enablement.ch/" rel="noopener noreferrer"&gt;https://www.enablement.ch/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1339"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Launched here a small experiment, a little model , basically a very solid…</title>
+            <link>https://darkolorin.com/posts/1338.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1338.html</guid>
+            <description>&lt;p&gt;Launched here  &lt;br&gt;
+a small experiment, a little model&lt;br&gt;
+, basically a very solid compressed and pretty peppy one, gentlemen are testing it themselves (they even ported it to the required engine)&lt;br&gt;
+you can check what comes out in the video or read about the experiments from the guys  &lt;br&gt;
+&lt;a href="https://t.me/fuckup_files/1049" rel="noopener noreferrer"&gt;https://t.me/fuckup_files/1049&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://huggingface.co/trymirai/Qwen3.8-27B-S-experimental" rel="noopener noreferrer"&gt;https://huggingface.co/trymirai/Qwen3.8-27B-S-experimental&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1338"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>On the topic of apps and the AI boom.</title>
+            <link>https://darkolorin.com/posts/1336.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1336.html</guid>
+            <pubDate>Fri, 18 Sep 2026 14:22:56 GMT</pubDate>
+            <description>&lt;p&gt;On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&amp;amp;utm_medium=ios" rel="noopener noreferrer"&gt;https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&amp;amp;utm_medium=ios&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/M61PJXDsue5Xv0Pz6h599dWeC_k3VExsQ8hK9sYM5AlnGnFmtArHYUCt5dmQsJI3xiSi3dcGF7GNwfQW3UhAbPGJcgMLoqxWRpUFy0FeRHcHm3Hl5QY9FL1G7QRKXu2jmx5Zz5-zf3jNGYjwqelD5mZCr3rBvWkJkAoctApq9gXJaGXtB2A47W-CjlBEc75sZJM_rZUdqSdHsUk9l4vnSRO0jgVgVnbQF9XgHiRSgBSLtNg0xauRcWB_1-el2JU7tEAxcTE6d8Y8uuXU8SUVqgGxzimjdtfEr7Azkk_f1EQru0LcETwJLty92PN3lWF6ZpSnHXe8rw1N21FT9o644g.jpg" alt="" loading="lazy"&gt;
+&lt;img src="https://cdn4.telesco.pe/file/g26KfpsMameEzdWfzUSGvRMfuclTbxHOUAmEfVxXEf_Jtw92XatL8IhMwG6w5QnlKEJlA9T64ns2lLcca-BAIRcheU9mPoiTGfZX1rOTlzr8NB1fJWWT93u4yERNtRlmU9wkjf6eeBSLEPTIUSpe1kYxnr3Ex8Y6nTwQ556RiRg4gGd7Izq9fxEWT0hWP_uWaQnVhOqWM2CD1u3Iym9M1XyFsT-dZaOzRTyytIPl8sFh6p3f2C__ldhQH5ou1pZypIkgpJeM3UDGcqq409jXqJ1T_k5n8Ubs9mjE6bmN0kHQMkCECnzZ2E_nSFNKQR26c8AyptKjwl0PmUV_G0dPjw.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1336"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>On the topic of AI oversight</title>
+            <link>https://darkolorin.com/posts/1335.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1335.html</guid>
+            <pubDate>Tue, 15 Sep 2026 14:36:30 GMT</pubDate>
+            <description>&lt;p&gt;On the topic of AI oversight&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/OnMWbeiLrqQIElhwupelShH5EOc0M3HOeBfh84Ne_5jLr-oQ5qCcRxnSx3bIiE5guK8m8JGWHNOBF-VYQUcYrFI7JJV_hO3SUBd2d_LF7H8XQxaEH4opD_Uqyy3LkBrrQZq10DhCcl-hxyfwHtFlXUftu79VMy3K9ikXG0OWaOYkylboGwZM1FDVOLIF6ch9EfQUR7StIWISW1TTqd1Xv5s40_NF1h1ooJWxOAsc54CGs8V6iTWfAL5nsJKebQBwEYVCrjzN1OH0CP-P37L3MuxT56-jzfEfdD6C3-m7RFZH9RFqioYnlWQLA5jRJNO63cN8_frra3BFCiUuMxAPBw.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1335"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>I’ve got one question for all these labs and companies that are pumping the AI…</title>
+            <link>https://darkolorin.com/posts/1334.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1334.html</guid>
+            <pubDate>Mon, 14 Sep 2026 16:38:55 GMT</pubDate>
+            <description>&lt;p&gt;I’ve got one question for all these labs and companies that are pumping the AI hype up to the heavens. Why do people leave these top omega badass teams — and not just people, but leaders? Like, if you see that your so-called lab is on the brink of a breakthrough and conquering the whole world. And you bounce to go build your own startup around post-train. WTF?&lt;/p&gt;
+&lt;p&gt;I mean, sure, maybe some folks don’t like the people and the vibe. But there’s money and opportunities coming out of their ears in there. Layoffs? Lol. Doubt it. But maybe it’s about equity.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1334"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>New essay.</title>
+            <link>https://darkolorin.com/posts/1333.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1333.html</guid>
+            <pubDate>Sat, 12 Sep 2026 15:11:41 GMT</pubDate>
+            <description>&lt;p&gt;New essay.&lt;br&gt;
+Dario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.&lt;br&gt;
+And&lt;br&gt;
+Sam’s take&lt;br&gt;
+goes in the same direction. Probably someone else is supposed to think that way too, right?&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier" rel="noopener noreferrer"&gt;https://darioamodei.com/post/we-must-pace-the-frontier&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://x.com/sama/status/2098811563415150910?s=46" rel="noopener noreferrer"&gt;https://x.com/sama/status/2098811563415150910?s=46&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/XfyPNifjp5QGesD6mgwUR8U1KA7SPfsYxRuA1rK7o1BGJLytqdcQIFgyzXkhIQnZJgAIadHhXDbTzS8DQA7HSdrzACzU0HBAU9egbnXdHx4elJU6y86eRsmxx7FFrnD11YxpMZ29QXxVia5QoNtLNn2Zw2jcSHF8t4v28llKq19MP2wCPKNcTwzloHaz2IBV65TAAITbMWFEN4repVnUPua4mLrCQ854zb-zZ35GsXI1910fspsAtCV--lbfmq9NItl6-PEY8aIufMT7_N886p124YHLzCwmFzf37qYX2MdP87a5yRAgirJUpk7RMXiSQVF7u8_xY3pU7QqAVotsjQ.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1333"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Wanted to throw in some more memes.</title>
+            <link>https://darkolorin.com/posts/1332.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1332.html</guid>
+            <pubDate>Thu, 10 Sep 2026 20:24:53 GMT</pubDate>
+            <description>&lt;p&gt;Wanted to throw in some more memes. OpenAI &lt;br&gt;
+halted&lt;br&gt;
+ new sign-ups for the 200-dollar plan. A few moments before&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://x.com/thsottiaux/status/2098113585683808624?s=46" rel="noopener noreferrer"&gt;https://x.com/thsottiaux/status/2098113585683808624?s=46&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/ViGPBIqzia3_GK3gTkdXwkZvVTVwDJqLkoCWLYoGUVV-2Z_9cRgDyle64JEtKGmqxWHCev9P2eYg-5UwQgmL0b4BXKR3Xlra-f88MVKR831VhP73NrhLcW87FbZlDNrOAHe-lqvAu1HwFQ8ipEynMGYrO-fm7GUuRJEaqz8neD2_9UjrOptWMPIxXB6xP5Uk6grQuYNsbLdjJbV_XnJBfTB14yg8QDQqT3JUf3WZlMRn5jBE9yiUF8gKMxChUX5OSzbgu1HKFmKEg9Z8LpcPgpZwj36IMidNcAsX66C7HgREMNOeTtDW8Hvi6UcrcX3Jxu7GBYX8H9u8_J51GtYL2g.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1332"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>To everyone especially freaking out, I’ll remind you of a few details about…</title>
+            <link>https://darkolorin.com/posts/1331.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1331.html</guid>
+            <pubDate>Thu, 10 Sep 2026 11:49:09 GMT</pubDate>
+            <description>&lt;p&gt;To everyone especially freaking out, I’ll remind you of a few details about the latest events:&lt;br&gt;
+1/ the HuggingFace “hack” by agents is, damn, not “some model sitting there thinking how it could break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?&lt;br&gt;
+2/ AI solves a millennium-old problem all by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.&lt;br&gt;
+3/ but the funniest part&lt;br&gt;
+is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing this line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I recommend not leaving your house starting now.&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://x.com/parkerthayer/status/2097759699626328575?s=46" rel="noopener noreferrer"&gt;https://x.com/parkerthayer/status/2097759699626328575?s=46&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/Ps4ARm3ducblXMKxHc1P3h6aJzWiq_D1LMw9O0idR6RwqQU43Kzn1tGcnLr3oNBYn8h2O6GqgrtUExUZ6hm1SRrkLAVvQVMx9hBXj3_7kUP1f1oLgNS14BerJxvYKdWvH5N9zxw4v4WwbkSV3fZQpfK7SLGRnl8Fj5vYxZmaytIVKGTaptgjOI_t90S8ag_O8mRfxMLJi2Scv-RyTygl9TaIzNNo75fSjhXQ2geNGZnYkKyuqP--Wfw4E0OVEefz7E_R4_kkPRku9yq37Dy-h_LPSo6OtcQLp6Z_IQZIpd4PcOC7moD2n7t3MgeWZkI0EVwkeQSZdPjcRfnJ94QHvg.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1331"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>The future is here</title>
+            <link>https://darkolorin.com/posts/1330.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1330.html</guid>
+            <pubDate>Wed, 09 Sep 2026 19:51:43 GMT</pubDate>
+            <description>&lt;p&gt;The future is here&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/aUnxnLhsFUrFKgofg6zu_WVnaD8ZEC1mneDHZI1LRnyWB6VP_2fehyfSL_W8hjtx3fZJLLn2hkpe5Lt_jQPYZ7OYifd8LuPVSRMWB0_T4C_Oc6q65bvbGl2RZ6qBRMIxiLcW8iSxJ8-69fXNSuD1YyrU2G2PWFdwa1UtdhWmrVRk96Gk4RmQ_btI9BU8zqWWJBzayNxMx19Ehsh4psz1Dk9iaM5X6U2t2EdAvTn_vuTtz3BJDcdWNuX5r8r26kIj-cFyFoG31TA1aEsh8P1TANoRygvtRNwtzpFaKEpSiD4vrH61aKK4y0nkqWvlozgzAlTbrNT64lG1pJODupANEQ.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1330"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Well that’s a solid result.</title>
+            <link>https://darkolorin.com/posts/1329.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1329.html</guid>
+            <pubDate>Tue, 08 Sep 2026 17:25:23 GMT</pubDate>
+            <description>&lt;p&gt;Well that’s a solid result.  &lt;br&gt;
+Solving Navier–Stokes.  &lt;br&gt;
+.  &lt;br&gt;
+There’s some drama along the way like the guys figured out which direction to dig, and OpenAI peeked into their Codex logs and ran it on their own cluster with a beefier model :)  &lt;br&gt;
+A bit more details, 300 billion tokens out. 10k agents. Now that’s brute force, I get it.  &lt;br&gt;
+Still, top! Grats!&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://openai.com/index/navier-stokes-solution/" rel="noopener noreferrer"&gt;https://openai.com/index/navier-stokes-solution/&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://x.com/willdepue/status/2097377325817974908?s=46" rel="noopener noreferrer"&gt;https://x.com/willdepue/status/2097377325817974908?s=46&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1329"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Major release from our small lab.</title>
+            <link>https://darkolorin.com/posts/1328.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1328.html</guid>
+            <pubDate>Thu, 03 Sep 2026 15:45:00 GMT</pubDate>
+            <description>&lt;p&gt;Major release from our small lab. Support for speculative decoding in our inference engine.  &lt;br&gt;
+.  &lt;br&gt;
+To start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  &lt;br&gt;
+We massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  &lt;br&gt;
+You can try it already today  &lt;br&gt;
+M checkpoint  &lt;br&gt;
+- smaller  &lt;br&gt;
+L checkpoint  &lt;br&gt;
+(lossless)  &lt;br&gt;
+All the models we support are here, we’ll be happy if you try something else too.  &lt;br&gt;
+Benches are here. You can dig into what and how was measured and how much better it is.  &lt;br&gt;
+More details about the release — blog post&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://github.com/trymirai/uzu" rel="noopener noreferrer"&gt;https://github.com/trymirai/uzu&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4" rel="noopener noreferrer"&gt;https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8" rel="noopener noreferrer"&gt;https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://trymirai.com/local-models" rel="noopener noreferrer"&gt;https://trymirai.com/local-models&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://trymirai.com/metrics" rel="noopener noreferrer"&gt;https://trymirai.com/metrics&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://trymirai.com/blog/speculative-decoding-in-uzu" rel="noopener noreferrer"&gt;https://trymirai.com/blog/speculative-decoding-in-uzu&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/FAB0K7aTpMCeyHqFGGsu7bTlWM67n6YPjIj1Gx4yjNv5jFupiUVksJ1I8SWV9a0juHax8G0j2BKCVNaPo72wbUJiykcL7wxeaH-ieqicHpp7iUh0Hq4krtvsFTO5soKdHlJo5ahCcEZ-6UVQb2DopF_SQl4saU0j859HSZbZ4a5gVmvkaMIds68WZV6YfqG0-UU_qxKJmZirQarbedG4sWE8ekmyeA9Al5dccDVZcO9wJfqyqMj52NKhS-iK43B4yBSySbRAcMSGN1aKNwmxh8XdbkzvQR2Tko5ujvqd8hIK_Fw9x104_c0fjwfZEoPQunNpny7YIVNqlC2EAe28-A.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1328"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Typical cycle of an AI native company.</title>
+            <link>https://darkolorin.com/posts/1327.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1327.html</guid>
+            <pubDate>Tue, 01 Sep 2026 21:43:27 GMT</pubDate>
+            <description>&lt;p&gt;Typical cycle of an AI native company. You build a harness for some task or an aggregator of APIs + prompts. You scale with paid traffic (90% die here because it’s actually hard). Then, once you’re big, it gets hard to ship features because you depend entirely and completely on the model (well, maybe it will, maybe it won’t). And you try like Harvey to make your own or at least post-train. That’s when you realize you’re worth billions, but you can barely ship features anymore and the labs are breathing down your neck. And where do you find people for all these companies who can do model training and evals and all that all that, and also in a month. And nobody knows.  &lt;br&gt;
+Anyway, that’s how it is for a lot of people right now;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1327"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Well that’s not bad</title>
+            <link>https://darkolorin.com/posts/1326.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1326.html</guid>
+            <pubDate>Tue, 01 Sep 2026 18:05:54 GMT</pubDate>
+            <description>&lt;p&gt;Well that’s  &lt;br&gt;
+not bad&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://platform.claude.com/docs/en/models/fable-5-1/overview" rel="noopener noreferrer"&gt;https://platform.claude.com/docs/en/models/fable-5-1/overview&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/tAIUCI85wenEnXRg5jMEyg5ouvbIdZOApTy43QhzPJzpJZ4hY-P19PHYdSmqduh4Lu56oLWzcyTem6Aqo1YTCIWcE-ygg8z9KK548YFX0BAPSHS9gDIgbRfgqwc1NvmbltksCkeS6foFdXj7eJZPKZ0EqB4DO3pX2NGq1m18IPg9m9h-Cn86K3cqnVavbmVvaPmXTWIqdqSp_-kMHCwS8I5h57nxNLyXOgKVykKleyh0T3xJjsPXfH800pKq4hwpPjSLfeTXoIgR_oImV-iieZoRiy5XiepzJYE_4M3NDH58HX5MQf6UdqQjw8M2sgeH9p9_LdIHsuPWDeyGVIdZUQ.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1326"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>The “coolest” business ideas of this year.</title>
+            <link>https://darkolorin.com/posts/1325.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1325.html</guid>
+            <pubDate>Mon, 24 Aug 2026 09:22:24 GMT</pubDate>
+            <description>&lt;p&gt;The “coolest” business ideas of this year. Like, “solid little themes” to try, with some small comments:&lt;br&gt;
+- all sorts of vertical RL envs, verifiers, other crap to make RL easier. Important thing: before you build, make sure you’ve got contacts in labs so you can sell them all this. Otherwise it’s a good business valued at 50–100M. Gets bought out by big companies and labs a lot.&lt;br&gt;
+- infra for robots, I don’t know much, but seems to land fine, I’m talking software. Same logic as the previous point. Preferably build it knowing the customer.&lt;br&gt;
+- heavy optimizations at the data center level etc. All kinds of super narrowly tuned stuff for inference or training models (where every run costs millions). Like, you know how to do training for a specific architecture properly or squeeze out higher MFU.&lt;br&gt;
+- pure research, yeah, because even if you don’t really do jack shit, they’ll buy you as a team. The whole point is to assemble a solid lineup. The rest isn’t that important. Betting on neo-labs at funds is popular. Because the money returns are almost guaranteed.&lt;br&gt;
+- application layer. But here it’s important to understand what’s relevant is more the UX part, not the business part. Labs and big companies have a need to implement certain features (look at OpenAI’s acquisitions)&lt;br&gt;
+Pretty much all of this is hard to validate without deep domain knowledge. Absolutely not relevant outside certain geographies and without talent onboard. That’s how it is.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1325"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>The worst thing a startup founder can link is that faux-leather design vibe by…</title>
+            <link>https://darkolorin.com/posts/1324.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1324.html</guid>
+            <pubDate>Thu, 20 Aug 2026 23:39:02 GMT</pubDate>
+            <description>&lt;p&gt;The worst thing a startup founder can link is that faux-leather design vibe by Claude code design. Doesn’t matter if it’s a deck, a site, some tiny landing page. First thing you want to do is close it.&lt;/p&gt;
+&lt;p&gt;Don’t know about you, but I can tell from the first scroll.&lt;/p&gt;
+&lt;p&gt;Let me explain:&lt;br&gt;
+- nobody read the content, almost certainly — it’s abstract phrases, ambiguous wording, and so on&lt;br&gt;
+- waaaaay too much stuff, and in tiny font&lt;br&gt;
+- there’s almost never any thought-through narrative&lt;br&gt;
+- but the most important thing is: the industry is allergic to this&lt;br&gt;
+- oh right, and there are people who use&lt;br&gt;
+this kind of thing&lt;br&gt;
+as a browser plugin&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://www.pangram.com/" rel="noopener noreferrer"&gt;https://www.pangram.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1324"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>A new trend in venture capital</title>
+            <link>https://darkolorin.com/posts/1323.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1323.html</guid>
+            <pubDate>Wed, 19 Aug 2026 11:40:04 GMT</pubDate>
+            <description>&lt;p&gt;A new trend in venture capital&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/oXPRKWWDlyPYpoxFOiFvtHXWcIeOsyAbQXSmrBx7ETaXXrJCWGPjDCYg5KL-GncEf5GF2RLh6cXkqK744_g_z2Ir9tlMNf85o4osgH8U_Dsy46F8ajys9qB0ppuJR4cwI01-jq-nNBjiS20wHJwG_rwEqlGNrZBueCvYDBTsLC6CcwEWXR2i-EEesI-FNpFEkmj_YMjcPFKy1UPS_KIIsNNBAb-VbK3-Tw2Z4iiyeMQGzSQC4AllniJa0_BenhDLQ7jrQEi9fSAo9OlZgR22M6xA6LTj5ROq1N_iTqH28XCi_vmmU15pvGLBd3k5CIN-ULphTSnD_jYvaW-3U6CyJw.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1323"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>The first big casualty of the big labs and the Chinese models.</title>
+            <link>https://darkolorin.com/posts/1322.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1322.html</guid>
+            <pubDate>Fri, 14 Aug 2026 11:38:14 GMT</pubDate>
+            <description>&lt;p&gt;The first big casualty of the big labs and the Chinese models.  &lt;br&gt;
+Mistral  &lt;br&gt;
+.  &lt;br&gt;
+In reality their strategy is: we’ll build a data center for the local govs and other folks, and become like SAP/Palantir — consulting, rolling stuff out. And their own models, well, if you need them you can take them, here’s the API.&lt;/p&gt;
+&lt;p&gt;Links:&lt;br&gt;
+&lt;a href="https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now" rel="noopener noreferrer"&gt;https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1322"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>In short, a rage bait post.</title>
+            <link>https://darkolorin.com/posts/1321.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1321.html</guid>
+            <pubDate>Tue, 11 Aug 2026 22:24:11 GMT</pubDate>
+            <description>&lt;p&gt;In short, a rage bait post. About business, entrepreneurs, venture, and the “grown-up tech industry.”&lt;br&gt;
+TLDR: venture as it exists now is over, there’ll only be big rounds, entrepreneurs from the previous cycle (like Instagram cofounders) have lost their value, their experience isn’t needed.&lt;/p&gt;
+&lt;p&gt;Now in order. We’re standing at the threshold of a tech cycle. The entry threshold, obviously. AI is the kind of thing that cuts off all the “mid,” the “eh, kinda,” and everything below that in quality. The tech swaps two important things in priority: the ability to make and the ability to verify.&lt;/p&gt;
+&lt;p&gt;Before, the biggest entry barrier was: assemble a team, find money to pay them, motivate them, etc. The flow of people into the industry was growing. There were tons of hypotheses, but to test them you needed time and resources. The hypotheses were super simple. Like oh let’s sell this, or tag photos on a map, tag clients in a spreadsheet and track progress. Everything was open (the internet was less regulated). That’s why entrepreneurs were famous for their soft skills. It wasn’t that important to know the problem and solve it, it was important to find people and iterate. That was valued above all.&lt;/p&gt;
+&lt;p&gt;Today I see the picture differently. The barrier to testing a hypothesis has dropped to basically nothing. Simple things you can test on your knee. Look at the vibe-coding knockoffs. And then it turned out that solving the problem in the real world costs hundreds of millions, while your new SaaS is, God willing, two revenues. And for me the following flipped. Before it was important to find who with and set it up. Now it’s important to understand very precisely what to do, and ideally to formulate it concretely. And that notorious “knowledge” in the age of AI companies turned out to be very technical and very hard.&lt;/p&gt;
+&lt;p&gt;The first companies like Perplexity &amp;amp; Harvey made it in. And then reading the descriptions of companies raising 200m right away, it’s not even clear. And it’s not because they’re making bullshit (clowns lolol), it’s because you don’t understand what the essence of the problem they’re solving even is.&lt;/p&gt;
+&lt;p&gt;After the crisis among entrepreneurs there will be a capital allocation crisis. Because now you need to understand “what” to give money to, not who to give money to. Which really breaks the investors’ world. And soft skills move to the background, because assembling a team for a clear problem and knowing what’s inside is easier than for “Tinder for dogs.” Which means you need investors who actually get it. And there will be few of those, because it’s easier for them to build their own company.&lt;/p&gt;
+&lt;p&gt;You can already see all this now: top research people are leaving Google, faces in investment funds are changing, because the previous leaders just don’t understand what’s happening. Just straight up, basically, don’t grok the meaning of what’s going on.&lt;/p&gt;
+&lt;p&gt;This stage exists in a lot of industries. Where there basically isn’t venture. Where there have become way fewer high-risk ideas with potential. Because the ideas got too complex. That’s what’s coming for us in tech too. And yeah, I wouldn’t invest money in a track record from past years, I’d rather throw it at students and good ML professors. That’s how it is.&lt;/p&gt;
+&lt;p&gt;Maybe I’ll write a second part too. But I’m predicting a huge number of “great entrepreneurs” who, in the AI era, won’t get anything to work. At all.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1321"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Observations from the last few weeks.</title>
+            <link>https://darkolorin.com/posts/1320.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1320.html</guid>
+            <pubDate>Mon, 03 Aug 2026 19:45:25 GMT</pubDate>
+            <description>&lt;p&gt;Observations from the last few weeks.  &lt;br&gt;
+1/ there are two camps on how to reach AGI — we’ve got rsi (recursive self improvement) and world models. The first is represented by Anthropic &amp;amp; OpenAI. The second by Google DeepMind. And because the DeepMind leader doesn’t believe OpenAI is pulling it off, you supposedly need to do both, and that’s why everything is so slow. Basically a corporate delay. But whose bet will hit is unclear to literally anyone.  &lt;br&gt;
+2/ people are returning to China — the ones working at top places in the US. Main idea: they believe they’ll be able, like the US back in the day, to pull off the “Chinese dream,” namely get valuation multiples for their companies that are several times higher. In other words we’re in for Chinese dominance in AI. I’d say that’s more than likely. Given the amount of effort and faith. And super talents.  &lt;br&gt;
+3/ a crisis is brewing in math. Many PhDs are, to put it mildly, going to get devalued. And I think there’ll be a big restructuring of the whole science world in general. Because AI will be able to literally discover and solve 50% of current problems. And there still aren’t any “totally new” meanings in sight. And I think the problem of finding something new is the same as the problem of writing text that resonates. Because in relativity theory what matters is not so much the theory as the idea. After that you can, so to speak, run the rest of the way somehow.  &lt;br&gt;
+4/ hiring is hell. A regular researcher at Anthropic (and other top labs) gets 10m+ over 4 years. Life is pain.  &lt;br&gt;
+5/ a lot of companies have barely realized that scaling depends on their ability to train their own models. Harvey, Cursor (couldn’t and gave up to do it somewhere else) and others  &lt;br&gt;
+6/ turns out quantum computing is developing really fast and there’s a lot of interesting stuff there especially in the area of quantum neural nets (lolkek), should I write about it?  &lt;br&gt;
+What’s your news?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1320"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Haven’t done this in a while.</title>
+            <link>https://darkolorin.com/posts/1319.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1319.html</guid>
+            <pubDate>Sun, 02 Aug 2026 10:50:11 GMT</pubDate>
+            <description>&lt;p&gt;Haven’t done this in a while. Used to be on the channel once, back in the beginning of time. Anyway, AMA or ask me anything (ask whatever). Drop it in the comments. I’ll try to answer when I can.  &lt;br&gt;
+Sunday stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1319"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>On networking.</title>
+            <link>https://darkolorin.com/posts/1318.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1318.html</guid>
+            <pubDate>Mon, 27 Jul 2026 11:10:02 GMT</pubDate>
+            <description>&lt;p&gt;On networking. Overall it’s all simple. If they don’t want to talk to you, it means you’re doing something that isn’t interesting to the other person. Explaining, persuading, getting offended is just useless.  &lt;br&gt;
+In the Valley it’s easy and quick to notice. And in general that’s normal. The second way to find people is to have a track record people are interested to hear about (that’s why corporate work at a good company is a great старт).  &lt;br&gt;
+That’s it, fuck. There are no other ways. Warm intros don’t work if you’re doing “something nobody cares about” or you don’t have a track record. Admitting that to yourself is, of course, hard.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1318"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>I’ve got this one kinda contradictory argument.</title>
+            <link>https://darkolorin.com/posts/1317.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1317.html</guid>
+            <pubDate>Tue, 21 Jul 2026 21:12:34 GMT</pubDate>
+            <description>&lt;p&gt;I’ve got this one kinda contradictory argument. Basically about entrepreneurs and business. Pretty much every “expert” for the last ten years has been selling: taste/eye, soft skills, broad horizons, and other crap. And it was always like “you don’t have to know the details, the main thing is the ability to see where to run.” Well AI, to me, is gonna flip that whole topic. It’s impossible now and in the future to know where to run if you’re not super deep in the subject. Like, understanding matters a lot. Because everything else gets commoditized through AI-ish stuff.&lt;/p&gt;
+&lt;p&gt;Sure, people will say there’ll be plenty left where the nonverbal component matters a lot. Fine. I’m talking only about tech. Look at the quality of vibe-coding products from “big-name” founders. They were handed the best tools. And what do we see? A large chunk of it is something nobody needs. Because their strength was “ability to manage teams,” sales, and so on. Not the quality of the solution/product. And to make quality you have to actually know your shit. Now some schoolkid who knows his shit will sell faster because his solution is better and cheaper. And it’ll be possible to prove and show that. Because the tools are the same for everyone now.&lt;/p&gt;
+&lt;p&gt;In other words, the ease of production is gonna massively devalue a huge category of “businessmen from the past,” and they won’t be able to adapt. Because learning new stuff is extremely hard, especially in an industry this fast. Prove me wrong.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1317"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Kimi k3 dropped, and now a new Qwen 3.8 max is dropping too, which will also…</title>
+            <link>https://darkolorin.com/posts/1316.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1316.html</guid>
+            <pubDate>Mon, 20 Jul 2026 09:36:20 GMT</pubDate>
+            <description>&lt;p&gt;Kimi k3 dropped, and now a new Qwen 3.8 max is dropping too, which will also be aka a “fable class model.” The internet will be flooded with reviews like, look, the model can do everything the big labs can. Let’s try looking at it from a slightly different angle. Because the releases are very important, but the point is different.&lt;/p&gt;
+&lt;p&gt;Over many years we’ve seen the Chinese catching up to Western models. Mostly by buying up traces and data “kinda like distillate.” You have to understand that distillation by itself isn’t just dumb copying, it’s like for RL it solves the cold start. So yeah it matters to “steal” data, but it doesn’t solve much on its own. Next, the guys are really good at architecture and training on old GPUs and clusters. That’s cool. Plus open source (here the OpenAI policy director, btw he’s literally a politician, started writing on Twi and spectacularly shit the bed, I haven’t seen this level of nonsense from people of that rank on the internet in ages, like the dude has never been online even once, and he writes that he’s been on the net since childhood, go read it yourself because it’s interesting). But it’s important to understand that the main effect of these releases is public information that a lot of tasks can be pushed to a very high level and quality just by doing good RL. See frontend arena. There Kimi k3 wrecks everyone and everything including sol &amp;amp; fable. Meaning you don’t have to take some arch-expensive new top model and pay a ton of money if you only need to solve a certain type of tasks. In other words startups like thinking machines &amp;amp; engram.ai are doing exactly that. Like come here, dear enterprise, and we’ll do everything for you. And now every business in the world has understood this. Healthy competition, finally!&lt;/p&gt;
+&lt;p&gt;Such is life.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1316"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Well then, here’s our first release to the archive.</title>
+            <link>https://darkolorin.com/posts/1315.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1315.html</guid>
+            <pubDate>Thu, 09 Jul 2026 07:49:47 GMT</pubDate>
+            <description>&lt;p&gt;Well then, here’s our first release to the archive.  &lt;br&gt;
+We achieve a 4.37-fold speedup over autoregressive decoding, and outperform a highly optimized DFlash baseline by 24.7%  &lt;br&gt;
+This is speculative decoding. SOTA (well, on qwen3.6 for sure). We beat everything known in public (well, dflash). A super important topic for fast on-device inference, especially when you actually understand the task.  &lt;br&gt;
+GitHub  &lt;br&gt;
+HF  &lt;br&gt;
+Support in our inference engine will roll in soon enough&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1315"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Lilian Weng, the cofounder of thinking machines, always has interesting posts.</title>
+            <link>https://darkolorin.com/posts/1314.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1314.html</guid>
+            <pubDate>Tue, 07 Jul 2026 07:59:22 GMT</pubDate>
+            <description>&lt;p&gt;Lilian Weng, the cofounder of thinking machines, always has interesting posts.  &lt;br&gt;
+This time it’s about how to build harnesses, or the wiring/scaffolding/environment for running models to solve specific tasks.  &lt;br&gt;
+I’d say a really important point that’s very often missing in “duct-taped” harnesses is this thing:&lt;/p&gt;
+&lt;p&gt;The design should be deliberately simple and generic to enable generalization, likely with reference to existing software engineering practices to benefit from prertaining knowlege.&lt;/p&gt;
+&lt;p&gt;And my take is that we’ll be redesigning modern OSes around an AI that’s always running in the background (i.e., inference should basically be spinning forever in the background).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1314"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Notes from the field.</title>
+            <link>https://darkolorin.com/posts/1313.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1313.html</guid>
+            <pubDate>Thu, 02 Jul 2026 12:52:14 GMT</pubDate>
+            <description>&lt;p&gt;Notes from the field. We use coding agents for all sorts of tasks. But specifically end2end for experiments, to see what’s what (like rewriting a test app from Electron to Rust and stuff like that).&lt;br&gt;
+So yeah, I’ve got the impression that fable from Anthropic is the first model where you already have to think about what to sic it on. Otherwise it’s reaaaally expensive. Like, just vibing for yourself with this thing — not gonna work. And we arrive at a simple thought. To understand where to point it you need a person who actually knows and can do. And in my head a very clear picture forms of why labs hire by the ton.&lt;br&gt;
+Hard skills demand has spiked hard in the industry like never before. Demand for understanding, skills, intuition is super high. Because the rest the model will cover if needed. But if there are no skills and no understanding — a ton of money will go up in flames. We’ll see tons of rollouts that fail not because the model isn’t effective, but because the human in the loop couldn’t. And if earlier you needed years, probation periods for that conclusion, now you can figure it out in a month and that’s it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1313"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Oh, Fable they’re bringing it back</title>
+            <link>https://darkolorin.com/posts/1312.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1312.html</guid>
+            <pubDate>Tue, 30 Jun 2026 23:57:54 GMT</pubDate>
+            <description>&lt;p&gt;Oh, Fable  &lt;br&gt;
+they’re bringing it back&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1312"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Fresh trend in the Valley.</title>
+            <link>https://darkolorin.com/posts/1311.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1311.html</guid>
+            <pubDate>Sun, 28 Jun 2026 17:24:33 GMT</pubDate>
+            <description>&lt;p&gt;Fresh trend in the Valley. Suddenly (wonder why) a lot of people realized that token costs for Anthropic and OpenAI are too high and maybe you can somehow cut them down. And the geniuses got the idea to crank out a ton of startups doing post-training of models on company data etc. They even raised 200m (of course they’ll write it up nicely about everything and anything that’s supposedly going to be there “as a product”).&lt;/p&gt;
+&lt;p&gt;Overall the idea isn’t bad for Enterprise. With a good team you can replay it in pretty much any market or something close to that. Curious how the market behaves in general ahead of the AIs’ IPO.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1311"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Remember how you asked about decentralized inference and all that.</title>
+            <link>https://darkolorin.com/posts/1310.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1310.html</guid>
+            <pubDate>Sat, 27 Jun 2026 17:21:22 GMT</pubDate>
+            <description>&lt;p&gt;Remember how you asked about decentralized inference and all that. So, food for thought:&lt;br&gt;
+- this is what a normal&lt;br&gt;
+stack&lt;br&gt;
+looks like, what do you think, is it реально to make players install this, so to speak?&lt;br&gt;
+- what’s the fundamental difference from regular cloud infra with OSS models? (OpenRouter?)&lt;br&gt;
+- oh right, inference on its own is supposed to come bundled with tons of other features&lt;br&gt;
+- if the models are small enough that some regular dude can host them, that means you can run them locally, meaning for free&lt;br&gt;
+- and yeah, who the hell provides the SLA, support, or anything important for a business? Right — nobody.&lt;br&gt;
+And let’s never use anything that has the words “utility token” in it, life’s taught us something, hasn’t it.&lt;br&gt;
+But I guess for some people it might be fun to play around with.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1310"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Tsk-tsk-tsk</title>
+            <link>https://darkolorin.com/posts/1309.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1309.html</guid>
+            <pubDate>Thu, 25 Jun 2026 23:23:44 GMT</pubDate>
+            <description>&lt;p&gt;Tsk-tsk-tsk&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/jzj7uRVYXlbXOK_dqzvmNEpLj7zD7M7U5RDALBxn3IH8cWk5z2f858mTfMwOB0cL7sl-Dccy4yLrJTOdZ9Urc7akywyPkyyCd9hiJmPGfVrmrxQ5-fdR5ih1Gi0XnqvZfPqnj085zDTUc8P1yALJ3VKB47r1m03gg-EDbV18aX5n2qi7OmjJqBzUnedhWsFeyGzNDkT-0mS-X-RpWsLt6hAG3QVipD5u_b6Huyy_kyeVF4DilRcYQJoxK5bsdaRupNmmGzTg2oeFrk9Rpt7xHw6d2gna5tmW5W0rYLVruFSq8CV2TQ02L84tV-KubTkWWVHF9bO_-JLeFQfcngXEsQ.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1309"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>A few observations.</title>
+            <link>https://darkolorin.com/posts/1308.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1308.html</guid>
+            <pubDate>Wed, 24 Jun 2026 10:29:33 GMT</pubDate>
+            <description>&lt;p&gt;A few observations. About “job hunting.” I regularly stumble on Russian-language posts like “I’m awesome, but yeah, such is life, looking for a job.” I’ll try to toss in my two cents from the hiring side:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;if someone is sooo awesome, like insanely wow, and the comments are all these metaphors like “you’re wow,” then why the hell are you, sorry, looking for a job? There have to be reasons, and if there are uncontrollable circumstances, that’s exactly where I’d start&lt;/li&gt;
+&lt;li&gt;all these weird, purely-ours sayings: my superpower, what I do best is see “profit/systemness/collect meanings and turn them into releases AND so on” — what is that even about? Never understood all these abstract descriptions. Imagine a footballer telling his agent “I see the team’s philosophy and I can figure out how to steel my resolve and play.” Well damn, everyone’s like that. Give me something I can actually touch&lt;/li&gt;
+&lt;li&gt;the first thing I’ll do is go grab references, if the role is above line-level, and the description is exactly about that, and then I don’t give a crap about all your “searching for meaning and ability to assemble systems”&lt;/li&gt;
+&lt;li&gt;life happens in different ways, sure, but you still need to bring your awesomeness into something measurable — either via references or via metrics&lt;/li&gt;
+&lt;li&gt;please cut out your vibe-coding craft projects, they show your total lack of understanding of the market more often than the opposite&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And I’ve never once seen posts on the US market, where supposedly the competition is tougher, in the style of “I’m super awesome, but give me money, I’m looking for a job.” In my head those two things just don’t fit together very well. And probably that’s why they don’t do it here. Edited: for roles above line-level.&lt;/p&gt;
+&lt;p&gt;My recommendations, after looking through a ton of resumes and reading posts and actually searching for people for my team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;write honestly what you did and what you got done, don’t decorate it, if your position isn’t line-level&lt;/li&gt;
+&lt;li&gt;focus, obviously, on what matters in the application&lt;/li&gt;
+&lt;li&gt;remove all the superpowers, whining, life situation, and the long story — it kills any desire to talk (we’re strangers, after all)&lt;/li&gt;
+&lt;li&gt;showing desire matters most&lt;/li&gt;
+&lt;li&gt;specify who can recommend you&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1308"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>There was a lot of work.</title>
+            <link>https://darkolorin.com/posts/1306.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1306.html</guid>
+            <pubDate>Thu, 18 Jun 2026 17:24:27 GMT</pubDate>
+            <description>&lt;p&gt;There was a lot of work. But then some news rolled in too:&lt;br&gt;
+- fable got banned by Anthropic, there’s some kind of crap there honestly, and politics&lt;br&gt;
+- they bought Intercom for 3.6 bil&lt;br&gt;
+- they finally bought Cursor for stock worth 60 bil (so is this the most expensive startup acquisition? Whatever)&lt;br&gt;
+And meanwhile there’s a good pic about organic launches without marketing and pouring money in and traffic and all that stuff&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/Q3qvUNxDJS9jdTzCRO2ql9TlXtV1dw47h0dwcSUeAPCJoCvNfFpSEKJ75WBVheSuw7Jz__TLlOKBYk0ZZicYBLD_8FXa3uiRxvQwh4iRIe8S3kVJjNKrr87LtE6kpik3DaKt8-AOU1c9I71JaDd8zCuvanrcP8K_p3jrVT0A9_M1O3GYCxstvHpmQtWcJFo1eHCJlo8m1o8KB3Kuyd90ZJ1cH3L25iSepF75oMQF8sFjyK9j9Cyu4-B9tteMqX2yKTRneSC3EF5xjhqSIRde6ehabpzY-2b_oD7j1BiTkeVt6x9tkSUcN5ksiZECUXYQYYKlB52koyPjfNKtkIYnDA.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1306"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Btw we shipped our first research result.</title>
+            <link>https://darkolorin.com/posts/1305.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1305.html</guid>
+            <pubDate>Mon, 08 Jun 2026 18:48:08 GMT</pubDate>
+            <description>&lt;p&gt;Btw we shipped our first research result.  &lt;br&gt;
+Rolled out the first quantized versions of Qwen 3.5 models.  &lt;br&gt;
+Thanks to joint optimization of quantization + the inference engine, we managed to noticeably beat Unsloth/llama.cpp and MLX on the key “quality vs speed” tradeoff. On Apple devices from iPhone to beefy Macs, the models push 40–60% more tokens per second with no quality loss.  &lt;br&gt;
+Post  &lt;br&gt;
+hf collection&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1305"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Noticed this thing with “successful investors and entrepreneurs.” They very…</title>
+            <link>https://darkolorin.com/posts/1304.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1304.html</guid>
+            <pubDate>Sun, 07 Jun 2026 11:05:41 GMT</pubDate>
+            <description>&lt;p&gt;Noticed this thing with “successful investors and entrepreneurs.” They very often dish out advice like: don’t cling to mistakes for too long, learn to move past them; or don’t try to execute a hundred ideas at once, invest in one thing and keep focus. You know, those standard rails. And then usually I hop on a call with that person—whose one of the latest posts is exactly that—and ask how things are. And he’s doing a hundred ideas at once, he doesn’t give a damn about people, the idea is what matters, and so on. Or in other words, he completely contradicts what he writes and what he advises everyone else. Seen that?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1304"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Note to Claude users.</title>
+            <link>https://darkolorin.com/posts/1303.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1303.html</guid>
+            <pubDate>Thu, 04 Jun 2026 21:36:34 GMT</pubDate>
+            <description>&lt;p&gt;Note to Claude users. But overall a really measured article came out. Extremely unlikely that Dario even looked at it.  &lt;br&gt;
+Without that judgment, Claude is a capable assistant, but not a system that could drive AI progress on its own.  &lt;br&gt;
+It is genuinely unclear whether today’s training methods and architectures could unlock that capacity.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1303"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>I’ll toss something into the stash about frontier labs.</title>
+            <link>https://darkolorin.com/posts/1302.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1302.html</guid>
+            <pubDate>Wed, 03 Jun 2026 12:04:21 GMT</pubDate>
+            <description>&lt;p&gt;I’ll toss something into the stash about frontier labs. Online people love to yap about Open Weight Models. Like they’re about to catch up any minute now and are always breathing down their necks. What I think after talking to different folks, and what problems I see:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the talent problem: how do you hire a team to build a small or open model if a solid research talent at Anthropic is pulling $10M a year (real numbers), and you still need compute and all that stuff  &lt;/li&gt;
+&lt;li&gt;say you’re ready to invest in training people for a year or two, but then you’ll be catching up forever — how do you solve that? well you need to raise a hundred mil or two right away and chill, otherwise I don’t really get what the competitive advantage in the offer is  &lt;/li&gt;
+&lt;li&gt;but say you do lure people with upside, then there’s this opinion going around that “frontier models are 90% of the market in money”, where do you get data for training and RL from, i.e. literally everyone only buys “the best” (they’re ready to pay a market premium for “a model that’s a bit better” — pay 20% more or even 2x)  &lt;/li&gt;
+&lt;li&gt;a условный Opus is 10x more expensive than Chinese models and everyone buys it  &lt;/li&gt;
+&lt;li&gt;in this situation competition gets even harder because they start covering up the distillation process with the fact that there are closed models for industries and even special deploy teams that integrate those models in closed mode (see Mythos, and OpenAI’s math models). Or in other words: distilling a model into Claude Code will be easy, but the one that runs in a bank — no way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All this looks like a typical oligopoly and I think there won’t be room for OSS over time except for certain verticals or solutions. I think the Chinese make everything open just to have at least some data and attract people. I don’t see any other real reasons.&lt;/p&gt;
+&lt;p&gt;Oh and decentralized inference is bullshit.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1302"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>When you confidently pitch your idea to a seasoned VC</title>
+            <link>https://darkolorin.com/posts/1301.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1301.html</guid>
+            <pubDate>Sat, 30 May 2026 13:14:41 GMT</pubDate>
+            <description>&lt;p&gt;When you confidently pitch your idea to a seasoned VC&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/DBOQME7wa_SVHbNhhgNnc9c0rEVzMHGO0P14erwCBRGEN3BJ5f07rZMYseZue9Cz-JPH5OsVaY7HqsIGEeLBffkDPcRxc-Ye8cnpdv0NaTl0Y_YrH-gOXZYvEySWVng_dKNVzHCiAG6MhK3alDEpcLTfr-2o5FYDG3k7MqapWAYBP5qSPR56BcB81fSahrd5ZZ1fd01cwvLmtjf6IWbkDQW6iN7-ggXaBIc0IQ4gFmHocg1B1myc0_7m2avWSlgSnOVqH03bs697bmOKc_WPdzfI9psIkEF2LtFhFsGSWb92QV3WTTuscfVUuoLpw6GnAvBk32AWhblEadq5-3UNRg.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1301"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Ok ok, sold</title>
+            <link>https://darkolorin.com/posts/1300.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1300.html</guid>
+            <pubDate>Thu, 28 May 2026 17:07:20 GMT</pubDate>
+            <description>&lt;p&gt;Ok ok, sold&lt;/p&gt;
+&lt;img src="https://cdn4.telesco.pe/file/Rm5_Rx7cOCKq1Y9iPQmpe7FSVs7331fG1L8QdcBQSloTneVmBlaotFbgcC_02LmjUjRWnDgDXRhEr2cXLpMTQa4XpcUKk_FjEq4na6Hs79uWsdLo6bivE1hweNOyJwiVNUvH00MgvH8hfT_GgaZZ2umUVyUxT6kN2AAnJIDg2NjoqLNy_BPnwM5HLWjJ4wPp-lojXI_4f_VlhzpXk9wlpYqKY2CmdWzMM80MXDccCRpBevFyMqTEngDUouJbPk04Q-DaDuZQs8HAqwhlfM5umM-rCMGhNQC5PQfY6XI4u-kDJQAN2PjuFARUBJ7bvOO6NKyX-P26eq8FVKMBibfHkg.jpg" alt="" loading="lazy"&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1300"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Found a great overview about solving Erdős problems.</title>
+            <link>https://darkolorin.com/posts/1299.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1299.html</guid>
+            <pubDate>Wed, 27 May 2026 20:42:24 GMT</pubDate>
+            <description>&lt;p&gt;Found  &lt;br&gt;
+a great overview  &lt;br&gt;
+about solving Erdős problems. Highly recommend. And yeah, I’ve already said that overall the  &lt;br&gt;
+channel  &lt;br&gt;
+is top-tier (even if the lifestyle posts aren’t my thing).  &lt;br&gt;
+I mean, right now AI is doing what people are unlikely to do because of their human nature: systematically combing the field. The fact that in that field it turns up unsolved Erdős problems is more a fact about the state of human mathematics than about AI models. But still, a fact.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1299"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>All the ads have been hanging there for way too long.</title>
+            <link>https://darkolorin.com/posts/1297.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1297.html</guid>
+            <pubDate>Tue, 26 May 2026 14:24:13 GMT</pubDate>
+            <description>&lt;p&gt;All the ads have been hanging there for way too long. I even forgot the last post was like that.  &lt;br&gt;
+Let’s bring back the read-but-not-fully-understood column.  &lt;br&gt;
+1/ stumbled on this in the course of vibe-coding, so to speak. I don’t really practice it myself, but it’s funny how people who dump hundreds of hours into it later think “wait, why though.” The guys have a funny observation.  &lt;br&gt;
+A big article, but I recommend it to those who are into this.  &lt;br&gt;
+2/ dvarkesh has started looking like a student and is calling in professors; this time it’s about chip design  &lt;br&gt;
+3/ in any confusing discussion I recommend this article  &lt;br&gt;
+4/ a tiny bit about games and about game balance, because I’m throwing matches and getting pissed  &lt;br&gt;
+5/ we shipped a new site btw Trymirai.com — give me criticism  &lt;br&gt;
+6/ about product management, recommend (in the age of AI)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1297"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Promo time.</title>
+            <link>https://darkolorin.com/posts/1296.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1296.html</guid>
+            <pubDate>Fri, 22 May 2026 08:35:10 GMT</pubDate>
+            <description>&lt;p&gt;Promo time. I got asked recently, like, even with your attitude to vibe coding, what would you recommend. Obviously: go and use your own brain before doing anything, but if you really gotta, then my good friends are making a course on the topic. Quick info below:&lt;br&gt;
+Vibecon course (they showed me the syllabus, it’ll do, since we’re not expecting a linear algebra or probability theory course there).&lt;br&gt;
+What I liked:&lt;br&gt;
+• 3 weeks, 5 sessions, not dragged out&lt;br&gt;
+• solid setup: cursor + claude code + next.js + wispr flow&lt;br&gt;
+• they rebuild the program for every cohort (because everything gets outdated literally in a month, and that’s true), and then students get access to all the updates&lt;/p&gt;
+&lt;p&gt;Bottom line. If you already know how to learn on your own with ChatGPT, this isn’t for you. But if for some reason you still aren’t using Claude Code, it’s a good chance to start&lt;br&gt;
+🗓&lt;br&gt;
+Start: May 26&lt;br&gt;
+🔗&lt;/p&gt;
+&lt;p&gt;Site with details&lt;br&gt;
+They’ve also got a short test to see how “AI-pumped” you are right now. If you’re curious to measure yourself —&lt;br&gt;
+a bot with a quiz&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1296"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>A thought crept in.</title>
+            <link>https://darkolorin.com/posts/1295.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1295.html</guid>
+            <pubDate>Thu, 21 May 2026 12:37:17 GMT</pubDate>
+            <description>&lt;p&gt;A thought crept in. Doesn’t it seem to you that a harness is technical debt, since there are systems there that rely on specific prompts. Like, in practice we’re hoping that a phrase worded in a certain way will give a better result. But that changes with every model version.&lt;/p&gt;
+&lt;p&gt;So even if the model changed (even if they suddenly slipped a quantized one into your API or switched the inference version) everything can drift apart on you? Turns out prompts—and the more of them you have—are a kind of technical debt, and a hefty one at that. Maintaining something you don’t understand is a so-so task. In the sense that without knowing what the model does well and what data they poured in, making prompts is gonna be rough.&lt;/p&gt;
+&lt;p&gt;Overall my take: if the model was trained properly on certain tasks, the prompt’s influence won’t be that big. But on the other hand Cloudflare reports after experiments on Mythos that, like, harness is our everything. Where the truth is isn’t clear, but what’s definitely clear to me is: building “forever” harnesses without your own model is shooting yourself in the foot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1295"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

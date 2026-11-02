@@ -1,0 +1,214 @@
+#!/usr/bin/env python3
+"""Offline regression tests for the permanent, static Telegram archive."""
+import json
+from html import unescape
+from pathlib import Path
+import subprocess
+import re
+import sys
+import tempfile
+import unittest
+import xml.etree.ElementTree as ET
+
+SCRIPT = Path(__file__).with_name('build_archive.py')
+BASE = 'https://darkolorin.com'
+
+
+def post(pid, date='2025-04-02T12:30:00+00:00', text='An existing English opening.\n\nThe rest of the post.'):
+    return {'id': pid, 'url': f'https://t.me/chillhousetech/{pid}', 'date_utc': date,
+            'hash': str(pid), 'translation_key': 'existing', 'title_en': '',
+            'text_en': text, 'text_ru': 'Оригинальный текст.', 'images': []}
+
+
+class ArchiveTests(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.root = Path(self.tmp.name)
+        self.feed = self.root / 'feed.json'
+        self.archive = self.root / 'archive.json'
+        self.out = self.root / 'site'
+
+    def write_data(self, path, posts, generated='2099-01-01T00:00:00Z'):
+        data = {'channel': 'chillhousetech', 'source': 'https://t.me/chillhousetech', 'posts': posts}
+        if path == self.feed:
+            data['generated_at_utc'] = generated
+        path.write_text(json.dumps(data, ensure_ascii=False), encoding='utf-8')
+
+    def run_builder(self):
+        run = subprocess.run([sys.executable, str(SCRIPT), '--feed', str(self.feed),
+                              '--archive', str(self.archive), '--output-dir', str(self.out)],
+                             capture_output=True, text=True)
+        self.assertEqual(run.returncode, 0, run.stderr)
+
+    def build(self, archived, fresh):
+        self.write_data(self.archive, archived)
+        self.write_data(self.feed, fresh)
+        self.run_builder()
+
+    def test_latest_window_does_not_delete_old_posts(self):
+        self.build([post(1)], [post(2)])
+        old = (self.out / 'posts/1.html').read_bytes()
+        (self.out / 'posts/999.html').write_text('Existing old file', encoding='utf-8')
+        self.write_data(self.feed, [post(3)])
+        self.run_builder()
+        ids = [p['id'] for p in json.loads(self.archive.read_text())['posts']]
+        self.assertEqual(set(ids), {1, 2, 3})
+        self.assertEqual((self.out / 'posts/1.html').read_bytes(), old)
+        self.assertTrue((self.out / 'posts/2.html').exists())
+        self.assertEqual((self.out / 'posts/999.html').read_text(), 'Existing old file')
+
+    def test_untranslated_edit_keeps_last_complete_text_group_until_translation_arrives(self):
+        original = post(7)
+        original.update(title_en='Previous title', hash='old-hash', translation_key='old-model')
+        fresh = dict(original, text_en='', title_en='', date_utc=None, text_ru='Новый оригинал.',
+                     hash='new-hash', translation_key='none', images=['https://example.com/new.jpg'])
+        self.build([original], [fresh])
+        saved = json.loads(self.archive.read_text())['posts'][0]
+        for key in ['text_ru', 'text_en', 'title_en', 'hash', 'translation_key']:
+            self.assertEqual(saved[key], original[key])
+        self.assertEqual(saved['date_utc'], original['date_utc'])
+        self.assertEqual(saved['images'], fresh['images'])
+        translated = dict(fresh, text_en='New translated text.', title_en='', translation_key='new-model')
+        self.write_data(self.feed, [translated])
+        self.run_builder()
+        saved = json.loads(self.archive.read_text())['posts'][0]
+        for key in ['text_ru', 'text_en', 'title_en', 'hash', 'translation_key']:
+            self.assertEqual(saved[key], translated[key])
+
+    def test_titles_use_existing_first_sentence_but_descriptions_keep_opening_context(self):
+        text = 'Weekend thoughts. This is the following context, which belongs in the description and body.'
+        self.build([], [post(30, text=text)])
+        page = (self.out / 'posts/30.html').read_text()
+        self.assertIn('<h1>Weekend thoughts.</h1>', page)
+        description = unescape(re.search(r'<meta name="description" content="([^"]*)"', page).group(1))
+        self.assertEqual(description, text)
+        self.assertEqual(ET.parse(self.out / 'rss.xml').findtext('./channel/item/title'), 'Weekend thoughts.')
+
+    def test_title_excerpt_does_not_include_the_appended_source_link_list(self):
+        text = "Well that's\nnot bad\n\nLinks:\nhttps://example.com/original"
+        self.build([], [post(33, text=text)])
+        page = (self.out / 'posts/33.html').read_text()
+        self.assertIn('<h1>Well that&#x27;s not bad</h1>', page)
+        self.assertIn('https://example.com/original', page)
+
+    def test_excerpt_fallback_is_at_most_eighty_characters_and_joins_existing_wrapped_lines(self):
+        url_text = '"""\nhttps://example.com/' + 'a' * 160 + '\nExisting later context.'
+        wrapped = 'An existing\nwrapped opening without a terminator that is deliberately long enough to need an excerpt but no new title.'
+        self.build([], [post(31, text=url_text), post(32, text=wrapped)])
+        for pid in [31, 32]:
+            page = (self.out / f'posts/{pid}.html').read_text()
+            heading = unescape(re.search(r'<h1>(.*?)</h1>', page).group(1))
+            self.assertLessEqual(len(heading), 80)
+            self.assertTrue(heading.endswith('…'))
+        self.assertIn('<h1>https://example.com/', (self.out / 'posts/31.html').read_text())
+        self.assertIn('<h1>An existing wrapped opening', (self.out / 'posts/32.html').read_text())
+
+    def test_new_untranslated_post_has_no_invented_english_text(self):
+        self.build([], [post(33, text='')])
+        page = (self.out / 'posts/33.html').read_text()
+        self.assertIn('<h1>Post #33</h1>', page)
+        self.assertIn('English translation is not available', page)
+        self.assertIn('Оригинальный текст.', page)
+
+    def test_stable_permalink_and_guid_survive_changed_title_and_text(self):
+        self.build([], [post(42, text='First existing opening.')])
+        old_guid = ET.parse(self.out / 'rss.xml').findtext('./channel/item/guid')
+        changed = post(42, text='Changed existing opening.')
+        changed['title_en'] = 'A new imported title'
+        self.write_data(self.feed, [changed])
+        self.run_builder()
+        self.assertEqual(ET.parse(self.out / 'rss.xml').findtext('./channel/item/guid'), old_guid)
+        self.assertEqual(old_guid, BASE + '/posts/42.html')
+        page = (self.out / 'posts/42.html').read_text()
+        self.assertIn('Changed existing opening.', page)
+        self.assertIn('rel="canonical" href="' + old_guid + '"', page)
+        self.assertEqual([p.name for p in (self.out / 'posts').iterdir()], ['42.html'])
+
+    def test_unknown_dates_are_undated_without_fabricated_publication(self):
+        self.build([], [post(6, date=None), post(5, date='not-a-date')])
+        listing = (self.out / 'essays.html').read_text()
+        self.assertIn('<h3>Undated</h3>', listing)
+        self.assertNotIn('2099', listing)
+        for item in ET.parse(self.out / 'rss.xml').findall('./channel/item'):
+            self.assertIsNone(item.find('pubDate'))
+        for pid in [5, 6]:
+            page = (self.out / f'posts/{pid}.html').read_text()
+            self.assertNotIn('<time', page)
+            self.assertNotIn('article:published_time', page)
+        ns = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+        self.assertEqual(ET.parse(self.out / 'sitemap.xml').findall('.//s:lastmod', ns), [])
+
+    def test_html_and_unsafe_urls_are_escaped_without_changing_author_text(self):
+        text = '"""\nExisting opening <script>alert("x")</script>.\n\nKeep A & B and 3 < 5.\n\n- One item\n- Two items\n\nSee https://example.com/a_(b)?x=1&y=2.\n\nNot a link: javascript:alert(1)'
+        entry = post(10, text=text)
+        entry['images'] = ['javascript:alert(1)', 'data:text/html,bad', 'https://example.com/image.jpg?x=1&y=2']
+        entry['url'] = 'javascript:alert(2)'
+        self.build([], [entry])
+        page = (self.out / 'posts/10.html').read_text()
+        self.assertNotIn('<script>alert', page)
+        self.assertIn('&lt;script&gt;alert(&quot;x&quot;)&lt;/script&gt;', page)
+        self.assertIn('Keep A &amp; B and 3 &lt; 5.', page)
+        self.assertIn('<ul>', page)
+        self.assertIn('<li>One item</li>', page)
+        self.assertIn('href="https://example.com/a_(b)?x=1&amp;y=2"', page)
+        self.assertNotIn('src="javascript:', page)
+        self.assertNotIn('src="data:', page)
+        self.assertNotIn('href="javascript:', page)
+        self.assertIn('href="https://t.me/chillhousetech/10"', page)
+        self.assertIn('lang="ru"', page)
+        self.assertIn('Оригинальный текст.', page)
+        self.assertIn('<h1>Existing opening', page)
+
+    def test_rss_uses_newest_ids_including_recent_undated_posts_with_stable_guids(self):
+        entries = [post(i, date=f'2025-04-{(i % 28) + 1:02}T12:30:00+00:00', text=f'Existing post {i}.') for i in range(1, 53)]
+        self.build([], entries + [post(999, date=None)])
+        channel = ET.parse(self.out / 'rss.xml').getroot().find('channel')
+        items = channel.findall('item')
+        self.assertEqual(len(items), 50)
+        self.assertEqual(len({item.findtext('guid') for item in items}), 50)
+        self.assertTrue(all(item.findtext('guid').startswith(BASE + '/posts/') for item in items))
+        self.assertTrue(all(item.findtext('guid') == item.findtext('link') for item in items))
+        self.assertEqual(items[0].findtext('guid'), BASE + '/posts/999.html')
+        self.assertIsNone(items[0].find('pubDate'))
+        self.assertTrue(all(item.findtext('pubDate').endswith('GMT') for item in items[1:]))
+        self.assertEqual([int(item.findtext('guid').rsplit('/', 1)[-1][:-5]) for item in items], [999, *range(52, 3, -1)])
+        self.assertEqual(channel.find('{http://www.w3.org/2005/Atom}link').get('href'), BASE + '/rss.xml')
+        self.assertIn('<p>Existing post', items[1].findtext('description'))
+        self.assertNotIn('2099', (self.out / 'rss.xml').read_text())
+
+    def test_pages_are_static_and_internal_integration_links_resolve(self):
+        self.build([], [post(77, text='An English post without a runtime fetch.')])
+        listing = (self.out / 'essays.html').read_text()
+        page = (self.out / 'posts/77.html').read_text()
+        self.assertIn('href="posts/77.html"', listing)
+        self.assertNotIn('fetch(', listing)
+        self.assertNotIn('Loading…', listing)
+        self.assertIn('The Computer Should Know the Way', listing)
+        self.assertIn('href="index.html#projects"', listing)
+        self.assertIn('href="rss.xml"', listing)
+        self.assertIn('application/rss+xml', listing)
+        self.assertIn('src="../analytics.js"', page)
+        self.assertIn('href="../privacy.html"', page)
+        self.assertIn('data-analytics-settings', page)
+        self.assertIn('og:type" content="article"', page)
+        self.assertIn('article:published_time', page)
+        self.assertIn('<time datetime="2025-04-02T12:30:00+00:00">2025-04-02</time>', page)
+        ns = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+        urls = [el.text for el in ET.parse(self.out / 'sitemap.xml').findall('.//s:loc', ns)]
+        self.assertIn(BASE + '/posts/77.html', urls)
+        self.assertIn(BASE + '/', urls)
+        self.assertIn(BASE + '/essays.html', urls)
+
+    def test_rebuilding_unchanged_content_preserves_bytes_and_mtimes(self):
+        self.build([], [post(88)])
+        files = [self.archive, *self.out.rglob('*')]
+        before = {str(p): (p.read_bytes(), p.stat().st_mtime_ns) for p in files if p.is_file()}
+        self.write_data(self.feed, [post(88)], generated='2100-02-03T00:00:00Z')
+        self.run_builder()
+        after = {str(p): (p.read_bytes(), p.stat().st_mtime_ns) for p in files if p.is_file()}
+        self.assertEqual(after, before)
+
+
+if __name__ == '__main__':
+    unittest.main()
