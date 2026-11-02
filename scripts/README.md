@@ -39,6 +39,7 @@ python3 scripts/build_archive.py --feed feed.json --archive archive.json --outpu
 - `essays.html` is a static index; `posts/<id>.html` are permanent article pages. Both remain readable without JavaScript.
 - `rss.xml` contains all archived posts with stable article URLs/GUIDs. Only genuine source dates are emitted as publication dates.
 - `sitemap.xml` includes permanent article pages. Titles use the existing opening text rather than newly generated editorial headlines.
+- Derived headings/descriptions omit URL targets for readability. Saved author text stays unchanged; recovered source links missing from an older cached translation appear in a separate links list in HTML and RSS.
 - Images retain their original Telegram CDN URLs; permanence currently applies to the saved text, links, and article addresses.
 
 The first 158 posts were recovered from existing `feed.json` revisions in this repository, preserving cached translations. To repeat that original one-time recovery:

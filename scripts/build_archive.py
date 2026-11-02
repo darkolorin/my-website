@@ -4,6 +4,7 @@ import argparse
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from html import escape
+from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
@@ -94,20 +95,24 @@ def safe_url(value):
     return None
 
 
+def split_url_suffix(raw):
+    url, suffix = raw, ''
+    while url and url[-1] in '.,;:!?…':
+        suffix = url[-1] + suffix
+        url = url[:-1]
+    for opener, closer in [('(', ')'), ('[', ']'), ('{', '}')]:
+        while url.endswith(closer) and url.count(closer) > url.count(opener):
+            suffix = closer + suffix
+            url = url[:-1]
+    return url, suffix
+
+
 def linkify(text):
     result = []
     end = 0
     for match in URL_RE.finditer(text):
         result.append(escape(text[end:match.start()]))
-        url = match.group(0)
-        suffix = ''
-        while url and url[-1] in '.,;:!?…':
-            suffix = url[-1] + suffix
-            url = url[:-1]
-        for opener, closer in [('(', ')'), ('[', ']'), ('{', '}')]:
-            while url.endswith(closer) and url.count(closer) > url.count(opener):
-                suffix = closer + suffix
-                url = url[:-1]
+        url, suffix = split_url_suffix(match.group(0))
         href = url if re.match(r'^https?://', url, re.I) else 'https://' + url
         if safe_url(href):
             result.append(f'<a href="{escape(href)}" rel="noopener noreferrer">{escape(url)}</a>')
@@ -140,8 +145,14 @@ def excerpt(post, limit=80, *, sentence=True):
     opening = '\n'.join(lines).strip()
     if sentence:
         opening = re.split(r'\n\s*\n', opening, maxsplit=1)[0]
+    has_urls = bool(URL_RE.search(opening))
+    opening = URL_RE.sub(lambda match: split_url_suffix(match.group(0))[1], opening)
+    opening = re.sub(r'\(\s*\)', '', opening)
     line = ' '.join(opening.split())
-    if not line:
+    line = re.sub(r'\s+([,.;:!?])', r'\1', line)
+    if has_urls:
+        line = line.lstrip('.,;:!?… ')
+    if not line.strip('.,;:!?…()[]{}\'" -—–'):
         return MEDIA_TITLES.get(post.get('content_kind'), f"Post #{post['id']}")
     if sentence:
         terminator = re.search(r'[.!?](?=\s|$)', line)
@@ -207,6 +218,44 @@ def media_notice_html(post, has_images):
     return render_text(supplied if isinstance(supplied, str) and supplied.strip() else notice)
 
 
+def original_link_key(url):
+    parts = urlsplit(url)
+    if parts.path == '/':
+        slash = url.find('://') + 3 + len(parts.netloc)
+        return url[:slash] + url[slash + 1:]
+    return url
+
+
+class EnglishAnchorTargets(HTMLParser):
+    def __init__(self, html):
+        super().__init__()
+        self.targets = set()
+        self.feed(html)
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            for key, value in attrs:
+                if key == 'href' and value:
+                    self.targets.add(original_link_key(value))
+
+
+def original_links_html(post, english):
+    sources = post.get('source_links')
+    if not isinstance(sources, list):
+        return ''
+    seen = EnglishAnchorTargets(english).targets
+    items = []
+    for source in sources:
+        url = safe_url(source.get('url')) if isinstance(source, dict) else None
+        if not url or original_link_key(url) in seen:
+            continue
+        seen.add(original_link_key(url))
+        items.append(f'<li><a href="{escape(url)}" rel="noopener">{escape(url)}</a></li>')
+    if not items:
+        return ''
+    return '<p>Links from the original post:</p>\n<ul>\n' + '\n'.join(items) + '\n</ul>'
+
+
 def english_body_html(post):
     images = image_html(post)
     english = render_text(post.get('text_en'))
@@ -216,7 +265,7 @@ def english_body_html(post):
         service_notice = post.get('content_kind') == 'service' and isinstance(post.get('media_notice_en'), str) and bool(post['media_notice_en'].strip())
         if not media_only and not service_notice:
             english = '<p>English translation is not available for this post.</p>'
-    parts = [forwarded_html(post), images, english, media_notice_html(post, bool(images))]
+    parts = [forwarded_html(post), images, english, original_links_html(post, english), media_notice_html(post, bool(images))]
     return '\n'.join(part for part in parts if part)
 
 

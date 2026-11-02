@@ -100,9 +100,29 @@ class ArchiveTests(unittest.TestCase):
             page = (self.out / f'posts/{pid}.html').read_text()
             heading = unescape(re.search(r'<h1>(.*?)</h1>', page).group(1))
             self.assertLessEqual(len(heading), 80)
-            self.assertTrue(heading.endswith('…'))
-        self.assertIn('<h1>https://example.com/', (self.out / 'posts/31.html').read_text())
+            if pid == 32:
+                self.assertTrue(heading.endswith('…'))
+        self.assertIn('<h1>Existing later context.</h1>', (self.out / 'posts/31.html').read_text())
         self.assertIn('<h1>An existing wrapped opening', (self.out / 'posts/32.html').read_text())
+
+    def test_derived_excerpts_omit_target_urls_and_empty_parentheses_but_body_is_unchanged(self):
+        text = 'My name’s Alexey and I made Prisma, (https://en.wikipedia.org/wiki/Prisma_(app)) Capture and more.'
+        entry = post(2, text=text)
+        self.build([], [entry])
+        page = (self.out / 'posts/2.html').read_text()
+        heading = unescape(re.search(r'<h1>(.*?)</h1>', page).group(1))
+        description = unescape(re.search(r'<meta name="description" content="([^"]*)"', page).group(1))
+        self.assertEqual(heading, 'My name’s Alexey and I made Prisma, Capture and more.')
+        self.assertEqual(description, heading)
+        self.assertIn('>https://en.wikipedia.org/wiki/Prisma_(app)</a>)', page)
+        self.assertEqual(json.loads(self.archive.read_text())['posts'][0]['text_en'], text)
+
+    def test_url_only_post_has_neutral_derived_title_and_description(self):
+        self.build([], [post(90, text='(https://example.com/a_(b)).')])
+        page = (self.out / 'posts/90.html').read_text()
+        self.assertIn('<h1>Post #90</h1>', page)
+        self.assertIn('<meta name="description" content="Post #90">', page)
+        self.assertIn('>https://example.com/a_(b)</a>).', page)
 
     def test_new_untranslated_post_has_no_invented_english_text(self):
         self.build([], [post(33, text='')])
@@ -238,6 +258,59 @@ class ArchiveTests(unittest.TestCase):
         unsafe = (self.out / 'posts/120.html').read_text()
         self.assertNotIn('href="javascript:', unsafe)
         self.assertIn('Forwarded from A &lt;channel&gt; &amp; author', unsafe)
+
+    def test_missing_original_links_are_restored_in_html_and_rss_without_source_changes(self):
+        url = 'https://example.com/read_(this)?x=1&y=2#section'
+        entry = dict(post(130, text='A preserved English sentence with a linked word missing its target.'),
+                     source_links=[{'text': 'оригинальная ссылка', 'url': url}])
+        before = json.loads(json.dumps(entry, ensure_ascii=False))
+        self.build([], [entry])
+        page = (self.out / 'posts/130.html').read_text()
+        expected = 'https://example.com/read_(this)?x=1&amp;y=2&amp;utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site#section'
+        self.assertIn('Links from the original post:', page)
+        self.assertIn(f'href="{expected}"', page)
+        self.assertIn(f'>{url.replace("&", "&amp;")}</a>', page)
+        description = ET.parse(self.out / 'rss.xml').findtext('./channel/item/description')
+        self.assertIn('Links from the original post:', description)
+        self.assertIn(f'href="{expected}"', description)
+        self.assertEqual(json.loads(self.archive.read_text())['posts'][0], before)
+
+    def test_original_links_already_in_english_are_not_repeated_and_missing_links_are_deduped(self):
+        visible = 'https://example.com/a_(b)'
+        missing = 'https://example.com/missing'
+        entry = dict(post(131, text=f'Read {visible}.'), source_links=[
+            {'text': 'existing', 'url': visible + '/'}, {'text': 'existing again', 'url': visible},
+            {'text': 'missing', 'url': missing}, {'text': 'missing duplicate', 'url': missing}])
+        self.build([], [entry])
+        page = (self.out / 'posts/131.html').read_text()
+        english = page.split('<details', 1)[0]
+        hrefs = [unescape(value) for value in re.findall(r'<a href="([^"]+)"', english)]
+        self.assertEqual(sum(href.startswith(visible) for href in hrefs), 2)
+        self.assertEqual(sum(href.startswith(visible + '/') for href in hrefs), 1)
+        self.assertEqual(sum(href.startswith(missing) for href in hrefs), 1)
+
+    def test_original_link_dedup_normalizes_only_origin_root_slash_not_query_or_fragment(self):
+        entry = dict(post(133, text='Read https://example.com?x=1#part.'), source_links=[
+            {'url': 'https://example.com/?x=1#part'}])
+        self.build([], [entry])
+        page = (self.out / 'posts/133.html').read_text()
+        self.assertNotIn('Links from the original post:', page)
+        entry['source_links'].extend([{'url': 'https://example.com/?x=2#part'},
+                                      {'url': 'https://example.com/?x=1#other'}])
+        self.write_data(self.feed, [entry])
+        self.run_builder()
+        page = (self.out / 'posts/133.html').read_text()
+        self.assertIn('href="https://example.com/?x=2&amp;', page)
+        self.assertIn('#other"', page)
+
+    def test_unsafe_original_links_are_skipped_without_empty_link_section(self):
+        entry = dict(post(132), source_links=[{'url': 'javascript:alert(1)'}, {'url': 'data:text/html,bad'},
+                                              {'url': 'https://user:pass@example.com/'}, {'url': None}, None])
+        self.build([], [entry])
+        page = (self.out / 'posts/132.html').read_text()
+        self.assertNotIn('Links from the original post:', page)
+        self.assertNotIn('href="javascript:', page)
+        self.assertNotIn('href="data:', page)
 
     def test_pages_are_static_and_internal_integration_links_resolve(self):
         self.build([], [post(77, text='An English post without a runtime fetch.')])
