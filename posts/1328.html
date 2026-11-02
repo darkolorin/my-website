@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Major release from our small lab. - ChillHouse</title>
+    <meta name="description" content="Major release from our small lab. Support for speculative decoding in our inference engine. . To start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way. We…">
+    <link rel="canonical" href="https://darkolorin.com/posts/1328.html">
+    <link rel="alternate" type="application/rss+xml" title="ChillHouse (English)" href="../rss.xml">
+    <meta property="og:title" content="Major release from our small lab. - ChillHouse">
+    <meta property="og:description" content="Major release from our small lab. Support for speculative decoding in our inference engine. . To start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way. We…">
+    <meta property="og:image" content="https://cdn4.telesco.pe/file/FAB0K7aTpMCeyHqFGGsu7bTlWM67n6YPjIj1Gx4yjNv5jFupiUVksJ1I8SWV9a0juHax8G0j2BKCVNaPo72wbUJiykcL7wxeaH-ieqicHpp7iUh0Hq4krtvsFTO5soKdHlJo5ahCcEZ-6UVQb2DopF_SQl4saU0j859HSZbZ4a5gVmvkaMIds68WZV6YfqG0-UU_qxKJmZirQarbedG4sWE8ekmyeA9Al5dccDVZcO9wJfqyqMj52NKhS-iK43B4yBSySbRAcMSGN1aKNwmxh8XdbkzvQR2Tko5ujvqd8hIK_Fw9x104_c0fjwfZEoPQunNpny7YIVNqlC2EAe28-A.jpg">
+    <meta property="og:url" content="https://darkolorin.com/posts/1328.html">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2026-09-03T15:45:00+00:00">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Major release from our small lab. - ChillHouse">
+    <meta name="twitter:description" content="Major release from our small lab. Support for speculative decoding in our inference engine. . To start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way. We…">
+    <meta name="twitter:image" content="https://cdn4.telesco.pe/file/FAB0K7aTpMCeyHqFGGsu7bTlWM67n6YPjIj1Gx4yjNv5jFupiUVksJ1I8SWV9a0juHax8G0j2BKCVNaPo72wbUJiykcL7wxeaH-ieqicHpp7iUh0Hq4krtvsFTO5soKdHlJo5ahCcEZ-6UVQb2DopF_SQl4saU0j859HSZbZ4a5gVmvkaMIds68WZV6YfqG0-UU_qxKJmZirQarbedG4sWE8ekmyeA9Al5dccDVZcO9wJfqyqMj52NKhS-iK43B4yBSySbRAcMSGN1aKNwmxh8XdbkzvQR2Tko5ujvqd8hIK_Fw9x104_c0fjwfZEoPQunNpny7YIVNqlC2EAe28-A.jpg">
+    <meta name="twitter:site" content="@darkolorin">
+    <meta name="twitter:creator" content="@darkolorin">
+    <style>
+        body {
+            max-width: 860px;
+            margin: 24px auto;
+            padding: 0 16px;
+            line-height: 1.55;
+            overflow-wrap: anywhere;
+        }
+        img { display: block; margin: 12px 0; max-width: 100%; height: auto; }
+        hr { margin: 24px 0; }
+        details { margin-top: 12px; }
+    </style>
+    <script defer src="../analytics.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Major release from our small lab.</h1>
+        <p><time datetime="2026-09-03T15:45:00+00:00">2026-09-03</time> · <a href="https://t.me/chillhousetech/1328">Original on Telegram</a></p>
+        <hr>
+    </header>
+    <nav>
+        <a href="../index.html">Home</a> |
+        <a href="../index.html#projects">Projects</a> |
+        <a href="../essays.html">Essays</a> |
+        <a href="../rss.xml">RSS</a> |
+        <a href="https://t.me/chillhousetech" rel="noopener noreferrer">Telegram (RU)</a>
+        <hr>
+    </nav>
+    <main>
+        <article>
+<img src="https://cdn4.telesco.pe/file/FAB0K7aTpMCeyHqFGGsu7bTlWM67n6YPjIj1Gx4yjNv5jFupiUVksJ1I8SWV9a0juHax8G0j2BKCVNaPo72wbUJiykcL7wxeaH-ieqicHpp7iUh0Hq4krtvsFTO5soKdHlJo5ahCcEZ-6UVQb2DopF_SQl4saU0j859HSZbZ4a5gVmvkaMIds68WZV6YfqG0-UU_qxKJmZirQarbedG4sWE8ekmyeA9Al5dccDVZcO9wJfqyqMj52NKhS-iK43B4yBSySbRAcMSGN1aKNwmxh8XdbkzvQR2Tko5ujvqd8hIK_Fw9x104_c0fjwfZEoPQunNpny7YIVNqlC2EAe28-A.jpg" alt="" loading="lazy">
+<p>Major release from our small lab. Support for speculative decoding in our inference engine.  <br>
+.  <br>
+To start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  <br>
+We massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  <br>
+You can try it already today  <br>
+M checkpoint  <br>
+- smaller  <br>
+L checkpoint  <br>
+(lossless)  <br>
+All the models we support are here, we’ll be happy if you try something else too.  <br>
+Benches are here. You can dig into what and how was measured and how much better it is.  <br>
+More details about the release — blog post</p>
+<p>Links:<br>
+<a href="https://github.com/trymirai/uzu" rel="noopener noreferrer">https://github.com/trymirai/uzu</a><br>
+<a href="https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4" rel="noopener noreferrer">https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4</a><br>
+<a href="https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8" rel="noopener noreferrer">https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8</a><br>
+<a href="https://trymirai.com/local-models" rel="noopener noreferrer">https://trymirai.com/local-models</a><br>
+<a href="https://trymirai.com/metrics" rel="noopener noreferrer">https://trymirai.com/metrics</a><br>
+<a href="https://trymirai.com/blog/speculative-decoding-in-uzu" rel="noopener noreferrer">https://trymirai.com/blog/speculative-decoding-in-uzu</a></p>
+<details lang="ru">
+<summary lang="en">Original (RU)</summary>
+<p>Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в <br>
+нашем инференс движке (<a href="https://github.com/trymirai/uzu" rel="noopener noreferrer">https://github.com/trymirai/uzu</a>)<br>
+. <br>
+Для начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. <br>
+Мы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. <br>
+Попробовать можно уже сегодня <br>
+M checkpoint (<a href="https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4" rel="noopener noreferrer">https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4</a>)<br>
+ - поменьше<br>
+L checkpoint (<a href="https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8" rel="noopener noreferrer">https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8</a>)<br>
+ (lossless) <br>
+Все модели которые мы поддерживаем лежат <br>
+тут (<a href="https://trymirai.com/local-models" rel="noopener noreferrer">https://trymirai.com/local-models</a>)<br>
+, будем рады если попробуете что-то еще. <br>
+Бенчи тут (<a href="https://trymirai.com/metrics" rel="noopener noreferrer">https://trymirai.com/metrics</a>)<br>
+. Можно изучить как и что измерено и насколько лучше. <br>
+Подробнее про релиз <br>
+блог пост (<a href="https://trymirai.com/blog/speculative-decoding-in-uzu" rel="noopener noreferrer">https://trymirai.com/blog/speculative-decoding-in-uzu</a>)</p>
+</details>
+        </article>
+        <hr>
+    </main>
+    <footer>
+        <p>&copy; 199X - 2026 Alexey Moiseenkov.</p>
+        <p>
+            <a href="../privacy.html">Privacy</a>
+            <button type="button" data-analytics-settings hidden>Analytics settings</button>
+        </p>
+    </footer>
+</body>
+</html>

@@ -87,7 +87,7 @@
     const explanation = document.createElement("p");
     explanation.textContent = "May I use Google Analytics to understand visits, traffic sources, and popular pages? It's optional. ";
     const privacy = document.createElement("a");
-    privacy.href = "privacy.html";
+    privacy.href = "/privacy.html";
     privacy.textContent = "Privacy details";
     explanation.appendChild(privacy);
     panel.appendChild(explanation);

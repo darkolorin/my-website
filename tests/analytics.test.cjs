@@ -79,6 +79,13 @@ test('the choice appears before main so essay readers can reach it before the fe
     assert.equal(b.main.beforeSibling?.hidden, false);
 });
 
+test('privacy details stay reachable from nested archive article pages', () => {
+    const b = browser({ url: 'https://darkolorin.com/posts/1348.html' });
+    const privacy = b.elements.find(e => e.tagName === 'A' && e.textContent === 'Privacy details');
+    assert.equal(new URL(privacy.href, 'https://darkolorin.com/posts/1348.html').href,
+        'https://darkolorin.com/privacy.html');
+});
+
 test('acceptance loads one tag and strips private query/hash while preserving campaign attribution', () => {
     const b = browser();
     b.button('Accept analytics')?.click();
