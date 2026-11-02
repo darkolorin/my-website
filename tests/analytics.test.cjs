@@ -12,11 +12,14 @@ function browser(options = {}) {
     const elements = [];
     const deletedCookies = [];
     const listeners = {};
+    let activeElement = null;
     const stored = new Map(options.consent ? [['darkolorin.analytics', options.consent]] : []);
     function element(tag) {
         const el = { tagName: tag.toUpperCase(), children: [], hidden: false, attributes: {}, listeners: {},
             appendChild(child) { this.children.push(child); return child; },
             before(child) { this.beforeSibling = child; },
+            querySelector(selector) { return this.children.find(child => child.tagName === selector.toUpperCase()) || null; },
+            focus() { activeElement = this; },
             setAttribute(name, value) { this.attributes[name] = value; },
             addEventListener(type, fn) { this.listeners[type] = fn; },
             click() { this.listeners.click?.({ defaultPrevented: false, button: 0, target: this }); },
@@ -50,6 +53,7 @@ function browser(options = {}) {
     return {
         window, elements, head, footer, main, settings, stored, deletedCookies,
         panel() { return main.beforeSibling || footer.children[0]; },
+        focused() { return activeElement; },
         button(label) { return elements.find(e => e.tagName === 'BUTTON' && e.textContent === label); },
         commands() { return (window.dataLayer || []).map(args => Array.from(args)); },
         storage(value, key = 'darkolorin.analytics') { listeners.storage?.({ key, newValue: value }); },
@@ -104,6 +108,13 @@ test('reopening settings and accepting again does not duplicate the tag or page 
     b.button('Accept analytics')?.click();
     assert.equal(b.head.children.length, 1);
     assert.equal(b.commands().filter(a => a[0] === 'config').length, 1);
+});
+
+test('footer settings brings keyboard focus to the revealed analytics choice', () => {
+    const b = browser({ consent: 'denied' });
+    b.settings.click();
+    assert.equal(b.panel().hidden, false);
+    assert.equal(b.focused(), b.button('Accept analytics'));
 });
 
 test('withdrawal disables collection, deletes analytics cookies, and stops outbound events', () => {

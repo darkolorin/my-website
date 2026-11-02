@@ -111,7 +111,10 @@
     else (document.querySelector("footer") || document.body).appendChild(panel);
     for (const button of document.querySelectorAll("[data-analytics-settings]")) {
         button.hidden = false;
-        button.addEventListener("click", () => { panel.hidden = false; });
+        button.addEventListener("click", () => {
+            panel.hidden = false;
+            panel.querySelector("button").focus();
+        });
     }
     panel.hidden = choice === "granted" || choice === "denied";
     if (choice === "granted") start();
