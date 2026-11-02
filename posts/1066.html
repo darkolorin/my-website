@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thinking about all that RL &amp; reward hacking in the o-series models and so on… - ChillHouse</title>
+    <meta name="description" content="Thinking about all that RL &amp; reward hacking in the o-series models and so on, I remembered this paper: You can deliberately provoke hallucinations in an LLM and get a metrics…">
+    <link rel="canonical" href="https://darkolorin.com/posts/1066.html">
+    <link rel="alternate" type="application/rss+xml" title="ChillHouse (English)" href="../rss.xml">
+    <meta property="og:title" content="Thinking about all that RL &amp; reward hacking in the o-series models and so on… - ChillHouse">
+    <meta property="og:description" content="Thinking about all that RL &amp; reward hacking in the o-series models and so on, I remembered this paper: You can deliberately provoke hallucinations in an LLM and get a metrics…">
+    <meta property="og:image" content="https://darkolorin.com/YOUR_PREVIEW_IMAGE.jpg">
+    <meta property="og:url" content="https://darkolorin.com/posts/1066.html">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2025-05-21T14:47:44+00:00">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Thinking about all that RL &amp; reward hacking in the o-series models and so on… - ChillHouse">
+    <meta name="twitter:description" content="Thinking about all that RL &amp; reward hacking in the o-series models and so on, I remembered this paper: You can deliberately provoke hallucinations in an LLM and get a metrics…">
+    <meta name="twitter:image" content="https://darkolorin.com/YOUR_PREVIEW_IMAGE.jpg">
+    <meta name="twitter:site" content="@darkolorin">
+    <meta name="twitter:creator" content="@darkolorin">
+    <style>
+        body {
+            max-width: 860px;
+            margin: 24px auto;
+            padding: 0 16px;
+            line-height: 1.55;
+            overflow-wrap: anywhere;
+        }
+        img { display: block; margin: 12px 0; max-width: 100%; height: auto; }
+        hr { margin: 24px 0; }
+        details { margin-top: 12px; }
+    </style>
+    <script defer src="../analytics.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Thinking about all that RL &amp; reward hacking in the o-series models and so on…</h1>
+        <p><time datetime="2025-05-21T14:47:44+00:00">2025-05-21</time> · <a href="https://t.me/chillhousetech/1066?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site">Original on Telegram</a></p>
+        <hr>
+    </header>
+    <nav>
+        <a href="../index.html">Home</a> |
+        <a href="../index.html#projects">Projects</a> |
+        <a href="../essays.html">Essays</a> |
+        <a href="../rss.xml">RSS</a> |
+        <a href="https://t.me/chillhousetech?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">Telegram (RU)</a>
+        <hr>
+    </nav>
+    <main>
+        <article>
+<p>Thinking about all that RL &amp; reward hacking in the o-series models and so on, I remembered this paper: (<a href="https://arxiv.org/pdf/2401.08273" rel="noopener">https://arxiv.org/pdf/2401.08273</a>)<br>
+You can deliberately provoke hallucinations in an LLM and get a metrics boost out of it.<br>
+Instead of a normal zero-shot prompt like:<br>
+&quot;Answer the question...&quot;<br>
+they add at the start:<br>
+&quot;Look at the examples in the Examples section and use them...&quot;, even though there’s no such section in the prompt.<br>
+The model “recalls” non-existent examples and leans on them as if it were few-shot.<br>
+On a bunch of benches it gives a noticeable boost (though the paper is old and they still had old nets in there).<br>
+The effect almost doesn’t work on the gpt4 series. It’s better at catching that the context is fake. But it totally works on the new o series (judging by posts on twi, but need to check). This pushes you toward the obvious thought that you can kind of nudge the model into out-of-distribution reasoning by saying it’s actually in the training set. To me this effect kinda resembles those little phrases like “let me check again”, “hm” in the reasoning. Like, they’re trying to sort of point to examples that are supposedly definitely correct and then copy the reasoning/approach from there.</p>
+<details lang="ru">
+<summary lang="en">Original (RU)</summary>
+<p>Думая про всякий там RL &amp; reward hacking в моделях серии о и так далее вспомнил вот <br>
+такую работу: (<a href="https://arxiv.org/pdf/2401.08273" rel="noopener">https://arxiv.org/pdf/2401.08273</a>)<br>
+ можно специально  провоцировать галлюцинации у LLM и получать от этого буст по метрикам.<br>
+Вместо обычного zero-shot prompt’а типа:<br>
+&quot;Ответь на вопрос...&quot;<br>
+добавляют в начало:<br>
+&quot;Посмотри примеры в разделе Examples и используй их...&quot;, хотя никакого раздела в prompt’е нет.<br>
+Модель “вспоминает” несуществующие примеры и опирается на них как будто бы в few-shot.<br>
+На ряде бенчей дает заметный буст (правда работа старая и там еще старые сетки). <br>
+Эффект почти не срабатывает на gpt4 серии. Она лучше умеет ловить, что контекст поддельный. Но вполне работает на новой о серии (судя по постам в тви, но надо чекнуть). Это наталкивает на понятную мысль что модель можно как бы натолкнуть на рассуждения out of distribution сказав что у тебя оно на самом деле есть в обучающей выборке. Мне кажется этот эффект смахивает на те самые фразочки “let me check again”, “hm” в рассуждениях. То есть пытаются как бы отослать к примерам которые якобы точно правильные и оттуда перенять рассуждения/подход.</p>
+</details>
+        </article>
+        <hr>
+    </main>
+    <footer>
+        <p>&copy; 199X - 2026 Alexey Moiseenkov.</p>
+        <p>
+            <a href="../privacy.html">Privacy</a>
+            <button type="button" data-analytics-settings hidden>Analytics settings</button>
+        </p>
+    </footer>
+</body>
+</html>

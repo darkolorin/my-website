@@ -4,6 +4,7 @@ import argparse
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from html import escape
+from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
@@ -11,9 +12,16 @@ import sys
 from urllib.parse import urlsplit
 import xml.etree.ElementTree as ET
 
+try:
+    from .outbound_links import attribute_html
+except ImportError:
+    from outbound_links import attribute_html
+
 BASE_URL = 'https://darkolorin.com'
 ATOM_NS = 'http://www.w3.org/2005/Atom'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
+MEDIA_TITLES = {'photo': 'Photos', 'video': 'Video', 'document': 'Document',
+                'poll': 'Poll', 'unsupported': 'Media on Telegram'}
 URL_RE = re.compile(r'''\b((?:https?://|www\.)[^\s<>"']+|(?:t\.me|github\.com|x\.com|twitter\.com)/[^\s<>"']+)''', re.I)
 STYLE = '''        body {
             max-width: 860px;
@@ -87,20 +95,24 @@ def safe_url(value):
     return None
 
 
+def split_url_suffix(raw):
+    url, suffix = raw, ''
+    while url and url[-1] in '.,;:!?…':
+        suffix = url[-1] + suffix
+        url = url[:-1]
+    for opener, closer in [('(', ')'), ('[', ']'), ('{', '}')]:
+        while url.endswith(closer) and url.count(closer) > url.count(opener):
+            suffix = closer + suffix
+            url = url[:-1]
+    return url, suffix
+
+
 def linkify(text):
     result = []
     end = 0
     for match in URL_RE.finditer(text):
         result.append(escape(text[end:match.start()]))
-        url = match.group(0)
-        suffix = ''
-        while url and url[-1] in '.,;:!?…':
-            suffix = url[-1] + suffix
-            url = url[:-1]
-        for opener, closer in [('(', ')'), ('[', ']'), ('{', '}')]:
-            while url.endswith(closer) and url.count(closer) > url.count(opener):
-                suffix = closer + suffix
-                url = url[:-1]
+        url, suffix = split_url_suffix(match.group(0))
         href = url if re.match(r'^https?://', url, re.I) else 'https://' + url
         if safe_url(href):
             result.append(f'<a href="{escape(href)}" rel="noopener noreferrer">{escape(url)}</a>')
@@ -133,9 +145,15 @@ def excerpt(post, limit=80, *, sentence=True):
     opening = '\n'.join(lines).strip()
     if sentence:
         opening = re.split(r'\n\s*\n', opening, maxsplit=1)[0]
+    has_urls = bool(URL_RE.search(opening))
+    opening = URL_RE.sub(lambda match: split_url_suffix(match.group(0))[1], opening)
+    opening = re.sub(r'\(\s*\)', '', opening)
     line = ' '.join(opening.split())
-    if not line:
-        return f"Post #{post['id']}"
+    line = re.sub(r'\s+([,.;:!?])', r'\1', line)
+    if has_urls:
+        line = line.lstrip('.,;:!?… ')
+    if not line.strip('.,;:!?…()[]{}\'" -—–'):
+        return MEDIA_TITLES.get(post.get('content_kind'), f"Post #{post['id']}")
     if sentence:
         terminator = re.search(r'[.!?](?=\s|$)', line)
         if terminator and terminator.end() <= limit:
@@ -164,6 +182,91 @@ def original_url(post, channel):
 def image_html(post):
     images = post.get('images') if isinstance(post.get('images'), list) else []
     return '\n'.join(f'<img src="{escape(url)}" alt="" loading="lazy">' for value in images if (url := safe_url(value)))
+
+
+def forwarded_html(post):
+    forwarded = post.get('forwarded_from')
+    if isinstance(forwarded, str):
+        name, url = forwarded.strip(), None
+    elif isinstance(forwarded, dict):
+        name = forwarded.get('name') if isinstance(forwarded.get('name'), str) else ''
+        url = safe_url(forwarded.get('url'))
+    else:
+        return ''
+    if not name and not url:
+        return ''
+    label = escape(name or 'original source')
+    if url:
+        label = f'<a href="{escape(url)}">{label}</a>'
+    return f'<p>Forwarded from {label}.</p>'
+
+
+def media_notice_html(post, has_images):
+    kind = post.get('content_kind')
+    notices = {'video': 'View this video on Telegram.',
+               'document': 'View this document on Telegram.',
+               'unsupported': 'View this media on Telegram.',
+               'service': 'Service message on Telegram.'}
+    notice = notices.get(kind, '')
+    if kind == 'photo' and not has_images:
+        notice = 'View these photos on Telegram.'
+    if kind == 'poll' and not str(post.get('text_en') or '').strip() and not str(post.get('text_ru') or '').strip():
+        notice = 'View this poll on Telegram.'
+    if not notice:
+        return ''
+    supplied = post.get('media_notice_en')
+    return render_text(supplied if isinstance(supplied, str) and supplied.strip() else notice)
+
+
+def original_link_key(url):
+    parts = urlsplit(url)
+    if parts.path == '/':
+        slash = url.find('://') + 3 + len(parts.netloc)
+        return url[:slash] + url[slash + 1:]
+    return url
+
+
+class EnglishAnchorTargets(HTMLParser):
+    def __init__(self, html):
+        super().__init__()
+        self.targets = set()
+        self.feed(html)
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            for key, value in attrs:
+                if key == 'href' and value:
+                    self.targets.add(original_link_key(value))
+
+
+def original_links_html(post, english):
+    sources = post.get('source_links')
+    if not isinstance(sources, list):
+        return ''
+    seen = EnglishAnchorTargets(english).targets
+    items = []
+    for source in sources:
+        url = safe_url(source.get('url')) if isinstance(source, dict) else None
+        if not url or original_link_key(url) in seen:
+            continue
+        seen.add(original_link_key(url))
+        items.append(f'<li><a href="{escape(url)}" rel="noopener">{escape(url)}</a></li>')
+    if not items:
+        return ''
+    return '<p>Links from the original post:</p>\n<ul>\n' + '\n'.join(items) + '\n</ul>'
+
+
+def english_body_html(post):
+    images = image_html(post)
+    english = render_text(post.get('text_en'))
+    if not english:
+        has_original = isinstance(post.get('text_ru'), str) and bool(post['text_ru'].strip())
+        media_only = post.get('content_kind') in {*MEDIA_TITLES, 'service'} and not has_original
+        service_notice = post.get('content_kind') == 'service' and isinstance(post.get('media_notice_en'), str) and bool(post['media_notice_en'].strip())
+        if not media_only and not service_notice:
+            english = '<p>English translation is not available for this post.</p>'
+    parts = [forwarded_html(post), images, english, original_links_html(post, english), media_notice_html(post, bool(images))]
+    return '\n'.join(part for part in parts if part)
 
 
 def page_head(title, description, path, *, article=False, image=None, published=None, prefix='', social_title=None, social_description=None):
@@ -265,7 +368,7 @@ def render_index(posts):
         result.append('            </ul>\n')
     result.append('        </section>\n        <hr>\n    </main>\n')
     result.append(footer())
-    return ''.join(result)
+    return attribute_html(''.join(result))
 
 
 def render_post(post, channel):
@@ -280,15 +383,14 @@ def render_post(post, channel):
     result.append(f'        <p>{meta}<a href="{escape(original_url(post, channel))}">Original on Telegram</a></p>\n        <hr>\n    </header>\n')
     result.append(navigation('../'))
     result.append('    <main>\n        <article>\n')
-    result.append(image_html(post) + '\n')
-    result.append(render_text(post.get('text_en')) or '<p>English translation is not available for this post.</p>')
+    result.append(english_body_html(post))
     if isinstance(post.get('text_ru'), str) and post['text_ru'].strip():
         result.append('\n<details lang="ru">\n<summary lang="en">Original (RU)</summary>\n')
         result.append(render_text(post['text_ru']))
         result.append('\n</details>')
     result.append('\n        </article>\n        <hr>\n    </main>\n')
     result.append(footer('../'))
-    return ''.join(result)
+    return attribute_html(''.join(result))
 
 
 def xml_text(root):
@@ -305,7 +407,7 @@ def render_rss(posts, channel):
         ET.SubElement(feed, tag).text = text
     ET.SubElement(feed, '{' + ATOM_NS + '}link', href=BASE_URL + '/rss.xml', rel='self', type='application/rss+xml')
     # Telegram message IDs preserve source order even when a historical timestamp is missing.
-    for post in sorted(posts, key=lambda post: post['id'], reverse=True)[:50]:
+    for post in sorted(posts, key=lambda post: post['id'], reverse=True):
         item = ET.SubElement(feed, 'item')
         permalink = BASE_URL + '/' + post_path(post)
         ET.SubElement(item, 'title').text = excerpt(post)
@@ -314,10 +416,9 @@ def render_rss(posts, channel):
         date = publication_date(post.get('date_utc'))
         if date:
             ET.SubElement(item, 'pubDate').text = format_datetime(date, usegmt=True)
-        body = render_text(post.get('text_en'))
-        body += '\n' + image_html(post)
+        body = english_body_html(post)
         body += f'\n<p><a href="{escape(original_url(post, channel))}">Original on Telegram</a></p>'
-        ET.SubElement(item, 'description').text = body
+        ET.SubElement(item, 'description').text = attribute_html(body)
     return xml_text(rss)
 
 

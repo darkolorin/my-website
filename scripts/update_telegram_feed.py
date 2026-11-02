@@ -72,6 +72,9 @@ class TgPost:
     date_utc: Optional[str]
     text_ru: str
     images: List[str]
+    content_kind: str = "text"
+    media_notice_en: str = ""
+    forwarded_from: Optional[Dict[str, Any]] = None
 
     @property
     def key(self) -> str:
@@ -109,7 +112,7 @@ def parse_args(argv: List[str]) -> argparse.Namespace:
         default="auto",
         help="Translation backend. 'auto' uses OpenAI if OPENAI_API_KEY is set, else Argos. 'argos' is free/offline. 'none' disables translation.",
     )
-    p.add_argument("--openai-model", default=OPENAI_DEFAULT_MODEL, help="OpenAI model (default: env OPENAI_MODEL or gpt-4o-mini).")
+    p.add_argument("--openai-model", default=OPENAI_DEFAULT_MODEL, help="OpenAI model (default: env OPENAI_MODEL or gpt-5.2).")
     return p.parse_args(argv)
 
 
@@ -150,6 +153,10 @@ def extract_date_utc(el) -> Optional[str]:
 
 def extract_text_ru(el) -> str:
     text_el = el.select_one(".tgme_widget_message_text")
+    poll = False
+    if not text_el:
+        text_el = el.select_one(".tgme_widget_message_poll_question")
+        poll = text_el is not None
     if not text_el:
         return ""
 
@@ -178,7 +185,12 @@ def extract_text_ru(el) -> str:
 
     # Preserve line breaks from <br> etc.
     txt = text_el.get_text("\n")
-    return (txt or "").strip()
+    txt = (txt or "").strip()
+    if poll:
+        options = [option.get_text(" ", strip=True) for option in el.select(".tgme_widget_message_poll_option_text")]
+        if options:
+            txt += "\n\n" + "\n".join("- " + option for option in options)
+    return txt
 
 
 def _extract_bg_image_url(style: str) -> Optional[str]:
@@ -235,9 +247,34 @@ def parse_preview_html(channel: str, html: str) -> List[TgPost]:
         msg_id, url = id_and_url
         text_ru = extract_text_ru(msg)
         images = extract_image_urls(msg)
-        # Skip totally empty posts (e.g., sticker-only) to keep the feed readable
-        if not text_ru and not images:
-            continue
+        if 'service_message' in (msg.get('class') or []):
+            kind = 'service'
+        elif msg.select_one('.tgme_widget_message_poll'):
+            kind = 'poll'
+        elif msg.select_one('.tgme_widget_message_document'):
+            kind = 'document'
+        elif msg.select_one('[class*="tgme_widget_message_video"], [class*="tgme_widget_message_roundvideo"]'):
+            kind = 'video'
+        elif images:
+            kind = 'photo'
+        else:
+            kind = 'text' if text_ru else 'unsupported'
+        notice = {'service': 'Service message on Telegram.',
+                  'video': 'Video available in the original Telegram post.',
+                  'document': 'Document available in the original Telegram post.',
+                  'unsupported': 'This media is unavailable in the public Telegram preview. View the original post on Telegram.'}.get(kind, '')
+        forwarded = None
+        forward_el = msg.select_one('.tgme_widget_message_forwarded_from')
+        if forward_el:
+            anchor = forward_el.select_one('a[href]')
+            name = anchor.get_text(' ', strip=True) if anchor else re.sub(r'^Forwarded from\s+', '', forward_el.get_text(' ', strip=True))
+            href = anchor.get('href') if anchor else None
+            try:
+                target = urlsplit(href) if isinstance(href, str) else None
+                safe = target is not None and target.scheme in ('https', 'http') and target.hostname and not target.username and not target.password and not any(c.isspace() for c in href)
+            except ValueError:
+                safe = False
+            forwarded = {'name': name, 'url': href if safe else None}
         posts.append(
             TgPost(
                 channel=channel,
@@ -246,6 +283,9 @@ def parse_preview_html(channel: str, html: str) -> List[TgPost]:
                 date_utc=extract_date_utc(msg),
                 text_ru=text_ru,
                 images=images,
+                content_kind=kind,
+                media_notice_en=notice,
+                forwarded_from=forwarded,
             )
         )
     return posts
@@ -523,6 +563,9 @@ def build_feed(
                 "images": p.images,
                 "title_en": title_en,
                 "text_en": text_en,
+                "content_kind": p.content_kind,
+                **({"media_notice_en": p.media_notice_en} if p.media_notice_en else {}),
+                **({"forwarded_from": p.forwarded_from} if p.forwarded_from else {}),
             }
         )
 

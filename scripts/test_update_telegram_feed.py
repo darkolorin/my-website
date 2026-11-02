@@ -86,6 +86,44 @@ class EmptyPreviewTests(unittest.TestCase):
             self.assertIn("No posts", error.getvalue())
 
 
+class CompletePreviewTests(unittest.TestCase):
+    def test_poll_preserves_question_and_options_without_live_counts(self):
+        html = '''<div class="tgme_widget_message" data-post="chillhousetech/2000">
+          <div class="tgme_widget_message_poll">
+            <div class="tgme_widget_message_poll_question">Какой вариант?</div>
+            <div class="tgme_widget_message_poll_option"><span class="tgme_widget_message_poll_option_percent">73%</span><span class="tgme_widget_message_poll_option_text">Первый</span></div>
+            <div class="tgme_widget_message_poll_option"><span class="tgme_widget_message_poll_option_percent">27%</span><span class="tgme_widget_message_poll_option_text">Второй</span></div>
+          </div><time datetime="2026-11-02T10:00:00+00:00"></time></div>'''
+        posts = feed.parse_preview_html('chillhousetech', html)
+        self.assertEqual(len(posts), 1)
+        self.assertEqual(posts[0].text_ru, 'Какой вариант?\n\n- Первый\n- Второй')
+        self.assertEqual(posts[0].content_kind, 'poll')
+        self.assertNotIn('%', posts[0].text_ru)
+
+    def test_captionless_media_and_service_records_are_kept_with_real_ids(self):
+        html = ''.join(f'<div class="tgme_widget_message {outer}" data-post="chillhousetech/{pid}">{body}</div>'
+                       for pid, outer, body in [
+                           (2001, '', '<a class="tgme_widget_message_video_player"></a>'),
+                           (2002, '', '<div class="tgme_widget_message_document"></div>'),
+                           (2003, '', '<div class="media_not_supported">Open in Telegram</div>'),
+                           (2004, 'service_message', '<div class="tgme_widget_message_text">Channel created</div>'),
+                       ])
+        posts = feed.parse_preview_html('chillhousetech', html)
+        self.assertEqual([p.message_id for p in posts], [2001, 2002, 2003, 2004])
+        self.assertEqual([p.content_kind for p in posts], ['video', 'document', 'unsupported', 'service'])
+        self.assertTrue(all(p.date_utc is None for p in posts))
+
+    def test_regular_feed_keeps_forwarding_and_content_metadata(self):
+        html = '''<div class="tgme_widget_message" data-post="chillhousetech/2005">
+          <div class="tgme_widget_message_forwarded_from">Forwarded from <a href="https://t.me/original/3">Original channel</a></div>
+          <div class="tgme_widget_message_text">Текст</div></div>'''
+        posts = feed.parse_preview_html('chillhousetech', html)
+        result = feed.build_feed(channel='chillhousetech', posts=posts, existing_feed={},
+                                 translator='none', openai_model='test-model', timeout_s=20)
+        self.assertEqual(result['posts'][0]['content_kind'], 'text')
+        self.assertEqual(result['posts'][0]['forwarded_from'], {'name': 'Original channel', 'url': 'https://t.me/original/3'})
+
+
 class TranslationCacheTests(unittest.TestCase):
     def setUp(self):
         self.post = feed.TgPost(

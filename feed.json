@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-02T00:23:18Z",
+  "generated_at_utc": "2026-11-02T00:53:48Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
@@ -12,7 +12,8 @@
       "text_ru": "Мысли выходного дня. Достаточно давно пришел к мнению, что современный tech очень другой по сравнению с тем, что было ранее. Давайте поясню. \nБольшая часть рынка и людей сейчас в tech живут прошлым. Огого можно сделать себе дашборд, софтик для трекинга калорий или планер. Иногда эти мечты выходят за пределы личного софта и начинается игра как раньше. Мол я сделаю людям же надо. Но кажется время ушло. \nМне нравится следующая аналогия. В середине прошлой декады появились хорошие камеры в телефонах чтобы снимать видосы, эффекты всякие и прочее. Это сделало возможным каждому снять норм ролик, ведь теперь видеокамера не нужна. Абсолютно каждый «сам себе режиссер». Вот тоже самое будет с софтом. Надо становится блогером. Быть личностью. Уметь привлекать людей к себе. А это прошлое поколение предпринимателей совсем не умеет. \nВсе акселераторы, венчура и прочая туса заточена оценивать продукт, трек рекорды и прочее. Но как мы знаем это то, что блогеру совсем не обязательно нужно. И рост который тоже все оценивали теперь надо оценивать иначе. Теперь каждый под запуском из YC пишет как он повторил весь продукт через один промт. И вот это ровно тот же эффект как у блогеров. Выложить похожий ролик проще простого. Но залетают едицницы. \nВелкам ту экономика внимания вместо экономика продукта и роста. \nА серьезный софт останется там же. Это модели, рисерч, интеграция, железо и прочее. Где порог входа вырастет в сотни раз. Такие дела.",
       "images": [],
       "title_en": "",
-      "text_en": "Weekend thoughts. Quite a while ago I came to the opinion that modern tech is very different compared to what it used to be. Let me explain.\n\nMost of the market and people in tech right now live in the past. Wow, you can make yourself a dashboard, some little calorie-tracking software, or a planner. Sometimes these dreams go beyond personal software and the “like it used to be” game starts. Like, I’ll make it, people need it. But it seems that time is gone.\n\nI like the following analogy. In the middle of the last decade, good cameras showed up in phones so you could shoot vids, all sorts of effects and whatever. That made it possible for anyone to shoot a decent clip, because now you don’t need a video camera. Absolutely everyone is “their own director.” The exact same thing is gonna happen with software. You’ve gotta become a blogger. Be a persona. Know how to pull people toward you. And the previous generation of entrepreneurs absolutely can’t do that.\n\nAll the accelerators, VC, and the whole тусa are tuned to evaluate product, track records, and whatever. But as we know, that’s not something a blogger necessarily needs at all. And “growth,” which everyone used to evaluate too, now has to be evaluated differently. Now every other person under a YC launch writes about how they replicated the whole product with one prompt. And that’s exactly the same effect as with bloggers. Posting a similar video is easy as hell. But only a few go viral.\n\nWelcome to the attention economy instead of the product-and-growth economy.\n\nAnd serious software will stay right where it is. Models, research, integration, hardware, and so on. Where the barrier to entry will grow by hundreds of times. That’s how it is."
+      "text_en": "Weekend thoughts. Quite a while ago I came to the opinion that modern tech is very different compared to what it used to be. Let me explain.\n\nMost of the market and people in tech right now live in the past. Wow, you can make yourself a dashboard, some little calorie-tracking software, or a planner. Sometimes these dreams go beyond personal software and the “like it used to be” game starts. Like, I’ll make it, people need it. But it seems that time is gone.\n\nI like the following analogy. In the middle of the last decade, good cameras showed up in phones so you could shoot vids, all sorts of effects and whatever. That made it possible for anyone to shoot a decent clip, because now you don’t need a video camera. Absolutely everyone is “their own director.” The exact same thing is gonna happen with software. You’ve gotta become a blogger. Be a persona. Know how to pull people toward you. And the previous generation of entrepreneurs absolutely can’t do that.\n\nAll the accelerators, VC, and the whole тусa are tuned to evaluate product, track records, and whatever. But as we know, that’s not something a blogger necessarily needs at all. And “growth,” which everyone used to evaluate too, now has to be evaluated differently. Now every other person under a YC launch writes about how they replicated the whole product with one prompt. And that’s exactly the same effect as with bloggers. Posting a similar video is easy as hell. But only a few go viral.\n\nWelcome to the attention economy instead of the product-and-growth economy.\n\nAnd serious software will stay right where it is. Models, research, integration, hardware, and so on. Where the barrier to entry will grow by hundreds of times. That’s how it is.",
+      "content_kind": "text"
     },
     {
       "id": 1347,
@@ -23,7 +24,8 @@
       "text_ru": "Накопилось много всякого, что хотелось бы написать. Там и s1 Anthropic и разные другие кризисы кредитования compute бизнеса. Но начну пожалуй с математики. \nРемарка: я не ученый и тем более не математик. Но пол жизни провел в математике и достаточно плотно интересовался ей, даже в институт Стеклова при РАН ходил. Ну кто знает, тот поймет. \nТак вот OpenAI накинули очень сильный \nрезультат (https://openai.com/index/building-scientific-understanding-with-academic-communities/)\n на прошлой неделе. Это не какие-то там мелочи. Это что-то около премии Филдса (аналог нобелевки но в математике). Очень крутые вещи. Правда предстоит еще ревью. Но тем не менее. \nТак вот я считаю что настало очень важное время в математических дисциплинах. Двигаться в некоторых доменах стало легко и осталось понять куда. Я думаю что большая часть математики была настолько далека от прикладной части, что развивалась как теория без понятного ракурса как ее применить. Думаю, что в таких местах AI поможет ой как хорошо. Ученому лишь надо задать вектор и оно само найдет, соединит и докажет. Доказательство ради доказательств начнет исчезать, а это был большой пласт математики. \nНо мне думается, самый сок не в таких областях. А в той самой теор физике или областях на стыках нескольких наук или направлений. Самое интересное где AI найдет что-то чего человек в силу величины области просто не мог подобрать и соотнести. Сколько всего можно нового узнать. И тут без «human in the loop» думаю пока никуда. Все-таки с сооружением новых концептов без указки оно пока не едет. Но перебором владеет мастерски. \nПоэтому в науку идти станет интереснее. И исчезнут всякие сугубо теор в три уровня подвижки. Ибо намного важнее будет уметь соединять это с экспериментом и реальностью. \nНо время покажет.",
       "images": [],
       "title_en": "",
-      "text_en": "A lot of stuff has piled up that I’d like to write about. There’s s1 Anthropic in there, and various other lending crises of the compute business. But I’ll start, I guess, with math.  \nNote: I’m not a scientist and even less a mathematician. But I spent half my life in math and was pretty deeply into it, I even used to go to the Steklov Institute at the Russian Academy of Sciences. Well, those who know, will get it.  \n\nSo. OpenAI dropped a seriously strong result last week. This isn’t some little trifles. This is something on the order of a Fields Medal (the Nobel analogue but for math). Very cool stuff. Sure, it still has to go through review. But still.  \n\nSo I think a very important time has come in mathematical disciplines. Moving in certain domains has become easy, and what’s left is to understand where to move. I think a big chunk of math was so far removed from the applied part that it developed as theory with no clear angle on how to use it. I think in places like that AI will help like hell. The scientist just needs to set the vector and it’ll find it, connect it, and prove it. Proof for the sake of proofs will start to vanish, and that was a huge layer of math.  \n\nBut I think the real juice isn’t in those areas. It’s in that very theoretical physics, or in areas at the junction of several sciences or directions. The most interesting thing is where AI will find something a human, due to the sheer size of the field, simply couldn’t pick out and line up. How much new stuff you can learn. And here, without “human in the loop,” I think there’s still no getting around it for now. It still doesn’t really go, building new concepts without being pointed. But it does brute force like a master.  \n\nSo it’ll become more interesting to go into science. And all sorts of purely-theoretical, three-level nudges will disappear. Because it’ll be way more important to be able to connect it to experiment and reality.  \n\nBut time will tell.\n\nLinks:\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/"
+      "text_en": "A lot of stuff has piled up that I’d like to write about. There’s s1 Anthropic in there, and various other lending crises of the compute business. But I’ll start, I guess, with math.  \nNote: I’m not a scientist and even less a mathematician. But I spent half my life in math and was pretty deeply into it, I even used to go to the Steklov Institute at the Russian Academy of Sciences. Well, those who know, will get it.  \n\nSo. OpenAI dropped a seriously strong result last week. This isn’t some little trifles. This is something on the order of a Fields Medal (the Nobel analogue but for math). Very cool stuff. Sure, it still has to go through review. But still.  \n\nSo I think a very important time has come in mathematical disciplines. Moving in certain domains has become easy, and what’s left is to understand where to move. I think a big chunk of math was so far removed from the applied part that it developed as theory with no clear angle on how to use it. I think in places like that AI will help like hell. The scientist just needs to set the vector and it’ll find it, connect it, and prove it. Proof for the sake of proofs will start to vanish, and that was a huge layer of math.  \n\nBut I think the real juice isn’t in those areas. It’s in that very theoretical physics, or in areas at the junction of several sciences or directions. The most interesting thing is where AI will find something a human, due to the sheer size of the field, simply couldn’t pick out and line up. How much new stuff you can learn. And here, without “human in the loop,” I think there’s still no getting around it for now. It still doesn’t really go, building new concepts without being pointed. But it does brute force like a master.  \n\nSo it’ll become more interesting to go into science. And all sorts of purely-theoretical, three-level nudges will disappear. Because it’ll be way more important to be able to connect it to experiment and reality.  \n\nBut time will tell.\n\nLinks:\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "content_kind": "text"
     },
     {
       "id": 1346,
@@ -34,7 +36,20 @@
       "text_ru": "Дорогие читатели, мы активно собираем кейсы для RL для computer use, для локальной модели и чтобы быстро работало и буду очень благодарен если вы уделите минутку и надиктуете свои. Мы хотим для начала сосредоточиться именно на использовании тех приложений и возможностей, которые уже есть на вашем компьютере (встроены в ОС по сути). Самый активный/классный кейс и его автор получит от нас 1к USD на любую нейронку в виде кредитов. Посчитаем через пару недель думаю. \nДиктовать можно как на русском так и на англ, перевод встроен. Голосовалка тоже есть \n🙂\n \nПошарьте друзьям и знакомым. Спасибо!\nЛинка (https://intents.trymirai.com/?utm_source=chillhouse&utm_medium=post&utm_campaign=tg_my)",
       "images": [],
       "title_en": "",
-      "text_en": "\"\"\"\nDear readers, we’re actively collecting use cases for RL for computer use, for a local model, and so it runs fast, and I’d be super grateful if you take a minute and dictate yours. For starters we want to focus specifically on using the apps and capabilities that are already on your computer (basically built into the OS). The most active/coolest use case and its author will get 1k USD from us for any neural net as credits. We’ll count it in a couple weeks, I think.  \nYou can dictate in either Russian or English, translation is built in. There’s a voting thing too  \n🙂\n \nShare it with friends and acquaintances. Thanks!\nLink\n\"\"\"\n\nLinks:\nhttps://intents.trymirai.com/?utm_source=chillhouse&utm_medium=post&utm_campaign=tg_my"
+      "text_en": "\"\"\"\nDear readers, we’re actively collecting use cases for RL for computer use, for a local model, and so it runs fast, and I’d be super grateful if you take a minute and dictate yours. For starters we want to focus specifically on using the apps and capabilities that are already on your computer (basically built into the OS). The most active/coolest use case and its author will get 1k USD from us for any neural net as credits. We’ll count it in a couple weeks, I think.  \nYou can dictate in either Russian or English, translation is built in. There’s a voting thing too  \n🙂\n \nShare it with friends and acquaintances. Thanks!\nLink\n\"\"\"\n\nLinks:\nhttps://intents.trymirai.com/?utm_source=chillhouse&utm_medium=post&utm_campaign=tg_my",
+      "content_kind": "text"
+    },
+    {
+      "id": 1345,
+      "url": "https://t.me/chillhousetech/1345",
+      "date_utc": "2026-10-23T17:59:52+00:00",
+      "hash": "6bbbe46eb4619d300289ae0880cb4a03d8507e9597fe11fe1f48df85843a11c6",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Сколько вы тратите на ai для кодинга в месяц? (Ну или для других целей, но там будет поменьше)\n\n- 0, пишу руками\n- 20$ но тоже пишу руками достаточно\n- ~100$, руками ничего почти не трогаю\n- 200$+\n- 1к$+",
+      "images": [],
+      "title_en": "",
+      "text_en": "How much do you spend on AI for coding per month? (Or for other stuff, but that’ll be less)\n\n- 0, I write by hand  \n- $20 but I still write by hand quite a bit  \n- ~$100, I barely touch anything by hand  \n- $200+  \n- $1k+",
+      "content_kind": "poll"
     },
     {
       "id": 1344,
@@ -45,7 +60,8 @@
       "text_ru": "Кстати можно поиграться в браузере теперь \nhttps://uzu.run/\nПока в экспериментальном варианте, но скоро в норм виде до основой ветки доедет. В целом вполне сносно показывает себя. Кстати нужно ли завозить jev-like модели? Мне кажется особенно в браузере может быть прикольно.",
       "images": [],
       "title_en": "",
-      "text_en": "By the way, you can mess around in the browser now  \nhttps://uzu.run/  \nStill in an experimental form, but soon it’ll make it to the main branch in a proper state. Overall it’s behaving pretty decently. Also, should we bring in jev-like models? Feels like especially in the browser it could be kinda fun."
+      "text_en": "By the way, you can mess around in the browser now  \nhttps://uzu.run/  \nStill in an experimental form, but soon it’ll make it to the main branch in a proper state. Overall it’s behaving pretty decently. Also, should we bring in jev-like models? Feels like especially in the browser it could be kinda fun.",
+      "content_kind": "text"
     },
     {
       "id": 1343,
@@ -58,7 +74,8 @@
         "https://cdn4.telesco.pe/file/EByfhP45gGcFO3Sr9EwX8qh0Gel7qxvwOqsi0L_xLP9eNfn1XCRUNwsHgPiBa13neNpddT-YZnSl5X3hOc-4JZaF0pMNhvj9BzXV1Ra_q2kZt8iDENy2GweDA8riYmKhh58toIbjrwUA2u4eiA2bSv5_vRLeRw6G69Ov3UH0i7uX-Uhy-rvO_pZmyN1s3nun8qth7D2vPCVSqZ8rRKPfQuODnWjnXVc_F373bx8khBDN7to9WlO0U8QSTPw9VDgKuPiaZnL5FLaM88DXNNa6lm-V2POLmw2BKSvPDDXhm7dZ5WlLO_T-gzJroUaPp3UWkRgPh-7aaMqq7RrPjjirlQ.jpg"
       ],
       "title_en": "",
-      "text_en": "A pretty interesting picture is shaping up"
+      "text_en": "A pretty interesting picture is shaping up",
+      "content_kind": "photo"
     },
     {
       "id": 1342,
@@ -71,7 +88,8 @@
         "https://cdn4.telesco.pe/file/k45YLvWFvIthAiejFSq97VVNU-G2eqA6wXSzKjKcVG72jR8OW2gw11IgifTGU2p6A_ChvdMEKZGjfq6apV7tG04BIi6uNNAIscduTnd8PZ_F-lVOf25LwR-665o-V3Zn2MdboTalp6ZfLBbKv6sP1dc4ZhYx4JKKhKjy50wy_o_Hy6sKtIgzEJ2rgNdQCBzDyjnzwyip1M45IlM7xUVpZ-nRp6RzY_ko0yIsn-5Owp0STUHaTqSkgcDpHBgqZAdJUomcuN9OCzxGUy5G2TQ38sbSlSABF7tKW3qKZz4NauzGzYQ95CNEk6kk4zXwaxWidam56ls0RTg8CMNfHNJ7hw.jpg"
       ],
       "title_en": "",
-      "text_en": "Great PR for the IPO, after all there are very smart\npeople sitting there\nmodels"
+      "text_en": "Great PR for the IPO, after all there are very smart\npeople sitting there\nmodels",
+      "content_kind": "photo"
     },
     {
       "id": 1341,
@@ -82,7 +100,8 @@
       "text_ru": "Hot take: работать в претрен команде в топ лабах самое скучное что может быть. Все сидят там только ради денег. Prove me wrong.",
       "images": [],
       "title_en": "",
-      "text_en": "Hot take: working on a pretrain team in top labs is the most boring thing imaginable. Everyone’s there just for the money. Prove me wrong."
+      "text_en": "Hot take: working on a pretrain team in top labs is the most boring thing imaginable. Everyone’s there just for the money. Prove me wrong.",
+      "content_kind": "text"
     },
     {
       "id": 1340,
@@ -95,7 +114,8 @@
         "https://cdn4.telesco.pe/file/Pt27tA-iNCYjxc6_ABKhbUdldCKTkDaK2Jh1XiSZHdmTqky1cIEqRWs4mfnwqAkZUB0Jac2WfuYXre78PYGTaWFHsQmWuLCPC5QKMNpcTwE_3nY5KIS14XulT_abIDwOjYtyVGx7ximWGugZg4Jw9Qr_jFY7G3uzRV7nI2NtNVvYr5wW19l4a0H06Tk4aJH_ubu8A8VxVKwRufAutKog5cZHgqO-OcYFwDw30s8gernVSGIimkwWPzb4B0lLZbMJi_fsPn1tvHgQchowhBONrgNPn4KpUnO8L3aph4u4o0B2e3jQ0y7yFsd8wBbtTLFHDf_Pn6_X5ozvP0XJap5dnA.jpg"
       ],
       "title_en": "",
-      "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers.\n\nLinks:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+      "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers.\n\nLinks:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "content_kind": "photo"
     },
     {
       "id": 1339,
@@ -106,7 +126,8 @@
       "text_ru": "В моей рабочей почте каждый день примерно 50 писем с темой: we've built new ai empowered gtm tool. Дальше это обычно что-то из: cold outreach automation, market research, и самое частое конечно же SEO/GEO или как там его про выдачу в чат боты. Сотни писем, большая часть написана через AI, отвечено - ноль. \nПочти у всех письмо построено по принципу:\n• в заголовке хук (например чел написал Ferrari, оказалось это название их тула)\n• внутри аля переработанное описание того, что о твоей компании нашел агент (обычно конечно же нормально оно найти не может, глазами будет в три раза быстрее понять)\n• стандартный темплейт про мы найдем вам стопицот сделок, сделаем стопицот результатов\nБывает открываю \nсайты таких ребят (https://www.enablement.ch/)\n - 100% made by claude",
       "images": [],
       "title_en": "",
-      "text_en": "In my work email every day there are like 50 emails with the subject: we've built new ai empowered gtm tool. After that it’s usually something like: cold outreach automation, market research, and most often of course SEO/GEO or whatever that thing is about rankings inside chat bots. Hundreds of emails, most of them written through AI, replies — zero.  \n\nAlmost everyone builds the email on the same principle:  \n• a hook in the subject (like some dude wrote Ferrari, turned out that’s the name of their tool)  \n• inside, some kind of reworked description of what the “agent” found about your company (usually it can’t really find anything, with your own eyes it’ll be three times faster to understand)  \n• a standard template about how we’ll find you a bajillion deals, deliver a bajillion results  \n\nSometimes I open  \nthese guys’ sites  \n— 100% made by Claude\n\nLinks:\nhttps://www.enablement.ch/"
+      "text_en": "In my work email every day there are like 50 emails with the subject: we've built new ai empowered gtm tool. After that it’s usually something like: cold outreach automation, market research, and most often of course SEO/GEO or whatever that thing is about rankings inside chat bots. Hundreds of emails, most of them written through AI, replies — zero.  \n\nAlmost everyone builds the email on the same principle:  \n• a hook in the subject (like some dude wrote Ferrari, turned out that’s the name of their tool)  \n• inside, some kind of reworked description of what the “agent” found about your company (usually it can’t really find anything, with your own eyes it’ll be three times faster to understand)  \n• a standard template about how we’ll find you a bajillion deals, deliver a bajillion results  \n\nSometimes I open  \nthese guys’ sites  \n— 100% made by Claude\n\nLinks:\nhttps://www.enablement.ch/",
+      "content_kind": "text"
     },
     {
       "id": 1338,
@@ -117,7 +138,9 @@
       "text_ru": "Запустили тут \nнебольшой эксперимент модельку (https://huggingface.co/trymirai/Qwen3.8-27B-S-experimental)\n, по сути очень хорошая сжатая и довольно бодрая, господа вот тестят сами (портировали даже под движок нужный)\nможно глянуть что получается в видео или почитать про эксперименты у ребят \nhttps://t.me/fuckup_files/1049",
       "images": [],
       "title_en": "",
-      "text_en": "Launched here  \na small experiment, a little model\n, basically a very solid compressed and pretty peppy one, gentlemen are testing it themselves (they even ported it to the required engine)\nyou can check what comes out in the video or read about the experiments from the guys  \nhttps://t.me/fuckup_files/1049\n\nLinks:\nhttps://huggingface.co/trymirai/Qwen3.8-27B-S-experimental"
+      "text_en": "Launched here  \na small experiment, a little model\n, basically a very solid compressed and pretty peppy one, gentlemen are testing it themselves (they even ported it to the required engine)\nyou can check what comes out in the video or read about the experiments from the guys  \nhttps://t.me/fuckup_files/1049\n\nLinks:\nhttps://huggingface.co/trymirai/Qwen3.8-27B-S-experimental",
+      "content_kind": "video",
+      "media_notice_en": "Video available in the original Telegram post."
     },
     {
       "id": 1336,
@@ -131,7 +154,8 @@
         "https://cdn4.telesco.pe/file/g26KfpsMameEzdWfzUSGvRMfuclTbxHOUAmEfVxXEf_Jtw92XatL8IhMwG6w5QnlKEJlA9T64ns2lLcca-BAIRcheU9mPoiTGfZX1rOTlzr8NB1fJWWT93u4yERNtRlmU9wkjf6eeBSLEPTIUSpe1kYxnr3Ex8Y6nTwQ556RiRg4gGd7Izq9fxEWT0hWP_uWaQnVhOqWM2CD1u3Iym9M1XyFsT-dZaOzRTyytIPl8sFh6p3f2C__ldhQH5ou1pZypIkgpJeM3UDGcqq409jXqJ1T_k5n8Ubs9mjE6bmN0kHQMkCECnzZ2E_nSFNKQR26c8AyptKjwl0PmUV_G0dPjw.jpg"
       ],
       "title_en": "",
-      "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.\n\nLinks:\nhttps://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios"
+      "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.\n\nLinks:\nhttps://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios",
+      "content_kind": "photo"
     },
     {
       "id": 1335,
@@ -144,7 +168,8 @@
         "https://cdn4.telesco.pe/file/OnMWbeiLrqQIElhwupelShH5EOc0M3HOeBfh84Ne_5jLr-oQ5qCcRxnSx3bIiE5guK8m8JGWHNOBF-VYQUcYrFI7JJV_hO3SUBd2d_LF7H8XQxaEH4opD_Uqyy3LkBrrQZq10DhCcl-hxyfwHtFlXUftu79VMy3K9ikXG0OWaOYkylboGwZM1FDVOLIF6ch9EfQUR7StIWISW1TTqd1Xv5s40_NF1h1ooJWxOAsc54CGs8V6iTWfAL5nsJKebQBwEYVCrjzN1OH0CP-P37L3MuxT56-jzfEfdD6C3-m7RFZH9RFqioYnlWQLA5jRJNO63cN8_frra3BFCiUuMxAPBw.jpg"
       ],
       "title_en": "",
-      "text_en": "On the topic of AI oversight"
+      "text_en": "On the topic of AI oversight",
+      "content_kind": "photo"
     },
     {
       "id": 1334,
@@ -155,7 +180,8 @@
       "text_ru": "У меня ко всем этим лабам и компаниям, которые разгоняют тему AI до небес есть один вопрос. Почему из этих топ омега крутых команд уходят люди, не просто люди, а руководители? Если ты видишь что условная твоя лаба на пороге открытия и завоевания всего мира. А ты уходишь делать свой стартап по пост трену. WTF? \nНу то есть допустим кого-то люди и атмосфера не устраивает. Но денег, возможностей там выше крыше внутри. Увольнения? Ахах. Вряд ли. Но может доля есть.",
       "images": [],
       "title_en": "",
-      "text_en": "I’ve got one question for all these labs and companies that are pumping the AI hype up to the heavens. Why do people leave these top omega badass teams — and not just people, but leaders? Like, if you see that your so-called lab is on the brink of a breakthrough and conquering the whole world. And you bounce to go build your own startup around post-train. WTF?\n\nI mean, sure, maybe some folks don’t like the people and the vibe. But there’s money and opportunities coming out of their ears in there. Layoffs? Lol. Doubt it. But maybe it’s about equity."
+      "text_en": "I’ve got one question for all these labs and companies that are pumping the AI hype up to the heavens. Why do people leave these top omega badass teams — and not just people, but leaders? Like, if you see that your so-called lab is on the brink of a breakthrough and conquering the whole world. And you bounce to go build your own startup around post-train. WTF?\n\nI mean, sure, maybe some folks don’t like the people and the vibe. But there’s money and opportunities coming out of their ears in there. Layoffs? Lol. Doubt it. But maybe it’s about equity.",
+      "content_kind": "text"
     },
     {
       "id": 1333,
@@ -168,7 +194,8 @@
         "https://cdn4.telesco.pe/file/XfyPNifjp5QGesD6mgwUR8U1KA7SPfsYxRuA1rK7o1BGJLytqdcQIFgyzXkhIQnZJgAIadHhXDbTzS8DQA7HSdrzACzU0HBAU9egbnXdHx4elJU6y86eRsmxx7FFrnD11YxpMZ29QXxVia5QoNtLNn2Zw2jcSHF8t4v28llKq19MP2wCPKNcTwzloHaz2IBV65TAAITbMWFEN4repVnUPua4mLrCQ854zb-zZ35GsXI1910fspsAtCV--lbfmq9NItl6-PEY8aIufMT7_N886p124YHLzCwmFzf37qYX2MdP87a5yRAgirJUpk7RMXiSQVF7u8_xY3pU7QqAVotsjQ.jpg"
       ],
       "title_en": "",
-      "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.\nAnd\nSam’s take\ngoes in the same direction. Probably someone else is supposed to think that way too, right?\n\nLinks:\nhttps://darioamodei.com/post/we-must-pace-the-frontier\nhttps://x.com/sama/status/2098811563415150910?s=46"
+      "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.\nAnd\nSam’s take\ngoes in the same direction. Probably someone else is supposed to think that way too, right?\n\nLinks:\nhttps://darioamodei.com/post/we-must-pace-the-frontier\nhttps://x.com/sama/status/2098811563415150910?s=46",
+      "content_kind": "photo"
     },
     {
       "id": 1332,
@@ -181,7 +208,8 @@
         "https://cdn4.telesco.pe/file/ViGPBIqzia3_GK3gTkdXwkZvVTVwDJqLkoCWLYoGUVV-2Z_9cRgDyle64JEtKGmqxWHCev9P2eYg-5UwQgmL0b4BXKR3Xlra-f88MVKR831VhP73NrhLcW87FbZlDNrOAHe-lqvAu1HwFQ8ipEynMGYrO-fm7GUuRJEaqz8neD2_9UjrOptWMPIxXB6xP5Uk6grQuYNsbLdjJbV_XnJBfTB14yg8QDQqT3JUf3WZlMRn5jBE9yiUF8gKMxChUX5OSzbgu1HKFmKEg9Z8LpcPgpZwj36IMidNcAsX66C7HgREMNOeTtDW8Hvi6UcrcX3Jxu7GBYX8H9u8_J51GtYL2g.jpg"
       ],
       "title_en": "",
-      "text_en": "Wanted to throw in some more memes. OpenAI \nhalted\n new sign-ups for the 200-dollar plan. A few moments before\n\nLinks:\nhttps://x.com/thsottiaux/status/2098113585683808624?s=46"
+      "text_en": "Wanted to throw in some more memes. OpenAI \nhalted\n new sign-ups for the 200-dollar plan. A few moments before\n\nLinks:\nhttps://x.com/thsottiaux/status/2098113585683808624?s=46",
+      "content_kind": "photo"
     },
     {
       "id": 1331,
@@ -194,7 +222,8 @@
         "https://cdn4.telesco.pe/file/Ps4ARm3ducblXMKxHc1P3h6aJzWiq_D1LMw9O0idR6RwqQU43Kzn1tGcnLr3oNBYn8h2O6GqgrtUExUZ6hm1SRrkLAVvQVMx9hBXj3_7kUP1f1oLgNS14BerJxvYKdWvH5N9zxw4v4WwbkSV3fZQpfK7SLGRnl8Fj5vYxZmaytIVKGTaptgjOI_t90S8ag_O8mRfxMLJi2Scv-RyTygl9TaIzNNo75fSjhXQ2geNGZnYkKyuqP--Wfw4E0OVEefz7E_R4_kkPRku9yq37Dy-h_LPSo6OtcQLp6Z_IQZIpd4PcOC7moD2n7t3MgeWZkI0EVwkeQSZdPjcRfnJ94QHvg.jpg"
       ],
       "title_en": "",
-      "text_en": "To everyone especially freaking out, I’ll remind you of a few details about the latest events:\n1/ the HuggingFace “hack” by agents is, damn, not “some model sitting there thinking how it could break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves a millennium-old problem all by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part\nis this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing this line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I recommend not leaving your house starting now.\n\nLinks:\nhttps://x.com/parkerthayer/status/2097759699626328575?s=46"
+      "text_en": "To everyone especially freaking out, I’ll remind you of a few details about the latest events:\n1/ the HuggingFace “hack” by agents is, damn, not “some model sitting there thinking how it could break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves a millennium-old problem all by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part\nis this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing this line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I recommend not leaving your house starting now.\n\nLinks:\nhttps://x.com/parkerthayer/status/2097759699626328575?s=46",
+      "content_kind": "photo"
     },
     {
       "id": 1330,
@@ -207,7 +236,8 @@
         "https://cdn4.telesco.pe/file/aUnxnLhsFUrFKgofg6zu_WVnaD8ZEC1mneDHZI1LRnyWB6VP_2fehyfSL_W8hjtx3fZJLLn2hkpe5Lt_jQPYZ7OYifd8LuPVSRMWB0_T4C_Oc6q65bvbGl2RZ6qBRMIxiLcW8iSxJ8-69fXNSuD1YyrU2G2PWFdwa1UtdhWmrVRk96Gk4RmQ_btI9BU8zqWWJBzayNxMx19Ehsh4psz1Dk9iaM5X6U2t2EdAvTn_vuTtz3BJDcdWNuX5r8r26kIj-cFyFoG31TA1aEsh8P1TANoRygvtRNwtzpFaKEpSiD4vrH61aKK4y0nkqWvlozgzAlTbrNT64lG1pJODupANEQ.jpg"
       ],
       "title_en": "",
-      "text_en": "The future is here"
+      "text_en": "The future is here",
+      "content_kind": "photo"
     },
     {
       "id": 1329,
@@ -218,7 +248,8 @@
       "text_ru": "Ну это солидный результат. \nРешение навье стокса (https://openai.com/index/navier-stokes-solution/)\n. \nДрама там по пути такая что челы догадались в какую сторону копать, а OpenAI подсмотрели в логи кодекса их и запустили на своем кластере и более мощной моделью :) \nНемного (https://x.com/willdepue/status/2097377325817974908?s=46)\n подробностей, 300 ярдов токенов на выходе. 10к агентов. Вот это брут форс я понимаю. \nТем не менее топ! Грац!",
       "images": [],
       "title_en": "",
-      "text_en": "Well that’s a solid result.  \nSolving Navier–Stokes.  \n.  \nThere’s some drama along the way like the guys figured out which direction to dig, and OpenAI peeked into their Codex logs and ran it on their own cluster with a beefier model :)  \nA bit more details, 300 billion tokens out. 10k agents. Now that’s brute force, I get it.  \nStill, top! Grats!\n\nLinks:\nhttps://openai.com/index/navier-stokes-solution/\nhttps://x.com/willdepue/status/2097377325817974908?s=46"
+      "text_en": "Well that’s a solid result.  \nSolving Navier–Stokes.  \n.  \nThere’s some drama along the way like the guys figured out which direction to dig, and OpenAI peeked into their Codex logs and ran it on their own cluster with a beefier model :)  \nA bit more details, 300 billion tokens out. 10k agents. Now that’s brute force, I get it.  \nStill, top! Grats!\n\nLinks:\nhttps://openai.com/index/navier-stokes-solution/\nhttps://x.com/willdepue/status/2097377325817974908?s=46",
+      "content_kind": "text"
     },
     {
       "id": 1328,
@@ -231,7 +262,8 @@
         "https://cdn4.telesco.pe/file/FAB0K7aTpMCeyHqFGGsu7bTlWM67n6YPjIj1Gx4yjNv5jFupiUVksJ1I8SWV9a0juHax8G0j2BKCVNaPo72wbUJiykcL7wxeaH-ieqicHpp7iUh0Hq4krtvsFTO5soKdHlJo5ahCcEZ-6UVQb2DopF_SQl4saU0j859HSZbZ4a5gVmvkaMIds68WZV6YfqG0-UU_qxKJmZirQarbedG4sWE8ekmyeA9Al5dccDVZcO9wJfqyqMj52NKhS-iK43B4yBSySbRAcMSGN1aKNwmxh8XdbkzvQR2Tko5ujvqd8hIK_Fw9x104_c0fjwfZEoPQunNpny7YIVNqlC2EAe28-A.jpg"
       ],
       "title_en": "",
-      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine.  \n.  \nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  \nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  \nYou can try it already today  \nM checkpoint  \n- smaller  \nL checkpoint  \n(lossless)  \nAll the models we support are here, we’ll be happy if you try something else too.  \nBenches are here. You can dig into what and how was measured and how much better it is.  \nMore details about the release — blog post\n\nLinks:\nhttps://github.com/trymirai/uzu\nhttps://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4\nhttps://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8\nhttps://trymirai.com/local-models\nhttps://trymirai.com/metrics\nhttps://trymirai.com/blog/speculative-decoding-in-uzu"
+      "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine.  \n.  \nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  \nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  \nYou can try it already today  \nM checkpoint  \n- smaller  \nL checkpoint  \n(lossless)  \nAll the models we support are here, we’ll be happy if you try something else too.  \nBenches are here. You can dig into what and how was measured and how much better it is.  \nMore details about the release — blog post\n\nLinks:\nhttps://github.com/trymirai/uzu\nhttps://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4\nhttps://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8\nhttps://trymirai.com/local-models\nhttps://trymirai.com/metrics\nhttps://trymirai.com/blog/speculative-decoding-in-uzu",
+      "content_kind": "photo"
     },
     {
       "id": 1327,
@@ -242,7 +274,8 @@
       "text_ru": "Типичный цикл AI native компании. Делаем харнесс для какой-то задачи или агрегатор там апишек + промтов. Скейлим платным трафлом (тут умирают 90% потому что это правда сложно). Дальше, когда ты большой уже становится сложно делать фичи ибо зависишь целиком и полностью от модели (ну может она или нет). И пытаешься как Harvey сделать свою или посттрейн хотя бы. Тут ты понимаешь, что стоишь то ты миллиарды, но фичи выпускать уже почти не можешь и в спину дышат лабы. А где найти людей на все такие компании, которые умеют в тренировку моделей и эвалы и все все да и еще и за месяц. А никто не знает.\nВообщем так сейчас у многих;",
       "images": [],
       "title_en": "",
-      "text_en": "Typical cycle of an AI native company. You build a harness for some task or an aggregator of APIs + prompts. You scale with paid traffic (90% die here because it’s actually hard). Then, once you’re big, it gets hard to ship features because you depend entirely and completely on the model (well, maybe it will, maybe it won’t). And you try like Harvey to make your own or at least post-train. That’s when you realize you’re worth billions, but you can barely ship features anymore and the labs are breathing down your neck. And where do you find people for all these companies who can do model training and evals and all that all that, and also in a month. And nobody knows.  \nAnyway, that’s how it is for a lot of people right now;"
+      "text_en": "Typical cycle of an AI native company. You build a harness for some task or an aggregator of APIs + prompts. You scale with paid traffic (90% die here because it’s actually hard). Then, once you’re big, it gets hard to ship features because you depend entirely and completely on the model (well, maybe it will, maybe it won’t). And you try like Harvey to make your own or at least post-train. That’s when you realize you’re worth billions, but you can barely ship features anymore and the labs are breathing down your neck. And where do you find people for all these companies who can do model training and evals and all that all that, and also in a month. And nobody knows.  \nAnyway, that’s how it is for a lot of people right now;",
+      "content_kind": "text"
     },
     {
       "id": 1326,
@@ -255,7 +288,8 @@
         "https://cdn4.telesco.pe/file/tAIUCI85wenEnXRg5jMEyg5ouvbIdZOApTy43QhzPJzpJZ4hY-P19PHYdSmqduh4Lu56oLWzcyTem6Aqo1YTCIWcE-ygg8z9KK548YFX0BAPSHS9gDIgbRfgqwc1NvmbltksCkeS6foFdXj7eJZPKZ0EqB4DO3pX2NGq1m18IPg9m9h-Cn86K3cqnVavbmVvaPmXTWIqdqSp_-kMHCwS8I5h57nxNLyXOgKVykKleyh0T3xJjsPXfH800pKq4hwpPjSLfeTXoIgR_oImV-iieZoRiy5XiepzJYE_4M3NDH58HX5MQf6UdqQjw8M2sgeH9p9_LdIHsuPWDeyGVIdZUQ.jpg"
       ],
       "title_en": "",
-      "text_en": "Well that’s  \nnot bad\n\nLinks:\nhttps://platform.claude.com/docs/en/models/fable-5-1/overview"
+      "text_en": "Well that’s  \nnot bad\n\nLinks:\nhttps://platform.claude.com/docs/en/models/fable-5-1/overview",
+      "content_kind": "photo"
     },
     {
       "id": 1325,
@@ -266,7 +300,8 @@
       "text_ru": "Самые «классные» бизнес идеи текущего года. Ну типа «норм темки» попробовать с небольшими комментариями:\n- вертикальные всякие rl envs, verifiers, прочая муть для упрощения rl. Тут важно перед тем как делать убедиться что есть контакты в лабах, чтобы продавать им это все. В остальном хороший бизнес на оценку 50-100м. Выкупается большими компаниям и лабами часто. \n- инфра для роботов, мало шарю, но вроде заезжает норм, говорю про софт. Логика такая же как и в прошлом пункте. Желательно делать со знанием заказчика. \n- тяжелые оптимизации на уровне data centers etc. Всякие очень узко заточенные вещи для инференса или тренировки моделей (там где каждый прогон стоит миллионы). Например вы знаете как сделать хорошо тренировку определенной архитектуры или обеспечить более высокий mfu. \n- pure research ну потому что даже если вы нихрена не сделаете толком, вас купят как команду. Весь смысл собрать норм состав. Остальное не так важно. Ставка на неолабы у фондов популярна. Потому что возвраты денег почти гарантированы. \n- application layer. Но тут важно понимать что актуально скорее не бизнес часть, а UX часть. У лабов и больших компаний есть потребность в реализации определенных фичей (смотрим покупки OpenAI)\nПрактически все это тяжело валидируется без глубоких доменных знаний. Абсолютно не актуально вне определенных географий и без таланта на борту. Такие дела.",
       "images": [],
       "title_en": "",
-      "text_en": "The “coolest” business ideas of this year. Like, “solid little themes” to try, with some small comments:\n- all sorts of vertical RL envs, verifiers, other crap to make RL easier. Important thing: before you build, make sure you’ve got contacts in labs so you can sell them all this. Otherwise it’s a good business valued at 50–100M. Gets bought out by big companies and labs a lot.\n- infra for robots, I don’t know much, but seems to land fine, I’m talking software. Same logic as the previous point. Preferably build it knowing the customer.\n- heavy optimizations at the data center level etc. All kinds of super narrowly tuned stuff for inference or training models (where every run costs millions). Like, you know how to do training for a specific architecture properly or squeeze out higher MFU.\n- pure research, yeah, because even if you don’t really do jack shit, they’ll buy you as a team. The whole point is to assemble a solid lineup. The rest isn’t that important. Betting on neo-labs at funds is popular. Because the money returns are almost guaranteed.\n- application layer. But here it’s important to understand what’s relevant is more the UX part, not the business part. Labs and big companies have a need to implement certain features (look at OpenAI’s acquisitions)\nPretty much all of this is hard to validate without deep domain knowledge. Absolutely not relevant outside certain geographies and without talent onboard. That’s how it is."
+      "text_en": "The “coolest” business ideas of this year. Like, “solid little themes” to try, with some small comments:\n- all sorts of vertical RL envs, verifiers, other crap to make RL easier. Important thing: before you build, make sure you’ve got contacts in labs so you can sell them all this. Otherwise it’s a good business valued at 50–100M. Gets bought out by big companies and labs a lot.\n- infra for robots, I don’t know much, but seems to land fine, I’m talking software. Same logic as the previous point. Preferably build it knowing the customer.\n- heavy optimizations at the data center level etc. All kinds of super narrowly tuned stuff for inference or training models (where every run costs millions). Like, you know how to do training for a specific architecture properly or squeeze out higher MFU.\n- pure research, yeah, because even if you don’t really do jack shit, they’ll buy you as a team. The whole point is to assemble a solid lineup. The rest isn’t that important. Betting on neo-labs at funds is popular. Because the money returns are almost guaranteed.\n- application layer. But here it’s important to understand what’s relevant is more the UX part, not the business part. Labs and big companies have a need to implement certain features (look at OpenAI’s acquisitions)\nPretty much all of this is hard to validate without deep domain knowledge. Absolutely not relevant outside certain geographies and without talent onboard. That’s how it is.",
+      "content_kind": "text"
     },
     {
       "id": 1324,
@@ -277,7 +312,8 @@
       "text_ru": "Самое худшее, что может линкануть фаундер стартапа это вайбкоженный дизайн by Claude code design. Не важно дек, сайт, какой-то лендинг небольшой. Первое, что хочется сделать это закрыть.\nНе знаю как у вас я узнаю с первого скрола.\nПоясню:\n- никто не читал контент почти наверняка, там абстрактные фразы, двусмысленные формулировки и так далее\n- оооочень много всего и мелким шрифтом \n- продуманного повествования почти никогда нет\n- но самое важное это то, что в индустрии аллергия на это\n- ах да есть люди, которые используют \nвот такое (https://www.pangram.com/)\n как плагин в браузере",
       "images": [],
       "title_en": "",
-      "text_en": "The worst thing a startup founder can link is that faux-leather design vibe by Claude code design. Doesn’t matter if it’s a deck, a site, some tiny landing page. First thing you want to do is close it.\n\nDon’t know about you, but I can tell from the first scroll.\n\nLet me explain:\n- nobody read the content, almost certainly — it’s abstract phrases, ambiguous wording, and so on\n- waaaaay too much stuff, and in tiny font\n- there’s almost never any thought-through narrative\n- but the most important thing is: the industry is allergic to this\n- oh right, and there are people who use\nthis kind of thing\nas a browser plugin\n\nLinks:\nhttps://www.pangram.com/"
+      "text_en": "The worst thing a startup founder can link is that faux-leather design vibe by Claude code design. Doesn’t matter if it’s a deck, a site, some tiny landing page. First thing you want to do is close it.\n\nDon’t know about you, but I can tell from the first scroll.\n\nLet me explain:\n- nobody read the content, almost certainly — it’s abstract phrases, ambiguous wording, and so on\n- waaaaay too much stuff, and in tiny font\n- there’s almost never any thought-through narrative\n- but the most important thing is: the industry is allergic to this\n- oh right, and there are people who use\nthis kind of thing\nas a browser plugin\n\nLinks:\nhttps://www.pangram.com/",
+      "content_kind": "text"
     },
     {
       "id": 1323,
@@ -290,18 +326,8 @@
         "https://cdn4.telesco.pe/file/oXPRKWWDlyPYpoxFOiFvtHXWcIeOsyAbQXSmrBx7ETaXXrJCWGPjDCYg5KL-GncEf5GF2RLh6cXkqK744_g_z2Ir9tlMNf85o4osgH8U_Dsy46F8ajys9qB0ppuJR4cwI01-jq-nNBjiS20wHJwG_rwEqlGNrZBueCvYDBTsLC6CcwEWXR2i-EEesI-FNpFEkmj_YMjcPFKy1UPS_KIIsNNBAb-VbK3-Tw2Z4iiyeMQGzSQC4AllniJa0_BenhDLQ7jrQEi9fSAo9OlZgR22M6xA6LTj5ROq1N_iTqH28XCi_vmmU15pvGLBd3k5CIN-ULphTSnD_jYvaW-3U6CyJw.jpg"
       ],
       "title_en": "",
-      "text_en": "A new trend in venture capital"
-    },
-    {
-      "id": 1322,
-      "url": "https://t.me/chillhousetech/1322",
-      "date_utc": "2026-08-14T11:38:14+00:00",
-      "hash": "74aca1d38a6ec39d0acf8efca112d245f6f9ef180fff54b488d5fbc1107748d8",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Первая большая жертва биг лабов и китайских моделей. \nMistral (https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now)\n. \nПо факту их стратегия: мы построим для местных госов и прочих дата центр и станем ака SAP/Palantir консультировать и внедрять. А модели свои, ну если надо можете взять, вот API.",
-      "images": [],
-      "title_en": "",
-      "text_en": "The first big casualty of the big labs and the Chinese models.  \nMistral  \n.  \nIn reality their strategy is: we’ll build a data center for the local govs and other folks, and become like SAP/Palantir — consulting, rolling stuff out. And their own models, well, if you need them you can take them, here’s the API.\n\nLinks:\nhttps://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now"
+      "text_en": "A new trend in venture capital",
+      "content_kind": "photo"
     }
   ]
 }

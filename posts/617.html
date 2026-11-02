@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A paper just dropped in passing on generating already controllable environments. - ChillHouse</title>
+    <meta name="description" content="A paper just dropped in passing on generating already controllable environments. You know, those minigames like Mario. Still gotta remind you: this doesn’t mean it’s game over…">
+    <link rel="canonical" href="https://darkolorin.com/posts/617.html">
+    <link rel="alternate" type="application/rss+xml" title="ChillHouse (English)" href="../rss.xml">
+    <meta property="og:title" content="A paper just dropped in passing on generating already controllable environments. - ChillHouse">
+    <meta property="og:description" content="A paper just dropped in passing on generating already controllable environments. You know, those minigames like Mario. Still gotta remind you: this doesn’t mean it’s game over…">
+    <meta property="og:image" content="https://cdn4.telesco.pe/file/u5UYjB2-FueSJKAPkWv2HkoiXcx5NKCtBbo09pIx2WVOGbvxJfiJa1oqBVO9poiBXokCw67V_Ajn5QVbgVY6cM-2LCzRAKdeh3b7Xao2m3vLQ0QRPA5ihcIezDzCWGLX5Y_veJqFSnrrqkGhywA0epinX7F9Dk0q6ao1YUDrFq8RmRsAIJSBND2CmdteM96gknojd3iviLDB6hPQTL71GrGuwN8MCkvKrB1rVEBrlFVqJ77ilZkkCWJGXf8iQ2RUD8x7lBdxCd3d_l8L1nP8VIT9qP4gVZE7wIK0SLf-eFeXJipgtLhtlUhYHhwppspWbdM3riqR2CqrEAr03Gkstg.jpg">
+    <meta property="og:url" content="https://darkolorin.com/posts/617.html">
+    <meta property="og:type" content="article">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="A paper just dropped in passing on generating already controllable environments. - ChillHouse">
+    <meta name="twitter:description" content="A paper just dropped in passing on generating already controllable environments. You know, those minigames like Mario. Still gotta remind you: this doesn’t mean it’s game over…">
+    <meta name="twitter:image" content="https://cdn4.telesco.pe/file/u5UYjB2-FueSJKAPkWv2HkoiXcx5NKCtBbo09pIx2WVOGbvxJfiJa1oqBVO9poiBXokCw67V_Ajn5QVbgVY6cM-2LCzRAKdeh3b7Xao2m3vLQ0QRPA5ihcIezDzCWGLX5Y_veJqFSnrrqkGhywA0epinX7F9Dk0q6ao1YUDrFq8RmRsAIJSBND2CmdteM96gknojd3iviLDB6hPQTL71GrGuwN8MCkvKrB1rVEBrlFVqJ77ilZkkCWJGXf8iQ2RUD8x7lBdxCd3d_l8L1nP8VIT9qP4gVZE7wIK0SLf-eFeXJipgtLhtlUhYHhwppspWbdM3riqR2CqrEAr03Gkstg.jpg">
+    <meta name="twitter:site" content="@darkolorin">
+    <meta name="twitter:creator" content="@darkolorin">
+    <style>
+        body {
+            max-width: 860px;
+            margin: 24px auto;
+            padding: 0 16px;
+            line-height: 1.55;
+            overflow-wrap: anywhere;
+        }
+        img { display: block; margin: 12px 0; max-width: 100%; height: auto; }
+        hr { margin: 24px 0; }
+        details { margin-top: 12px; }
+    </style>
+    <script defer src="../analytics.js"></script>
+</head>
+<body>
+    <header>
+        <h1>A paper just dropped in passing on generating already controllable environments.</h1>
+        <p><a href="https://t.me/chillhousetech/617?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site">Original on Telegram</a></p>
+        <hr>
+    </header>
+    <nav>
+        <a href="../index.html">Home</a> |
+        <a href="../index.html#projects">Projects</a> |
+        <a href="../essays.html">Essays</a> |
+        <a href="../rss.xml">RSS</a> |
+        <a href="https://t.me/chillhousetech?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">Telegram (RU)</a>
+        <hr>
+    </nav>
+    <main>
+        <article>
+<img src="https://cdn4.telesco.pe/file/u5UYjB2-FueSJKAPkWv2HkoiXcx5NKCtBbo09pIx2WVOGbvxJfiJa1oqBVO9poiBXokCw67V_Ajn5QVbgVY6cM-2LCzRAKdeh3b7Xao2m3vLQ0QRPA5ihcIezDzCWGLX5Y_veJqFSnrrqkGhywA0epinX7F9Dk0q6ao1YUDrFq8RmRsAIJSBND2CmdteM96gknojd3iviLDB6hPQTL71GrGuwN8MCkvKrB1rVEBrlFVqJ77ilZkkCWJGXf8iQ2RUD8x7lBdxCd3d_l8L1nP8VIT9qP4gVZE7wIK0SLf-eFeXJipgtLhtlUhYHhwppspWbdM3riqR2CqrEAr03Gkstg.jpg" alt="" loading="lazy">
+<p>A paper just dropped in passing on generating already controllable environments. You know, those minigames like Mario.  <br>
+Still gotta remind you: this doesn’t mean it’s game over for all game devs. You need a huge dataset that’s basically all the same under the hood, which is exactly what works for platformers.</p>
+<p>Inside:<br>
+- LAM Latent Action Model that lets you do dynamics with actions (your joystick)<br>
+- the now-standard thing: a video tokenizer with a transformer on top<br>
+End result so far: 1 FPS and it guzzles millions of memory.</p>
+<p><a href="https://sites.google.com/view/genie-2024/?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://sites.google.com/view/genie-2024/</a></p>
+<p>Video available in the original Telegram post.</p>
+<details lang="ru">
+<summary lang="en">Original (RU)</summary>
+<p>Мимолетом вышла работа по генерации уже контролируемых сред. Ну знаете такие миниигры типа Марио. <br>
+Все еще напоминаю, что это не значит что всем гейм девелоперам капут. Нужен огромный одинаковый по своей сути датасет что как раз подходит для платформеров. <br>
+Внутри:<br>
+- LAM Latent Action Model что позволяет делать динамику с действиями (вашим джойстиком)<br>
+- стандартная уже тема video tokenizer с трансформером поверх<br>
+Итого пока 1FPS и миллионы памяти жрет.</p>
+<p><a href="https://sites.google.com/view/genie-2024/?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://sites.google.com/view/genie-2024/</a></p>
+</details>
+        </article>
+        <hr>
+    </main>
+    <footer>
+        <p>&copy; 199X - 2026 Alexey Moiseenkov.</p>
+        <p>
+            <a href="../privacy.html">Privacy</a>
+            <button type="button" data-analytics-settings hidden>Analytics settings</button>
+        </p>
+    </footer>
+</body>
+</html>

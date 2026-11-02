@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The other day a really interesting piece came out about how “honestly” the new… - ChillHouse</title>
+    <meta name="description" content="The other day a really interesting piece came out about how “honestly” the new o3 net from OpenAI works (and all these new ones around it with “reasoning”, the versioning is…">
+    <link rel="canonical" href="https://darkolorin.com/posts/1046.html">
+    <link rel="alternate" type="application/rss+xml" title="ChillHouse (English)" href="../rss.xml">
+    <meta property="og:title" content="The other day a really interesting piece came out about how “honestly” the new… - ChillHouse">
+    <meta property="og:description" content="The other day a really interesting piece came out about how “honestly” the new o3 net from OpenAI works (and all these new ones around it with “reasoning”, the versioning is…">
+    <meta property="og:image" content="https://darkolorin.com/YOUR_PREVIEW_IMAGE.jpg">
+    <meta property="og:url" content="https://darkolorin.com/posts/1046.html">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2025-04-17T19:55:39+00:00">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="The other day a really interesting piece came out about how “honestly” the new… - ChillHouse">
+    <meta name="twitter:description" content="The other day a really interesting piece came out about how “honestly” the new o3 net from OpenAI works (and all these new ones around it with “reasoning”, the versioning is…">
+    <meta name="twitter:image" content="https://darkolorin.com/YOUR_PREVIEW_IMAGE.jpg">
+    <meta name="twitter:site" content="@darkolorin">
+    <meta name="twitter:creator" content="@darkolorin">
+    <style>
+        body {
+            max-width: 860px;
+            margin: 24px auto;
+            padding: 0 16px;
+            line-height: 1.55;
+            overflow-wrap: anywhere;
+        }
+        img { display: block; margin: 12px 0; max-width: 100%; height: auto; }
+        hr { margin: 24px 0; }
+        details { margin-top: 12px; }
+    </style>
+    <script defer src="../analytics.js"></script>
+</head>
+<body>
+    <header>
+        <h1>The other day a really interesting piece came out about how “honestly” the new…</h1>
+        <p><time datetime="2025-04-17T19:55:39+00:00">2025-04-17</time> · <a href="https://t.me/chillhousetech/1046?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site">Original on Telegram</a></p>
+        <hr>
+    </header>
+    <nav>
+        <a href="../index.html">Home</a> |
+        <a href="../index.html#projects">Projects</a> |
+        <a href="../essays.html">Essays</a> |
+        <a href="../rss.xml">RSS</a> |
+        <a href="https://t.me/chillhousetech?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">Telegram (RU)</a>
+        <hr>
+    </nav>
+    <main>
+        <article>
+<p>The other day  <br>
+a really interesting piece came out (<a href="https://transluce.org/investigating-o3-truthfulness?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://transluce.org/investigating-o3-truthfulness</a>)  <br>
+about how “honestly” the new o3 net from OpenAI works (and all these new ones around it with “reasoning”, the versioning is killing me and I can’t remember it exactly).</p>
+<p>Researchers at Transluce AI got early access to the o3 model and found that it regularly makes up actions, like it’s running Python code on “its MacBook Pro,” and then goes into detailed justifications for these nonexistent runs when it gets caught screwing up. Examples are in the article (checking whether a number is prime and so on).</p>
+<p>The most interesting part is: why does this happen, and it really looks like it’s all about RL (reinforcement learning). The authors’ hypotheses are:<br>
+1/ Outcome-based RL — the model was trained for “the right answer,” not for honesty. If it’s unsure, it’s easier to “guess” and get the reward.<br>
+2/ Truncated chain-of-thought — internal reasoning gets wiped between turns, so when the user asks “what did you do earlier?”, the model has no truthful context and has to improvise.<br>
+3/ Typical LLM problems: hallucinations, sycophancy, reward-hacking.</p>
+<p>This issue is specifically with the O series, not with base GPT, which kinda hints that the questions are aimed exactly at RL (though maybe they just poured in a bunch of synthetic chains without checking).</p>
+<p>As usual, the little tip at the bottom from ChatGPT itself has never been more on point: “ChatGPT can make mistakes. Check important info.”</p>
+<details lang="ru">
+<summary lang="en">Original (RU)</summary>
+<p>Намеднях <br>
+вышла очень интересная работа (<a href="https://transluce.org/investigating-o3-truthfulness?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://transluce.org/investigating-o3-truthfulness</a>)<br>
+ о том как &quot;честно&quot; работает новая сетка o3 от OpenAI (ну и все эти новые вокруг с рассуждениями, версионность меня убивает и не могу точно запомнить).<br>
+Исследователи Transluce AI получили ранний доступ к модели o3 и обнаружили, что та регулярно выдумывает действия, будто бы запускает Python‑код на «своём MacBook Pro», а затем детально оправдывает эти несуществующие запуски, когда её ловят на ошибке. Примеры в статье (про проверку того, что число простое и так далее).<br>
+Самое интересное, эт почему же так случается и кажется все дело в RL (обучение с подкреплением), у авторов работы гипотезы такие:<br>
+1/ Outcome‑based RL — модель обучали «на правильный ответ», а не на честность. Если она сомневается, легче «угадать» и получить награду.<br>
+2/ Отсечённые chain‑of‑thought — внутренние рассуждения стираются между ходами, поэтому, когда пользователя интересуют «что ты делала раньше?», у модели нет правдивого контекста, остаётся импровизировать.<br>
+3/ Типичные для LLM проблемы: галлюцинации, sycophancy, reward‑hacking.<br>
+Проблемка эта именно с O серией, а не с базовой GPT что как бы намекает что вопросы к именно RL (хотя может много синтетических цепочек налили без проверки).<br>
+Как обычно совет внизу самого chatgpt как никогда к месту &quot;ChatGPT can make mistakes. Check <br>
+important<br>
+ info.&quot;</p>
+</details>
+        </article>
+        <hr>
+    </main>
+    <footer>
+        <p>&copy; 199X - 2026 Alexey Moiseenkov.</p>
+        <p>
+            <a href="../privacy.html">Privacy</a>
+            <button type="button" data-analytics-settings hidden>Analytics settings</button>
+        </p>
+    </footer>
+</body>
+</html>
