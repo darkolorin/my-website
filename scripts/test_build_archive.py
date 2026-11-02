@@ -151,31 +151,93 @@ class ArchiveTests(unittest.TestCase):
         self.assertIn('Keep A &amp; B and 3 &lt; 5.', page)
         self.assertIn('<ul>', page)
         self.assertIn('<li>One item</li>', page)
-        self.assertIn('href="https://example.com/a_(b)?x=1&amp;y=2"', page)
+        self.assertIn('href="https://example.com/a_(b)?x=1&amp;y=2&amp;utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site"', page)
         self.assertNotIn('src="javascript:', page)
         self.assertNotIn('src="data:', page)
         self.assertNotIn('href="javascript:', page)
-        self.assertIn('href="https://t.me/chillhousetech/10"', page)
+        self.assertIn('href="https://t.me/chillhousetech/10?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site"', page)
         self.assertIn('lang="ru"', page)
         self.assertIn('Оригинальный текст.', page)
         self.assertIn('<h1>Existing opening', page)
 
-    def test_rss_uses_newest_ids_including_recent_undated_posts_with_stable_guids(self):
+    def test_rss_contains_all_stored_posts_including_undated_with_stable_guids(self):
         entries = [post(i, date=f'2025-04-{(i % 28) + 1:02}T12:30:00+00:00', text=f'Existing post {i}.') for i in range(1, 53)]
         self.build([], entries + [post(999, date=None)])
         channel = ET.parse(self.out / 'rss.xml').getroot().find('channel')
         items = channel.findall('item')
-        self.assertEqual(len(items), 50)
-        self.assertEqual(len({item.findtext('guid') for item in items}), 50)
+        self.assertEqual(len(items), 53)
+        self.assertEqual(len({item.findtext('guid') for item in items}), 53)
         self.assertTrue(all(item.findtext('guid').startswith(BASE + '/posts/') for item in items))
         self.assertTrue(all(item.findtext('guid') == item.findtext('link') for item in items))
         self.assertEqual(items[0].findtext('guid'), BASE + '/posts/999.html')
         self.assertIsNone(items[0].find('pubDate'))
         self.assertTrue(all(item.findtext('pubDate').endswith('GMT') for item in items[1:]))
-        self.assertEqual([int(item.findtext('guid').rsplit('/', 1)[-1][:-5]) for item in items], [999, *range(52, 3, -1)])
+        self.assertEqual([int(item.findtext('guid').rsplit('/', 1)[-1][:-5]) for item in items], [999, *range(52, 0, -1)])
         self.assertEqual(channel.find('{http://www.w3.org/2005/Atom}link').get('href'), BASE + '/rss.xml')
         self.assertIn('<p>Existing post', items[1].findtext('description'))
         self.assertNotIn('2099', (self.out / 'rss.xml').read_text())
+
+    def test_empty_caption_media_posts_have_neutral_titles_without_translation_warning(self):
+        titles = {'photo': 'Photos', 'video': 'Video', 'document': 'Document',
+                  'unsupported': 'Media on Telegram', 'service': 'Post #104', 'poll': 'Poll'}
+        records = []
+        for pid, (kind, _) in enumerate(titles.items(), 100):
+            entry = dict(post(pid, text=''), content_kind=kind, text_ru='')
+            if kind == 'photo':
+                entry['images'] = ['https://example.com/photo.jpg']
+            records.append(entry)
+        self.build([], records)
+        for entry in records:
+            page = (self.out / f'posts/{entry["id"]}.html').read_text()
+            self.assertIn(f'<h1>{titles[entry["content_kind"]]}</h1>', page)
+            self.assertNotIn('English translation is not available', page)
+            if entry['content_kind'] == 'photo':
+                self.assertIn('<img src="https://example.com/photo.jpg"', page)
+                self.assertNotIn('View these photos on Telegram.', page)
+            elif entry['content_kind'] == 'video':
+                self.assertIn('View this video on Telegram.', page)
+        for item in ET.parse(self.out / 'rss.xml').findall('./channel/item'):
+            self.assertNotIn('English translation is not available', item.findtext('description'))
+
+    def test_media_caption_without_translation_is_still_labelled_unavailable(self):
+        entry = dict(post(110, text=''), content_kind='video')
+        self.build([], [entry])
+        page = (self.out / 'posts/110.html').read_text()
+        self.assertIn('English translation is not available', page)
+        self.assertIn('Оригинальный текст.', page)
+        self.assertIn('View this video on Telegram.', page)
+
+    def test_supplied_service_notice_and_poll_text_are_rendered_as_data(self):
+        service = dict(post(1, text=''), content_kind='service', text_ru='Канал создан.',
+                       media_notice_en='Channel created <on Telegram>.')
+        poll = dict(post(2, text='An existing translated question?\n\n- First existing option\n- Second existing option'),
+                    content_kind='poll')
+        self.build([], [service, poll])
+        page = (self.out / 'posts/1.html').read_text()
+        self.assertIn('Channel created &lt;on Telegram&gt;.', page)
+        self.assertNotIn('English translation is not available', page)
+        poll_page = (self.out / 'posts/2.html').read_text()
+        self.assertIn('<p>An existing translated question?</p>', poll_page)
+        self.assertIn('<li>First existing option</li>', poll_page)
+        self.assertIn('<li>Second existing option</li>', poll_page)
+
+    def test_forward_attribution_is_preserved_escaped_and_linked_in_html_and_rss(self):
+        entry = dict(post(120), forwarded_from={'name': 'A <channel> & author', 'url': 'https://t.me/sourcechannel/17'})
+        self.build([], [entry])
+        page = (self.out / 'posts/120.html').read_text()
+        self.assertIn('Forwarded from', page)
+        self.assertIn('A &lt;channel&gt; &amp; author</a>', page)
+        self.assertIn('href="https://t.me/sourcechannel/17?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site"', page)
+        description = ET.parse(self.out / 'rss.xml').findtext('./channel/item/description')
+        self.assertIn('Forwarded from', description)
+        self.assertIn('A &lt;channel&gt; &amp; author</a>', description)
+        self.assertEqual(json.loads(self.archive.read_text())['posts'][0]['text_en'], entry['text_en'])
+        entry['forwarded_from']['url'] = 'javascript:alert(1)'
+        self.write_data(self.feed, [entry])
+        self.run_builder()
+        unsafe = (self.out / 'posts/120.html').read_text()
+        self.assertNotIn('href="javascript:', unsafe)
+        self.assertIn('Forwarded from A &lt;channel&gt; &amp; author', unsafe)
 
     def test_pages_are_static_and_internal_integration_links_resolve(self):
         self.build([], [post(77, text='An English post without a runtime fetch.')])
