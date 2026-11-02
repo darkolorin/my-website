@@ -18,6 +18,8 @@ except ImportError:
     from outbound_links import attribute_html
 
 BASE_URL = 'https://darkolorin.com'
+OG_IMAGE = BASE_URL + '/assets/og-card.png'
+OG_IMAGE_ALT = 'Alexey Moiseenkov, darkolorin.com'
 ATOM_NS = 'http://www.w3.org/2005/Atom'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 MEDIA_TITLES = {'photo': 'Photos', 'video': 'Video', 'document': 'Document',
@@ -273,6 +275,13 @@ def page_head(title, description, path, *, article=False, image=None, published=
     canonical = BASE_URL + '/' + path
     social_title = social_title or title
     social_description = social_description or description
+    image_url = image or OG_IMAGE
+    fallback_image_meta = '' if image else f'''    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="{OG_IMAGE_ALT}">
+'''
+    twitter_image_alt = '' if image else f'    <meta name="twitter:image:alt" content="{OG_IMAGE_ALT}">\n'
     published_meta = f'    <meta property="article:published_time" content="{escape(published.isoformat())}">\n' if published else ''
     return f'''<!DOCTYPE html>
 <html lang="en">
@@ -285,14 +294,14 @@ def page_head(title, description, path, *, article=False, image=None, published=
     <link rel="alternate" type="application/rss+xml" title="ChillHouse (English)" href="{prefix}rss.xml">
     <meta property="og:title" content="{escape(social_title)}">
     <meta property="og:description" content="{escape(social_description)}">
-    <meta property="og:image" content="{escape(image or BASE_URL + '/YOUR_PREVIEW_IMAGE.jpg')}">
-    <meta property="og:url" content="{escape(canonical)}">
+    <meta property="og:image" content="{escape(image_url)}">
+{fallback_image_meta}    <meta property="og:url" content="{escape(canonical)}">
     <meta property="og:type" content="{'article' if article else 'website'}">
 {published_meta}    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{escape(social_title)}">
     <meta name="twitter:description" content="{escape(social_description)}">
-    <meta name="twitter:image" content="{escape(image or BASE_URL + '/YOUR_PREVIEW_IMAGE.jpg')}">
-    <meta name="twitter:site" content="@darkolorin">
+    <meta name="twitter:image" content="{escape(image_url)}">
+{twitter_image_alt}    <meta name="twitter:site" content="@darkolorin">
     <meta name="twitter:creator" content="@darkolorin">
     <style>
 {STYLE}
