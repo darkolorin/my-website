@@ -335,6 +335,28 @@ class ArchiveTests(unittest.TestCase):
         self.assertIn(BASE + '/', urls)
         self.assertIn(BASE + '/essays.html', urls)
 
+    def test_social_preview_fallback_has_png_metadata_and_actual_article_photo_overrides_it(self):
+        text_only = post(140)
+        with_photo = dict(post(141), images=['https://example.com/original-photo.jpg'])
+        self.build([], [text_only, with_photo])
+        fallback = BASE + '/assets/og-card.png'
+        for filename in ['essays.html', 'posts/140.html']:
+            head = (self.out / filename).read_text().split('</head>', 1)[0]
+            self.assertIn(f'<meta property="og:image" content="{fallback}">', head)
+            self.assertIn('<meta property="og:image:type" content="image/png">', head)
+            self.assertIn('<meta property="og:image:width" content="1200">', head)
+            self.assertIn('<meta property="og:image:height" content="630">', head)
+            self.assertIn('<meta property="og:image:alt" content="Alexey Moiseenkov, darkolorin.com">', head)
+            self.assertIn(f'<meta name="twitter:image" content="{fallback}">', head)
+            self.assertIn('<meta name="twitter:image:alt" content="Alexey Moiseenkov, darkolorin.com">', head)
+        photo_head = (self.out / 'posts/141.html').read_text().split('</head>', 1)[0]
+        self.assertIn('<meta property="og:image" content="https://example.com/original-photo.jpg">', photo_head)
+        self.assertIn('<meta name="twitter:image" content="https://example.com/original-photo.jpg">', photo_head)
+        self.assertNotIn('og:image:width', photo_head)
+        self.assertNotIn('og:image:height', photo_head)
+        self.assertNotIn('content="image/png"', photo_head)
+        self.assertNotIn(fallback, photo_head)
+
     def test_rebuilding_unchanged_content_preserves_bytes_and_mtimes(self):
         self.build([], [post(88)])
         files = [self.archive, *self.out.rglob('*')]
