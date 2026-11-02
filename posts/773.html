@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For anyone who was curious — well anyway they’ve started training a new OpenAI… - ChillHouse</title>
+    <meta name="description" content="For anyone who was curious — well anyway they’ve started training a new OpenAI model — probably GPT5Q or something around that. It became known from the news about forming a…">
+    <link rel="canonical" href="https://darkolorin.com/posts/773.html">
+    <link rel="alternate" type="application/rss+xml" title="ChillHouse (English)" href="../rss.xml">
+    <meta property="og:title" content="For anyone who was curious — well anyway they’ve started training a new OpenAI… - ChillHouse">
+    <meta property="og:description" content="For anyone who was curious — well anyway they’ve started training a new OpenAI model — probably GPT5Q or something around that. It became known from the news about forming a…">
+    <meta property="og:image" content="https://darkolorin.com/YOUR_PREVIEW_IMAGE.jpg">
+    <meta property="og:url" content="https://darkolorin.com/posts/773.html">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2024-05-28T17:18:45+00:00">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="For anyone who was curious — well anyway they’ve started training a new OpenAI… - ChillHouse">
+    <meta name="twitter:description" content="For anyone who was curious — well anyway they’ve started training a new OpenAI model — probably GPT5Q or something around that. It became known from the news about forming a…">
+    <meta name="twitter:image" content="https://darkolorin.com/YOUR_PREVIEW_IMAGE.jpg">
+    <meta name="twitter:site" content="@darkolorin">
+    <meta name="twitter:creator" content="@darkolorin">
+    <style>
+        body {
+            max-width: 860px;
+            margin: 24px auto;
+            padding: 0 16px;
+            line-height: 1.55;
+            overflow-wrap: anywhere;
+        }
+        img { display: block; margin: 12px 0; max-width: 100%; height: auto; }
+        hr { margin: 24px 0; }
+        details { margin-top: 12px; }
+    </style>
+    <script defer src="../analytics.js"></script>
+</head>
+<body>
+    <header>
+        <h1>For anyone who was curious — well anyway they’ve started training a new OpenAI…</h1>
+        <p><time datetime="2024-05-28T17:18:45+00:00">2024-05-28</time> · <a href="https://t.me/chillhousetech/773?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site">Original on Telegram</a></p>
+        <hr>
+    </header>
+    <nav>
+        <a href="../index.html">Home</a> |
+        <a href="../index.html#projects">Projects</a> |
+        <a href="../essays.html">Essays</a> |
+        <a href="../rss.xml">RSS</a> |
+        <a href="https://t.me/chillhousetech?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">Telegram (RU)</a>
+        <hr>
+    </nav>
+    <main>
+        <article>
+<p>For anyone who was curious — well anyway they’ve started training a new OpenAI model — probably GPT5Q or something around that. It became known from the news about forming a safety committee, (<a href="https://openai.com/index/openai-board-forms-safety-and-security-committee/?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://openai.com/index/openai-board-forms-safety-and-security-committee/</a>) — well yeah, they’re rightly afraid they’ll train some nonsense again on all sorts of sensitive topics.</p>
+<p>Also it finally reached me why Igor Babushkin at xAI is so badass and apparently it’s because he wrote this kind of paper, (<a href="https://arxiv.org/pdf/2201.02177" rel="noopener">https://arxiv.org/pdf/2201.02177</a>) which says there’s this effect called Grokking (so that’s where Elon’s model name comes from, I guess), supposedly it’s this advanced generalization even if you didn’t directly feed that kind of data into the net (Petya is Vanya’s friend. Vanya was born in 1999. Then we can say that Vanya, born in 1999, is Petya’s friend.). The topic is interesting because it kind of looks like you can get some logical chains by feeding, well, a *lot* of this kind of data. You feed both the data and some dependencies between them, and the model, with very long training on such data, starts to somehow connect these dependencies and infer new rules (implication and other stuff).</p>
+<p>And then there’s<br>
+a new paper (<a href="https://arxiv.org/abs/2405.15071?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://arxiv.org/abs/2405.15071</a>)<br>
+that develops this theme really well.<br>
+The authors study how it sometimes works out to get grokking (a-la magic), and sometimes it doesn’t. In short, the effect basically boils down to the fact that we can get OOD (out of distribution) links if we have lots of examples and links between them and then train on them for a very long time.<br>
+Good overview. (<a href="https://t.me/seeallochnaya/1473?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://t.me/seeallochnaya/1473</a>)</p>
+<p>Another cool topic is Super-alignment, but about that later.</p>
+<details lang="ru">
+<summary lang="en">Original (RU)</summary>
+<p>Кому было интересно, ну вообщем начали тренировать новую модель OpenAI - наверное GPT5Q или около того. Известно это стало из <br>
+новости об образовании safety комитета, (<a href="https://openai.com/index/openai-board-forms-safety-and-security-committee/?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://openai.com/index/openai-board-forms-safety-and-security-committee/</a>)<br>
+ ну правильно боятся что натренируют снова ерунды по всяким чувствительным вопросам.<br>
+Так же до меня дошло почему Игорь Бабушкин в xAI такой круто и видимо потому что он написал <br>
+вот такую работу, (<a href="https://arxiv.org/pdf/2201.02177" rel="noopener">https://arxiv.org/pdf/2201.02177</a>)<br>
+ которая говорит что мол есть такой эффект Grokking (оттуда и название модели Илона видимо), якобы это такая продвинутая генерализация даже если непосредственно таких данных вы в сетку не кормили (Петя друг Вани. Ваня 1999 года рождения. Тогда можем сказать что Ваня 1999 года рождения друг Пети.). Тема интересная так как смахивает на то, что какие-то логические цепочки можно получить скормив ну очень много подобного рода данных. Вы кормите и данные и некоторые зависимости между ними, а модель при очень долгом обучении на таких данных начинает эти зависимости неким образом соединять выводы новые правила (импликация и прочие штуки). <br>
+И вот выходит <br>
+новая работа (<a href="https://arxiv.org/abs/2405.15071?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://arxiv.org/abs/2405.15071</a>)<br>
+ которая очень хорошо развивает эту тему.  <br>
+Авторы изучают как же так иногда выходит получить гроккинг (а-ля магия), а иногда нет.  Если кратко, то эффект по сути сводится к тому что мы можем получить связи OOD (out of distribution) имея много примеров и связей между ними и потом на них очень долго обучаем. <br>
+Хороший обзор. (<a href="https://t.me/seeallochnaya/1473?utm_source=darkolorin.com&amp;utm_medium=referral&amp;utm_campaign=personal_site" rel="noopener">https://t.me/seeallochnaya/1473</a>)</p>
+<p>Еще крутая тема это Super-alignment но о ней потом.</p>
+</details>
+        </article>
+        <hr>
+    </main>
+    <footer>
+        <p>&copy; 199X - 2026 Alexey Moiseenkov.</p>
+        <p>
+            <a href="../privacy.html">Privacy</a>
+            <button type="button" data-analytics-settings hidden>Analytics settings</button>
+        </p>
+    </footer>
+</body>
+</html>
