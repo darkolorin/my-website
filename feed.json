@@ -1,8 +1,20 @@
 {
-  "generated_at_utc": "2026-11-05T06:46:48Z",
+  "generated_at_utc": "2026-11-05T19:58:16Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1349,
+      "url": "https://t.me/chillhousetech/1349",
+      "date_utc": "2026-11-05T14:55:22+00:00",
+      "hash": "8dde3770bd5ec1c718b465e993cad4cd5bd52030931fa72a82485689a35249c8",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Короче говоря s1 от Anthropic и их скорое IPO отражает все опасения индустрии. И они, конечно же, не про «аи бабл херня» или «ахахха компания нас дурит там одни убытки». \nПрочитал тонну мнений, вставлю свои пять копеек:\n1/ заявка очень даже серьезная, все цифры сильные в хорошем смысле. Они действительно прибыльны, они действительно очень хорошо удерживают клиентов (900% ретеншен выручки это нонсенс, у типичного saas требования были около 120%, то есть компании начинают платить намного больше от момента когда начали). Все тонкие моменты отвечены: да инференс супер маржинален, да мы много платим людям очень много, да у нас тонна кэша на счетах и проценты приносят ярд, да мы заказали очень много компьюта на годы вперед. Вот тут следующая глава. \n2/ через десять лет они должны продавать на 1T usd. Что выглядит очень серьезно. Эт уровни Walmart/Amazon но с маржой 27.5%, а не 1-2-3-4-5%. Собственно это основной риск если взглянуть честно. Любая ситуация где выручка начинает падать или расти сильно медленнее нужного темпа означает не оправдание прогнозов и акции полетят вниз. Точнее не так. Не будут расти, а значит для розничного инвестора история станет не интересной. А IPO это про розницу. И вот как раз важны заказы на compute. Не держишь выручку - платить нечем. И там все начнет складываться как карточный домик. \n3/ сам по себе аи с нами навсегда. Очень много маркетинга. Но он хотя бы чуть более сдержанный в отличие от OpenAI. По сути говоря основная ставка для пиара это то, что аи дает очень много экономического эффекта для GDP и в целом в теории способен заменить людей во многих местах. Эта ставка очень сильная, но она так же зависит сможешь ли продать эти возможности и сможешь ли ты их обеспечить. Даже если аи сильно лучше людей, всем ли нужно это качество и есть ли моменты когда люди выгоднее или быстрее? Ответов пока нет. Но эти вопросы надо держать в голове. \n4/ компания стоит хорошо, модели лучшие (ну или почти лучшие), цикл производства налажен, удерживать клиентов умеют, есть дофига времени. Смотрите все контракты очень долгие. Поэтому есть пространство для маневра. Более того касательно моделей, принято много верных решений чтобы снизить конкуренцию из-за дистилляции и прочего. Меньше ставка на науку и маркетинг вокруг чего-то, что сложно понять как продать на бирже. Но тут OpenAI в последнее время больше бьет в розницу. В науку то «престижно» заливать бабки. Осталось начать warp drive продавать в массы. Про джедайские мечи молчу :)\nЧестная оценка думаю что-то около 1.5T. Что где-то 15-20 годовых выручек. Что примерно на уровне растущих хайп лидеров типа Nvidia. То есть при сохранении роста выручки ожидаем новую топ5 в след году или 28.",
+      "images": [],
+      "title_en": "",
+      "text_en": "In short, s1 from Anthropic and their upcoming IPO reflects pretty much every worry the industry has. And it’s obviously not about “AI bubble lol bullshit” or “ahahaha the company’s scamming us, it’s all losses.”\n\nRead a ton of takes, here are my two cents:\n1/ the filing is very damn serious, all the numbers are strong in a good way. They actually are profitable, they actually retain customers insanely well (900% revenue retention is nonsense, a typical SaaS benchmark was like 120%, i.e. companies start paying way more than when they started). All the tricky bits are addressed: yes, inference is super high-margin, yes, we pay people a lot, like a lot, yes, we’ve got a ton of cash on the balance sheet and interest brings in a yard, yes, we booked a huge amount of compute years ahead. And here comes the next chapter.\n2/ in ten years they’re supposed to be doing 1T usd in sales. Which looks very serious. That’s Walmart/Amazon territory but with 27.5% margin, not 1-2-3-4-5%. That’s basically the main risk if we’re being honest. Any situation where revenue starts dropping or growing way slower than the required pace means the guidance doesn’t get hit and the stock goes down. Actually, not quite. It just won’t go up, which means for retail the story becomes uninteresting. And IPOs are about retail. And this is where compute orders matter. You don’t hold revenue — you’ve got nothing to pay with. And then it all starts folding like a house of cards.\n3/ AI itself is here forever. A lot of marketing. But at least it’s a bit more restrained than OpenAI. Basically the main PR bet is that AI gives a huge economic effect for GDP and in general, in theory, can replace people in a lot of places. That bet is very strong, but it also depends on whether you can sell those capabilities and whether you can actually deliver them. Even if AI is way better than people, does everyone need that quality, and are there moments when humans are cheaper or faster? No answers yet. But you need to keep those questions in your head.\n4/ the company is priced well, models are the best (well, or almost the best), production cycle is set up, they know how to retain customers, there’s plenty of time. Look, all the contracts are very long. So there’s room to maneuver. Also, model-wise, a bunch of correct decisions were made to reduce competition from distillation and the like. Less of a bet on science and marketing around something that’s hard to understand how to sell on the stock market. But OpenAI lately is hitting retail harder. Pouring money into science is “prestigious.” All that’s left is to start selling warp drive to the masses. Won’t even mention lightsabers :)\nMy honest valuation is like ~1.5T. That’s like 15–20x annual revenue. Roughly on the level of the growing hype leaders like Nvidia. Meaning if revenue growth holds, expect a new top-5 next year or in 28.",
+      "content_kind": "text"
+    },
     {
       "id": 1348,
       "url": "https://t.me/chillhousetech/1348",
@@ -71,7 +83,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Достаточно интересная картинка выходит",
       "images": [
-        "https://cdn4.telesco.pe/file/iW8J7Z_XlVrn_Ccn25Prm6J2OS4G40Vx1zW7HEt95g4gvP6uBG3HngZAmdYY2BibWgbBdXJNRDltErt6O9k17oWAQJvQI66ydchfGM_4zhepe64ojLUSi1a_FdzFdqjmdKimvmxVJPB94gTNNTyreJKgwzBo4wGwMG2FX_HY_gP-0VpBbrORCkhMF19ukD51x_IglSESDvj_JkRa3xujUnievaalp_Ye18jXvPhTCeRBCvrXwXfot2gkopJqqdDq1LNc6UrMbaAOdTgTuIoXAL9GHy1oGY7qaGQ3Z7t3bfAi1RDqMe4Xy0y2TyuUycsSG6ez5uMP-6D65c6ZuE4rnQ.jpg"
+        "https://cdn4.telesco.pe/file/b1yaL68KtSKGMFmQseJFxFYoTnm8v8t38fULM4-UDx9CoTLaKLwgwQPyn1tUtwj7VR5JxEOBwYVpVy7ZCYKZms2b1RLX9_nBWeifNVpAtp0YuWR7dALIqOAqE866NpxXFATLgfutHrrDkP616wsJ_zMyKGidV8QAEM5ZLcyo1bYQz7MGNDJ7WtQitjp45sbwxEdODwIrjKgEoomq5cQpgtA_G6eLtBEyfmkRzo9JsI4EqkkIkXdHu1Uq85D9i2w9QchtsKri0hxGN3twmmveRb5jLtAKWBnGH8Z0iItFNAAp-V66FyzO_aIr9gOOytTZb4ljNrTGh6HJAPalLsc_TA.jpg"
       ],
       "title_en": "",
       "text_en": "A pretty interesting picture is shaping up",
@@ -85,7 +97,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Отличный пиар к IPO, все-таки там сидят очень умные \nлюди\n модели",
       "images": [
-        "https://cdn4.telesco.pe/file/k2wvKHti4Ke7rynokgZJok_8V7OJaRVfSbzAwNP5Eeh6u7Czrrqd-LiY9nEPrQg_YQm8USJjtHu9lCALixR2EgwXLLDxWHtXA3mzxuyt_9L4d7Urb0WuGTEEoap6pgvGKKJ7gDMhEg7SSF-nabePyU0MGy9IkKOuVw95rlyFufdyjMa7GFfD-c14PgYJUy9OeLxT2y2sxbDhOzxdCZ_TMmL16we8pK-giCswUUul7AdGBRQHlEmg8aSDAK16cZxMVT4lgq0QFSn8o6vOZ5pu5noSPvr4VjIZAecZwUDVcxwK_sFnL3p9rD3OJqTsAFkhF92IrN-yTIng-44v2rNf9Q.jpg"
+        "https://cdn4.telesco.pe/file/BoZhnWEoIKTcQtFcItaYzGEHnAT8FotAJsDFiIHF3YqQdJycyDsCQJnODMEbvRgaW3GbbcKYVlp9OUKjjMWjtjMO24JXe2LJSy_WP5HuT1BQTMWjhI1ScIIppNvmto_2JI6WIBuIN-p5RWM5-AzALf963sou6-hirXnkK5Xz8Sf53Wv7WJkSQbGUQrQEU4FprV6UlhWLgyyMUSAaAR6PA_piDmc5Dxf7HosQTLPGIV5IVl5Bu0yoZk8JIEEXshxV9C4Kd0QK3ANQ2VC_wTuRjq2pRbwivjZi9TLF7ZilDtcsnQOj5iQoeSlBgB05F9grry-PNQ5BF2zSwxETcYz2_g.jpg"
       ],
       "title_en": "",
       "text_en": "Great PR for the IPO, after all there are very smart\npeople sitting there\nmodels",
@@ -111,7 +123,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то (https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/pFvRAxWm2Tq9PLRDkUxkLg3VRrD3H3N_xP9zxWSq5H3g_t1pp8dOLPohuoDsG00XrwEnFC22pKOLaa0ew30I013Yb8p6lYjgTZdk-jXzJTYszdT_Gyv93faknTtKalYq4Y3L_Nfh-0hU9F9HnLdtHfELrcG24DrbEu2wV5RF11UYvazzdxjx0bOQM3zWMoIMPYgYEy7C9o94zJklncG0_D7H9IyWkW5ygVJHT4XhN3yJAnR6yeGrGK56lSTdXPzHSPmI5UiFtmQcM48RXlHA95VPvcobuI8L9BiXH-oNtJOdWBkGLLNKZY9f1ln-v50Gbx8odrINwEs5VCfVd9JVGA.jpg"
+        "https://cdn4.telesco.pe/file/CwRO2w1XNQyz3raQC0WIw9i8BKfNstSaAjOpdJ-W-D4QUmgElchXXA2a8VvOO9njWHTEUS8m-zQdKIgq18uIPsRA-tZUaNjcx4AVFuCIgO4QBnxYHkvAWnTyXqnv_B0lrAHy2goW-9PKw1mErYCju1BTUKqp2kJ7aoAvzF7M32adPhkAM2898t6g21I_Y3j5zTYvb3UcAPxTed7gJyz5tD3XdxCc0qhMCqy4YiU6dh7X9gE38gJ7gBDArqrGaLre_2gMMOCzk-JpYE7y68ZMDtp8MaFS3TlihrzOBDifk3VZw84On4czrYVTNIZHZW5Z7CzpF_qG--ZmbP-299C12w.jpg"
       ],
       "title_en": "",
       "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers.\n\nLinks:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
@@ -205,7 +217,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули (https://x.com/thsottiaux/status/2098113585683808624?s=46)\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/YLicr2O2B6ZnGzzrsF8eMZyyNrmFibkJtGJWKibMxuYzze_GFO9MRMFFqU_lWvxcttpPFYOgVufmaviUII3IJp_TTcY3hsdGELbIS0l9_nzted5GP0cg-zJdiR80qRIkVK86pEMV5hNml_6G2l4giyT5wHpd_Ox4SBN8iQ9bulnSIahe4AERwia6yWpCPVUivvm0V731_A4wopz2gK3gGYhR2Wh5YmVAeod_35cu4aGN7hAB9KynhGvKOvh2ROlfIt1a7V_DQ73oMrZeTN6IgTJgQ1jrbnzVWThWSN7BEnt-yKXOlsuYnZPLDPzoSBkYYbX2EVcPaS8FcUjP_WaPJA.jpg"
+        "https://cdn4.telesco.pe/file/ADRVmGmaFoXj2AKBA2HwqS4w167jLc2Vc6a5oTuEApIW_UcNz5VBgP5IBRbztTYDN2dWwZtkXYOPoRWOL-0gJWOscEDc0L2nghB8lb30TTnr-T2gz-CHZd1f3Rs_ioLsVYYqb9V-lm3Ay8tNOij3Kl0-0P73E6NxcX928wPQvrJrTeSl2s0Xu3rtqf5R2YBjRj0xg0oZvvwc4dbiF0yqmpTc2DrCzs3fvRR-LReR6-GOAvXNcBiTBC0eqRqe6ip-CPSVF3ifL7Ajj6waPSM3Ff95Oy8FNyX0BBqN8sqdQMfQdTqTyL0WjX79JACzio1pNAuhuuvq95ksU8rUqDuQZQ.jpg"
       ],
       "title_en": "",
       "text_en": "Wanted to throw in some more memes. OpenAI \nhalted\n new sign-ups for the 200-dollar plan. A few moments before\n\nLinks:\nhttps://x.com/thsottiaux/status/2098113585683808624?s=46",
@@ -259,7 +271,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке (https://github.com/trymirai/uzu)\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint (https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4)\n - поменьше\nL checkpoint (https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8)\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут (https://trymirai.com/local-models)\n, будем рады если попробуете что-то еще. \nБенчи тут (https://trymirai.com/metrics)\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост (https://trymirai.com/blog/speculative-decoding-in-uzu)",
       "images": [
-        "https://cdn4.telesco.pe/file/R_cOCuz6i9LkgH1vSBmW2kMtyvLs9sfZvw4xpEdNmLY-Ix9qQ_EqT_h3l41O7BEdsJhf0GqdiLfGzGuiP9rcLzhEi4s7HZFbxWIpcBrAVLmsYS3WisT9Yg5weZXsrQhftvwLQk6e4U3q2bmfE9-GLYEINiTwVKCCdgM6Z3-l0lOK_g3A5_gmcg29tYmASp-byCuiTIQHBlT7sdA3WUO1Qw19EdD5rmGXRNk9dKXw2LMN8QLPrDKmG5O8jkLFEIJobFg07fsNqrGv3PshMdR6QVnaIi79TtLrFxAK554LFXy_e8viukAW2frGyqSNoH33pDawpLnskO3pc7jG_xaJbQ.jpg"
+        "https://cdn4.telesco.pe/file/CJQX9-Aro-E8a5WHhR7q6iLBb21zL5PU0KQFmM_Muvp552IkFqQfGX7crP8ao7a9440cG9cGMkpmHgMTzAScL8PgxYNTxqVIj6UNs64Q0SYSfUzA8yEnv0yXn2NvABYulbBVLAENoVCzDHN6Ov19xm8BMwi8fYnwIsKgZ25U7Fjc-cYWJutgPDNqwWOF59c3RT-d4V0JwU40vZTqLNpND6hTvZTn4njbqyBjFdVKCaWg30c2KxKAK-HjYDw2T2vZTxpaXBnv0wYhiPa3NT1ePMlZIFyu3hOpPkxFv54qAk3c9V_SiyrlrK3mx36spwnhs8kqFXmH4TSd5neE_K1TKQ.jpg"
       ],
       "title_en": "",
       "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine.  \n.  \nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  \nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  \nYou can try it already today  \nM checkpoint  \n- smaller  \nL checkpoint  \n(lossless)  \nAll the models we support are here, we’ll be happy if you try something else too.  \nBenches are here. You can dig into what and how was measured and how much better it is.  \nMore details about the release — blog post\n\nLinks:\nhttps://github.com/trymirai/uzu\nhttps://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4\nhttps://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8\nhttps://trymirai.com/local-models\nhttps://trymirai.com/metrics\nhttps://trymirai.com/blog/speculative-decoding-in-uzu",
@@ -285,7 +297,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Ну это \nнеплохо (https://platform.claude.com/docs/en/models/fable-5-1/overview)",
       "images": [
-        "https://cdn4.telesco.pe/file/LonuPgiKguq5PVZv5YpklYNceEQYwa_4aMRPHxULS-9i-c01asqQy8rHUgcRq8SfuW6H5P49LsjIdpwkRRrBY_7XmISja0Y4_A-LRAqD3YnxmlUXChliHXJGzMCnv8z64BvTiE4gMQ61NQ7hZr-EnuoRq_bEih3TzpKC8XJ3osGThPnW2GBXJY_JjJHAJeazwzIOhEL9nU0lEfC_U9PFCfIMXOGaj6xxiK0O0Yz0OJSMPs614zE0ZUXCDBXo-8DBoqx-Et8jCU4wYyxvqB1mqfvsIpbqN6uzTb5fBjT9Ke55GYEcrfTYh2qV4d9ewZEo2sCY5QPh_XSe27Qwv7P0xg.jpg"
+        "https://cdn4.telesco.pe/file/jKdd6WR0THM_Ez_L9vfsqQFGo5fh64xoUbvGa5Vwj-L3wqID5r_namP0TVGap437uMyogFSrItXL7YMHQYb0o25TVe67SamrOqjL2btfasEIu1kjkmxfXtOO3HcqomL6LXg5NQmXSxDNAsLiXgetzPF3fnja-ExlWb6v_K35tyDv3d0Ccuj2de1gPzUTPujNfqU87VxQFRc8JDFkN54W4a66nF7Fc_BDuDNfF-UeSUlDwWSedDU4w4K4GuauykNmrLLREk4qZ3y-yRKug1Ohlc7183AXpBLOk7waZVHEU1JfJ2Fcld036DX7NcjN71r-FB-9zzOrK9g0IhE94sdmBQ.jpg"
       ],
       "title_en": "",
       "text_en": "Well that’s  \nnot bad\n\nLinks:\nhttps://platform.claude.com/docs/en/models/fable-5-1/overview",
@@ -314,20 +326,6 @@
       "title_en": "",
       "text_en": "The worst thing a startup founder can link is that faux-leather design vibe by Claude code design. Doesn’t matter if it’s a deck, a site, some tiny landing page. First thing you want to do is close it.\n\nDon’t know about you, but I can tell from the first scroll.\n\nLet me explain:\n- nobody read the content, almost certainly — it’s abstract phrases, ambiguous wording, and so on\n- waaaaay too much stuff, and in tiny font\n- there’s almost never any thought-through narrative\n- but the most important thing is: the industry is allergic to this\n- oh right, and there are people who use\nthis kind of thing\nas a browser plugin\n\nLinks:\nhttps://www.pangram.com/",
       "content_kind": "text"
-    },
-    {
-      "id": 1323,
-      "url": "https://t.me/chillhousetech/1323",
-      "date_utc": "2026-08-19T11:40:04+00:00",
-      "hash": "0098d64a7d098fcb1eb1ed631cd721a6e318ef159476656ccb616236e34aadca",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Новый тренд в венчуре",
-      "images": [
-        "https://cdn4.telesco.pe/file/A6vg34nY2cbKm-DgYYeoZdQgAkTalUooO1iJDHG0HTZmarp-12gGJhR_KQJUGFb5xXxaFF9WQwb-bH8fc5e0IkO_k9LlETeDM_KiFD1tAc61RShtTfPMttp3EsLxRl9TXvO_5WPiqHnyFnebZA8THgs3n0siFsWibiCCo0sppAyV_w6tocxvBButqQo3EvaBmFPTLFy2cLkexjGQZBZ3AEXD7nQpbvf3XLRzPmU_eH_tbzqPe9VuAiSFlWDIpaK9RtDadpl2TBtZAixuuPN5LKgjIRTUAgt9JBHywUFxHZS7hv9ulyZZ5OW2hEDdOwV7FuZmqGQhyeevBUlzjA7FMA.jpg"
-      ],
-      "title_en": "",
-      "text_en": "A new trend in venture capital",
-      "content_kind": "photo"
     }
   ]
 }
