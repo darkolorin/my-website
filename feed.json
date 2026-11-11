@@ -1,8 +1,20 @@
 {
-  "generated_at_utc": "2026-11-10T19:44:37Z",
+  "generated_at_utc": "2026-11-11T06:19:52Z",
   "source": "https://t.me/chillhousetech",
   "channel": "chillhousetech",
   "posts": [
+    {
+      "id": 1352,
+      "url": "https://t.me/chillhousetech/1352",
+      "date_utc": "2026-11-10T20:56:16+00:00",
+      "hash": "112346e5d795ed008e521b198f13018cc4f6a80b772d0f7051a5a0a1d72a6aa8",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Prove me wrong. Кажись в нормальном мире харнесс и модель идут всегда в связке. rl накатывают и на сам харнесс в том числе. Пробовал я разные там muse wonder, google carbon и прочее и даже на этих достаточно крутых моделях послевкусие не то. Что уж тут говорить про всякие попытки накатать харнесс без модели. \ntldr: харнесс в отрыве от модели это такой saas подход из прошлого. И думаю глобально не имеет будущего.",
+      "images": [],
+      "title_en": "",
+      "text_en": "Prove me wrong. Seems like in a normal world the harness and the model always come as a bundle. RL gets slapped on the harness itself too. I’ve tried all that Muse, Wonder, Google Carbon, etc., and even on those pretty damn solid models the aftertaste is still off. And what is there to say about all those attempts to roll a harness without a model.\n\ntldr: a harness detached from the model is this SaaS approach from the past. And I think, globally, it has no future.",
+      "content_kind": "text"
+    },
     {
       "id": 1351,
       "url": "https://t.me/chillhousetech/1351",
@@ -190,8 +202,8 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему \nприложений (https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios)\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
       "images": [
-        "https://cdn4.telesco.pe/file/c_T39EdTSoqdl9A2TzaZ7RNGTGw06PBVw07Y-eYeolj9LXmibtzglfLQ-KWlWgVKHAfNCNvQIrGBqrjxb-o-U67Bg8oDvCrPb8agk0IDs247ZV_eW3B2_qrtLRx_PCpPMWJ7Ak9oM1UgZRynax72TYNdZC5Hly2LCUBBIiFTcIPGpzScnGBy5E_z8D7S7sCl49DPD0bvHogAIyKhlBwWedpCz5Cm3uje101HoIQgCz4OHSJSQ5B_m5kaWD91hygLAI6SP0GOWt0WVhtvaWH8Om4-PrctQPL2T8UQ7ZaWoYm_25eiYmXsNLEGpnByrM8U_TLHOb_nXgJqwv9JajZHKg.jpg",
-        "https://cdn4.telesco.pe/file/HoBBFmbD_KRPhwi1o85GKqocEGsNk4n5L40fqMOMxcdTkctjS0e9kQ7AUSxtDK5xDW7jyX21ZIlQZd_KVgnC9kuc4RxPW_Y_zyqkIy4MFYOmhEMF_o17OYsbYkevgXnB2FqdyFratVuKPHom1dX1545qouPlwvyisKuBK-FzWvvA4vWc9fxpkWSyPqImsMqYDuGEMs72EaoQGZxqB3XZU30vkgrHAl1Cf03cHF205gleXcv8hJRl09ieF-XNcTcglskL6u_yaPAMkR2ZnxOD4yzIzRAzX8u1HqJ5XC1UJdyBwMHWjeOEuFcv8WvKEBVHJ1r7XBKFuYq_KfV0k7nuqw.jpg"
+        "https://cdn4.telesco.pe/file/UU2HBDp_JYLwtRwJiZT02L5366dPmb_3ll2y10GbDkRhOtTdlhamgrWRT5b9LXSOqkbTKHESMjSBX0-PJ8o6DWfhGeDRVnRkJqsk4-xSXYm2YC29N0v6NA9ZLgxyLImjKxY1ztj18jQiy40Wbj6nHY42Iv1-GHd0qFEhhruzHPfxhV8QNHhoRsZbfjpC8HnuP-aca78MOi0_NKv1NOblHjsCxcMh0KhKzNpRkMqXBbbOhlpvdKgrJINOFRH1J4QmvT4dYBjetWsw4J_4FzxdW9j-CDsBn36EOOIvqT5AEwQYXgTTHkr7TBUU660D-eXqwGSRGL--s0W7v0KX_JFbrg.jpg",
+        "https://cdn4.telesco.pe/file/N0saPvj537AC6yCwe7XAImX1jQCpnWq5Ng6AR29NuVRl0yNLLhRs8Mi2rwI8BDeoxC9xrKT9LzS5nQXfxdcDMhW896s5mhhtaT_yKR2aTLpl7B7Moup5LizuiQNn7IJ18npbm_O7im0IxgBHKso8ZGzGg0mbRX2yC6lG8jA83dkiHKoHJSAWimVFSXQhraP-iR1euMMlkpW2L6usYyndggqpnJGbXtEaoduqZbRHQVouJ_t5sNMJo-NRzJ7E4xZ5RWwxuqeLsiNI7EiiGRKlwNSrcgTs2HyBhZHFRBKOfxqNsKaRxkoGawCP1V5_TeiWMF5NLitz_V0THeWSJ1ISPQ.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.\n\nLinks:\nhttps://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios",
@@ -205,7 +217,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
-        "https://cdn4.telesco.pe/file/F-LwwpXFQEq4RZdwAa3B5nxjaWAAu4dpFKGN8L8DpQSN4cFPbbWqrDCiovSpE8aJ2PkpXSirru4IgoX1X1cyyu9jpkldfFWXiP58y5hiPJoghDRm_u2xSuBG3vzb2hYE84ftuWqzuWCiwxb2MxupjIXVTiAak9KkAJT2ZaRvqhshryAP1W3HR5qUxW2-jHahyUmBhhV9rW-02tpziPe4M-g4QC0Znh0_XBiGiQylHw--TpcE3ovnAfeqk2ducZhjTZlu5WImQ87hRYamhgb4esCpH45KuO2Jrr9mnw-elr4YM-KDhHKSXgKs-z0vxzUcplpZWR0gqfdSDGKE3RHp8Q.jpg"
+        "https://cdn4.telesco.pe/file/n-oRMOEcG4GoeLXODJ-78UM9HvhyssyXX1y-5E6Nxp1D0iGayKMGiPrhucwKKbTE8TfKJIoDiX-gBGqKWTUq8kPzpEr6tatkvo-3sM4mXflUgazFX7xUVEllnm4eSTmorxZvkfyrnpolomqvy_a-dpG5oLMa_rleyYPep9tVghMUg5op470bcgop0zA3YZrRxzPAlPs3CBmdSZZH0prJXgqi_Nl0d2YQA5VLExIhnahdrX1adebBJ36kJxZAU2LbHfIejd_gwmuwzUzQVkcXXaKDg_52h-vSpiTLlJBwYvxjkEyo3fwq7K2JFFxLRzPK6GZWzaYAVRUayHkJ2n1B2g.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of AI oversight",
@@ -231,7 +243,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе (https://darioamodei.com/post/we-must-pace-the-frontier)\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма (https://x.com/sama/status/2098811563415150910?s=46)\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/py5ip-PXxjlxb2Bd-ZJ3kRu50uB_cB_d-vx-q2qqi1we1Bi2NXjucEhyYmtC5D096t8dqvJ4PheiyxN_-4HpExmM5YbeNHOrFQVkYTnJGy3gsg4PlzqTYQhVy_F-vnZL5kO4WBBSuIwImJF35aYA4astfWKCrjU1EXitU1Ay5BVNq9MdQLP5C9kbW5NUKQ1kSn0K88UNdf6RfdtzCsU9YTz_2kXGWwyT-DIxFcc2Z3QnSpEq76KMqVPmb0lvYkXRWBPuNI4XuQHKjTA0puhut1pypdNzCLxY4lgapX_-zMAUjAY5y8KKra2f8nAIXF09xk4znz_IOWiK7U1_CmIjRQ.jpg"
+        "https://cdn4.telesco.pe/file/vtwRsTetzxqrkS0ju6JDqxdbV8aCd-eFcNEew5gGwZTHd7MSgCq-jjeZmqAh3zC_NC5GWozB8vvivqhbLyhx401UsUUGj8_ZSKp7C775NYe_owvnzi2bt3KiAM5Rp7rj9aHp1r_ju1ysqou65s-IOvwhlEF8iIXHK8C1T37K4mjxvMiQZ4LiBIEf0YIv8JyzTIlHInZy5J3Eq4BY05lVWvuCyQytufmzeIh4pj549PTy4A2v7fLHFqjXAzJ8642MpJm9GYfvp5YAEN2LQse4FuFWHVsBdkjtdurEXEIKMEhdRlqUg3n_Ahz5-fYKiQpLhh0wfEq9hFaHUWV94uUs_w.jpg"
       ],
       "title_en": "",
       "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.\nAnd\nSam’s take\ngoes in the same direction. Probably someone else is supposed to think that way too, right?\n\nLinks:\nhttps://darioamodei.com/post/we-must-pace-the-frontier\nhttps://x.com/sama/status/2098811563415150910?s=46",
@@ -245,7 +257,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули (https://x.com/thsottiaux/status/2098113585683808624?s=46)\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/oEVa3aB554qPF0dn3RyIkE8unZMvB2UiE64uCKywGtmpaAN7zBXm8zEhEOwwGaySydbtoM8RjzrmuduS12hcGK876wdQL-WsSjoIFbH7vgfnsqV57gHXJXS-QxqSgP2uwtyschbIzxLqJDJ1j17H0NzdXMVuG7SgK7zIi6RChKdQLZYvibp9xDikK4dvMzhJ4W8MbYoyI5lXEkxmtJtrWGX6fMo7iVLwJ7XuDPLaDknibed418DhMEoKlq3QNDlcMVDDCgKW6h6o3zPkVe_8qvAeAOkjTF5kPhPNZYxvFA-9EiGgn43sOD4WrR1bU-493b_TXgxqPgBhYrFLf_6t-A.jpg"
+        "https://cdn4.telesco.pe/file/VbQPgSnVMAFBkh6Zj56hd-9a4YXb4pUYfaRmQkaVhCUicmcmusYe3gHlUvBJ5vNIQYtpLdGzTlCzSmCmMWYt5MFR3vifvVMsEuwSrsu79v4S65yqvE5WFW9fQrmWDtVNXWeH-Ze0kutKXEMkGXogyACAztQqanJX8l0nOw187Ohkn-LIR_aa5umufmwSrkC0loASXGM5GbUzxxYXDgV9A3oHFiEQcJtX4ut8pQFYJQQv46PnCsVb8qGwHGmIzRzOlqAUugwcg2LszZ3cgo0ANstoTu3KZWf2uHvSIlaLpjmBiNuOqoUB6ejMR9E_BeP5NmSmRVzeP6g9QjwslaSGIg.jpg"
       ],
       "title_en": "",
       "text_en": "Wanted to throw in some more memes. OpenAI \nhalted\n new sign-ups for the 200-dollar plan. A few moments before\n\nLinks:\nhttps://x.com/thsottiaux/status/2098113585683808624?s=46",
@@ -259,7 +271,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно (https://x.com/parkerthayer/status/2097759699626328575?s=46)\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/F6gX5YMTFX9lo5wFaxuAFfNzKvwo48U7qk6yUXNXwLJjL3B6HcYEyq2Ag0dAjZAc-qX4CtnsEDnSJH1KPED8_ngSy77xFcvfXxBfGvOWOmUeTBYtTV9nsIbuPy0A22ewUzFdKP0TOwezQZXYgtH_k8utKdMBXxYeo_wbI_Bzg8M3VgQJGqCUxABW8xEatyo3zOx9DF9HoXg1eRx1_ZXvYOdL0vzxoZ_wQCJi5OVbwEAtHgKuc3Kl4FSvoLsHzlKt0dcsbyWTvZjYlqVjadlb0uAjJmEuiqXEs8P4Hlyig3tPm1YQ_yI5Hryj2NtOny-HdIYUjug8-lPxzjeVhfj-Dw.jpg"
+        "https://cdn4.telesco.pe/file/HdZkakNofWNiMCy3xIQVKr2F-OV3eu4fPHGs_sef5wfqSFacQI0nh7MsrGGyKWckI6tOu0XOyNyeXkmSMXQ4Eg9YM3xGcF33vwbdsCEmZP6dwP09AYnmq2X9-dS9w0zWnl5hyYU8VWL823m1OS9W3Y8zDpKOdN9dwoFAmI3Kw6MDwhYJ9fpUEFC4XvWyYiuyRdbqs5AjwHWA2HveHUuok5rbjTXljSqnBEBJwIaopmIT6ehADLm14uKkdKJ-dPIWnCEiQTzxnf-DmqtIl24kBZpo_EO_UguIlc29PNUKeaGhHO0J0NADawp7ZgRbNH4UR4_uDKDFFHeAQLYfCTvl_A.jpg"
       ],
       "title_en": "",
       "text_en": "To everyone especially freaking out, I’ll remind you of a few details about the latest events:\n1/ the HuggingFace “hack” by agents is, damn, not “some model sitting there thinking how it could break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves a millennium-old problem all by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part\nis this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing this line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I recommend not leaving your house starting now.\n\nLinks:\nhttps://x.com/parkerthayer/status/2097759699626328575?s=46",
@@ -273,7 +285,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
-        "https://cdn4.telesco.pe/file/SP7AHlRL8z5NzZHKIzhGL9mv7pkVwDk1qeNFnGOVoestaUsVr1yhAnMcFbAveD-1gIyYYBfQuY47cCbodvkQW7XR7WeHWcECSFfZYIoVcNP1gQ5KefieiniauLr3JGp4yKMH34nIfd0SmEXvBMGkhvoyWM5OZr-mZJv5KE8yJN5u1eam_6zIxXtI96swMrk_YLoV9uziI1xEwtokTqQ8ouTb44jlpKUtBJwNCc7Ddhj0qE60CAqvDDJjdEixDg3zj7cg8tPYxGrwKlwoG2Tifocca3Q_dJoNFQ45Xxqq75E2zkhuBI5rq755VRwvMRshyPzxmwv_GYnIZl79TdhD7w.jpg"
+        "https://cdn4.telesco.pe/file/hWGFnudPd7HRtk4qpTTz1SxnvBPSYydwkLscRTLrYABBWOvX7vRaV_alKCgqkMksVDyKIA7w3dkD-Gp5C2ZHYYdhoAumcXhqaL2HXVLy0vjWnaDPJFXEAgHF2Jv_pZx8ri7aZlZY2u64IwPbC9ef7OK0z7Jcd9uTSQEdxCQiawEjX8mVpFvEIAuQ8pkkCzH3uzargRfMyrj8u5WjRCltaHWmnQf99CToa90WPUzPafL4Q_CXqIcj14LfKCGzXWqUP5KCHfIYjUhEYp86cM-my1rEMt0xCXSZvvcA3iSEct8AHggxO5sh9KCVAjgwoGvYoD_TSi3L35MpL8GWLW2EVg.jpg"
       ],
       "title_en": "",
       "text_en": "The future is here",
@@ -299,7 +311,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке (https://github.com/trymirai/uzu)\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint (https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4)\n - поменьше\nL checkpoint (https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8)\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут (https://trymirai.com/local-models)\n, будем рады если попробуете что-то еще. \nБенчи тут (https://trymirai.com/metrics)\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост (https://trymirai.com/blog/speculative-decoding-in-uzu)",
       "images": [
-        "https://cdn4.telesco.pe/file/ToPj3hy3Oac3qFhLSmArMvV0JGHGV-nEymMmhG11vO3Xkj5SXr8PkKqGnQ96Bn5PcEo747w6D9mgx2RGsywjCj5HUYDso-HMdk5lBNR0Hudmxs6PytGk5DiSoVmSjG2GQNDZlVDRPHKY0mxjRLhZTMMlzbPEhMEH00y5QJP2p8Quit59kl8JqsnxOWJvNT0iqcn1m3RCUF0SwJxTL89TDWfXBQv2y-QCfuskf4ek3ehefbm6V_SUzd3ggZGiumHu-xfY40hJDk8b2fn07IXhGxwQn3UP3K6uj7JtRKCveHxPOgbRZYbyNIBsXYn9Eb6bYUPSKW_5IzEMqp1p1HY8CA.jpg"
+        "https://cdn4.telesco.pe/file/Gpjky1hiU7nZ68VseRcnu4gdKGNtgRJ8p7-XuuPP2SYRQ02xoq9Y72Cr3CJeWzoPl2zlmt9779qZf58trvuq9CSfyKwxSL1i9ulDp-oOvMluqpwpGZ0Orx3GpTPxomRSK9qkGzdolUhUkbJMJDy0RsG2UXN07qzGHDT5hnNnujkEgKr1qOKBhcmJosk__Alpz23o775czwyf4CMZTviANwVJvQ3uNXNzw5jL9_4HhrOYqx71DP4cI9EkUmEPi8lH82JJJIXHQq6LHfHXKnPOzSbd2iEuPIYAsRg0Y8__HOHCoNhwBnu3DUVcD2qjFcwPmvMd578WMeTwDR3wbWgk8Q.jpg"
       ],
       "title_en": "",
       "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine.  \n.  \nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  \nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  \nYou can try it already today  \nM checkpoint  \n- smaller  \nL checkpoint  \n(lossless)  \nAll the models we support are here, we’ll be happy if you try something else too.  \nBenches are here. You can dig into what and how was measured and how much better it is.  \nMore details about the release — blog post\n\nLinks:\nhttps://github.com/trymirai/uzu\nhttps://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4\nhttps://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8\nhttps://trymirai.com/local-models\nhttps://trymirai.com/metrics\nhttps://trymirai.com/blog/speculative-decoding-in-uzu",
@@ -316,20 +328,6 @@
       "title_en": "",
       "text_en": "Typical cycle of an AI native company. You build a harness for some task or an aggregator of APIs + prompts. You scale with paid traffic (90% die here because it’s actually hard). Then, once you’re big, it gets hard to ship features because you depend entirely and completely on the model (well, maybe it will, maybe it won’t). And you try like Harvey to make your own or at least post-train. That’s when you realize you’re worth billions, but you can barely ship features anymore and the labs are breathing down your neck. And where do you find people for all these companies who can do model training and evals and all that all that, and also in a month. And nobody knows.  \nAnyway, that’s how it is for a lot of people right now;",
       "content_kind": "text"
-    },
-    {
-      "id": 1326,
-      "url": "https://t.me/chillhousetech/1326",
-      "date_utc": "2026-09-01T18:05:54+00:00",
-      "hash": "39d36432e82f33f1c618555308321734be53e606e8b4d5ee74cd9d3282c58ae5",
-      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
-      "text_ru": "Ну это \nнеплохо (https://platform.claude.com/docs/en/models/fable-5-1/overview)",
-      "images": [
-        "https://cdn4.telesco.pe/file/vYoCwGgDlqySL6aVHVOvYM-yTenUaN_yJzE_q-cZU1pU2w1Kq0yeD6dIDwQwiSdVvvX8W6IpLo05xUX_QyfRQiEhiiT5P8XrYNiSDdZ8ABH1ewjaMqVLmM-HPPI5AwnL4NbcIkJ5bP1MyxJDMIaTwaPHPelUeaPgeILQlXWT4jk-GmjbDklW1mm89ZA6MaOG0h-I7TAxWCxuExW09T0DA6zYc8BfhY0_9jZJZ5_t-ZtYEyuAAejqyxZUuD72A0xI6mB3-j7BNwussH0iTHXyc_XXf2yAlxF16CkvmBqGhqTIeNma6qGm54WVMA3zSMxi3Hjh0fw9dGkDNRaHAABhDw.jpg"
-      ],
-      "title_en": "",
-      "text_en": "Well that’s  \nnot bad\n\nLinks:\nhttps://platform.claude.com/docs/en/models/fable-5-1/overview",
-      "content_kind": "photo"
     }
   ]
 }
