@@ -3,6 +3,20 @@
   "source": "https://t.me/chillhousetech",
   "posts": [
     {
+      "id": 1353,
+      "url": "https://t.me/chillhousetech/1353",
+      "date_utc": "2026-11-11T18:33:33+00:00",
+      "hash": "9c72c1b78bf8e0399b166734b5b257d6e3a5006ee90d609b8161bcc04635077d",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Еще забавный \nэвал (https://goodhartlabs.com/honeybench)\n. Как часто модели читерят, чтобы выполнить задачу даже когда требования и результат четко определены(чем ниже столбик тем лучше). Ну лидерство тут понятно за кем.",
+      "images": [
+        "https://cdn4.telesco.pe/file/p4qC7gv0-9W1eSMk1eLS0PeS207YJQfwYMXvwoG7MnTMzNYTTbkMGEgWVswqlPMLrw_NY3c2-trM_bspHQZ6eRCskWiZwfSMrFsC-Ch-qOKnQc5ZHuMgLXUlJZvvkscUkr-O-7lARmJNcqj55B63M8-cVF3XoD1U7R6AB4ZmIXujY97upw2haBacRXR_xJ58jxqk6blVx8sW1dX4tNNbn17y0iAkBq8O4XguoSgNf_-wPvKVNm0dpNaePb61TLYKVuVWVraNw1aJr6y0182G24gmHs-2JHM_belEYB3-hvI8clogf6T5mbJUvtoaq6VR-JiRfXmTrKxRWk9_l2iecQ.jpg"
+      ],
+      "title_en": "",
+      "text_en": "Another funny eval (https://goodhartlabs.com/honeybench). How often models cheat to get the task done even when the requirements and the result are clearly defined (the lower the bar the better). And yeah, it’s pretty obvious who’s leading here.",
+      "content_kind": "photo"
+    },
+    {
       "id": 1352,
       "url": "https://t.me/chillhousetech/1352",
       "date_utc": "2026-11-10T20:56:16+00:00",
@@ -22,7 +36,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "A wall? Или плато так сказать. Грубо говоря за каждый потраченный на модель ярд баксов все меньше прогресса. Ну и получается скоро начнется процесс конвергенции, но для других игроков он будет стоить очень дорого. Ну пока что дешевле тренить не стало.",
       "images": [
-        "https://cdn4.telesco.pe/file/OBRD7v8AFBFKWm5D0kN-J_eh3NSpY6nlA7UTAGsy5BjTYh1Bk9L2JtWa_TQUGKO1ML-9OI2UKTToGRcNmsnx3L5C1mK7LzL8TRTkYeuK6lsMpdEFGHTy67Oq7KLrWro2vykc5Lw6LztKs_Vu537mhk0E_s5PGLbu5Qfd074V2wmtnp9ZvVsvClHPvYANFpptnd6A5RXtm1dn5BT88MTS4uZLBNKmwRkfonOeTw3i6u0RbFOBr8qNJnHt9yMn705XwqL-ou3YWe09G3tCJp14reY2Q_nhOpNe-Tx7QWkIu4UWraaXdBl-pFQ5xWorI1oT-PkLd75B7gQbJ5bPgaLdBQ.jpg"
+        "https://cdn4.telesco.pe/file/CQQQPxjge8eOBv6qc0IGjuxh4e9XijQdsDwZAVkFbCXI_kuJpit_J16_R_VGWbgAbesco6BIRTPisid8wQ-Se2BAK-Zyove5MrtEtP6HY1xXkpMs8eduSt9Lgz6ENugVyn5Iu__DtNzbF9DbfCbpQyfDiu6bZ7Ru5YdAe8GDExvIB9VaqTewsh1aPamo6qjweS3IQzrIPbwsJm0zbweP22pI-Ec5W4lvXF58M1O_niTGDVwX5JpK4dxWgXbdteh8KBiOmdToT0stAB5ptViE0voabRas2rT2g0PsEqV1K8xbNncvPdGfK1jDqNB_gxvX6QKmYD5Js06ZUOzwbqLMvA.jpg"
       ],
       "title_en": "",
       "text_en": "A wall? Or a plateau, so to speak. Roughly speaking, for every extra yard of bucks spent on the model you get less and less progress. And so it turns out the convergence process is gonna start soon, but for the other players it’s gonna cost a hell of a lot. Well so far it hasn’t gotten any cheaper to train.",
@@ -36,7 +50,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Все (https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&s=46)\n, что нужно знать о бенчах и китайских моделях. Господа переименовали файлики в lower case и поменяли пару инструкций не меняя суть задачи.",
       "images": [
-        "https://cdn4.telesco.pe/file/FyomU-mNyib_oUYnu7lq0kIP_UpciglUTItJMQ_nxIeata4R1QrQa3LQogXRMgRDSxJyV3FUg8xVSS5ir-KA9EU7AqIXWaWv5-0BBytw_lAGLpIedLak-Qf6pVOOZQyY4HEHVNWVmdpI6OjUUfjm2f0AnhwB6_yTJIomnEY8gP9xWWzbNfrf4VtN7Va1t6_jcrDJ_oaTCqWplUD7bp7SJGC_YUhv0dW0AxxtEWFm4TG1CVjl5Pv6wwWg6MuNLK0MssKrZr9vkNi4A5r8LwU3ROO1tFczcETr97rs3a1jbIBqheHHTa-N_Pb4LQITV78pvswVw8ia-mn_poNzw4wQ8w.jpg"
+        "https://cdn4.telesco.pe/file/E66l2WTkN-FeNIzkNMJsDcUK63FqPpNE-F64KR5rgbJsU-q_C7jgwnhQt5awVSYvxLxU5va2U3wLanrUgktT-eSLfPlV3bDyT5ExC1arq5EtaU_l0AQBTO7vf0A1Wx4G55Rb9PRpua4ZoJartMvp5KDulFiO4C7PqJxOOvBEoVJQiOVWIWg4xRfpcFY8H49k64GzRjBQgjA00eKi6JEoGwmKaQYyROUy174xLa5V4iRH6cxlyzdm1WdHxV2Ye8S2h0S8r_-UpEzQzbqNVJCVyVZHs_A_Xx7n9spLFuppTeds6WAjRmYv79QCmo6V1-rjTFLO6fkx_92zeC648fSUWQ.jpg"
       ],
       "title_en": "",
       "text_en": "Everything (https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&s=46)\nyou need to know about benches and Chinese models. The gentlemen renamed the little files to lower case and changed a couple of instructions without changing the essence of the task.",
@@ -173,7 +187,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Достаточно интересная картинка выходит",
       "images": [
-        "https://cdn4.telesco.pe/file/MY8tpjHltJ1aeV7tuHazFYA96L_IfRkhBEhWxpbBO2tgWhfvqnm1bNUie2iBATIXv_YjLuDgiap5DrzIiDM6BSNCgCindxF5w_rq7lCaqI40ooIxmA4AXj25LRqskX5TokruUmUAqseuDECFJhqdXtn_GIWYpmtQBDEEXKHlnGO-aRw7EiaqPnf_hbUhEJjydc4rxseYBZbY4BPCKHv8ADXU5DdYmz3IKy6t-Y8U-Tf31a4BCMGmfObiFTNmtvPfy7j78VWisghrqJ0lXoeOLWR-p2KDQEwo7gKg7_N-uvGZ_FVagBFuj0BLjRJ-_Fdv-SnHvVRJ2GeAEC1puecFuQ.jpg"
+        "https://cdn4.telesco.pe/file/Nls-75AMIlO8NPWcOJlkdoNE2qm953PK5SAiUSTs-y11O7dhxRMww5OWem4x2JwIUZuFQ0KtZgM5x2ziRUupd-yway00-VKIUtVNK4Jv67RTUr6NhofgEc0xB0n7aKnzFW0BhWaZb47vHePCpyWaNZRKu4YbllHkH578deLDyAk-zbCFn030Eg6etAALk-4sv2w6YRU0ZG__8DNAH5JZ8wUhrbOw4qiP3G-C4miYfb0AgM951rEH_jKUjSMqgLlTF3UUI_lhVmc7urYTwMHZKnYwprr4LNSaNtSDph5eDQkgyrDqU80s7yRLMzo46dQGAZa8w-RjUMMyQXKamRhkUw.jpg"
       ],
       "title_en": "",
       "text_en": "A pretty interesting picture is shaping up",
@@ -190,7 +204,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Отличный пиар к IPO, все-таки там сидят очень умные \nлюди\n модели",
       "images": [
-        "https://cdn4.telesco.pe/file/O86GR-wfH_HR3VuLAvxIYMb9zeyeINOGzWaUZmIouohCmb0QrWKMoIZXq2Kx-tne6pXhVDhtN8gjZMR2BciYMeWEFGBh8Fe6ev_WRWc2J49urJtBbuLV4OWG42k85-yjqlwo-zo4EwGWgPxksfJ4s75CkR_he5IPyRTkusQFaLsp2bZH0si9UcZLiPvJh3jPExsFBJzX5LV8tAmWGFIQSEtlLNk6xvyse03GmncNx3veH1RfYnB9lZvqQwblc1Iy3pR_m1rdOYNIM03LX2jI-h2jxsGGjHRNfTX2NIzroFgRNARTYb8hALfBiZ8tqJvazYw54EyXS0Ec2cdQBsAFEA.jpg"
+        "https://cdn4.telesco.pe/file/a7B6KAWJGpd99u_KwX20srVFf8JjHVu6gIkyjSmo7aiHbzGV-0m3C29Zbd2T2wSl2UeKD333eag0Ja-EGz_cWkrX37vWbMaxO9XMUnrrag2Au8SO5DIM4JEi0Btk1du7y-iCT-1yTh4HyXlt2DQOtngGkhg-gxniD5HZcJjfseGp_rGZ_EBJcENjXsYjtC7_TxbQ04H-kz6fLWugScB07iGbr9AqRwwASmlD50YBWbNjtqnZhWe8HbNV2pcs0nA3gLo4M6lmfgJanhrQHHt0jmjGqWj2V0yGc89m-xdF8XgJeP1L6C2k-rWwe31FiXQ_V3x1xdwtGRtS1pNx1b7shQ.jpg"
       ],
       "title_en": "",
       "text_en": "Great PR for the IPO, after all there are very smart\npeople sitting there\nmodels",
@@ -220,7 +234,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то (https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/jASI5e8fEOSsIvYlAxceGH8fTRJEpyLq9Xns1IAp3Qw_0QnCd49H7UGEqirsxYhPrW5xst17PLeZnomiTVouo8L40WTV7GULa_ZMFyJiSNnZcD4OMLw84p5hB9I5oWr-MkPCz_y9fZtpgB1NrgGDATBPYUylLQbbpGPnw7Q3aXDvFHWT7d9kzMBqdVY-yiJzwzJG4gQpp7c817V2ZiCnpC61S9bNIV0AnyWq3UCKq9-9FrtIH9aAFIEMyj66sO4pNFDgmX_lJiycSTpZtgIOdXeDYwtAl0qwh4JkUUXpw1TfW2FdllZAa59dWHznJi8LLsmIqFpbUmMFFn0a2IIXHw.jpg"
+        "https://cdn4.telesco.pe/file/B9OnVq8uiLrj6ECBdL69-TriOLJ5gd9eXdIQW9tTMOlByKfX_EOXw5D3nFEGNaIo61rnfiXjCwUTOgtR2IVhjGRAOZno_m9Y4wmqBsZfiRHjT3rzNRnnPDy8vRrXY9bsjvr48y3Qa_HAsO-wYE1VqVijbnqmN5aahwsaHxkkP40SgVm0_pwHx8dHg3iDGmClARoihzPzJ3XzHSzrHbbv0dloEvy5atsbVAXml_dv8LqJLRS7J2LR0cRxTUeRPsB8cqtQScPmySFUW-iCizeqImJuk-E0ax5QeBpsDBYFkb8aqcTbMoQrxpN5YiXWocE6Eb7XGLbZ_8NpeLbQtHPlPQ.jpg"
       ],
       "title_en": "",
       "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers.\n\nLinks:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
@@ -369,7 +383,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули (https://x.com/thsottiaux/status/2098113585683808624?s=46)\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/VbQPgSnVMAFBkh6Zj56hd-9a4YXb4pUYfaRmQkaVhCUicmcmusYe3gHlUvBJ5vNIQYtpLdGzTlCzSmCmMWYt5MFR3vifvVMsEuwSrsu79v4S65yqvE5WFW9fQrmWDtVNXWeH-Ze0kutKXEMkGXogyACAztQqanJX8l0nOw187Ohkn-LIR_aa5umufmwSrkC0loASXGM5GbUzxxYXDgV9A3oHFiEQcJtX4ut8pQFYJQQv46PnCsVb8qGwHGmIzRzOlqAUugwcg2LszZ3cgo0ANstoTu3KZWf2uHvSIlaLpjmBiNuOqoUB6ejMR9E_BeP5NmSmRVzeP6g9QjwslaSGIg.jpg"
+        "https://cdn4.telesco.pe/file/b1H_iTFe7XnJqLTzxfSz3qIljmQuJi8cHmH7WNzZEtaHOOXzBQisg8N2SVjCZqB5Bbu2bYpYZibc8fWVwVgb7Wq5rgIJ_Nos9dbkrEsSGByZZH_P--w3-FLfsFBX15yqlW5vAFe4VvJp3ln3j8A7IcopvVIS6PTdvlXW7hs4_RrDPaNBwyZQI-H6zGXMw-i827011hH3Nf9SG7_msuKuh2fEBCjPAsgE5Eyog4pbjLBLtv8ObbHyrVe7YLBC6FDCc2MBKMV4ApmiODB9VlumChoYGUbQoB8xeAtSe0MMynz6HLDpn0o4RzcqtEUeOQvP7L1YZp6k1a6F9zo-PYGDvg.jpg"
       ],
       "title_en": "",
       "text_en": "Wanted to throw in some more memes. OpenAI \nhalted\n new sign-ups for the 200-dollar plan. A few moments before\n\nLinks:\nhttps://x.com/thsottiaux/status/2098113585683808624?s=46",
@@ -392,7 +406,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Всем особо обеспокоенным напоминаю несколько деталей последних событий:\n1/ взлом HuggingFace агентами это блин не «модель такая сидит и думает как бы ей сломать какой-то сервис». Это конкретный набор инструкций из exploitgym который напрямую указывал что делать. Ничего сами агенты пока не ломают (по собственной инициативе). Что за чушь?\n2/ ai решает сам задачу тысячелетия! Все нам конец. Нет. Не сам он решил. Взяли ребята огромный пласт готового рисерча и обучались на трейсах и дальше по-умному забрутфорсили (так же как с другими гипотезами). Самостоятельно никакая модель пока ничего не решает. Попробуй сам. \n3/ но самое \nзабавно (https://x.com/parkerthayer/status/2097759699626328575?s=46)\n это пост какого-то там чела 27 летнего который поработал в OpenAI и потом в антропике начал качать тему: аи нас всех убьет. Вас скорее убьет что-то типа машины на дорого чем аи. Если в целом кого-то беспокоят такие риски советую не выходить из дома уже сейчас.",
       "images": [
-        "https://cdn4.telesco.pe/file/HdZkakNofWNiMCy3xIQVKr2F-OV3eu4fPHGs_sef5wfqSFacQI0nh7MsrGGyKWckI6tOu0XOyNyeXkmSMXQ4Eg9YM3xGcF33vwbdsCEmZP6dwP09AYnmq2X9-dS9w0zWnl5hyYU8VWL823m1OS9W3Y8zDpKOdN9dwoFAmI3Kw6MDwhYJ9fpUEFC4XvWyYiuyRdbqs5AjwHWA2HveHUuok5rbjTXljSqnBEBJwIaopmIT6ehADLm14uKkdKJ-dPIWnCEiQTzxnf-DmqtIl24kBZpo_EO_UguIlc29PNUKeaGhHO0J0NADawp7ZgRbNH4UR4_uDKDFFHeAQLYfCTvl_A.jpg"
+        "https://cdn4.telesco.pe/file/ATOLm4XWZXTHfFmz2pp9gfYhOySMOx5TpDlm6TfgjGFlEXbOX2KJsqgtF9VOzgMxCwi9S8P9LoaEcTmRYn-XvABAQVYhvp5_xgggUkxAsr5IeX3vIVRZtavLhNbFAHogXqv8Dtzuj3AzwUReCUfuAkTkqhW06YZBAAnSCgVbwOdvG_VN0hyeQHt99lwQ2cZm1imae6e9w7-TCqHyJmtALyZqCR3vGL6uAtB30W_ZQff5N42szfS3nAHVtSaedCLh3x0_Dc7kVUFpelELZanOgEuy8ZDYoFgXEu5jRwWDQpO9Ompjt5wX4CfWo8w2dwO1qQHMv5QVgBTab8CbBsGsuA.jpg"
       ],
       "title_en": "",
       "text_en": "To everyone especially freaking out, I’ll remind you of a few details about the latest events:\n1/ the HuggingFace “hack” by agents is, damn, not “some model sitting there thinking how it could break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?\n2/ AI solves a millennium-old problem all by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.\n3/ but the funniest part\nis this post by some 27-year-old dude who worked at OpenAI and then at Anthropic and started pushing this line: AI will kill us all. You’re more likely to get killed by something like a car on the road than by AI. If these risks bother you in general, I recommend not leaving your house starting now.\n\nLinks:\nhttps://x.com/parkerthayer/status/2097759699626328575?s=46",
@@ -415,7 +429,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "The future is here",
       "images": [
-        "https://cdn4.telesco.pe/file/hWGFnudPd7HRtk4qpTTz1SxnvBPSYydwkLscRTLrYABBWOvX7vRaV_alKCgqkMksVDyKIA7w3dkD-Gp5C2ZHYYdhoAumcXhqaL2HXVLy0vjWnaDPJFXEAgHF2Jv_pZx8ri7aZlZY2u64IwPbC9ef7OK0z7Jcd9uTSQEdxCQiawEjX8mVpFvEIAuQ8pkkCzH3uzargRfMyrj8u5WjRCltaHWmnQf99CToa90WPUzPafL4Q_CXqIcj14LfKCGzXWqUP5KCHfIYjUhEYp86cM-my1rEMt0xCXSZvvcA3iSEct8AHggxO5sh9KCVAjgwoGvYoD_TSi3L35MpL8GWLW2EVg.jpg"
+        "https://cdn4.telesco.pe/file/JFZH0PBC6SrrnjqZ_-QaFTPRq1QESNudk9szj3qLcxwtnwCYe_ICFBOKWzQk0G-4zg5xxzzgXHek3vb4VRg0HJeOzJr9wXo8a5pnuTaIUx9_sArKy9eoUKvdASpJLWEww6NhHEFT38sRnx579U0Rz08PkhMNGL2oMrn5hAC8dB6RhbxL4g6J0dcxKO65WEk_NZkEMPNx7-L95ziyhs-FHFKZwqWkMJE9dX21kfIXad_uBUEkDLHVP9LfrUEpzWRcODWkO3YcjWa5FeJnB6eD9yj-Pf8gAMjBYyqWsR5Nafbv005mIHRo1gSK0BJUzsz_H7TGFo4UtM5lGmqmUF_zFA.jpg"
       ],
       "title_en": "",
       "text_en": "The future is here",
@@ -455,7 +469,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Major release от нашей небольшой лабы. Поддержка спекулятивного декодинга  в \nнашем инференс движке (https://github.com/trymirai/uzu)\n. \nДля начала  Qwen3.6 27B, поддержка Qwen3.8 27B и Muse Glimmer в пути. \nМы сильно превосходим все возможные стеки для Apple Silicon по производительности. Потому что взяли и все сделали как ко-дизайн: кернелы, квантизация и спекуляция. Все с нуля, все свое. \nПопробовать можно уже сегодня \nM checkpoint (https://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4)\n - поменьше\nL checkpoint (https://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8)\n (lossless) \nВсе модели которые мы поддерживаем лежат \nтут (https://trymirai.com/local-models)\n, будем рады если попробуете что-то еще. \nБенчи тут (https://trymirai.com/metrics)\n. Можно изучить как и что измерено и насколько лучше. \nПодробнее про релиз \nблог пост (https://trymirai.com/blog/speculative-decoding-in-uzu)",
       "images": [
-        "https://cdn4.telesco.pe/file/Gpjky1hiU7nZ68VseRcnu4gdKGNtgRJ8p7-XuuPP2SYRQ02xoq9Y72Cr3CJeWzoPl2zlmt9779qZf58trvuq9CSfyKwxSL1i9ulDp-oOvMluqpwpGZ0Orx3GpTPxomRSK9qkGzdolUhUkbJMJDy0RsG2UXN07qzGHDT5hnNnujkEgKr1qOKBhcmJosk__Alpz23o775czwyf4CMZTviANwVJvQ3uNXNzw5jL9_4HhrOYqx71DP4cI9EkUmEPi8lH82JJJIXHQq6LHfHXKnPOzSbd2iEuPIYAsRg0Y8__HOHCoNhwBnu3DUVcD2qjFcwPmvMd578WMeTwDR3wbWgk8Q.jpg"
+        "https://cdn4.telesco.pe/file/gq1u5mntboK7dLI6c_ZGmy90pEl18F5ZdG6PhFSZvG0yLIzRaCC304WQHw8TNVDdnDFKAEBJ1C_AUwI2vj9QhERYx9e5O3rxt7ofO9W8x_YxvvSR_qcn_yUi-u0FsU-mUcQvhKK4h3fWQGFrZBzn-KEXLYGNWPuip5-8feIUB7lLdq7jqqJKcW_xFAFnfggCSsjb4U9bJsa765pUku4TUuKrqUlExHFw2a05oODkBTISXaleSx4Wyhk3wmrYHFbQZq7N7qViK-1hS3kU9rrhUEHUBMBzw5uxFcv42XGbENd2YB5edL9IkH1pb5kKVGG_ISO6qpSk_j7ZpzUqCPK6sQ.jpg"
       ],
       "title_en": "",
       "text_en": "Major release from our small lab. Support for speculative decoding in our inference engine.  \n.  \nTo start: Qwen3.6 27B, support for Qwen3.8 27B and Muse Glimmer is on the way.  \nWe massively outperform every possible stack for Apple Silicon on performance. Because we just went and did everything as co-design: kernels, quantization, and speculation. All from scratch, all ours.  \nYou can try it already today  \nM checkpoint  \n- smaller  \nL checkpoint  \n(lossless)  \nAll the models we support are here, we’ll be happy if you try something else too.  \nBenches are here. You can dig into what and how was measured and how much better it is.  \nMore details about the release — blog post\n\nLinks:\nhttps://github.com/trymirai/uzu\nhttps://trymirai.com/local-models/alibaba-qwen3-6-27b-mirai-mirai-m-4\nhttps://trymirai.com/local-models/alibaba-qwen3-5-9b-mirai-mirai-l-8\nhttps://trymirai.com/local-models\nhttps://trymirai.com/metrics\nhttps://trymirai.com/blog/speculative-decoding-in-uzu",
