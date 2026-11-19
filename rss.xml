@@ -7,6 +7,19 @@
         <language>en</language>
         <atom:link href="https://darkolorin.com/rss.xml" rel="self" type="application/rss+xml" />
         <item>
+            <title>OpenAI put out a blog post there, a good one.</title>
+            <link>https://darkolorin.com/posts/1355.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1355.html</guid>
+            <pubDate>Thu, 19 Nov 2026 10:57:23 GMT</pubDate>
+            <description>&lt;p&gt;OpenAI put out a blog post (&lt;a href="https://openai.com/index/research-acceleration-jagged-frontier/?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site" rel="noopener"&gt;https://openai.com/index/research-acceleration-jagged-frontier/&lt;/a&gt;) there, a good one. Like, exactly on point so you don’t go thinking “haha who needs your inference, just throw an agent at it and you’re done.”&lt;br&gt;
+Good quote, we’re seeing something similar:&lt;br&gt;
+Agents now complete nearly half of two-to-four-hour research tasks on their own. But humans are still central to AI development.&lt;br&gt;
+From March to October, estimated success rose from 23% to 46% for tasks estimated to require two to four hours of human work, and rose from 13% to 35% for tasks estimated to require four to eight hours. But the kind of work matters. For example, in a task-level breakdown, the autonomous agent success rate was 79% for monitoring training runs, 35% for launching training runs, and 25% for writing code for inference and serving stacks. Overall, uplift is jagged, and humans remain a core part of the AI research loop.&lt;br&gt;
+Roughly speaking, in our tasks the proportions are the same. Anyone over there who believes in full automation of programming probably needs to wait a bit. But at the same time for intranet stuff and all sorts of landing pages I don’t see any point in sweating it anymore.&lt;br&gt;
+We’re also trying to use various swarm agent things. But for now it’s more for research.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1355?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
             <title>What amazes me most year after year is basically this.</title>
             <link>https://darkolorin.com/posts/1354.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1354.html</guid>
@@ -20,7 +33,7 @@
             <link>https://darkolorin.com/posts/1353.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1353.html</guid>
             <pubDate>Wed, 11 Nov 2026 18:33:33 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/g2D1xg3z9LjtPasKKLdeTwCD9gmphgLFjLbMdTG-mthDD4ZmhMV6eFBuj9FAWdVqT4uUJjrpPGVBwzNi50nSJEWJg_eYAVSRhwtSDhsopNXZhpJs9Y5zNOGYmO3FLtIma1pFOm8r-37IuEruU0MIHPm9vvmWqgEODCSIJToZnP1p93VM8R7pcoWadFa2m0NbwnKbOqYF_WlMijEQ4e1y26leaw4ePDXhsDDQpJKrRZczBdf_-c6miz3FOZv1doZEK63DSA5P4XreQpq-F92CoNMqwh6PwNygQWphS9Tc6rFgGx_LsSBtjLgkjSMxFd7rTJ0nEw5N4NrF01Z6DQEDBQ.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/TTTOYXwzwDkaKLx_drU6L1a-AH0q01YQRxshlxvwOMfegcLATAJpfZIoXNQOF_SOWu5NQPc0_JDtTFIHH3U6c1-jqaHXwYCj1KXBuDwaR3aZdVOlg6ZSV9Xb1YQ6lrp0L_lQQFDP1zBG7R7J5rff25kdQkflFNQd10NLZxsMZEU2paTB8yLcZy0ZH8dDn3mTmQ5Ga96MN95AxZqdgEQyL5PEeuN1At1fJsj4gBVzSowhpfEij3Gs6aC57LnEDrmyuxO0RdtJAnZgEQWgFOpCPwKRSdWEWg3hEA246jN057SSKGZQ7ljKDHWh57Qghzjw2vrugiB_PA-mQHPOOEeL2Q.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;Another funny eval (&lt;a href="https://goodhartlabs.com/honeybench?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site" rel="noopener"&gt;https://goodhartlabs.com/honeybench&lt;/a&gt;). How often models cheat to get the task done even when the requirements and the result are clearly defined (the lower the bar the better). And yeah, it’s pretty obvious who’s leading here.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1353?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
         </item>
@@ -38,7 +51,7 @@
             <link>https://darkolorin.com/posts/1351.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1351.html</guid>
             <pubDate>Mon, 09 Nov 2026 12:51:43 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/gLIbznmQSjoQ-rzfHL3SpshnySSjJVZ95Z2ikxDgdZxfgS9QSNLnR78ElG--V5jlB_1ePlwX0BvkSBMeqegCFmKl2Ap_Rj3LOl9NSLwG3VlGbx3kieHIyNu-ExjZy6AmLnLKcR-j4f7gYnBc8223igmtXFoTtAC_mkbuJTMYql4D-O2WUG2tKRcs_jYP9EEeIl38AJO7EyOwOI-BEeiNNGksxyDOg1je4Iu3FyAXErm2NvgQtFpElat7wixzlbAnN6g752txXBvZffnjk5F2ss2QuxTi9GfCdfft41VV2nFXBFmiZG8bokLjIZK02CAy6p8c5VitofF2N4Lu5CRdCg.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/RbanGsDudqmT5M2Jvfcgxmf6AwRdaRE7cm8lYnEEDyBbBMb9JeDFuHw9aqHL5E2jjCMCuORppI5wmlgRC9KzLz7Rgx42B_VJWIDkt64MseVpxzGiMR75o5MViMyLbmVzbNwDCHTFrAkmNHYrqEFyUrKk4Dte5eYKF-Mg2iKxyCXwl-c-U5jtwrjKZTq-5_R59TtOyzNVSy7j9HmUbe54kkF_vY1xDdk_fVojczuz2lGANumJKUNM7kizBbfvm_EZ2kcl29GZMq-0NpTeFZF8NqQ5TpUCpw9iBDvEnFOO4aKBr_SGuPuGhZb0F8iMSqiEWfSrxBevk4GEsSvsMk3Zpw.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;A wall? Or a plateau, so to speak. Roughly speaking, for every extra yard of bucks spent on the model you get less and less progress. And so it turns out the convergence process is gonna start soon, but for the other players it’s gonna cost a hell of a lot. Well so far it hasn’t gotten any cheaper to train.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1351?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
         </item>
@@ -47,7 +60,7 @@
             <link>https://darkolorin.com/posts/1350.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1350.html</guid>
             <pubDate>Sat, 07 Nov 2026 15:39:26 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/pUQUCySt66twB6_iWAsInm42ptVLp6vt_8I-H4ve53Lntse93WLor5nJQSj3u76HmzPxgAYNrqT_Ah--5p66xk5GmgjwHqqPeNvw0cykXXjBPAD40d_I10GK7KTs9-J0FfblHMoEegoRLiW9UGZ6jDW-JDMqBwM_RpPeksf9SJ6gFawXaUCGOrLqa3j77q2qAKGFPVhdp3GCTQUOsdBrfbvvwrGB821zHOdMvdGCJ3_thv_-VbbvH8H5AekjY3LeK62svUgSm-tcRFLQITVeCuYwtA1jqeU6XX5sN5JVxyF6HzVvG2-CHaUQaFEiuC73wvdcuTSWk8LgGxBqYf3aAg.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/itoBJP8xnxK7CuNrvHUduMNSqS3LuvjR3592XaMDKTeUgtE0l4cr4eF3GmhQf5lvtELRC3BuLsbPaL7Lku9kg2TGcr3pP8QFHzlZSyltsVauQd5h7L5EgRLU4rl8POmT333DnfumCA0XNk1xLlHF-K0LICYTM-eGSlfzLxN5OEhOE41nqLrUSRbYW0MFGUtEWeLB-PJ3EX5H8956JPw4Vf8duHA_oPccYbVF81mJCv30rCRfsrI_2VDHDaC9W5vccfJyDIKMVXS4gNdF_cioCRmMeCaJjcLhaj2chRO76KKH_cdGTkOcl0dC-KXDvy8RYfrBnju_9P6NuWw7H4t-KQ.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;Everything (&lt;a href="https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&amp;amp;s=46&amp;amp;utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site" rel="noopener"&gt;https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&amp;amp;s=46&lt;/a&gt;)&lt;br&gt;
 you need to know about benches and Chinese models. The gentlemen renamed the little files to lower case and changed a couple of instructions without changing the essence of the task.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1350?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
@@ -141,7 +154,7 @@ Still in an experimental form, but soon it’ll make it to the main branch in a 
             <link>https://darkolorin.com/posts/1343.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1343.html</guid>
             <pubDate>Thu, 08 Oct 2026 22:26:18 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/WfGUVHpDgZB7u7lbzpoL9zRd5K7_Iu4-n2pKLqDlwnvh1ohTVt53cxOFUP4tHBUmvvZxbuS4QEDXnLD1tUzMEP10VLjNc47_CihlHkl2lk4QINWuTps5BvjDc0UxEiYNSGEsolpWPZKWphM36uEGV7FUh_xmPY1gTyvBJwQVTGoLkXyrYQnOKysiTH4WVek7Xcfl9wDt4NSTKPKOtMOrGHJMM0ktQYrUNqi8Vmg4ht4cSvLjmwGvfYSBDolwv6Kco_1luy_TmgadX9uTR7LLGh1XHHI65A9H9773H0H2nLouzaE8BVlLZMSH9pNA8Df3tgAsypNZc8nZjl5d_5w8CA.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/IAPI-ff2ZLCmqrFuhg0XgHnWHKcgkbxPrN9eIpm2bMR9hc2y1Pvra_rVaPhITd3pBuxrQ62TUtfabJdWfliW39uw29VKBSbr4B3T5ajPSq-jFONwhVDcdYK9bLVkSGGR4Hx3_56GWePH336smLGg7rjFmBVqeqtmFhyKpIsJj-ee1yuiK8_fSKJrwyQGlVvZEL_a3VUM91qoynbaOd-jJq6gh20sAK6Pxi5sTOZCEqUx3Ofvmjwdwdd0RQy5gfu56kdOM3BNDRR7T0kc4x431AKnt3o452D8VVQd-TPG1X9LWNE8362zEqcyv8ZUgcjdUqRZTgwvsg3maSWO4pwvUQ.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;A pretty interesting picture is shaping up&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1343?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
         </item>
@@ -150,7 +163,7 @@ Still in an experimental form, but soon it’ll make it to the main branch in a 
             <link>https://darkolorin.com/posts/1342.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1342.html</guid>
             <pubDate>Thu, 08 Oct 2026 18:23:37 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/S6XiPHLXAH0aCIwfZJfTgzqkazuLFWd2_gTg-_24egsKldp0PBkUxuHmU0A6Z9dauYyGiamgfj-6YprPuXFZGeCU-9DBKBS53At_tKm8YvHeP2w-IzlBlDPoTQbTKRf9_Rd9BStYpgB8msP-qqzA8DWd7vHDjtarWQF6fyO2jypB_0cWE03YH4x1081vCrM_R40DtoFxh8ZP76GoeNSNjFN3lRwqKR_-in-sHqivxJPLwu3t0xZPL8_dlmyelcJXAjHLLVgduGy3aBmLxOm_grQINPd87jJoheZi0FvqlIGlEeu7kRbk6s5MzhuWa1AYYw3LOC0yH52VczNrBk583w.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/YqSymfk3RLToYWeA2jp7lzhBzS3MWJeGlrVaH3jVreR4LRsVSQBPBIZJDEsX71fqcbFBi12oj3P1gg-Qr0T1omBtCYUYenAx_bKD96lfDxZpUkiG0fZ6offYxsT-PgO6LudsGwaJc0SFlKgNNjUIVZ0-u32cFH63VYvjhVRYZGozGgjgADnJcdp9ksAqpVSqpPaT8xPQgQReejgS7WZHy6diOewfsEcZnl2fxNhg8SSvhKJ99SijJFdCuQvE6Kt1feOF-ayCKJaGVY3Ol2Eg9qC7HWTn_pyZ7_U2VuNkE2gHMBlT3BJDA4z_yGlhY8qHLu5TO-OQODNV3khaY-emjQ.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;Great PR for the IPO, after all there are very smart&lt;br&gt;
 people sitting there&lt;br&gt;
 models&lt;/p&gt;
@@ -169,7 +182,7 @@ models&lt;/p&gt;
             <link>https://darkolorin.com/posts/1340.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1340.html</guid>
             <pubDate>Wed, 30 Sep 2026 20:38:13 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/QWkjauPgXVMAgEv6yk_2Ua6HCVzTM6d3dCBakOH7yHhB6PSsR32fvLJxth4WqenEUp_edmzddtP8vutNsRlCnqO6UA6RUIMIvGEYPMnQXPFGj0rMQeOlGbAchz_Osb8DA-2BT-AhEp6tMW71_as_fCBz7B0ttXGfAd-nkCA69Ye39pLABu_Z-mFT-ZwywjOzUeTOuOd0P80yYZnf5iNgiXHwy_hRQ0dukAxQBpMdHQzy0NIBLUafslIfykcyAxS-QHcEZk0sQHOcEDBnjF0ayJl_K-n0a2CVbWVew-21u9gXdST1l-Fj0nXAKYdY_S5-QjNPOV2Ujvld1Xo-4C3K-g.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/V5Elmcv1Xfzpp0IeNm_iO0y1td00wyVXkhI6zsRD1q3mKIxDpM5ehaYLwShixhFh0r5McVXV40pzlP-NzGj2K_7RozrU_JuebIfY0-hoJ9xi5IHLrEJ3INUzb2tAV7SMKR_ifpCflQ-iPGnnOnBI-n7TK4yKbjny5CQckApkaKUE3Sn6SKa3SI9WZJqqnib5jSfVtIf-_yVZkMMQbTiyIuCkJJBhi6QHZBE0hCWri10Q08sa5TGxD5KI1eVve_gxWIQwTpWha5nMlsLTWjBYGrAYM_vkjbg10ctD6aCmyinIxGkuu-RzSWDTABoygHyDPlyWjtT2o7ABQw4rp2s9TA.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;Turns out google&lt;br&gt;
 can do&lt;br&gt;
 something. Or it’s just a table with little numbers.&lt;/p&gt;
@@ -225,7 +238,7 @@ you can check what comes out in the video or read about the experiments from the
             <link>https://darkolorin.com/posts/1335.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1335.html</guid>
             <pubDate>Tue, 15 Sep 2026 14:36:30 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/v0o3cIJd-wM6sTRr3nghU0CAcKiB4eKXRCM9yVwtTKl1kefIC-wQZJlPGTWZGrDllgoVln21vgG0ylFR1i9Ng1CNKwMPdwKgjqjJ3S4faGnyarH2U0t9YHgT8cjvsoC6TQ2jlPNLwGNzOsFXIU2NFyN1NSyawAe0t2COx8LlBAVclLTQduDnEyHkBo3k1eE7Wm0DCS1H2ka0JkoXYIwFzs5LNLZtnmHYZHWKpXPRIdlKPvevwDPTSBYGXccRh5XVKwSiqDsTvvxb53y7FzEAT4q1S9mMCFHM3yknOdfvm5iiyBXuGWyT7WXu9FASFBz4nREXMM0lUXgb2vK_vimNvg.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/isP7lQky785VjJ3t4BoMsBrHjhv5hfDXaRSRxdkvCJAv_9Uhl9jmiBX2HXSenZjLGG9WYYkguMQ07ZQiyzJJJXmCNxL29bRw4DxmWvvKAKVOj9Ke1XgptQZUOS4sND0vahcVw7HIHd0EVjFEpJ2rfSq3AunRU6xuhagnNBwNzPGaXb5ETU5DIpu4bio6vBUuhfS9jHkvCF4R1XKOIYAdsUNYtMaVc70cJ4QgDyw9gpJiYYtEO5GBjL_0Rk6TvIFX-FcspogeI1ItuzbVB-BM0Rpwo6EQqj-fxyOx9YAmFEMa_MuD7sTskBNBQtKe6vRjxH34eck5R65_51vbxaHb4g.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;On the topic of AI oversight&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1335?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
         </item>
@@ -243,7 +256,7 @@ you can check what comes out in the video or read about the experiments from the
             <link>https://darkolorin.com/posts/1333.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1333.html</guid>
             <pubDate>Sat, 12 Sep 2026 15:11:41 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/GBSIZL7I91JcyTfrBOOYnb3k1PDRYDtYE3ufHO6n4kvP1i2DDkOxiIjeoiN9kiTX014E2PFcULk9qH4poCYZPbgKa5csf2PNKjE21rTbZPMVun_FtBTV3vD0j05t1vjRHX9_80oodpj8RRNHM-_9SNNAldyOfnQkzKhBc5U-Kh9bHYkwJek5wj0DB9NDPi3tndPv6l9I7Z-9MXrss66g7RQhVrFg-OmoncSGa_YqLuqNOV_OFuj3z_95a91f6JL2MRwt2GNZ3N-iqiXyEGUvE2xwo_hc1IvjEyl_M9L6BEHqJP-sTZyNpHkzEdWuaMbegI9Oj9Sd7L_-sUnlRKNTJQ.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/cTaRvYbw09ye_kb7htokgX4cGpn80wAGm9dEHsIT81Xk_Lh5uKgGnsBLHeCDW_lPP5uEqgj9t3ZCgc4HbMEPro4ZLVfrhdgpVU1jIOEBHJQewHdRoYB-NVpTecMlCX2GfASEW62C4joN8a3_1cQgvI3xwIfvWBTEO4dmNOCSLvdsAEZXyv221JT9GHcYjZ3TZd0yVKeXS32eR6JP5We1LoR4uHoLCWiboeOE_G8baz_9InKzWPmBzEI9oxuN99R6Nhx1pinID6e6YE7lEpEP4YoV2nLqcL5Yw58De87Km66R6VRahlEtUVPYu91NqezyRNrSMnhxx5XLt5y76AS6qg.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;New essay.&lt;br&gt;
 Dario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.&lt;br&gt;
 And&lt;br&gt;
@@ -259,7 +272,7 @@ goes in the same direction. Probably someone else is supposed to think that way 
             <link>https://darkolorin.com/posts/1332.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1332.html</guid>
             <pubDate>Thu, 10 Sep 2026 20:24:53 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/KBAAjevYv-iGnUtqBFqZU36uxRsnJaqrg8_dhkvbxKvvnsZpiTB69GN07c1GM0aDgNk6nH_dbQEUScsNW2oWCzTmDvJ9u2FamgSyvHSDiBYgyJUYcBmI4KaH1M55y9vxR_AXT3KRwDo5HwyQWdOMK9kHRdHJhMm1CHKEUkpZIdIBi_nZohaFdGvc2f2RTu1BoHbx1lbU7oBtpZsNnM1V5-y07Kpz06Nc8gxOAAqUld2VJB4PZgSabVsKwjfxerEt2VJUMYifoxvKWvCh3Uo0s-CTBpDkkXRw0O4nrGgtI4mlX3ajbqr2_74SYdaMYDgzFmzzeUz-18NPhmq8jhIPHA.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/ET9563285KWAy-n1oRrhsbBT9Pzs-_zlgNPUH1YghcoH8SqFG0scRwjHdpnS2RvlTiDLzn-Z_-V5mrgLFLj7LFLH5La1K_FnkHLbQpVpWvyAwh469vk5yy0-w3tcGNp-J4xrRsaCic_A8voE5xIaQSBgCjFlIL-vGE3B5oAvBeX_9WrvFjTI8I3qFKZBI4t_h79cRraXK3jo6sUAJ-to4unrCJlX0HI_UJ9FR-RBGKTHlKlYpiAZ3Sbnz9PVfLvxkVSLzpVoRN2L_K_HW_oyU9dMZWnaw2nxOztSU_PDg8xQijvYopgHTpl7DaIxLzxbHEPNf0pOkYP9Y-skycVk8A.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;Wanted to throw in some more memes. OpenAI &lt;br&gt;
 halted&lt;br&gt;
  new sign-ups for the 200-dollar plan. A few moments before&lt;/p&gt;
@@ -272,7 +285,7 @@ halted&lt;br&gt;
             <link>https://darkolorin.com/posts/1331.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1331.html</guid>
             <pubDate>Thu, 10 Sep 2026 11:49:09 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/Xeahc4ZIr11fQJWfRNuB7JsxZUvwfvBeK7Uwk3WOQGXHTRXj1XY2-n56qhOv6oIw_WOLjqAJfUvr4AGTdSF-gAULleUrlvFUS2zjOZSePp6hcSaQh0LjuOwO5qkapOrKcJxv2UcewHsicz2suPly7fWdVn5WJWhE6KcYh1Uu_F04NpQy3FapbnSEM95NBDEz4S81d5VzhXgMSIQ8nbUARWcDLQdM5xPTdvTUqoXEo8bFi8EBqjFwKB1FYlFidsDVz8ADNJhZSKxvTDR4ghkAWlIArzKC5nn7Y97lHLUvBiVOLMUI0V7gmge_TQtiVRyQZqPW3PqrQDGQ5zKyHBD0Fg.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/MYfdeokQ49pEK8K27f_VMlV8AGK78yaE_gWx13rT-BcsbrLETyFyamZodxhPnh5j6CodJpJTC-wtkypz7a4W9umhO-II05qk5vtCvLjVIr4NlaflAtO0Qf7MTLiuF3btWf9ZuH6jPu5NT11TQ1sk_VuOGEXxEhjPX3hsK5x_b0jDLbhj5oGjy6GkO2yzC4KhF6EOrwq7qlwLtvyc7T5h44-W_c5j_xfdCshXFloQGzJUkYCM5k6rkFbElwAt_AqEqU38aWks2sIfDtaJh2294oz8Rnvh1gerBbDgPiiG7hZNFiCoGzqOx648HdV5dHoSGrQjR-PlsJEwkx-uuyE22A.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;To everyone especially freaking out, I’ll remind you of a few details about the latest events:&lt;br&gt;
 1/ the HuggingFace “hack” by agents is, damn, not “some model sitting there thinking how it could break some service.” It was a very specific set of instructions from exploitgym that directly told it what to do. Agents themselves aren’t breaking anything yet (on their own initiative). What is this nonsense?&lt;br&gt;
 2/ AI solves a millennium-old problem all by itself! That’s it, we’re all done for. No. It didn’t solve it by itself. Some guys took a massive chunk of existing research and trained on traces and then brute-forced it intelligently (same as with other hypotheses). No model is solving anything on its own yet. Try it yourself.&lt;br&gt;
@@ -287,7 +300,7 @@ is this post by some 27-year-old dude who worked at OpenAI and then at Anthropic
             <link>https://darkolorin.com/posts/1330.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1330.html</guid>
             <pubDate>Wed, 09 Sep 2026 19:51:43 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/TgNANKQ5tOJ5xVP8154qZnE4LEmIALjq6Zaz1RGoDDKYjKR9WmEdGb1Xom9ouqOArBo216eGsv-xsHR6IJSAIGWimqMX6DMcCsL5HIcFWM_AuZbfUG9ffZu4QQeGZgEjJcW4Bl8SVLzeCrpuTnUsZZNRboPjeeXqULstmnxqT12dXry0SE8FHjYapuC6cP5JbGlGa8-cxVGVG8-3ygDb3Nvs0Otv6c3AqfIspNBwia-a7ksjdoKAz6ASNEaM9h-xwVOAexLQrnmaRKDzB3xY2s48k733VY6cjz3_t0Sm2bb3KbbhtWAdGUS6u0IXKk_JNOUWHMYEeG1QfCBAlT_AKg.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/Wt0pZ-3yhyOH3v6Wt3N64WB4umoGEr3tciGw3M2F64Lk9sXXbPR7beauEgWDLaf4f9-IC1AJclV_zjYfppu3LCatXHj4UmyM0xAf739S8CR4Y7ebOLpxXoB3IL1PkYSQZZipIsrvQmE_kCXlduNWc6JjberdfANGgiR9_34AEOtukLqmnuG-8StxBXgBNjix47UShN26GdhIk-9hgcwqu83eondIuHc9VTzW4NeMfvbiIzQ2oOQHOlYFCz_rSm13YnkA5tkm4Jd5tfR-dAUY6rDiUE2XkNQl4m1HWmlICmmGULfc3tesyvTLlcVTGdwKvVzeZpoe9f-D2bXsGjcpuQ.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;The future is here&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1330?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
         </item>
