@@ -3,6 +3,30 @@
   "source": "https://t.me/chillhousetech",
   "posts": [
     {
+      "id": 1357,
+      "url": "https://t.me/chillhousetech/1357",
+      "date_utc": "2026-11-20T16:29:00+00:00",
+      "hash": "1659c372866d438a0ad4bf27e4d48b197fa796fb37ac910699788f8b51dbf21f",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Там пацаны из антропика говорят, что доказали гипотезу Римана. Всего 250к страниц.",
+      "images": [],
+      "title_en": "",
+      "text_en": "The guys over at Anthropic are saying they proved the Riemann Hypothesis. Just 250k pages.",
+      "content_kind": "text"
+    },
+    {
+      "id": 1356,
+      "url": "https://t.me/chillhousetech/1356",
+      "date_utc": "2026-11-20T13:34:28+00:00",
+      "hash": "f9a72a79d3d3d2bd83da72db7c60bcd56f56717349c0a733c841d145424088af",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Меня каждый день подмывает написать пост в стиле:\n- в 18 лет я бы никем \n- в 20 лет я бросил все и пошел работать на дядю (не скажу на кого)\n- в 22 мне отказали все когда я искал работу (не скажу какую)\n- 25 я поднял свои первые инвестиции но все провалилось (не скажу сколько у кого)\n- в 27 я осознал что мне надо делать, но меня предали (не скажу кто)\n- в 29 я все еще не сдался и сплю на матрасе и иду за мечтой\n- в 30 я построил три компании оценкой 200м баксов (мои друзья дали не скажу кто, помогли)\n- и сейчас закрытый эфир для … подпишись и тогда получишь доступ бесплатно \nНо как-то вдохновение на такой пост пока не пришло.",
+      "images": [],
+      "title_en": "",
+      "text_en": "I get the urge every day to write a post like:\n\n- at 18 I’d be nobody  \n- at 20 I ditched everything and went to work for some uncle (won’t say for who)  \n- at 22 everyone turned me down when I was job hunting (won’t say what kind)  \n- at 25 I raised my first investments but everything crashed (won’t say how much from whom)  \n- at 27 I realized what I needed to do, but I got betrayed (won’t say by who)  \n- at 29 I still haven’t given up and I sleep on a mattress and chase the dream  \n- at 30 I built three companies valued at $200M (my friends, won’t say who, helped out)  \n- and now a closed stream for … subscribe and then you’ll get access for free  \n\nBut yeah, somehow the inspiration for a post like that hasn’t shown up yet.",
+      "content_kind": "text"
+    },
+    {
       "id": 1355,
       "url": "https://t.me/chillhousetech/1355",
       "date_utc": "2026-11-19T10:57:23+00:00",
@@ -34,7 +58,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще забавный \nэвал (https://goodhartlabs.com/honeybench)\n. Как часто модели читерят, чтобы выполнить задачу даже когда требования и результат четко определены(чем ниже столбик тем лучше). Ну лидерство тут понятно за кем.",
       "images": [
-        "https://cdn4.telesco.pe/file/TTTOYXwzwDkaKLx_drU6L1a-AH0q01YQRxshlxvwOMfegcLATAJpfZIoXNQOF_SOWu5NQPc0_JDtTFIHH3U6c1-jqaHXwYCj1KXBuDwaR3aZdVOlg6ZSV9Xb1YQ6lrp0L_lQQFDP1zBG7R7J5rff25kdQkflFNQd10NLZxsMZEU2paTB8yLcZy0ZH8dDn3mTmQ5Ga96MN95AxZqdgEQyL5PEeuN1At1fJsj4gBVzSowhpfEij3Gs6aC57LnEDrmyuxO0RdtJAnZgEQWgFOpCPwKRSdWEWg3hEA246jN057SSKGZQ7ljKDHWh57Qghzjw2vrugiB_PA-mQHPOOEeL2Q.jpg"
+        "https://cdn4.telesco.pe/file/LayO8rqdIDV6lMxJDzQ3KKX7nFvjjqhYJLe_tYxPJE8lMj3f-wet4WgkmtxmQYfE_sP7c8-ByoD1z2pot9UAZqlYsu6PaxTSdWn05jZW7iZ-MkWEAzF3ndXXrxuXPKLrm5Q3g6AKWVjmZwgzRHL4mZBC4gKvRtUnHAqc24slxmYy6NFPco0PuIwtE8PpkAiMng6ZHCL6H4xE5ID69ENsYoOw_8TDrHRX6qE4GkIbG3ncdWHDM0Vsq0rQ5xlww9BV0SexwL7rdOLlb2p_PDjI5nKsuyBKocYNttWtwfNWrEnYFyfYSJb5AnPzHH2HgSt8oLDLteuuxNEALNjPK5uUDQ.jpg"
       ],
       "title_en": "",
       "text_en": "Another funny eval (https://goodhartlabs.com/honeybench). How often models cheat to get the task done even when the requirements and the result are clearly defined (the lower the bar the better). And yeah, it’s pretty obvious who’s leading here.",
@@ -60,7 +84,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "A wall? Или плато так сказать. Грубо говоря за каждый потраченный на модель ярд баксов все меньше прогресса. Ну и получается скоро начнется процесс конвергенции, но для других игроков он будет стоить очень дорого. Ну пока что дешевле тренить не стало.",
       "images": [
-        "https://cdn4.telesco.pe/file/RbanGsDudqmT5M2Jvfcgxmf6AwRdaRE7cm8lYnEEDyBbBMb9JeDFuHw9aqHL5E2jjCMCuORppI5wmlgRC9KzLz7Rgx42B_VJWIDkt64MseVpxzGiMR75o5MViMyLbmVzbNwDCHTFrAkmNHYrqEFyUrKk4Dte5eYKF-Mg2iKxyCXwl-c-U5jtwrjKZTq-5_R59TtOyzNVSy7j9HmUbe54kkF_vY1xDdk_fVojczuz2lGANumJKUNM7kizBbfvm_EZ2kcl29GZMq-0NpTeFZF8NqQ5TpUCpw9iBDvEnFOO4aKBr_SGuPuGhZb0F8iMSqiEWfSrxBevk4GEsSvsMk3Zpw.jpg"
+        "https://cdn4.telesco.pe/file/JIBbydp2H9wXpboaJBHEuHwXH_q1C9blItg35t2vBAvlxr2wnI2sXjqhrbLEd1XEiBmbgWTmUVZ8BtkoB-3V25qwILxJhqpHNyKVAmnhT7LBazHoczBLWoGLX8G3ah-chEn7DsLJancjCSbsBaoKuue7dfbSq6jVU427edtiHeagulFdO8BiS_lkx91YAqkf5w7_qjN9iYWvV7ch9ay0XSfcaOZY8HvHQD5gT4B8PHoXYex5fOJcaZXVa0JtdMAKe0s_23iy62EUhccoFSkXx2HPdQK7afUQZjDDeYc6kUjEThottZSEvJ2eCNiI4eCZFkoMwWlgqQLmjZCvlzmsTA.jpg"
       ],
       "title_en": "",
       "text_en": "A wall? Or a plateau, so to speak. Roughly speaking, for every extra yard of bucks spent on the model you get less and less progress. And so it turns out the convergence process is gonna start soon, but for the other players it’s gonna cost a hell of a lot. Well so far it hasn’t gotten any cheaper to train.",
@@ -74,7 +98,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Все (https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&s=46)\n, что нужно знать о бенчах и китайских моделях. Господа переименовали файлики в lower case и поменяли пару инструкций не меняя суть задачи.",
       "images": [
-        "https://cdn4.telesco.pe/file/itoBJP8xnxK7CuNrvHUduMNSqS3LuvjR3592XaMDKTeUgtE0l4cr4eF3GmhQf5lvtELRC3BuLsbPaL7Lku9kg2TGcr3pP8QFHzlZSyltsVauQd5h7L5EgRLU4rl8POmT333DnfumCA0XNk1xLlHF-K0LICYTM-eGSlfzLxN5OEhOE41nqLrUSRbYW0MFGUtEWeLB-PJ3EX5H8956JPw4Vf8duHA_oPccYbVF81mJCv30rCRfsrI_2VDHDaC9W5vccfJyDIKMVXS4gNdF_cioCRmMeCaJjcLhaj2chRO76KKH_cdGTkOcl0dC-KXDvy8RYfrBnju_9P6NuWw7H4t-KQ.jpg"
+        "https://cdn4.telesco.pe/file/R20o_koRB7L8Uiyi2O1lUSAJTuknJWzuwQzig0qAQTIww_5NZ6atvAEg2aJum1R7cW8TjiX0DQGtfQtEb5rcm91900EGu0XDfUwPA9256OdfwsEut7Wh9OrqEjUCBWwUmI4GY7XEcB_0og0Bq-XADERcnVRbVv5OWjCeXosj_VSYCgs-qr8F7DF60inRk4mPlcA-BRVf18iFasOqoKQe9MVyGUMzyiP0I7tIZBCc9mYWf8E6nx6ia9LpgvioXPEWfep7MUtvd8ldWgsq18K_vKu-Ku8gU5JnZYYPstg90Rz-ULk-XB1PrJwIDvG1vX9nzYI6QDxQC0YqwnthugSnRg.jpg"
       ],
       "title_en": "",
       "text_en": "Everything (https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&s=46)\nyou need to know about benches and Chinese models. The gentlemen renamed the little files to lower case and changed a couple of instructions without changing the essence of the task.",
@@ -211,7 +235,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Достаточно интересная картинка выходит",
       "images": [
-        "https://cdn4.telesco.pe/file/IAPI-ff2ZLCmqrFuhg0XgHnWHKcgkbxPrN9eIpm2bMR9hc2y1Pvra_rVaPhITd3pBuxrQ62TUtfabJdWfliW39uw29VKBSbr4B3T5ajPSq-jFONwhVDcdYK9bLVkSGGR4Hx3_56GWePH336smLGg7rjFmBVqeqtmFhyKpIsJj-ee1yuiK8_fSKJrwyQGlVvZEL_a3VUM91qoynbaOd-jJq6gh20sAK6Pxi5sTOZCEqUx3Ofvmjwdwdd0RQy5gfu56kdOM3BNDRR7T0kc4x431AKnt3o452D8VVQd-TPG1X9LWNE8362zEqcyv8ZUgcjdUqRZTgwvsg3maSWO4pwvUQ.jpg"
+        "https://cdn4.telesco.pe/file/Xxa1-sNxHV2vuV8jWayLX68icXFntdr56zVtDlTivNUXi5MCGti-S43cSJSA0kAuIW4QDIy7VaRJBSwitZAsX95lQXGHOE04unSA47b3XNpoIyN9Dlcp1kPXoRUxQhqyGSB9fhKLMuw_7ur7nWIc9-qjgczOLiktOyq0GMRINiYtNfk5agBVGtYH2BTkx-tGikmQtXWvMw2wLBILn4w2W1F57LKYB7LXZG3IfwDm11S1LLt9cuDmA5d3V4L5nk7VXZu1qNREZu-VoP3suNF9scia5Xh91Sbq1gn82xB7LgTZEJH6MO7eWeeKKhIf-q6QNdHnJ2wcnuRGsVfISrSs8Q.jpg"
       ],
       "title_en": "",
       "text_en": "A pretty interesting picture is shaping up",
@@ -228,7 +252,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Отличный пиар к IPO, все-таки там сидят очень умные \nлюди\n модели",
       "images": [
-        "https://cdn4.telesco.pe/file/YqSymfk3RLToYWeA2jp7lzhBzS3MWJeGlrVaH3jVreR4LRsVSQBPBIZJDEsX71fqcbFBi12oj3P1gg-Qr0T1omBtCYUYenAx_bKD96lfDxZpUkiG0fZ6offYxsT-PgO6LudsGwaJc0SFlKgNNjUIVZ0-u32cFH63VYvjhVRYZGozGgjgADnJcdp9ksAqpVSqpPaT8xPQgQReejgS7WZHy6diOewfsEcZnl2fxNhg8SSvhKJ99SijJFdCuQvE6Kt1feOF-ayCKJaGVY3Ol2Eg9qC7HWTn_pyZ7_U2VuNkE2gHMBlT3BJDA4z_yGlhY8qHLu5TO-OQODNV3khaY-emjQ.jpg"
+        "https://cdn4.telesco.pe/file/MxeL66lkzpWCGJMQegZb23bPjn6aEx5dK57qdJ26ukXJ7q3IuBIm8WUgo-Cw_-23Jyff-Bzwml3rku9W4TiYQIsGcV-eJW9drX4YMGqzHolyc6cUBjX9hLLPM5H-Fh2Z5uln1yqa8io8lIYUEdhu5OuihADthAtx91-6uUfboSau-qf2VjuJvef0m3aQslPLdS6qVCdJLz6eI-hOMb5Zyg_Wc7wRU41j2m-UNwzbk9sDhJG1vNH_A1cp4bENjdwi9KgNgNzCThxpZgsHWMSJWE4ZtMteizOK-hG0mceMpfmHtjooJim5t3zqw4r8-ocW2yCOMip28MZTt6hKYtzmWg.jpg"
       ],
       "title_en": "",
       "text_en": "Great PR for the IPO, after all there are very smart\npeople sitting there\nmodels",
@@ -258,7 +282,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то (https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/V5Elmcv1Xfzpp0IeNm_iO0y1td00wyVXkhI6zsRD1q3mKIxDpM5ehaYLwShixhFh0r5McVXV40pzlP-NzGj2K_7RozrU_JuebIfY0-hoJ9xi5IHLrEJ3INUzb2tAV7SMKR_ifpCflQ-iPGnnOnBI-n7TK4yKbjny5CQckApkaKUE3Sn6SKa3SI9WZJqqnib5jSfVtIf-_yVZkMMQbTiyIuCkJJBhi6QHZBE0hCWri10Q08sa5TGxD5KI1eVve_gxWIQwTpWha5nMlsLTWjBYGrAYM_vkjbg10ctD6aCmyinIxGkuu-RzSWDTABoygHyDPlyWjtT2o7ABQw4rp2s9TA.jpg"
+        "https://cdn4.telesco.pe/file/CNoZwscri-D8h5LIPwjgyNEm3b4EgsDkCHBSrWEGcFLbZe5R14obbYNHlKBC3JXBkZD17rckXpixd4TL7UjDX5UYA_7f_bdENy3n3zHxN5zoZVrjx2P7nboi_LRnRjYWdHzroJEqx0nSXZtjpJzU1aFnd95h9QZwQNBGGlLEtDP2aVVcd9z_7LPpIIA1R1MzDzXZbn8pmhw8UZRhVjlT4joBdQMpIGvNMoGYS4Uc8Km9fASmPXrgTLA-KYQflZLUk3Z23T6V3TBu_zWwMFrxvLKH-jjENZQ-MioC2IsWdodXPMEsHcCEd_QW4urOtt-OT8Qq8Rl1gTelDDItMD_QXw.jpg"
       ],
       "title_en": "",
       "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers.\n\nLinks:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
@@ -326,8 +350,8 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему \nприложений (https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios)\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
       "images": [
-        "https://cdn4.telesco.pe/file/Hnukde-E8sIUVySyDSK95olZkg8Pntv1WlS1qsR9bWyWjDjQHhhC5S6G9egQ5b_5kOFISgYWHh5HLFAs0xtrs-OidkvocBdUpQ6tbMLUSDRZMb9jsDYdSaXoOpsi6HhgWcj6ytczLfXeLeq1n04G3nbe7D9Q9VvLCjHI8ml8ysoRIzbdRzSDpKIe60kGkHnZny5815gkvDYpwxvgPKxU8CPMz5JQZ429vE8jmFXTTrOPizDlY9kZLl-xaurl76XbEIu7Q6AH6ajCcIB5eHY3TtGhSsRQGswaxlvKrz6vZ_JWZ9KYUV0agUQqXULHaA7KpGxqAvwltQUEQSgZ3nwPiA.jpg",
-        "https://cdn4.telesco.pe/file/QzndZ0Oc40vdQwOFvddtjjTe-31xPJONQZnaxC8mG0j_43Y1ArEoz0pO4KQ0PsH6VWEIAqOJPMudcycI-Xo85S6NrleZwJBOBZqsaQMfAwT23YAhnHQ9WSlvkpGIbaCE7BGVk2wF9zPFveTfp7GRdyyBIm5uVnB3TvUvsjwizB-3CKLSSr34wJYlni8aHAM7SsoSczpjk22DFVrN1rdxoFMFCFuKPZntES4MH6UAeT-dXz2D-RuMKkT4CRGcH6baMvzCYTzm3UgISibfC0CarzUC44hOKd_JuPm01yeDd3V3-xulqqGmNHI6IOtvAzUebdX5wEGuItXIyNNe2S7fLQ.jpg"
+        "https://cdn4.telesco.pe/file/PeJy_trjd6ruREpmnB5IyjhzHOy2wMIaT7y3Oyh3YqXN9bQf8SWwOc2QtSJZ35IOvwFqjegAhnjyLGDFSJPfLWTbeug3M2NOBJP2yETcdg6Fa13xy1qCaQMrDzKwux0JOD5wkr92zGXeHN4fYOY_fk7knRkfq-BaFnnDPShkChiqCiLGRUE_q7n0LjencIiB-AyS15121MPQQncXo7rK49s8bIG4BdoxW4LvejsbRgzSu2h-M5uZK68FyPh4bhOO4oaVZ_QMEU0xhw29-lugwAOBe6FfyCKU7nHkvp4Mw1SkDeTNssSdDlB1l30uVEyvfCrXPipZucbIHYZIoCoTCA.jpg",
+        "https://cdn4.telesco.pe/file/KWXdOV19TcyC7xiGSnNPBInqKf3SlkZAMHCWJyPdSYzgZyzQLDROknfTiOoQtzHCzkwftzaG5tnmMLsYtj22hP6TzdjXfMkhEN7HKD2k4X7c1SivmRqqmDtIWErSEpzGHFlEmQ9TDMOy79G2B0IhGvHGMt8X0Fo1LkGNTXviNvGS4WZyOR6lU8mRZmuClMhpUJ5obBoi3oYy_xFLiwrcYCE6jLrjAzVhj703L0p0BTJn2SWhK3OPLSYDvtnP9UqfBROg04XpLzQ4zCS5BYKKIRNAhKlLLVnCB7-LRsc_epd9GAbVeT5D1Qx0gQnYb4bYUxmt1-N-03Z6karQO6OA0A.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.\n\nLinks:\nhttps://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios",
@@ -350,7 +374,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
-        "https://cdn4.telesco.pe/file/g1QmYVqw27dMxXo1LWAaDGfPn0HqXtAgCyP6oJAplegWC-opu90p3G5sUsx9wMsVWq8SaOxGOob1qq7xlolSoCnx4MFNauuyVBDQDNvgE3Ya0ybHUmZZLXbjt1Bp6MhtZKXlFxjrhjejTO1bfW-vwaU4SxtCEgwSIpl-LXR2iej_ojWTNqIeoLbCxOoe0WPk0pvAu-wGAm9Zg3gsTKiJ-mVcPkJAUCLHconR7E0-HO41cE7t14sB2W6rbPnVd3MpWAofCZjT5RkeAzOYjqZUXkCZlG-W31u8v2oJbJIIbWhvbFPwET95OfPBtJNQl3Ug-hdN3cZwNVBgxSogqM4pXQ.jpg"
+        "https://cdn4.telesco.pe/file/FaTIAPBZBDk95XMJbIDAkBjvC_o9B1K_X6QmP5oIQuqu-Ef7SwAZbZZ1c77L-rIwtnWTfDtUsivmLGwycAXfidWaFKbuKxzey85Sjt5mR8q_5iNV79KtZ1NiBBOdFzTXr1dMrntxtKPlcS5CXfiO5p7ON-XWkISiG7SM9do0yrHaLGTefYs-9-8YY3HUgrE5u7lM_n3YhKv80G6l_gpmZqKR9QI8_e7BzY74fFFm8G1zHyRlwaedMjc7oYLloFSlMhV_jrBkU2CHmbVXUjJ3GirGpuSoEJzXacXF7Bl-WvJpHpvD9yCFK7jbqyKh-OvK8asrxn_1y8lbNU2u0k6Raw.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of AI oversight",
@@ -380,7 +404,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе (https://darioamodei.com/post/we-must-pace-the-frontier)\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма (https://x.com/sama/status/2098811563415150910?s=46)\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/WhqbHuLuJ8cHgb-2uB-KiK62tx_SmKaCKxl1ZceutIg7dcdoFo-ItJDzoGXoVsnth2ytMZNqvuCRTgpC9pyPq7T4U8seqG0NhItU3O9OuRPQQ-SovRJr-Xecpz8VOmA7mC-TloIBY2AoUPyj-Atr47Mz4iH27RlB4Tzcuz5J-kd1rbXFZKWcYaX27Q3043YBXhtMF-TH0SbqT90l02Om2MeYmSxRDd_5v1u-csWGOEZxBbzYPtohPXGdijXWLoUHowoCnTXRF5vU1Hpv8hvo6ok0my7JDQwbvf1EgFUuDhEcdNNShHyc4tyHAYabsI1KCdCvglwC8XwbEPC95pj4gw.jpg"
+        "https://cdn4.telesco.pe/file/R_If66uYXYlGW5kITcEKXWX1nfsGRiq8aOKjX8XQRBkvbXIXZ6EA7-1lKIOd_fBtpgGIdblmKPiINrDxYIh5IM8-OClVNy-69JVFe3kc5fQZXw3dUSnXYQ9UDmn47g9D6sKMq55zthCoEZ9rawILu2h7f9HfWNS0GuuIF6_IWQbY9xpvkzb4xqzNusLSDIE4pLd5blNl1QF-cEs3U1UPZ77hIRcm0x35FCDklZXWTace1vOmln8W6VJGb0xe8qVbJ37EzftSZ6inW_S9RDJdKq8LZgaAz5h3TJvjV6Ogryzj9gS2sHMtsu6kZpcy31eKm20v72aW3x6Xi7UQIpzXOA.jpg"
       ],
       "title_en": "",
       "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.\nAnd\nSam’s take\ngoes in the same direction. Probably someone else is supposed to think that way too, right?\n\nLinks:\nhttps://darioamodei.com/post/we-must-pace-the-frontier\nhttps://x.com/sama/status/2098811563415150910?s=46",
@@ -407,7 +431,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще мемов захотелось покидать. OpenAI \nстопнули (https://x.com/thsottiaux/status/2098113585683808624?s=46)\n новые подписки на 200 баксовый план. A few moments before",
       "images": [
-        "https://cdn4.telesco.pe/file/QNynlYafEcnyTp1hKIWW5deQaevTqJl3ldugWQHH_tG4xBRxOYLEnVO5JEVUP3m2KyunIhHrQczkRsKkYJH5WEF5VG2Y7enMumsvNUOsKo_JPo6cxY5r2Yae9iMucUKovVy6EtfCLzDB3x22_5Xu0aBA1xkQf7OU3nvjiQiboBMy9prlA7mKaroOKwZ8hZQ73bunVso0ze-7XUfMUyFG9TJI66MtgHBcARlyfgqOlAJ7EAbXATms5Za2utmB9CLee_FVT3EvH9URutrPnYeM1NiIdhMn2vR4H29Lg0Mtn7zMiMDcPOrcvTXimrXODvn-1sI1B89Pvj8wBL7QJ0PhiA.jpg"
+        "https://cdn4.telesco.pe/file/JYXLtUPs4Y3z7lN9My5PF4-CI_QvluLd2UQg9WpbIjQ4YCf-BjkJFwm0_MGes4a45qDxGXL-TsNllslcOQK0rFe_7a4eSS8uhEj4A5HP5zDJFKSkrSgx-iJh07kWonJ4ktZ5A5mZy0F_lAYMlDLgo83TpyVtWJiBitmNFmPshtnl02Z97IX3tAX-SM-87AoCucceabjWruw5QCHdnALZ9rklhUvRxQlfmPlLO3O6HZxzUFchk248SCHd85SPa3YmDhKLNTd1W8K-UKoRdg7If5VK0ERFQGPXAvaJelVYsR65-QrB4Xq4MbKLkAElC1Krcu3sr9ClY1jbEqB0C44fzw.jpg"
       ],
       "title_en": "",
       "text_en": "Wanted to throw in some more memes. OpenAI \nhalted\n new sign-ups for the 200-dollar plan. A few moments before\n\nLinks:\nhttps://x.com/thsottiaux/status/2098113585683808624?s=46",
