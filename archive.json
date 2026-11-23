@@ -265,7 +265,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Отличный пиар к IPO, все-таки там сидят очень умные \nлюди\n модели",
       "images": [
-        "https://cdn4.telesco.pe/file/UDf1AoeEHnOWoqvzoXPivOu2BLImiM-L5to74KfOqhatRvJWnvQlQqDyps3_E1uwjhoJNOu4AG2ZH4i5cCFJ7GrMDCl01Vx1CUQwE2YDNpYb_V3eyXcV25qVoNVYT3MqjysYJS_22Ghp59gn3EycPNbv_ILuJpN48-kzAu7ZRnOXjM0TmWpV8yVl6iDoGvZVdWMapYFKeNSttkwVy2xQVkRkBHsYhEo-qZJoog0Vb2J5ib3GW_JJAck8jG0gM5inbFOzZzLdrC-5uShwX5Memn9p1LmFF7u6Yi8JHRgpL4RMYte6_iYJNb171VvEUMqIYl1y84Xn2ZhoAlizFJV3qg.jpg"
+        "https://cdn4.telesco.pe/file/GxjrflGjwDAjuQFvIZtdDxhrYbu6Ivp29eRxBvh2Act69Vv6ydzfgN5IImbbntQlvxRmAN1zD7EXbdIqiI5okNU67Ieca7T0dQbqo3Qr2pg_nHJE1DbcQTrKX4I9Qas49ouzSpjGyn9nAnM2GguX0uIct2MWGQ1eXfliIKdkFuFrbWLS9zvz-xwOzGmAnrzWq1MSybDnUwEjBRJUTncLuZzcEVMM0_QZaQziUkTjN0wqwMO118Fm1h5e2GUNap_65UczPKCzlpjwbF2676v6KZKGn8GdDelje-amnv7gC5hoBRJU8j18GCsmPbIUn8mG7RfgEOVuTI60Oq6a-Jxt9A.jpg"
       ],
       "title_en": "",
       "text_en": "Great PR for the IPO, after all there are very smart\npeople sitting there\nmodels",
@@ -363,8 +363,8 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему \nприложений (https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios)\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
       "images": [
-        "https://cdn4.telesco.pe/file/FlfmAJHcZNWO-z1LXWOJDtEpifJ6edIAmwUnfFR-GZzEUqFZ5VlL406o2l4MEvM5NucYI3YRpBxWUkvwQYPxHZZ2O6gWohlY9XhUq2j_PQgTlCjaLwYLTNL3h79e4NO8cOoZqiWaEoD8RGykHYcMsfGWVGnDTslt6WwzzXUptCsMHNhzsBDVqt5q7_cicpek5Br6BeGAQ42droHTYcN-u5IgM5dZjioSHLizaggHbcjy61sO_hebq-V61Z-049wMijdNRMwYaWImzNpVtHFyMlIMs11of0T3Jwxy-RY4BQDL0fukKFn1jorrI6tklNWvQynq1NGHtN8XLP_YAvU63g.jpg",
-        "https://cdn4.telesco.pe/file/ACqil9CqoWLq-nGRkRjdMm5NzHIIo6ekLzZI3eQQy7tRa0XHkymLEw_cCxgAyGLS-5xTeniS7_k3A8QFHwLo9SFjp-WieP05eY8w9_4rI6byK0S65cVXdchbNcdfW9mEEFCoF0MTaEurVuRgZUKdh653GbRWAE7G41mvvrMcb3HvdbZ3Sn-nt4Bps25gapU1TLJJNzlrMQz-y_0kvmEtrGY5G7PpWvyry0muPU2NBCRON9ZTo21aPuxOtLTh4SIdYXhW9bZ4ehlZ6E_L5KA6KftMv6al3YVroes5ifDp5YZQPSDXWKBjSbuByp7eSYpOd5bdJp1XJUDKrGu-3-ltcQ.jpg"
+        "https://cdn4.telesco.pe/file/HhzjRUVJkW2HrKeVRM4pvWugi2JSEOpiXpkNozrtm5rF6P1bAi-Nn6rYlcZBiTgu9cREWyRtakBbI3kMeFytoAUbrgQ_HUXSMKpN8_6n95Y-Qk8Eg7I0ZhQ13J22o0yvLnwikemCgWFAnJKHMAU48APMPQjaZCShjeOa5XbFNxL_e_7QtpftUWoHaQ3MSiO-aI2m4wK7cnN2TKSO0j3SS_QUCs9iTudIPVnTSeobiVqv-E0bH2kEwvu9KkkxbRqJ3jkJ3xzMuyO7RkUOnzZdgs7vKv2qjQdfimyF3s2n3JED8BHCxVO5XC808rw-F8qtCswX3UKfr6gjjo1SudNMxg.jpg",
+        "https://cdn4.telesco.pe/file/Yvi80h_lCyTlV263cdX1k2xItGfsJW0x5emB6nQcXP4YuFsRvvUtJH9RCGdGUYT84jP-AeO9k_-TnZtfiZMZTztt_I8Gvh6N2aEFrLmIDqTjYxNgrGy9E6wml1N-e8QID1Ggwra8LcPkWQROtupRnnA-DMb9Y4PzOgWsVsZ1Df9k76HnhDlIdykz_ISt8jLLdBXofgA_is8reAIbzLBm3eGicEBFLN4DB6iF0Fh42cLmWIrRYCUdgzX69RHd71Uz83AMsEweNFVitQ946u_V89aSx6eHmC6swsdcLuDhaW905l9DYJzBbp4aoRiUL9VhI_bLXR6K0o5CBVYUCNOQPQ.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.\n\nLinks:\nhttps://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios",
@@ -387,7 +387,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
-        "https://cdn4.telesco.pe/file/iop_Jw3VcAALN2b05vAc3nG6m-IT3IXfatM6jk2vneQ39dMYUMQih4GAs0Nqaikllh1KN_zn-SR4fi4Tt0SjK8YkZ1MZE6HzSA_LL9RhW0QriO_03HchaK3ds59ek3oD-rzrysMmRfRUJ8BwDVyA3ajnLbP26RD2rsDSkoyUCvrdTUMvuK8ejOjp5hMPEJMOEeD1uY4Yx8Fy9R9cNDW4S1yZqsiduhxDw4WPXDthqHOuLbsl3PhyCdmsJ6a52EepzFIbuDe08Ytkh681zBs1Px5mMWtc5SsAk3byiHU5UrvD47ZhoCYlU7LZK7GSLG81cXAivrR8CkR5ZrrLCKRo7w.jpg"
+        "https://cdn4.telesco.pe/file/XtkLKHJ2v2WsPeYW4O1PV1muMRC0VX2m7YasBy1DH2ZTu4BIsHuJRdL5qYVsTm7H3qizcwHeXbeaPqpVgNOgREMYHboGTI-nJWVe7QRxD2xE-Xacze0a6u2d5vSmUu6VPoP1N3_PmsavykQQoWKttpHljsrHIWaUVt2QidDBe2NyCLvH_z-Jhgo_nQoUwDWbjEeQelJa3IjZ9VxmSiachvToss8VwA9POFf7p9c4fHpXFt0pQ40jcc8evhTZ4WYWAlg8Yd6wKad1sCJyrHoxDl0fOuWHEMHTsSRHdUEpvwkfjS4fhNxMwwEZwcVwph7bd4rdFeVH8ePfef7C-e9B1Q.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of AI oversight",
@@ -417,7 +417,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Новое эссе (https://darioamodei.com/post/we-must-pace-the-frontier)\n Дарио главы Антропика. Главная мысль в скриншоте. Остальное полезно прочесть. Дальше полезно подумать про конкуренцию и ipo.\nИ \nмнение Сэма (https://x.com/sama/status/2098811563415150910?s=46)\n тоже туда же. Наверное кто-то еще должен так думать да?",
       "images": [
-        "https://cdn4.telesco.pe/file/NNdNWD_qnscmFVod0OG5EXBjh92wx0rTS5zVcsG3eCjtQ2AvIqxRShZpznmqg4MO43cHV-cpPWIphofBZAK2ccjP4eG_Z0Mv2MhqA6WBYY2_rpFebm4EewBeqqRJF_8r2HSRJMaVVnaMSibGg_FERaRrjrkTtc9b9QN4X6B4elTD0x95qaxwQvxqlxigm89-Busy6Jjvu5U4NS72VdWNot8BNeQbPVQhKK6-5AzOBWcaU_6BlrbASXIaNlfZC4FR2Evr_FPT3dQieZJBdtvU85sMJv2id7OEbnm0w4AdAWoYlHhOLxZvfQ9ZkmQm7DPnoNeC2ZGOfiYvjY3UK3uqzA.jpg"
+        "https://cdn4.telesco.pe/file/EElM9bxO7ZwP-JkQmg8QQX5kTXkHYHLy6huWrvSxImQfedCKFL4IU975hhsIljQZfPvDkrPWpA9-0cY8mSrgyM5ZV_o4JaODwnczXUoIDlOBpX99GgLWV03L2VGifje7z6ixZEa83AdgUZfs_SvUDC1GAVeXlCU2JR1b1uCKYu7CjaFBrKy_qTqPKjYjMnHJ1rbGsE81O_x87gd0P8AzRJx6yG_90I0uh0QIdtGbDAotrndCPRAHSyXY9Y6Oy6LMHtW7hUEvt-D87L1TCMZNrlnR3FJxL4dhRxpYzPFPiK23toQ8tPCVfEORM5e3VqoZl3NOdgLZezsexp7pTznXRA.jpg"
       ],
       "title_en": "",
       "text_en": "New essay.\nDario, head of Anthropic. The main point is in the screenshot. The rest is worth reading. Next it’s worth thinking about competition and an IPO.\nAnd\nSam’s take\ngoes in the same direction. Probably someone else is supposed to think that way too, right?\n\nLinks:\nhttps://darioamodei.com/post/we-must-pace-the-frontier\nhttps://x.com/sama/status/2098811563415150910?s=46",
