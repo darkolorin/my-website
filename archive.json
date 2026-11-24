@@ -3,6 +3,18 @@
   "source": "https://t.me/chillhousetech",
   "posts": [
     {
+      "id": 1360,
+      "url": "https://t.me/chillhousetech/1360",
+      "date_utc": "2026-11-24T16:43:29+00:00",
+      "hash": "e08debbeea7a7ad823f04713a22410e60208dd3b1c1d171caca709eabdf2fc71",
+      "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
+      "text_ru": "Такс, есть хороший список работ, которые советую прочитать всем. На них ссылки должны быть или есть во всех значимых трудах от OpenAI etc\n1/ \nГрайс (https://web.stanford.edu/class/psych205/papers/Grice-1975.pdf)\n про коммуникацию \n2/ \nмагическое число 7 (https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf)\n про информацию и как мы ее воспринимаем \n3/ мало где \nссылка (https://homepages.cwi.nl/~pdg/ftp/mdlintro.pdf)\n но ознакомиться с колмогоровской сложностью и принцип MDL база\n4/ недавно хайпило что llm лучшие архиваторы так вот \nобзор (https://www.greene.sh/compression-and-intelligence/)",
+      "images": [],
+      "title_en": "",
+      "text_en": "So, here’s a solid list of works I recommend everyone read. Links to them should be, or already are, in pretty much every significant piece by OpenAI etc.\n\n1/  \nGrice (https://web.stanford.edu/class/psych205/papers/Grice-1975.pdf)  \nabout communication\n\n2/  \nthe magic number 7 (https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf)  \nabout information and how we perceive it\n\n3/ not many places have it  \nlink (https://homepages.cwi.nl/~pdg/ftp/mdlintro.pdf)  \nbut getting familiar with Kolmogorov complexity and the MDL principle is basic\n\n4/ recently there was hype that LLMs are the best compressors, so yeah  \na review (https://www.greene.sh/compression-and-intelligence/)",
+      "content_kind": "text"
+    },
+    {
       "id": 1359,
       "url": "https://t.me/chillhousetech/1359",
       "date_utc": "2026-11-24T00:16:15+00:00",
@@ -85,7 +97,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Еще забавный \nэвал (https://goodhartlabs.com/honeybench)\n. Как часто модели читерят, чтобы выполнить задачу даже когда требования и результат четко определены(чем ниже столбик тем лучше). Ну лидерство тут понятно за кем.",
       "images": [
-        "https://cdn4.telesco.pe/file/A_JeLGwwumMlVkOgXE6GzKmdg-3_ldlm5zkRIBcL1oky5X0ks4WtFzPeQSmvllKfKhf_jl4t0IINbNwbekyhzk8kPQYsoyuXQWQrWx0ald2HC5emp8OHD1pWBz2kqNaCamaBMPFk6yQWyflriq0R4qYkLBU3hBEktaBHOg5ZV-PBrd9RO6kUHqTdbKxuOKdTQ2KPxxqpXoRBuARzMvmgVBAvzxrL1urAtlG6_ek6vHk_2lZu3BnN1Qc5RgsE8IHkOEP4A1EK54nfkT45k9I0KHO2_-rJsVFxSAWeBmc4FPvoHsvqyhRKgW9h0oPYFGX-i-yWmObFzb626JoEn0jtIA.jpg"
+        "https://cdn4.telesco.pe/file/X_7RKg6uRirnzTT-q0y1XbrB17zaojDaBotnBWJyZ7rHWqKG8yEa6xBC6PGYPH1FtrLm1WOLuetJsH78KsyclbwFvetMMX7RleS4bIrvnTMsyVeb67UVxMcasBMTAeHA3b4hOc-d8UhGTRsrBlNWrefeqSQep-cHatyNhpr-dUtygIB2FpI5zbrPm_2l2nndovemSjdk8zZF7PGeWgKlh6fJEiLdS1BvaJ_C_jFVlURoJ54ZXIXMheUbgTSB3RG5bn_b68EMVmrhr9d-Z-1hTZfYPf-8AMZyBSiJ2r0WhkLMKhugkTSOACN7rhr_4knIMT3YcZ0xr4F1rCugs1Zgjg.jpg"
       ],
       "title_en": "",
       "text_en": "Another funny eval (https://goodhartlabs.com/honeybench). How often models cheat to get the task done even when the requirements and the result are clearly defined (the lower the bar the better). And yeah, it’s pretty obvious who’s leading here.",
@@ -125,7 +137,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Все (https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&s=46)\n, что нужно знать о бенчах и китайских моделях. Господа переименовали файлики в lower case и поменяли пару инструкций не меняя суть задачи.",
       "images": [
-        "https://cdn4.telesco.pe/file/qPbcCwL9tHWqyNavdcy-pepmdOQgq8ADCAHSdEHjq9QoXVmZ1Hn8hT_sOGVWEGyxwUCDXEGsR7zTcQNXLPy9zUKJ0Er3oiiRVQPp5Gfpo14pZOWjsqHi7u7dmeXwrK_5KjRz4-Z-RGtmzNp9vbAv9sV3MjGp_8zOj8-A31fTnV7NYlCvNmF8gHO-X5GUtdXhjKX9SZrMnWe22L7VOGDNsR6OX_-IfIIp1l5GevE9kPcYrRQA6-7sGaQy9nJeL50xSCsgf7jTprHKexFIPLPum53peusOHfIoN4G8Np1iS5Do6kTz_xVZkSRoeiAm_E_6KiQAsT5lavS8uXb4uLfK1w.jpg"
+        "https://cdn4.telesco.pe/file/VLG0W6kw5BxHN8QhSSJfjCTSISEe0zpwgy5yb2b7GdzpGuw-30G0-dJcO_PHBwDmbmpI-MIsthSFADmYCbWJuCssYOWTZYIx788h8WjK7_wKnsU9pEFczilHOSEJTfhREo_c8uARfbIWG2qvMVGOmQXLS2Voez-SqNyY5e8IpIV0THq40POSvsqWXeXpZmwj90hZqjKokJ9sspkieMmXSM90TNP9hDPqR0VCRRzdWVwMPxUa9ho7VJxCzi1Qct8Ilgl7SpD_l1ddfr10pz1N3sXOyKWBYcX-wgLTdiOp1B4qMvp74vH-yRWCj5oS39HkJjTcwIsG43c5DXbXrtG8LA.jpg"
       ],
       "title_en": "",
       "text_en": "Everything (https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&s=46)\nyou need to know about benches and Chinese models. The gentlemen renamed the little files to lower case and changed a couple of instructions without changing the essence of the task.",
@@ -262,7 +274,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Достаточно интересная картинка выходит",
       "images": [
-        "https://cdn4.telesco.pe/file/LqNuyNcGKsHWmerKFaQxmmOa3m-ns8JH85bJ6Y01QgcfrXANBOpkijzJVwPEZmmFJamKlPz93x0v-uUF3WY2wnk4KkL3Rn3ZJvJyEd3-sHdLy2GK7xQhPb0Q7aR_kYNUTUoZvoXfR2ZXxZ4-C8gOH0mfT-yWDm8mkk1ICyE_hqQ0VzrO44IM7hfcXX3FaEay9NRREjRRLEr2b6dAY3t4Zxyhohc9hp0wkTik8vJz_C8d-1Z8v7yuRrmIzESMxCitl-mz5jLPHou2K6EOoMxMo8j0kdtT-Z6jy1rbt8HQrIJGJeKg2AEcDgyGht0tGT5WmONueqYIYgi8_jHVYb3GRw.jpg"
+        "https://cdn4.telesco.pe/file/NYLZ_9XzzMVvyHfCo0GcEa-lGNe23vQAzomvhJKDzrHMJXcFGSPbEA6sj6VmDf222_NmNo0UdNvK8xLlR4MhEMq4wO5SSBzX6TYJUgSappa403MmNhuhkAPo991jQ6cVQSKsegIdfAXDLZtfNPjgWGWB2iYRa1eQpy3TYT14U5d0JdLu4zVlcwSGbdyCcKChg2Hh25rHgpnPNGQ47C9-g8VGs7zPFCUSQIO3Y9t8g1xU6OzProXKLImEfQzShX0_lXRPqiBS5yhkxSewQHRAsCD3LX0ndc6-k_H_Zrx1rfg6473Vyz2_z9JNLyzcvMpgPUYqLAmgftxzmdyZ3PVfiA.jpg"
       ],
       "title_en": "",
       "text_en": "A pretty interesting picture is shaping up",
@@ -309,7 +321,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "Оказывается google \nчто-то (https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)\n умеет. Ну или это просто таблица с циферками.",
       "images": [
-        "https://cdn4.telesco.pe/file/nZWygnjofOQ2C6hBf2vYUW0x3KgM1zrf3faeBd0Uo0Z2RhEHZTdDa_EOVXybu2uL-s6OYodPQlnsbBjdH_QcP6eBB-4Rjej1Nz5HcL8sXITNMm_zqemeys_LS7LX1LS6lYzdwhSMJlVFQ8_dEo15Ch7gIZwxlZDN2k31jdW7Nf3qYBt3OErplnE0hV9nSYM_PYClQGre8LiCCjOCFOPVIHFhMNWIwbKrBV5sA-HAKf3gYouhO_Q5F7KQB3WDLaVRUFaVQ54HP3dewHM2HY2-QaK5LLWMXyQp5gGxkU4DwIsQ8LoUe3hqWy-h2MIOisKpuT1bhsIpoH1l-PE9Zm1ayw.jpg"
+        "https://cdn4.telesco.pe/file/hQLicQMVur-graQLecPm7nDX0R2xRomjhNY1q4wF77umDTL30ybdBOgNNXD5edeekHrgKKSDuezF3hIOEfYTUF4u_NnVwUZpBv-26P3hZ3NISHlY3yGhf6WNLENNGKph24hal5voh-WsXx-rfCH1Dexlk3Ndl9gi5OC0pcwUk1F93OQUIfsdHEkLtT0yUSfkK_cLFfd0gqkyimSizOgqqF21R_CeKNB53FRrKvpAwDWJB90irlWRoh31EI3jMQWztWV3ydOdMquhWg48uMJNlhJdo1Zw0nurlxS41IyIOl0lg1HRriQrX6dA88jbQ_qy_nK3ys6sUbudu0LSv1Q7IQ.jpg"
       ],
       "title_en": "",
       "text_en": "Turns out google\ncan do\nsomething. Or it’s just a table with little numbers.\n\nLinks:\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
@@ -377,8 +389,8 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему \nприложений (https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios)\n и AI бума. Вообщем приложений много, но ими никто не пользуется. Персональный софт выходит.",
       "images": [
-        "https://cdn4.telesco.pe/file/hNcom-PFWioaUcxWS05s0uX_G13vHBg7jz6zKEaMfBvH7BdQ0UctLULZDBta6ZNFy3_N5lSS15t7N9kqwJa0EYA7XZ9ZNF9mXYD-RUR2RkaLwVH9sBXl0rYnrheu1N9JFGUrk4ov6rWxBGhok6cMUztU0p7Xf4JP5rbZcVTgR1u1utn9qY6JriYwTxCzz0nj8Et1fMzsJLATQX4HbIxhJDuevikS2umFLid40prqMWsD-eDgLo8VzAv_9R4BaGOZXwL7CDPJJqcdM6ks7Aav-ihPD-ph99IKKP-rMZ5HGX-cgbMR4olLTqlnXaogzFfOl6zLMJE6B9fyqsRUvMprgQ.jpg",
-        "https://cdn4.telesco.pe/file/FkttFPFQivClrQMf2_xvKGZifaFYLMPs3jilExARpzTgpiYMq_3TDSuREkWFg3lqAvNQewHXP16KBzYqnai8xLZVj7h9T1EGIRdqX2M4QOuaPFrKsx33m7yj4lWEj5e-TIBqKZKR3VFPyjBefgpcWSuGkWbQUlIS7u1zD09ZXKfC14Er17R1bsBoj3nqNClxU8pjmySuT7w3n20o26m3T0oK-f6xM2aJe6WDb0ava3pFa2EZ7LqcoVAAEYXAoED5odYw7ZMKwalgHUdXlOEpJBZ5mS7HCkeBOeZFYKbk3qB-cMf7WVBAzvz-PAOmwEsHBTRA5ZMQfTm2VnlZPsYyIg.jpg"
+        "https://cdn4.telesco.pe/file/dcPTGw7uBygCaHJ727pT9YHk6RXlO4pBnuoBHUIZVWMyyndFF5Zs7_3x2VO-bAa7CLvWS1hkKBETgimD8eq0oPrUGE5wSpulEOyM4r9EHYnF641IvLeaM8jylmqbsBJ6k4d2rrFnu-b8u-fsBVOXXWg03YLQF_Cs6_LK4ZTBP-zK9AyTa-yyQr2M8mvWM8Ru5Gh5dnp-QWMrQ9jKoAA59SVyyWONenOxNYET2GZNoB7-21msfWUsz-oYM1nJ5AiKIfsiTSJnyJvFH7gwTnW7RKpfs9QRwsEPKCiN1-_8d8YFYMGkI2mxPgq1YFfSYs1_WURR5DYg7JJRlZqDrSEJPQ.jpg",
+        "https://cdn4.telesco.pe/file/dRNAnrk6EOmUb-e6llLL9xgYRjbgyqh6nfVbdtxyrIEG9yofC6wVBBCEJcDaVZz2ZdRI912DD3xyLm9DxXpa09mY8rDvjxBOklFkUNpto8Ky_MpYTeoyJ4gNvhTM27pZh06PqCFlrZseMZT-ySsL34HMjTC2FHflucUH_ChUrtLjHP76_KwTGEewiw6We8v27O_BVs5jLAHb-wLJPoAevjd2KnSrE131QHv_cQYfvho4oOdWjYqmsu1EctUro1KxLBeVQAt59KZS5-WspikAzpqqjP0rua0WVfDBLncpzeIZrGxUlBv6tm1f-RaBeSIAW4UWaV4L2RJujeifTKq1cw.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.\n\nLinks:\nhttps://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&utm_medium=ios",
@@ -401,7 +413,7 @@
       "translation_key": "openai:gpt-5.2:pro_editorial_translator_v1",
       "text_ru": "На тему контроля за AI",
       "images": [
-        "https://cdn4.telesco.pe/file/Rg52qHZjC8G8la1EHdbRB9hHVz4MV_stakfd1Q8BFujtwwI0DOyNOf3fwZpsicXjbIse421VU0P9DGkK_xppcYQBMOoS0APuvdWpcrSMsTQrwUyoKN1ZHYOZV0nztnH26iYqzWrrKnQMSwiHi8vg-vr5ZmSVgyE1K0w63TfJTZIi2sI45qR_X3D2DbjPUpCL0QiQ5nrPPR46ZrxAjicwhYyR0AEE6duBrLWwrszTiwpoLxNDzWb0SAi2RiRC9fcMxL2bAv05hDizd9rcAz4a84DT6iidJc21sriMNeZmreQQWDk_jj6OVAxJqoH_xfoKGwkLro744TyiHCMyOrFVUQ.jpg"
+        "https://cdn4.telesco.pe/file/agWQHh0istoWE5EaekDVq2APE5BqmhRjcg5OEujCXcloyFlmeXgkYflWFv__-NbRcVOQXGn8HF44LhH4IdHlrtgoVRm6aecWXI3N3jaTdYGLCK9HjkpltGVls9InbWYfLvT0BLH-S6OXELblUZSVt9SGlEm6HAWjJ7UoEXYYhvggnF5sYAxTV713xGfKlr5cM3CrUvAoT2NT0rclgrobUjQHLGr368nwa0T3g5Y3nFUtJE7UFeVbrDJujIZei1ElAY-qKNFIFSJLaExtdRyz9nSOf2CqNL-NosbDvcYVIB2Lsnr3j66A8ccgoqhygEZPB0iAc9iGfibwx6_UE15KxQ.jpg"
       ],
       "title_en": "",
       "text_en": "On the topic of AI oversight",

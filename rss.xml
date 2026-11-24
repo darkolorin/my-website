@@ -7,6 +7,25 @@
         <language>en</language>
         <atom:link href="https://darkolorin.com/rss.xml" rel="self" type="application/rss+xml" />
         <item>
+            <title>So, here’s a solid list of works I recommend everyone read.</title>
+            <link>https://darkolorin.com/posts/1360.html</link>
+            <guid isPermaLink="true">https://darkolorin.com/posts/1360.html</guid>
+            <pubDate>Tue, 24 Nov 2026 16:43:29 GMT</pubDate>
+            <description>&lt;p&gt;So, here’s a solid list of works I recommend everyone read. Links to them should be, or already are, in pretty much every significant piece by OpenAI etc.&lt;/p&gt;
+&lt;p&gt;1/  &lt;br&gt;
+Grice (&lt;a href="https://web.stanford.edu/class/psych205/papers/Grice-1975.pdf" rel="noopener"&gt;https://web.stanford.edu/class/psych205/papers/Grice-1975.pdf&lt;/a&gt;)  &lt;br&gt;
+about communication&lt;/p&gt;
+&lt;p&gt;2/  &lt;br&gt;
+the magic number 7 (&lt;a href="https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf" rel="noopener"&gt;https://labs.la.utexas.edu/gilden/files/2016/04/MagicNumberSeven-Miller1956.pdf&lt;/a&gt;)  &lt;br&gt;
+about information and how we perceive it&lt;/p&gt;
+&lt;p&gt;3/ not many places have it  &lt;br&gt;
+link (&lt;a href="https://homepages.cwi.nl/~pdg/ftp/mdlintro.pdf" rel="noopener"&gt;https://homepages.cwi.nl/~pdg/ftp/mdlintro.pdf&lt;/a&gt;)  &lt;br&gt;
+but getting familiar with Kolmogorov complexity and the MDL principle is basic&lt;/p&gt;
+&lt;p&gt;4/ recently there was hype that LLMs are the best compressors, so yeah  &lt;br&gt;
+a review (&lt;a href="https://www.greene.sh/compression-and-intelligence/?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site" rel="noopener"&gt;https://www.greene.sh/compression-and-intelligence/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://t.me/chillhousetech/1360?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
             <title>Ok by the guy who proved the Riemann hypothesis</title>
             <link>https://darkolorin.com/posts/1359.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1359.html</guid>
@@ -78,7 +97,7 @@ We’re also trying to use various swarm agent things. But for now it’s more f
             <link>https://darkolorin.com/posts/1353.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1353.html</guid>
             <pubDate>Wed, 11 Nov 2026 18:33:33 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/A_JeLGwwumMlVkOgXE6GzKmdg-3_ldlm5zkRIBcL1oky5X0ks4WtFzPeQSmvllKfKhf_jl4t0IINbNwbekyhzk8kPQYsoyuXQWQrWx0ald2HC5emp8OHD1pWBz2kqNaCamaBMPFk6yQWyflriq0R4qYkLBU3hBEktaBHOg5ZV-PBrd9RO6kUHqTdbKxuOKdTQ2KPxxqpXoRBuARzMvmgVBAvzxrL1urAtlG6_ek6vHk_2lZu3BnN1Qc5RgsE8IHkOEP4A1EK54nfkT45k9I0KHO2_-rJsVFxSAWeBmc4FPvoHsvqyhRKgW9h0oPYFGX-i-yWmObFzb626JoEn0jtIA.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/X_7RKg6uRirnzTT-q0y1XbrB17zaojDaBotnBWJyZ7rHWqKG8yEa6xBC6PGYPH1FtrLm1WOLuetJsH78KsyclbwFvetMMX7RleS4bIrvnTMsyVeb67UVxMcasBMTAeHA3b4hOc-d8UhGTRsrBlNWrefeqSQep-cHatyNhpr-dUtygIB2FpI5zbrPm_2l2nndovemSjdk8zZF7PGeWgKlh6fJEiLdS1BvaJ_C_jFVlURoJ54ZXIXMheUbgTSB3RG5bn_b68EMVmrhr9d-Z-1hTZfYPf-8AMZyBSiJ2r0WhkLMKhugkTSOACN7rhr_4knIMT3YcZ0xr4F1rCugs1Zgjg.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;Another funny eval (&lt;a href="https://goodhartlabs.com/honeybench?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site" rel="noopener"&gt;https://goodhartlabs.com/honeybench&lt;/a&gt;). How often models cheat to get the task done even when the requirements and the result are clearly defined (the lower the bar the better). And yeah, it’s pretty obvious who’s leading here.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1353?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
         </item>
@@ -105,7 +124,7 @@ We’re also trying to use various swarm agent things. But for now it’s more f
             <link>https://darkolorin.com/posts/1350.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1350.html</guid>
             <pubDate>Sat, 07 Nov 2026 15:39:26 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/qPbcCwL9tHWqyNavdcy-pepmdOQgq8ADCAHSdEHjq9QoXVmZ1Hn8hT_sOGVWEGyxwUCDXEGsR7zTcQNXLPy9zUKJ0Er3oiiRVQPp5Gfpo14pZOWjsqHi7u7dmeXwrK_5KjRz4-Z-RGtmzNp9vbAv9sV3MjGp_8zOj8-A31fTnV7NYlCvNmF8gHO-X5GUtdXhjKX9SZrMnWe22L7VOGDNsR6OX_-IfIIp1l5GevE9kPcYrRQA6-7sGaQy9nJeL50xSCsgf7jTprHKexFIPLPum53peusOHfIoN4G8Np1iS5Do6kTz_xVZkSRoeiAm_E_6KiQAsT5lavS8uXb4uLfK1w.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/VLG0W6kw5BxHN8QhSSJfjCTSISEe0zpwgy5yb2b7GdzpGuw-30G0-dJcO_PHBwDmbmpI-MIsthSFADmYCbWJuCssYOWTZYIx788h8WjK7_wKnsU9pEFczilHOSEJTfhREo_c8uARfbIWG2qvMVGOmQXLS2Voez-SqNyY5e8IpIV0THq40POSvsqWXeXpZmwj90hZqjKokJ9sspkieMmXSM90TNP9hDPqR0VCRRzdWVwMPxUa9ho7VJxCzi1Qct8Ilgl7SpD_l1ddfr10pz1N3sXOyKWBYcX-wgLTdiOp1B4qMvp74vH-yRWCj5oS39HkJjTcwIsG43c5DXbXrtG8LA.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;Everything (&lt;a href="https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&amp;amp;s=46&amp;amp;utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site" rel="noopener"&gt;https://x.com/loresjpg/status/2118880329490637049?a=xZfXUzMnLP55I2lmVF8&amp;amp;s=46&lt;/a&gt;)&lt;br&gt;
 you need to know about benches and Chinese models. The gentlemen renamed the little files to lower case and changed a couple of instructions without changing the essence of the task.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1350?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
@@ -199,7 +218,7 @@ Still in an experimental form, but soon it’ll make it to the main branch in a 
             <link>https://darkolorin.com/posts/1343.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1343.html</guid>
             <pubDate>Thu, 08 Oct 2026 22:26:18 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/LqNuyNcGKsHWmerKFaQxmmOa3m-ns8JH85bJ6Y01QgcfrXANBOpkijzJVwPEZmmFJamKlPz93x0v-uUF3WY2wnk4KkL3Rn3ZJvJyEd3-sHdLy2GK7xQhPb0Q7aR_kYNUTUoZvoXfR2ZXxZ4-C8gOH0mfT-yWDm8mkk1ICyE_hqQ0VzrO44IM7hfcXX3FaEay9NRREjRRLEr2b6dAY3t4Zxyhohc9hp0wkTik8vJz_C8d-1Z8v7yuRrmIzESMxCitl-mz5jLPHou2K6EOoMxMo8j0kdtT-Z6jy1rbt8HQrIJGJeKg2AEcDgyGht0tGT5WmONueqYIYgi8_jHVYb3GRw.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/NYLZ_9XzzMVvyHfCo0GcEa-lGNe23vQAzomvhJKDzrHMJXcFGSPbEA6sj6VmDf222_NmNo0UdNvK8xLlR4MhEMq4wO5SSBzX6TYJUgSappa403MmNhuhkAPo991jQ6cVQSKsegIdfAXDLZtfNPjgWGWB2iYRa1eQpy3TYT14U5d0JdLu4zVlcwSGbdyCcKChg2Hh25rHgpnPNGQ47C9-g8VGs7zPFCUSQIO3Y9t8g1xU6OzProXKLImEfQzShX0_lXRPqiBS5yhkxSewQHRAsCD3LX0ndc6-k_H_Zrx1rfg6473Vyz2_z9JNLyzcvMpgPUYqLAmgftxzmdyZ3PVfiA.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;A pretty interesting picture is shaping up&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1343?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
         </item>
@@ -227,7 +246,7 @@ models&lt;/p&gt;
             <link>https://darkolorin.com/posts/1340.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1340.html</guid>
             <pubDate>Wed, 30 Sep 2026 20:38:13 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/nZWygnjofOQ2C6hBf2vYUW0x3KgM1zrf3faeBd0Uo0Z2RhEHZTdDa_EOVXybu2uL-s6OYodPQlnsbBjdH_QcP6eBB-4Rjej1Nz5HcL8sXITNMm_zqemeys_LS7LX1LS6lYzdwhSMJlVFQ8_dEo15Ch7gIZwxlZDN2k31jdW7Nf3qYBt3OErplnE0hV9nSYM_PYClQGre8LiCCjOCFOPVIHFhMNWIwbKrBV5sA-HAKf3gYouhO_Q5F7KQB3WDLaVRUFaVQ54HP3dewHM2HY2-QaK5LLWMXyQp5gGxkU4DwIsQ8LoUe3hqWy-h2MIOisKpuT1bhsIpoH1l-PE9Zm1ayw.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/hQLicQMVur-graQLecPm7nDX0R2xRomjhNY1q4wF77umDTL30ybdBOgNNXD5edeekHrgKKSDuezF3hIOEfYTUF4u_NnVwUZpBv-26P3hZ3NISHlY3yGhf6WNLENNGKph24hal5voh-WsXx-rfCH1Dexlk3Ndl9gi5OC0pcwUk1F93OQUIfsdHEkLtT0yUSfkK_cLFfd0gqkyimSizOgqqF21R_CeKNB53FRrKvpAwDWJB90irlWRoh31EI3jMQWztWV3ydOdMquhWg48uMJNlhJdo1Zw0nurlxS41IyIOl0lg1HRriQrX6dA88jbQ_qy_nK3ys6sUbudu0LSv1Q7IQ.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;Turns out google&lt;br&gt;
 can do&lt;br&gt;
 something. Or it’s just a table with little numbers.&lt;/p&gt;
@@ -271,8 +290,8 @@ you can check what comes out in the video or read about the experiments from the
             <link>https://darkolorin.com/posts/1336.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1336.html</guid>
             <pubDate>Fri, 18 Sep 2026 14:22:56 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/hNcom-PFWioaUcxWS05s0uX_G13vHBg7jz6zKEaMfBvH7BdQ0UctLULZDBta6ZNFy3_N5lSS15t7N9kqwJa0EYA7XZ9ZNF9mXYD-RUR2RkaLwVH9sBXl0rYnrheu1N9JFGUrk4ov6rWxBGhok6cMUztU0p7Xf4JP5rbZcVTgR1u1utn9qY6JriYwTxCzz0nj8Et1fMzsJLATQX4HbIxhJDuevikS2umFLid40prqMWsD-eDgLo8VzAv_9R4BaGOZXwL7CDPJJqcdM6ks7Aav-ihPD-ph99IKKP-rMZ5HGX-cgbMR4olLTqlnXaogzFfOl6zLMJE6B9fyqsRUvMprgQ.jpg" alt="" loading="lazy"&gt;
-&lt;img src="https://cdn4.telesco.pe/file/FkttFPFQivClrQMf2_xvKGZifaFYLMPs3jilExARpzTgpiYMq_3TDSuREkWFg3lqAvNQewHXP16KBzYqnai8xLZVj7h9T1EGIRdqX2M4QOuaPFrKsx33m7yj4lWEj5e-TIBqKZKR3VFPyjBefgpcWSuGkWbQUlIS7u1zD09ZXKfC14Er17R1bsBoj3nqNClxU8pjmySuT7w3n20o26m3T0oK-f6xM2aJe6WDb0ava3pFa2EZ7LqcoVAAEYXAoED5odYw7ZMKwalgHUdXlOEpJBZ5mS7HCkeBOeZFYKbk3qB-cMf7WVBAzvz-PAOmwEsHBTRA5ZMQfTm2VnlZPsYyIg.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/dcPTGw7uBygCaHJ727pT9YHk6RXlO4pBnuoBHUIZVWMyyndFF5Zs7_3x2VO-bAa7CLvWS1hkKBETgimD8eq0oPrUGE5wSpulEOyM4r9EHYnF641IvLeaM8jylmqbsBJ6k4d2rrFnu-b8u-fsBVOXXWg03YLQF_Cs6_LK4ZTBP-zK9AyTa-yyQr2M8mvWM8Ru5Gh5dnp-QWMrQ9jKoAA59SVyyWONenOxNYET2GZNoB7-21msfWUsz-oYM1nJ5AiKIfsiTSJnyJvFH7gwTnW7RKpfs9QRwsEPKCiN1-_8d8YFYMGkI2mxPgq1YFfSYs1_WURR5DYg7JJRlZqDrSEJPQ.jpg" alt="" loading="lazy"&gt;
+&lt;img src="https://cdn4.telesco.pe/file/dRNAnrk6EOmUb-e6llLL9xgYRjbgyqh6nfVbdtxyrIEG9yofC6wVBBCEJcDaVZz2ZdRI912DD3xyLm9DxXpa09mY8rDvjxBOklFkUNpto8Ky_MpYTeoyJ4gNvhTM27pZh06PqCFlrZseMZT-ySsL34HMjTC2FHflucUH_ChUrtLjHP76_KwTGEewiw6We8v27O_BVs5jLAHb-wLJPoAevjd2KnSrE131QHv_cQYfvho4oOdWjYqmsu1EctUro1KxLBeVQAt59KZS5-WspikAzpqqjP0rua0WVfDBLncpzeIZrGxUlBv6tm1f-RaBeSIAW4UWaV4L2RJujeifTKq1cw.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;On the topic of apps and the AI boom. Basically there are tons of apps, but nobody uses them. Personal software is coming out.&lt;/p&gt;
 &lt;p&gt;Links:&lt;br&gt;
 &lt;a href="https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&amp;amp;utm_medium=ios" rel="noopener"&gt;https://open.substack.com/pub/a16z/p/charts-of-the-week-so-many-apps-so?r=3p9xs&amp;amp;utm_medium=ios&lt;/a&gt;&lt;/p&gt;
@@ -283,7 +302,7 @@ you can check what comes out in the video or read about the experiments from the
             <link>https://darkolorin.com/posts/1335.html</link>
             <guid isPermaLink="true">https://darkolorin.com/posts/1335.html</guid>
             <pubDate>Tue, 15 Sep 2026 14:36:30 GMT</pubDate>
-            <description>&lt;img src="https://cdn4.telesco.pe/file/Rg52qHZjC8G8la1EHdbRB9hHVz4MV_stakfd1Q8BFujtwwI0DOyNOf3fwZpsicXjbIse421VU0P9DGkK_xppcYQBMOoS0APuvdWpcrSMsTQrwUyoKN1ZHYOZV0nztnH26iYqzWrrKnQMSwiHi8vg-vr5ZmSVgyE1K0w63TfJTZIi2sI45qR_X3D2DbjPUpCL0QiQ5nrPPR46ZrxAjicwhYyR0AEE6duBrLWwrszTiwpoLxNDzWb0SAi2RiRC9fcMxL2bAv05hDizd9rcAz4a84DT6iidJc21sriMNeZmreQQWDk_jj6OVAxJqoH_xfoKGwkLro744TyiHCMyOrFVUQ.jpg" alt="" loading="lazy"&gt;
+            <description>&lt;img src="https://cdn4.telesco.pe/file/agWQHh0istoWE5EaekDVq2APE5BqmhRjcg5OEujCXcloyFlmeXgkYflWFv__-NbRcVOQXGn8HF44LhH4IdHlrtgoVRm6aecWXI3N3jaTdYGLCK9HjkpltGVls9InbWYfLvT0BLH-S6OXELblUZSVt9SGlEm6HAWjJ7UoEXYYhvggnF5sYAxTV713xGfKlr5cM3CrUvAoT2NT0rclgrobUjQHLGr368nwa0T3g5Y3nFUtJE7UFeVbrDJujIZei1ElAY-qKNFIFSJLaExtdRyz9nSOf2CqNL-NosbDvcYVIB2Lsnr3j66A8ccgoqhygEZPB0iAc9iGfibwx6_UE15KxQ.jpg" alt="" loading="lazy"&gt;
 &lt;p&gt;On the topic of AI oversight&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://t.me/chillhousetech/1335?utm_source=darkolorin.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=personal_site"&gt;Original on Telegram&lt;/a&gt;&lt;/p&gt;</description>
         </item>
